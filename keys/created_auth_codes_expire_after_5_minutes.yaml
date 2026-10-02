@@ -23,7 +23,7 @@ localizations:
   pt: "Códigos de autenticação criados expiram após 5 minutos"
   pt-BR: "Códigos de autenticação criados expiram após 5 minutos"
   pt-PT: "Códigos de autenticação criados expiram após 5 minutos"
-  ru: "Созданные коды авторизации истекают через 5 минут"
+  ru: "Созданные коды аутентификации истекают через 5 минут"
   sv: "Skapade autentiseringskoder upphör efter 5 minuter"
   sw: "Nambari za uthibitishaji zilizoundwa zinaisha baada ya dakika 5"
   th: "รหัสยืนยันตัวตนที่สร้างขึ้นจะหมดอายุหลังจาก 5 นาที"

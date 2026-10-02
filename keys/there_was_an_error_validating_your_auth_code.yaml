@@ -24,7 +24,7 @@ localizations:
   pt: "Ocorreu um erro ao validar o seu código de autenticação. Tente novamente ou gere um novo."
   pt-BR: "Ocorreu um erro ao validar seu código de autenticação. Tente novamente ou gere um novo."
   pt-PT: "Ocorreu um erro ao validar o seu código de autenticação. Tente novamente ou gere um novo."
-  ru: "Ошибка при проверке вашего кода авторизации. Пожалуйста, попробуйте снова или сгенерируйте новый."
+  ru: "Ошибка при проверке вашего кода аутентификации. Пожалуйста, попробуйте снова или сгенерируйте новый."
   sv: "Det uppstod ett fel när din autentiseringskod validerades. Försök igen eller generera en ny."
   sw: "Hitilafu imetokea wakati wa kuthibitisha nambari yako ya uthibitishaji. Tafadhali jaribu tena au tengeneza mpya"
   th: "เกิดข้อผิดพลาดในการตรวจสอบรหัสยืนยันของคุณ โปรดลองอีกครั้งหรือสร้างรหัสใหม่"

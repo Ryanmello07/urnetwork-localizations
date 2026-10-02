@@ -34,7 +34,7 @@ localizations:
   pt: "Concordo com os {terms_start}Termos e Serviços{terms_end} e a {privacy_start}Política de Privacidade{privacy_end} da URnetwork"
   pt-BR: "Concordo com os {terms_start}Termos e Serviços{terms_end} e a {privacy_start}Política de Privacidade{privacy_end} da URnetwork"
   pt-PT: "Concordo com os {terms_start}Termos e Serviços{terms_end} e a {privacy_start}Política de Privacidade{privacy_end} da URnetwork"
-  ru: "Я принимаю {terms_start}Условия и Услуги{terms_end} и {privacy_start}Политику конфиденциальности{privacy_end} URnetwork"
+  ru: "Я принимаю {terms_start}Условия обслуживания{terms_end} и {privacy_start}Политику конфиденциальности{privacy_end} URnetwork"
   sv: "Jag godkänner URnetworks {terms_start}Villkor och Tjänster{terms_end} och {privacy_start}Integritetspolicy{privacy_end}"
   sw: "Nakubali {terms_start}Vigezo na Huduma{terms_end} na {privacy_start}Sera ya Faragha{privacy_end} ya URnetwork"
   th: "ฉันยอมรับ{terms_start}ข้อกำหนดและบริการ{terms_end}และ{privacy_start}นโยบายความเป็นส่วนตัว{privacy_end}ของ URnetwork"
