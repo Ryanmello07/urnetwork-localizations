@@ -3,6 +3,8 @@ source: "You're in guest mode"
 platforms:
   - android
   - windows
+deprecated:
+  - windows
 localizations:
   ar: "أنت في وضع الضيف"
   cs: "Jste v režimu pro hosty"

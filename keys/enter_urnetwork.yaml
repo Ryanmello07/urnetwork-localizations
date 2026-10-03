@@ -3,6 +3,8 @@ source: "Enter URnetwork"
 platforms:
   - apple
   - windows
+deprecated:
+  - windows
 localizations:
   ar: "أدخل URnetwork"
   cs: "Vkročte do URnetwork"

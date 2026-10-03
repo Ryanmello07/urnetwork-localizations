@@ -2,6 +2,8 @@ description: "Guest-mode sheet explainer: what guest mode is and that a full acc
 source: "Try URnetwork without creating an account. You can upgrade to a full account at any time."
 platforms:
   - windows
+deprecated:
+  - windows
 localizations:
   ar: "جرب URnetwork دون إنشاء حساب. يمكنك الترقية إلى حساب كامل في أي وقت."
   cs: "Vyzkoušejte URnetwork bez vytváření účtu. Na plný účet můžete přejít kdykoli."

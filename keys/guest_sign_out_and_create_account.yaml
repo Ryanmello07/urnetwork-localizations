@@ -1,0 +1,12 @@
+description: "Guest sign-out confirmation (desktop): the button that signs out of a legacy guest network so the user can create an account. Guest networks can no longer be upgraded in place."
+source: "Sign out and create an account"
+platforms:
+  - linux
+  - windows
+localizations:
+  ar: "تسجيل الخروج وإنشاء حساب"
+  de: "Abmelden und ein Konto erstellen"
+  en: "Sign out and create an account"
+  es: "Cerrar sesión y crear una cuenta"
+  ru: "Выйти и создать аккаунт"
+  zh: "退出登录并创建账户"
