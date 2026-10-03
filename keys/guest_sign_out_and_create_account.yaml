@@ -3,6 +3,9 @@ source: "Sign out and create an account"
 platforms:
   - linux
   - windows
+deprecated:
+  - linux
+  - windows
 localizations:
   ar: "تسجيل الخروج وإنشاء حساب"
   de: "Abmelden und ein Konto erstellen"

@@ -3,6 +3,9 @@ source: "To create an account, sign out of this guest network first. Its balance
 platforms:
   - linux
   - windows
+deprecated:
+  - linux
+  - windows
 localizations:
   ar: "لإنشاء حساب، سجّل الخروج من شبكة الضيف هذه أولًا. يبقى رصيدها في شبكة الضيف ولا يُنقل إلى حسابك الجديد. لا تملك شبكة الضيف وسيلة لتسجيل الدخول، لذا لن تتمكن من العودة إليها بعد تسجيل الخروج."
   de: "Um ein Konto zu erstellen, melde dich zuerst von diesem Gastnetzwerk ab. Sein Guthaben bleibt im Gastnetzwerk und wird nicht auf dein neues Konto übertragen. Ein Gastnetzwerk hat keine Anmeldedaten, daher kannst du dich nach dem Abmelden nicht wieder dort anmelden."

@@ -4,6 +4,8 @@ source: "Sign-in method added successfully"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تمت إضافة طريقة تسجيل الدخول بنجاح"
   cs: "Způsob přihlášení byl úspěšně přidán"
