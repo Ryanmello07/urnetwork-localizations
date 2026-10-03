@@ -1,0 +1,8 @@
+description: "Seeker/Saga token multiplier: what a verified token gives. It doubles points and the free daily data and referral data grants; it does not grant Pro."
+source: "Doubles your points, free daily data and referral data."
+platforms:
+  - android
+  - windows
+  - linux
+localizations:
+  en: "Doubles your points, free daily data and referral data."
