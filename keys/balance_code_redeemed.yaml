@@ -1,6 +1,9 @@
 description: "Confirmation shown after a balance code is redeemed."
 source: "Balance code redeemed."
 platforms:
+  - android
+  - apple
+  - linux
   - windows
 localizations:
   ar: "تم استخدام رمز الرصيد."
