@@ -2,8 +2,6 @@ description: "Note on the Seeker verification action."
 source: "The Seeker multiplier applies to points only."
 platforms:
   - apple
-  - windows
-  - linux
   - site
 localizations:
   ar: "ينطبق مضاعف Seeker على النقاط فقط."
