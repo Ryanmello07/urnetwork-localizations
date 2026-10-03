@@ -5,6 +5,7 @@ platforms:
   - apple
   - windows
   - linux
+  - web
 localizations:
   ar: "حدث خطأ أثناء إرسال رمز التحقق."
   cs: "Při odesílání ověřovacího kódu došlo k chybě."
