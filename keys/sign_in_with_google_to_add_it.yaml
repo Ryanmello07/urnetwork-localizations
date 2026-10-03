@@ -2,6 +2,7 @@ description: "A description of how to sign in with Google."
 description_auto: true
 source: "Sign in with Google to add it as a sign-in method."
 platforms:
+  - android
   - apple
 localizations:
   ar: "سجّل الدخول باستخدام Google لإضافته كطريقة لتسجيل الدخول."

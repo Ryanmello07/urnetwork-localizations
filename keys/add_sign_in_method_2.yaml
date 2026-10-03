@@ -2,6 +2,7 @@ description: "Button text for adding a sign-in method."
 description_auto: true
 source: "Add Sign-In Method"
 platforms:
+  - android
   - apple
 localizations:
   ar: "إضافة طريقة تسجيل الدخول"
