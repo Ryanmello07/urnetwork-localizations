@@ -1,0 +1,105 @@
+description: "Password reset: the server refused to send a new password reset link because of too many recent attempts. The argument is the number of minutes until a new link can be requested."
+source: "Too many attempts. You can request a new reset link in %lld minutes."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - web
+placeholders:
+  - name: minutes
+    type: int
+plurals:
+  select: minutes
+localizations:
+  ar:
+    zero: "محاولات كثيرة جدًا. يمكنك طلب رابط إعادة تعيين جديد بعد {minutes} دقيقة."
+    one: "محاولات كثيرة جدًا. يمكنك طلب رابط إعادة تعيين جديد بعد دقيقة واحدة."
+    two: "محاولات كثيرة جدًا. يمكنك طلب رابط إعادة تعيين جديد بعد دقيقتين."
+    few: "محاولات كثيرة جدًا. يمكنك طلب رابط إعادة تعيين جديد بعد {minutes} دقائق."
+    many: "محاولات كثيرة جدًا. يمكنك طلب رابط إعادة تعيين جديد بعد {minutes} دقيقة."
+    other: "محاولات كثيرة جدًا. يمكنك طلب رابط إعادة تعيين جديد بعد {minutes} دقيقة."
+  cs:
+    one: "Příliš mnoho pokusů. Nový odkaz pro obnovení si můžete vyžádat za {minutes} minutu."
+    few: "Příliš mnoho pokusů. Nový odkaz pro obnovení si můžete vyžádat za {minutes} minuty."
+    many: "Příliš mnoho pokusů. Nový odkaz pro obnovení si můžete vyžádat za {minutes} minuty."
+    other: "Příliš mnoho pokusů. Nový odkaz pro obnovení si můžete vyžádat za {minutes} minut."
+  de:
+    one: "Zu viele Versuche. Du kannst in {minutes} Minute einen neuen Link zum Zurücksetzen anfordern."
+    other: "Zu viele Versuche. Du kannst in {minutes} Minuten einen neuen Link zum Zurücksetzen anfordern."
+  el:
+    one: "Πάρα πολλές προσπάθειες. Μπορείτε να ζητήσετε νέο σύνδεσμο επαναφοράς σε {minutes} λεπτό."
+    other: "Πάρα πολλές προσπάθειες. Μπορείτε να ζητήσετε νέο σύνδεσμο επαναφοράς σε {minutes} λεπτά."
+  en:
+    one: "Too many attempts. You can request a new reset link in {minutes} minute."
+    other: "Too many attempts. You can request a new reset link in {minutes} minutes."
+  es:
+    one: "Demasiados intentos. Puedes solicitar un nuevo enlace de restablecimiento en {minutes} minuto."
+    other: "Demasiados intentos. Puedes solicitar un nuevo enlace de restablecimiento en {minutes} minutos."
+  es-419:
+    one: "Demasiados intentos. Puedes solicitar un nuevo enlace de restablecimiento en {minutes} minuto."
+    other: "Demasiados intentos. Puedes solicitar un nuevo enlace de restablecimiento en {minutes} minutos."
+  es-MX:
+    one: "Demasiados intentos. Puedes solicitar un nuevo enlace de restablecimiento en {minutes} minuto."
+    other: "Demasiados intentos. Puedes solicitar un nuevo enlace de restablecimiento en {minutes} minutos."
+  fr:
+    one: "Trop de tentatives. Vous pourrez demander un nouveau lien de réinitialisation dans {minutes} minute."
+    other: "Trop de tentatives. Vous pourrez demander un nouveau lien de réinitialisation dans {minutes} minutes."
+  he:
+    one: "יותר מדי ניסיונות. אפשר לבקש קישור איפוס חדש בעוד דקה."
+    two: "יותר מדי ניסיונות. אפשר לבקש קישור איפוס חדש בעוד שתי דקות."
+    many: "יותר מדי ניסיונות. אפשר לבקש קישור איפוס חדש בעוד {minutes} דקות."
+    other: "יותר מדי ניסיונות. אפשר לבקש קישור איפוס חדש בעוד {minutes} דקות."
+  hi:
+    one: "बहुत अधिक प्रयास। आप {minutes} मिनट में नया रीसेट लिंक मांग सकते हैं।"
+    other: "बहुत अधिक प्रयास। आप {minutes} मिनट में नया रीसेट लिंक मांग सकते हैं।"
+  id:
+    other: "Terlalu banyak percobaan. Anda dapat meminta tautan atur ulang baru dalam {minutes} menit."
+  it:
+    one: "Troppi tentativi. Potrai richiedere un nuovo link di reimpostazione tra {minutes} minuto."
+    other: "Troppi tentativi. Potrai richiedere un nuovo link di reimpostazione tra {minutes} minuti."
+  ja:
+    other: "試行回数が多すぎます。{minutes} 分後に新しいリセット用リンクをリクエストできます。"
+  ko:
+    other: "시도 횟수가 너무 많습니다. {minutes}분 후에 새 재설정 링크를 요청할 수 있습니다."
+  nl:
+    one: "Te veel pogingen. Je kunt over {minutes} minuut een nieuwe herstellink aanvragen."
+    other: "Te veel pogingen. Je kunt over {minutes} minuten een nieuwe herstellink aanvragen."
+  pl:
+    one: "Zbyt wiele prób. Nowy link do resetowania możesz poprosić za {minutes} minutę."
+    few: "Zbyt wiele prób. Nowy link do resetowania możesz poprosić za {minutes} minuty."
+    many: "Zbyt wiele prób. Nowy link do resetowania możesz poprosić za {minutes} minut."
+    other: "Zbyt wiele prób. Nowy link do resetowania możesz poprosić za {minutes} minuty."
+  pt:
+    one: "Muitas tentativas. Você pode solicitar um novo link de redefinição em {minutes} minuto."
+    other: "Muitas tentativas. Você pode solicitar um novo link de redefinição em {minutes} minutos."
+  pt-BR:
+    one: "Muitas tentativas. Você pode solicitar um novo link de redefinição em {minutes} minuto."
+    other: "Muitas tentativas. Você pode solicitar um novo link de redefinição em {minutes} minutos."
+  pt-PT:
+    one: "Demasiadas tentativas. Pode pedir uma nova ligação de reposição dentro de {minutes} minuto."
+    other: "Demasiadas tentativas. Pode pedir uma nova ligação de reposição dentro de {minutes} minutos."
+  ru:
+    one: "Слишком много попыток. Новую ссылку для сброса можно запросить через {minutes} минуту."
+    few: "Слишком много попыток. Новую ссылку для сброса можно запросить через {minutes} минуты."
+    many: "Слишком много попыток. Новую ссылку для сброса можно запросить через {minutes} минут."
+    other: "Слишком много попыток. Новую ссылку для сброса можно запросить через {minutes} минуты."
+  sv:
+    one: "För många försök. Du kan begära en ny återställningslänk om {minutes} minut."
+    other: "För många försök. Du kan begära en ny återställningslänk om {minutes} minuter."
+  sw:
+    one: "Majaribio mengi mno. Unaweza kuomba kiungo kipya cha kuweka upya baada ya dakika {minutes}."
+    other: "Majaribio mengi mno. Unaweza kuomba kiungo kipya cha kuweka upya baada ya dakika {minutes}."
+  th:
+    other: "พยายามหลายครั้งเกินไป คุณสามารถขอลิงก์รีเซ็ตใหม่ได้ในอีก {minutes} นาที"
+  uk:
+    one: "Забагато спроб. Нове посилання для скидання можна запросити через {minutes} хвилину."
+    few: "Забагато спроб. Нове посилання для скидання можна запросити через {minutes} хвилини."
+    many: "Забагато спроб. Нове посилання для скидання можна запросити через {minutes} хвилин."
+    other: "Забагато спроб. Нове посилання для скидання можна запросити через {minutes} хвилини."
+  vi:
+    other: "Quá nhiều lần thử. Bạn có thể yêu cầu liên kết đặt lại mới sau {minutes} phút."
+  zh:
+    other: "尝试次数过多。{minutes} 分钟后可以重新获取重置链接。"
+  zh-HK:
+    other: "嘗試次數過多。{minutes} 分鐘後可以重新取得重設連結。"
