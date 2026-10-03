@@ -1,0 +1,9 @@
+description: "Blocked locations: unblocking a location failed, so it is back in the list. The argument is the location name."
+source: "Couldn't unblock %1$s. Please try again."
+platforms:
+  - android
+placeholders:
+  - name: location
+    type: string
+localizations:
+  en: "Couldn't unblock {location}. Please try again."

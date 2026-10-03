@@ -1,0 +1,9 @@
+description: "Blocked locations: blocking a location failed. The argument is the location name."
+source: "Couldn't block %1$s. Please try again."
+platforms:
+  - android
+placeholders:
+  - name: location
+    type: string
+localizations:
+  en: "Couldn't block {location}. Please try again."
