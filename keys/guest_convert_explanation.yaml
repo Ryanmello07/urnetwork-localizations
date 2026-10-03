@@ -1,0 +1,12 @@
+description: "Desktop: the first step of \"Create an account\" on a legacy guest network. The user adds an email and a password to the network they are on now, so they can sign in to it again; its plan and balance stay with it (nothing moves to a new account)."
+source: "Add an email and a password to sign in to this network. Its plan and balance stay with it."
+platforms:
+  - linux
+  - windows
+localizations:
+  ar: "أضف بريدًا إلكترونيًا وكلمة مرور لتسجيل الدخول إلى هذه الشبكة. تبقى خطتها ورصيدها معها."
+  de: "Füge eine E-Mail-Adresse und ein Passwort hinzu, um dich bei diesem Netzwerk anzumelden. Sein Tarif und sein Guthaben bleiben erhalten."
+  en: "Add an email and a password to sign in to this network. Its plan and balance stay with it."
+  es: "Añade un correo electrónico y una contraseña para iniciar sesión en esta red. Su plan y su saldo se quedan con ella."
+  ru: "Добавьте адрес электронной почты и пароль, чтобы входить в эту сеть. Её тариф и баланс сохранятся."
+  zh: "添加电子邮件和密码即可登录此网络。其套餐和余额都会保留。"
