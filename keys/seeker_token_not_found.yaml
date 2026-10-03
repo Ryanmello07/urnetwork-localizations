@@ -2,8 +2,36 @@ description: "Seeker token verification: the wallet holds no Seeker or Saga toke
 source: "No Seeker or Saga token found in wallet …%1$s"
 platforms:
   - android
+  - windows
 placeholders:
   - name: wallet
     type: string
 localizations:
+  ar: "لم يُعثر على رمز Seeker أو Saga في المحفظة …{wallet}"
+  cs: "V peněžence …{wallet} nebyl nalezen žádný token Seeker ani Saga"
+  de: "Kein Seeker- oder Saga-Token in der Wallet …{wallet} gefunden"
+  el: "Δεν βρέθηκε token Seeker ή Saga στο πορτοφόλι …{wallet}"
   en: "No Seeker or Saga token found in wallet …{wallet}"
+  es: "No se encontró ningún token Seeker o Saga en la billetera …{wallet}"
+  es-419: "No se encontró ningún token Seeker o Saga en la billetera …{wallet}"
+  es-MX: "No se encontró ningún token Seeker o Saga en la billetera …{wallet}"
+  fr: "Aucun jeton Seeker ou Saga trouvé dans le portefeuille …{wallet}"
+  he: "לא נמצא אסימון Seeker או Saga בארנק …{wallet}"
+  hi: "वॉलेट …{wallet} में कोई Seeker या Saga टोकन नहीं मिला"
+  id: "Tidak ada token Seeker atau Saga di dompet …{wallet}"
+  it: "Nessun token Seeker o Saga trovato nel wallet …{wallet}"
+  ja: "ウォレット …{wallet} に Seeker または Saga トークンが見つかりません"
+  ko: "지갑 …{wallet}에서 Seeker 또는 Saga 토큰을 찾을 수 없습니다"
+  nl: "Geen Seeker- of Saga-token gevonden in wallet …{wallet}"
+  pl: "Nie znaleziono tokena Seeker ani Saga w portfelu …{wallet}"
+  pt: "Nenhum token Seeker ou Saga encontrado na carteira …{wallet}"
+  pt-BR: "Nenhum token Seeker ou Saga encontrado na carteira …{wallet}"
+  pt-PT: "Nenhum token Seeker ou Saga encontrado na carteira …{wallet}"
+  ru: "В кошельке …{wallet} не найден токен Seeker или Saga"
+  sv: "Ingen Seeker- eller Saga-token hittades i plånboken …{wallet}"
+  sw: "Hakuna tokeni ya Seeker au Saga iliyopatikana kwenye pochi …{wallet}"
+  th: "ไม่พบโทเค็น Seeker หรือ Saga ในวอลเล็ต …{wallet}"
+  uk: "У гаманці …{wallet} не знайдено токен Seeker або Saga"
+  vi: "Không tìm thấy token Seeker hoặc Saga trong ví …{wallet}"
+  zh: "在钱包 …{wallet} 中未找到 Seeker 或 Saga 代币"
+  zh-HK: "在錢包 …{wallet} 中找不到 Seeker 或 Saga 代幣"
