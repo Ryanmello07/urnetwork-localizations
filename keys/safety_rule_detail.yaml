@@ -1,0 +1,14 @@
+description: "Explains a split-rule activity row that URnetwork safety rules kept off the network, and how a local split rule can use it outside the VPN."
+source: "URnetwork safety rules keep this traffic off the network, for example an encrypted protocol it cannot recognize. A local split rule sends it outside the VPN from your own IP."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "تُبقي قواعد أمان URnetwork حركة المرور هذه خارج الشبكة، مثل بروتوكول مشفّر لا يمكنها التعرف عليه. تُرسلها قاعدة تقسيم محلية خارج VPN من عنوان IP الخاص بك."
+  de: "Die Sicherheitsregeln von URnetwork halten diesen Datenverkehr aus dem Netzwerk heraus, zum Beispiel ein verschlüsseltes Protokoll, das sie nicht erkennen. Eine lokale Split-Regel sendet ihn außerhalb des VPN über deine eigene IP."
+  en: "URnetwork safety rules keep this traffic off the network, for example an encrypted protocol it cannot recognize. A local split rule sends it outside the VPN from your own IP."
+  es: "Las reglas de seguridad de URnetwork mantienen este tráfico fuera de la red, por ejemplo un protocolo cifrado que no pueden reconocer. Una regla de división local lo envía fuera de la VPN desde tu propia IP."
+  ru: "Правила безопасности URnetwork не пропускают этот трафик в сеть, например зашифрованный протокол, который они не могут распознать. Локальное правило разделения отправит его в обход VPN с вашего собственного IP."
+  zh: "URnetwork 安全规则会将此流量挡在网络之外，例如它无法识别的加密协议。本地分流规则会通过您自己的 IP 在 VPN 之外发送它。"

@@ -1,0 +1,14 @@
+description: "A short label on a blocked or locally routed split-rule activity row whose traffic URnetwork safety rules kept off the network."
+source: "Safety rule"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "قاعدة أمان"
+  de: "Sicherheitsregel"
+  en: "Safety rule"
+  es: "Regla de seguridad"
+  ru: "Правило безопасности"
+  zh: "安全规则"
