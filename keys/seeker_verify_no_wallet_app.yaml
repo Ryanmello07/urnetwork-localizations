@@ -1,0 +1,6 @@
+description: "Seeker token verification: no Solana wallet app is installed to sign the verification message."
+source: "No Solana wallet app was found on this device."
+platforms:
+  - android
+localizations:
+  en: "No Solana wallet app was found on this device."

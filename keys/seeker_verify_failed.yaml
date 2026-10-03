@@ -1,0 +1,6 @@
+description: "Seeker token verification failed (wallet app error or the server could not be reached)."
+source: "Couldn't verify the Seeker token. Please try again."
+platforms:
+  - android
+localizations:
+  en: "Couldn't verify the Seeker token. Please try again."
