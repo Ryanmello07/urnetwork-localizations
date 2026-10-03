@@ -2,6 +2,8 @@ description: "Used in Authenticate/CreateNetwork/CreateNetworkViewModel.swift."
 source: "There was an error checking the network name"
 platforms:
   - apple
+  - windows
+  - linux
 localizations:
   ar: "حدث خطأ أثناء التحقق من اسم الشبكة"
   cs: "Při kontrole názvu sítě došlo k chybě"
