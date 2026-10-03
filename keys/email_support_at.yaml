@@ -1,0 +1,6 @@
+description: "Settings: label before the support email address link."
+source: "Email support at"
+platforms:
+  - android
+localizations:
+  en: "Email support at"

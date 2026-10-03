@@ -1,0 +1,11 @@
+description: "Feedback screen: support contacts. The first argument is the support email address, the second is the name of the community chat (Discord); both are links."
+source: "Send us your feedback directly, email us at %1$s, or join our %2$s for direct support."
+platforms:
+  - android
+placeholders:
+  - name: email
+    type: string
+  - name: community
+    type: string
+localizations:
+  en: "Send us your feedback directly, email us at {email}, or join our {community} for direct support."

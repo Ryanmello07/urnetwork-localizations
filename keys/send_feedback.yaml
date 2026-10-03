@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "Send us your feedback directly or join our %1$s for direct support."
-platforms:
+deprecated:
   - android
+platforms: []
 placeholders:
   - name: community
     type: string
