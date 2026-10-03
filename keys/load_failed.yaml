@@ -2,5 +2,7 @@ description: "A section (points, wallet, referral code) could not be loaded. Sho
 source: "Couldn't load. Check your connection and try again."
 platforms:
   - android
+  - windows
+  - linux
 localizations:
   en: "Couldn't load. Check your connection and try again."
