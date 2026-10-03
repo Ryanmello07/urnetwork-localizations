@@ -1,0 +1,15 @@
+description: "Redeem balance code: confirmation of the data a redeemed code added to the network's balance (amount is a formatted byte count, e.g. \"5.00 GiB\"). A balance code is data only: never a plan or Pro upgrade."
+source: "%@ of data added to your balance."
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  ar: "تمت إضافة {amount} من البيانات إلى رصيدك."
+  de: "{amount} Daten wurden deinem Guthaben hinzugefügt."
+  en: "{amount} of data added to your balance."
+  es: "Se añadieron {amount} de datos a tu saldo."
+  ru: "На ваш баланс добавлено {amount} данных."
+  zh: "已向您的余额添加 {amount} 数据。"
