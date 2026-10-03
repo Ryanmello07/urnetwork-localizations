@@ -1,0 +1,37 @@
+description: "DNS settings: label of the opt-in toggle (off by default) that answers DNS over the host's local network while the tunnel's DNS starts. Also the status row label in the connect drawer DNS summary."
+source: "Fast DNS on connect"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+  - site
+localizations:
+  ar: "DNS سريع عند الاتصال"
+  cs: "Rychlé DNS při připojení"
+  de: "Schnelles DNS beim Verbinden"
+  el: "Γρήγορο DNS κατά τη σύνδεση"
+  en: "Fast DNS on connect"
+  es: "DNS rápido al conectar"
+  es-419: "DNS rápido al conectar"
+  es-MX: "DNS rápido al conectar"
+  fr: "DNS rapide à la connexion"
+  he: "DNS מהיר בעת התחברות"
+  hi: "कनेक्ट करते समय तेज़ DNS"
+  id: "DNS cepat saat terhubung"
+  it: "DNS veloce alla connessione"
+  ja: "接続時の高速DNS"
+  ko: "연결 시 빠른 DNS"
+  nl: "Snelle DNS bij verbinden"
+  pl: "Szybki DNS przy łączeniu"
+  pt: "DNS rápido ao ligar"
+  pt-BR: "DNS rápido ao conectar"
+  pt-PT: "DNS rápido ao ligar"
+  ru: "Быстрый DNS при подключении"
+  sv: "Snabb DNS vid anslutning"
+  sw: "DNS ya haraka wakati wa kuunganisha"
+  th: "DNS ที่รวดเร็วขณะเชื่อมต่อ"
+  uk: "Швидкий DNS під час підключення"
+  vi: "DNS nhanh khi kết nối"
+  zh: "连接时快速 DNS"
+  zh-HK: "連接時快速 DNS"

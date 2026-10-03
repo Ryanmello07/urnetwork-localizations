@@ -1,8 +1,10 @@
 description: "A label displayed in the custom dns settings section."
 description_auto: true
 source: "Local DNS fallback"
+deprecated:
+  - apple
+  - linux
 platforms:
-  - android
   - apple
   - linux
 localizations:

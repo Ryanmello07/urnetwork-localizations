@@ -1,8 +1,10 @@
 description: "A description of the local DNS fallback setting."
 description_auto: true
 source: "Races a local resolver while the tunnel starts. When off, DNS only resolves through the tunnel."
+deprecated:
+  - apple
+  - linux
 platforms:
-  - android
   - apple
   - linux
 localizations:
