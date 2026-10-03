@@ -1,0 +1,11 @@
+description: "Shown once when the check for a Solana Pay payment (started when the app returns from the wallet) has run 20 seconds without the payment landing. The check keeps going for up to two minutes; the app cannot know whether the wallet actually sent anything, so do not say the payment was received."
+source: "Still checking for your Solana payment. Confirmation on the network can take a minute or two."
+platforms:
+  - android
+localizations:
+  ar: "لا نزال نتحقق من دفعتك عبر Solana. قد يستغرق التأكيد على الشبكة دقيقة أو دقيقتين."
+  de: "Wir prüfen deine Solana-Zahlung noch. Die Bestätigung im Netzwerk kann ein bis zwei Minuten dauern."
+  en: "Still checking for your Solana payment. Confirmation on the network can take a minute or two."
+  es: "Seguimos comprobando tu pago de Solana. La confirmación en la red puede tardar uno o dos minutos."
+  ru: "Всё ещё проверяем ваш платёж в Solana. Подтверждение в сети может занять минуту-две."
+  zh: "仍在检查您的 Solana 付款。网络确认可能需要一两分钟。"
