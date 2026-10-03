@@ -2,5 +2,7 @@ description: "Settings: label before the support email address link."
 source: "Email support at"
 platforms:
   - android
+  - windows
+  - linux
 localizations:
   en: "Email support at"
