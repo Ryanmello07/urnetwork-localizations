@@ -2,6 +2,8 @@ description: "App connect DNS: fallback toggle"
 source: "Fast fallback during startup"
 platforms:
   - site
+deprecated:
+  - site
 localizations:
   ar: "احتياطي سريع أثناء بدء التشغيل"
   de: "Schneller Fallback beim Start"
