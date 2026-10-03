@@ -1,8 +1,14 @@
-description: "A section (points, wallet, referral code) could not be loaded. Shown in place of the loading spinner, next to a Try again button."
+description: "A section (points, wallet, referral code, epoch history, payout wallet) could not be loaded. Shown in place of the loading spinner or the section's data, next to a Try again (Retry on apple) button."
 source: "Couldn't load. Check your connection and try again."
 platforms:
   - android
+  - apple
   - windows
   - linux
 localizations:
+  ar: "تعذّر التحميل. تحقّق من اتصالك وحاول مرة أخرى."
+  de: "Laden fehlgeschlagen. Überprüfe deine Verbindung und versuche es erneut."
   en: "Couldn't load. Check your connection and try again."
+  es: "No se pudo cargar. Revisa tu conexión y vuelve a intentarlo."
+  ru: "Не удалось загрузить. Проверьте подключение и повторите попытку."
+  zh: "无法加载。请检查网络连接后重试。"
