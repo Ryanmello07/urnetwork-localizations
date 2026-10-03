@@ -1,0 +1,9 @@
+description: "Alert body shown in the app and in a local notification when the account enters the insufficient balance state. Connect stays requested and the VPN keeps holding traffic (nothing leaves outside the tunnel); the user can upgrade or disconnect."
+source: "Your traffic is held in the tunnel until you upgrade or disconnect."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Your traffic is held in the tunnel until you upgrade or disconnect."
