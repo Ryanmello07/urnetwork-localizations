@@ -1,6 +1,7 @@
 description: "Used in Authenticate/LoginInitial/UrGoogleSignInButton.swift."
 source: "Sign in with Google"
 platforms:
+  - android
   - apple
   - windows
   - linux

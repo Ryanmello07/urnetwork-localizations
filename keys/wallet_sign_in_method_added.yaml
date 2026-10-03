@@ -2,6 +2,7 @@ description: "Snackbar message displayed when a wallet sign-in method is success
 description_auto: true
 source: "Wallet sign-in method added"
 platforms:
+  - android
   - apple
 localizations:
   ar: "تمت إضافة طريقة تسجيل الدخول عبر المحفظة"

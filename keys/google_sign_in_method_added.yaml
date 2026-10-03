@@ -2,6 +2,7 @@ description: "Snackbar message displayed when a Google sign-in method is success
 description_auto: true
 source: "Google sign-in method added"
 platforms:
+  - android
   - apple
 localizations:
   ar: "تمت إضافة طريقة تسجيل الدخول عبر Google"

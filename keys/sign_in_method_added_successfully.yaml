@@ -2,6 +2,7 @@ description: "Snackbar message displayed when a sign-in method is successfully a
 description_auto: true
 source: "Sign-in method added successfully"
 platforms:
+  - android
   - apple
 localizations:
   ar: "تمت إضافة طريقة تسجيل الدخول بنجاح"
