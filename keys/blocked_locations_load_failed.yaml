@@ -1,0 +1,6 @@
+description: "Blocked locations: the list could not be loaded."
+source: "Couldn't load your blocked locations. Pull down to try again."
+platforms:
+  - android
+localizations:
+  en: "Couldn't load your blocked locations. Pull down to try again."
