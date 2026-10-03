@@ -1,0 +1,14 @@
+description: "Call to action on a split-rule activity row blocked by URnetwork safety rules: create a local split rule for its hosts."
+source: "Route locally"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "توجيه محلي"
+  de: "Lokal leiten"
+  en: "Route locally"
+  es: "Enrutar localmente"
+  ru: "Направить локально"
+  zh: "本地路由"
