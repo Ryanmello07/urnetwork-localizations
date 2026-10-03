@@ -1,6 +1,7 @@
-description: "Snackbar shown after the verification code is resent. Used in Authenticate/CreateNetworkVerify/CreateNetworkVerifyView.swift."
+description: "Snackbar (apple) / toast (android) shown after the verification code is resent. Used in Authenticate/CreateNetworkVerify/CreateNetworkVerifyView.swift and android LoginVerify.kt."
 source: "Verification code sent."
 platforms:
+  - android
   - apple
 localizations:
   ar: "تم إرسال رمز التحقق."
