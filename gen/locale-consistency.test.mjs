@@ -66,20 +66,20 @@ test("Russian addresses the reader as вы, never ты", () => {
 	assert.deepEqual(offenders((s) => ty.test(s)), []);
 });
 
-test("Russian keeps one term per product concept", () => {
-	// auth code is код аутентификации (as on every login screen), not авторизации
-	assert.deepEqual(offenders((s) => /код\S* авторизации/i.test(s)), [], "код авторизации");
-	// points are очки; балл is reserved for the Top 200 score
-	assert.deepEqual(
-		offenders((s, k) => /балл/i.test(s) && /\bpoints?\b/i.test(english(k))),
-		[],
-		"баллы for points",
-	);
-	// Terms and Services is Условия обслуживания, as in the other consent strings
+// one term per product concept
+
+test("Russian says код аутентификации for auth code, as on every login screen", () => {
+	assert.deepEqual(offenders((s) => /код\S* авторизации/i.test(s)), []);
+});
+
+test("Russian says очки for points; балл is reserved for the Top 200 score", () => {
+	assert.deepEqual(offenders((s, k) => /балл/i.test(s) && /\bpoints?\b/i.test(english(k))), []);
+});
+
+test("Russian says Условия обслуживания for Terms and Services, as the other consent strings do", () => {
 	assert.deepEqual(
 		offenders((s, k) => /Terms and Services/.test(english(k)) && !/Услови\S* обслуживания/.test(s)),
 		[],
-		"Terms and Services",
 	);
 });
 
