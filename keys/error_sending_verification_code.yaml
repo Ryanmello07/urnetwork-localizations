@@ -1,7 +1,9 @@
-description: "Inline error on the verify page when resending the verification code fails. Matches the apple CreateNetworkVerifyView literal."
+description: "Inline error on the verify page when the verification code could not be sent (after sign-in, sign-up or resend). Matches the apple CreateNetworkVerifyView literal."
 source: "There was an error sending the verification code."
 platforms:
+  - android
   - apple
+  - windows
   - linux
 localizations:
   ar: "حدث خطأ أثناء إرسال رمز التحقق."

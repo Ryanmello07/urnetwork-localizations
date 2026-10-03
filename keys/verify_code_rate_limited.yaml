@@ -1,0 +1,104 @@
+description: "Verify screen: the server refused to send a new verification code because of too many recent attempts. The argument is the number of minutes until a new code can be requested."
+source: "Too many attempts. You can request a new code in %lld minutes."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: minutes
+    type: int
+plurals:
+  select: minutes
+localizations:
+  ar:
+    zero: "محاولات كثيرة جدًا. يمكنك طلب رمز جديد بعد {minutes} دقيقة."
+    one: "محاولات كثيرة جدًا. يمكنك طلب رمز جديد بعد دقيقة واحدة."
+    two: "محاولات كثيرة جدًا. يمكنك طلب رمز جديد بعد دقيقتين."
+    few: "محاولات كثيرة جدًا. يمكنك طلب رمز جديد بعد {minutes} دقائق."
+    many: "محاولات كثيرة جدًا. يمكنك طلب رمز جديد بعد {minutes} دقيقة."
+    other: "محاولات كثيرة جدًا. يمكنك طلب رمز جديد بعد {minutes} دقيقة."
+  cs:
+    one: "Příliš mnoho pokusů. Nový kód si můžete vyžádat za {minutes} minutu."
+    few: "Příliš mnoho pokusů. Nový kód si můžete vyžádat za {minutes} minuty."
+    many: "Příliš mnoho pokusů. Nový kód si můžete vyžádat za {minutes} minuty."
+    other: "Příliš mnoho pokusů. Nový kód si můžete vyžádat za {minutes} minut."
+  de:
+    one: "Zu viele Versuche. Du kannst in {minutes} Minute einen neuen Code anfordern."
+    other: "Zu viele Versuche. Du kannst in {minutes} Minuten einen neuen Code anfordern."
+  el:
+    one: "Πάρα πολλές προσπάθειες. Μπορείτε να ζητήσετε νέο κωδικό σε {minutes} λεπτό."
+    other: "Πάρα πολλές προσπάθειες. Μπορείτε να ζητήσετε νέο κωδικό σε {minutes} λεπτά."
+  en:
+    one: "Too many attempts. You can request a new code in {minutes} minute."
+    other: "Too many attempts. You can request a new code in {minutes} minutes."
+  es:
+    one: "Demasiados intentos. Puedes solicitar un código nuevo en {minutes} minuto."
+    other: "Demasiados intentos. Puedes solicitar un código nuevo en {minutes} minutos."
+  es-419:
+    one: "Demasiados intentos. Puedes solicitar un código nuevo en {minutes} minuto."
+    other: "Demasiados intentos. Puedes solicitar un código nuevo en {minutes} minutos."
+  es-MX:
+    one: "Demasiados intentos. Puedes solicitar un código nuevo en {minutes} minuto."
+    other: "Demasiados intentos. Puedes solicitar un código nuevo en {minutes} minutos."
+  fr:
+    one: "Trop de tentatives. Vous pourrez demander un nouveau code dans {minutes} minute."
+    other: "Trop de tentatives. Vous pourrez demander un nouveau code dans {minutes} minutes."
+  he:
+    one: "יותר מדי ניסיונות. אפשר לבקש קוד חדש בעוד דקה."
+    two: "יותר מדי ניסיונות. אפשר לבקש קוד חדש בעוד שתי דקות."
+    many: "יותר מדי ניסיונות. אפשר לבקש קוד חדש בעוד {minutes} דקות."
+    other: "יותר מדי ניסיונות. אפשר לבקש קוד חדש בעוד {minutes} דקות."
+  hi:
+    one: "बहुत अधिक प्रयास। आप {minutes} मिनट में नया कोड मांग सकते हैं।"
+    other: "बहुत अधिक प्रयास। आप {minutes} मिनट में नया कोड मांग सकते हैं।"
+  id:
+    other: "Terlalu banyak percobaan. Anda dapat meminta kode baru dalam {minutes} menit."
+  it:
+    one: "Troppi tentativi. Potrai richiedere un nuovo codice tra {minutes} minuto."
+    other: "Troppi tentativi. Potrai richiedere un nuovo codice tra {minutes} minuti."
+  ja:
+    other: "試行回数が多すぎます。{minutes} 分後に新しいコードをリクエストできます。"
+  ko:
+    other: "시도 횟수가 너무 많습니다. {minutes}분 후에 새 코드를 요청할 수 있습니다."
+  nl:
+    one: "Te veel pogingen. Je kunt over {minutes} minuut een nieuwe code aanvragen."
+    other: "Te veel pogingen. Je kunt over {minutes} minuten een nieuwe code aanvragen."
+  pl:
+    one: "Zbyt wiele prób. Nowy kod możesz poprosić za {minutes} minutę."
+    few: "Zbyt wiele prób. Nowy kod możesz poprosić za {minutes} minuty."
+    many: "Zbyt wiele prób. Nowy kod możesz poprosić za {minutes} minut."
+    other: "Zbyt wiele prób. Nowy kod możesz poprosić za {minutes} minuty."
+  pt:
+    one: "Muitas tentativas. Você pode solicitar um novo código em {minutes} minuto."
+    other: "Muitas tentativas. Você pode solicitar um novo código em {minutes} minutos."
+  pt-BR:
+    one: "Muitas tentativas. Você pode solicitar um novo código em {minutes} minuto."
+    other: "Muitas tentativas. Você pode solicitar um novo código em {minutes} minutos."
+  pt-PT:
+    one: "Demasiadas tentativas. Pode pedir um novo código dentro de {minutes} minuto."
+    other: "Demasiadas tentativas. Pode pedir um novo código dentro de {minutes} minutos."
+  ru:
+    one: "Слишком много попыток. Новый код можно запросить через {minutes} минуту."
+    few: "Слишком много попыток. Новый код можно запросить через {minutes} минуты."
+    many: "Слишком много попыток. Новый код можно запросить через {minutes} минут."
+    other: "Слишком много попыток. Новый код можно запросить через {minutes} минуты."
+  sv:
+    one: "För många försök. Du kan begära en ny kod om {minutes} minut."
+    other: "För många försök. Du kan begära en ny kod om {minutes} minuter."
+  sw:
+    one: "Majaribio mengi mno. Unaweza kuomba msimbo mpya baada ya dakika {minutes}."
+    other: "Majaribio mengi mno. Unaweza kuomba msimbo mpya baada ya dakika {minutes}."
+  th:
+    other: "พยายามหลายครั้งเกินไป คุณสามารถขอรหัสใหม่ได้ในอีก {minutes} นาที"
+  uk:
+    one: "Забагато спроб. Новий код можна запросити через {minutes} хвилину."
+    few: "Забагато спроб. Новий код можна запросити через {minutes} хвилини."
+    many: "Забагато спроб. Новий код можна запросити через {minutes} хвилин."
+    other: "Забагато спроб. Новий код можна запросити через {minutes} хвилини."
+  vi:
+    other: "Quá nhiều lần thử. Bạn có thể yêu cầu mã mới sau {minutes} phút."
+  zh:
+    other: "尝试次数过多。{minutes} 分钟后可以重新获取验证码。"
+  zh-HK:
+    other: "嘗試次數過多。{minutes} 分鐘後可以重新取得驗證碼。"
