@@ -2,6 +2,8 @@ description: "Redeem balance code: the server answered that this code was alread
 source: "This balance code has already been redeemed. If you redeemed it earlier, the data is already on your balance."
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "تم استرداد رمز الرصيد هذا بالفعل. إذا كنت قد استرددته سابقًا، فالبيانات موجودة بالفعل في رصيدك."
   de: "Dieser Guthabencode wurde bereits eingelöst. Wenn du ihn schon früher eingelöst hast, sind die Daten bereits in deinem Guthaben."
