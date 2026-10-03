@@ -1,0 +1,6 @@
+description: "Feedback screen: the feedback could not be sent. The text stays in the field so the user can send it again."
+source: "Your feedback wasn't sent. Check your connection and try again."
+platforms:
+  - android
+localizations:
+  en: "Your feedback wasn't sent. Check your connection and try again."
