@@ -1,0 +1,6 @@
+description: "A section (points, wallet, referral code) could not be loaded. Shown in place of the loading spinner, next to a Try again button."
+source: "Couldn't load. Check your connection and try again."
+platforms:
+  - android
+localizations:
+  en: "Couldn't load. Check your connection and try again."
