@@ -3,6 +3,8 @@ source: "Try guest mode"
 platforms:
   - apple
   - windows
+deprecated:
+  - windows
 localizations:
   ar: "جرب وضع الضيف"
   cs: "Vyzkoušejte režim hosta"

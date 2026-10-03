@@ -3,6 +3,8 @@ source: "To start earning, join the network"
 platforms:
   - android
   - windows
+deprecated:
+  - windows
 localizations:
   ar: "للبدء في الربح، انضم إلى الشبكة"
   cs: "Chcete-li začít vydělávat, připojte se k síti"

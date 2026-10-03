@@ -2,6 +2,7 @@ description: "Used in Main/Account/AccountRootView.swift."
 source: "Create an account"
 platforms:
   - apple
+  - linux
   - windows
 localizations:
   ar: "إنشاء حساب"

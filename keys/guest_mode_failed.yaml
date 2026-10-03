@@ -3,6 +3,9 @@ source: "Guest mode failed"
 platforms:
   - linux
   - windows
+deprecated:
+  - linux
+  - windows
 localizations:
   ar: "فشل وضع الضيف"
   cs: "Režim hosta se nezdařil"
