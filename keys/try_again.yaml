@@ -3,6 +3,8 @@ source: "Try again"
 platforms:
   - android
   - site
+  - windows
+  - linux
 localizations:
   ar: "حاول مرة أخرى"
   cs: "Zkusit znovu"
