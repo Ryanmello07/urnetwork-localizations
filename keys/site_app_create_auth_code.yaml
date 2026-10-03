@@ -7,5 +7,5 @@ localizations:
   de: "Auth-Code erstellen"
   en: "Create auth code"
   es: "Crear código de autenticación"
-  ru: "Создать код авторизации"
+  ru: "Создать код аутентификации"
   zh: "创建授权码"

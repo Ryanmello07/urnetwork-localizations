@@ -26,7 +26,7 @@ localizations:
   pl: "+{amount} GiB/dzień"
   pt-BR: "+{amount} GiB/dia"
   pt-PT: "+{amount} GiB/dia"
-  ru: "+{amount} ГиБ/день"
+  ru: "+{amount} GiB/день"
   sv: "+{amount} GiB/dag"
   th: "+{amount} GiB/วัน"
   uk: "+{amount} ГіБ/день"

@@ -26,7 +26,7 @@ localizations:
   pt: "Ao desvincular a sua rede de referências, deixará de poder ganhar pontos de {network_name}."
   pt-BR: "Ao desvincular sua rede de indicações, você não poderá mais ganhar pontos de {network_name}."
   pt-PT: "Ao desvincular a sua rede de recomendações, deixará de poder ganhar pontos de {network_name}."
-  ru: "При отключении вашей реферальной сети вы больше не сможете получать баллы от {network_name}."
+  ru: "При отключении вашей реферальной сети вы больше не сможете получать очки от {network_name}."
   sv: "När du kopplar från ditt referensnätverk kan du inte längre tjäna poäng från {network_name}."
   sw: "Unapotenganisha mtandao wako wa rufaa, hutaweza tena kupata pointi kutoka {network_name}."
   th: "เมื่อยกเลิกการเชื่อมโยงเครือข่ายผู้อ้างอิงของคุณ คุณจะไม่สามารถรับคะแนนจาก {network_name} ได้อีกต่อไป"
