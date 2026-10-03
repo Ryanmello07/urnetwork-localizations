@@ -1,0 +1,6 @@
+description: "Feedback screen: label of the Send button while the feedback is being sent."
+source: "Sending…"
+platforms:
+  - android
+localizations:
+  en: "Sending…"
