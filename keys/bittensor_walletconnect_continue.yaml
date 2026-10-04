@@ -1,0 +1,15 @@
+description: "Shown while the browser is open on the WalletConnect page: the user scans the code or opens their wallet app there."
+source: "Continue in your browser: scan the code with your wallet app, or open the wallet on this device."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تابع في متصفحك: امسح الرمز باستخدام تطبيق محفظتك، أو افتح المحفظة على هذا الجهاز."
+  de: "Fahre in deinem Browser fort: Scanne den Code mit deiner Wallet-App oder öffne die Wallet auf diesem Gerät."
+  en: "Continue in your browser: scan the code with your wallet app, or open the wallet on this device."
+  es: "Continúa en tu navegador: escanea el código con la app de tu billetera o abre la billetera en este dispositivo."
+  ru: "Продолжите в браузере: отсканируйте код приложением кошелька или откройте кошелек на этом устройстве."
+  zh: "请在浏览器中继续：用钱包应用扫描二维码，或在此设备上打开钱包。"
