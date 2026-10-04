@@ -1,0 +1,15 @@
+description: "Label above the challenge message the user signs in their Bittensor wallet."
+source: "Message to sign"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "الرسالة المطلوب توقيعها"
+  de: "Zu signierende Nachricht"
+  en: "Message to sign"
+  es: "Mensaje para firmar"
+  ru: "Сообщение для подписи"
+  zh: "待签名消息"

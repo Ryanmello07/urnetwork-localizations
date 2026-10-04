@@ -2,6 +2,10 @@ description: "Placeholder of the manual Bittensor address field on the Earnings 
 source: "Enter a Bittensor address"
 platforms:
   - windows
+  - android
+  - apple
+  - linux
+  - site
 localizations:
   ar: "أدخل عنوان Bittensor"
   de: "Bittensor-Adresse eingeben"

@@ -1,0 +1,15 @@
+description: "Label of the field where the user pastes the Bittensor wallet signature."
+source: "Signature"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "التوقيع"
+  de: "Signatur"
+  en: "Signature"
+  es: "Firma"
+  ru: "Подпись"
+  zh: "签名"

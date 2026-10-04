@@ -1,0 +1,18 @@
+description: "Error: the wallet's browser extension is not installed in this browser. The argument is the wallet product name (Talisman)."
+source: "The %@ extension was not found in this browser. Install it, then try again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: wallet
+    type: string
+localizations:
+  ar: "لم يتم العثور على إضافة {wallet} في هذا المتصفح. ثبّتها ثم حاول مرة أخرى."
+  de: "Die {wallet}-Erweiterung wurde in diesem Browser nicht gefunden. Installiere sie und versuche es dann erneut."
+  en: "The {wallet} extension was not found in this browser. Install it, then try again."
+  es: "No se encontró la extensión de {wallet} en este navegador. Instálala y vuelve a intentarlo."
+  ru: "Расширение {wallet} не найдено в этом браузере. Установите его и повторите попытку."
+  zh: "在此浏览器中未找到 {wallet} 扩展。请安装后重试。"

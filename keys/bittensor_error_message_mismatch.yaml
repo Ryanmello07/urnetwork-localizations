@@ -1,0 +1,15 @@
+description: "Error: the wallet returned a signature over a different challenge than the one issued."
+source: "The wallet signed a different request. Start again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "وقّعت المحفظة طلبًا مختلفًا. ابدأ من جديد."
+  de: "Die Wallet hat eine andere Anfrage signiert. Starte erneut."
+  en: "The wallet signed a different request. Start again."
+  es: "La billetera firmó una solicitud diferente. Empieza de nuevo."
+  ru: "Кошелек подписал другой запрос. Начните заново."
+  zh: "钱包签署了另一个请求。请重新开始。"

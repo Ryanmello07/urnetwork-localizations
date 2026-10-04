@@ -1,0 +1,18 @@
+description: "Manual Bittensor wallet proof: how to sign the shown challenge message. The argument is the wallet product name (Talisman or TAO.com)."
+source: "Sign this message with the %@ wallet that holds your coldkey, then paste the address and the signature below."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: wallet
+    type: string
+localizations:
+  ar: "وقّع هذه الرسالة باستخدام محفظة {wallet} التي تملك مفتاحك البارد (coldkey)، ثم الصق العنوان والتوقيع أدناه."
+  de: "Signiere diese Nachricht mit der {wallet}-Wallet, die deinen Coldkey enthält, und füge dann unten die Adresse und die Signatur ein."
+  en: "Sign this message with the {wallet} wallet that holds your coldkey, then paste the address and the signature below."
+  es: "Firma este mensaje con la billetera {wallet} que contiene tu coldkey y luego pega abajo la dirección y la firma."
+  ru: "Подпишите это сообщение в кошельке {wallet}, где хранится ваш coldkey, затем вставьте ниже адрес и подпись."
+  zh: "请使用持有您 coldkey 的 {wallet} 钱包签署此消息，然后在下方粘贴地址和签名。"
