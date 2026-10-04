@@ -28,7 +28,7 @@ localizations:
   pt: "Sabe-se que as regras de segurança mais fortes não funcionam em {country}. Existem definições de DNS recomendadas, menos seguras, que funcionam melhor."
   pt-BR: "Sabe-se que as regras de segurança mais fortes não funcionam em {country}. Existem configurações de DNS recomendadas, menos seguras, que funcionam melhor."
   pt-PT: "Sabe-se que as regras de segurança mais fortes não funcionam em {country}. Existem definições de DNS recomendadas, menos seguras, que funcionam melhor."
-  ru: "Известно, что самые строгие правила безопасности не работают в {country}. Есть менее безопасные рекомендованные настройки DNS, которые работают лучше."
+  ru: "{country}: известно, что здесь самые строгие правила безопасности не работают. Есть менее безопасные рекомендуемые настройки DNS, которые работают лучше."
   sv: "De starkaste säkerhetsreglerna fungerar inte i {country}. Det finns rekommenderade DNS-inställningar som är mindre säkra men fungerar bättre."
   sw: "Inajulikana kuwa sheria kali zaidi za usalama hazifanyi kazi katika {country}. Kuna mipangilio ya DNS inayopendekezwa, yenye usalama kidogo, inayofanya kazi vizuri zaidi."
   th: "เป็นที่ทราบกันว่ากฎความปลอดภัยที่เข้มงวดที่สุดใช้งานไม่ได้ใน {country} มีการตั้งค่า DNS ที่แนะนำซึ่งปลอดภัยน้อยกว่าแต่ใช้งานได้ดีกว่า"

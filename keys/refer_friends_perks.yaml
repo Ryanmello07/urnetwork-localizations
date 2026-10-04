@@ -30,7 +30,7 @@ localizations:
   sv: "Du får +{amount} GiB/dag för alltid"
   sw: "Unapata +{amount} GiB/siku maisha yote"
   th: "คุณได้รับ +{amount} GiB/วันตลอดชีวิต"
-  uk: "Ви отримуєте +{amount} ГіБ/день назавжди"
+  uk: "Ви отримуєте +{amount} GiB/день назавжди"
   vi: "Bạn nhận được +{amount} GiB/ngày trọn đời"
   zh: "你获得 +{amount} GiB/天，终身享有"
   zh-HK: "你獲得 +{amount} GiB/日，永久有效"

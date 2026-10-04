@@ -30,7 +30,7 @@ localizations:
   sv: "Din vän får +{amount} GiB/dag för alltid"
   sw: "Rafiki yako anapata +{amount} GiB/siku maisha yote"
   th: "เพื่อนของคุณได้รับ +{amount} GiB/วันตลอดชีวิต"
-  uk: "Ваш друг отримує +{amount} ГіБ/день назавжди"
+  uk: "Ваш друг отримує +{amount} GiB/день назавжди"
   vi: "Bạn của bạn nhận được +{amount} GiB/ngày trọn đời"
   zh: "你的朋友获得 +{amount} GiB/天，终身享有"
   zh-HK: "你的朋友獲得 +{amount} GiB/日，永久有效"

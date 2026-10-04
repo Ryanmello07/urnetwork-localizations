@@ -29,7 +29,7 @@ localizations:
   ru: "+{amount} GiB/день"
   sv: "+{amount} GiB/dag"
   th: "+{amount} GiB/วัน"
-  uk: "+{amount} ГіБ/день"
+  uk: "+{amount} GiB/день"
   vi: "+{amount} GiB/ngày"
   zh: "+{amount} GiB/天"
   zh-HK: "+{amount} GiB/日"

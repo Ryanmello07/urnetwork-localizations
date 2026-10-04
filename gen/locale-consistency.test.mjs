@@ -9,7 +9,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { loadStore } from "./store.mjs";
+import { isDead, loadStore } from "./store.mjs";
 
 const keys = loadStore();
 
@@ -61,6 +61,14 @@ test("Russian writes data units as GiB/TiB, as the apps and ur.io do", () => {
 	assert.deepEqual(offenders((s) => /[КМГТ]иБ/.test(s)), []);
 });
 
+test("Ukrainian writes data units as GiB/TiB, as the apps and ur.io do", () => {
+	const ukrainian = keys.filter((k) => k.localizations.uk != null);
+	assert.deepEqual(
+		ukrainian.filter((k) => texts(k.localizations.uk).some((s) => /[КМГТ][іи]Б/.test(s))).map((k) => k.id),
+		[],
+	);
+});
+
 test("Russian addresses the reader as вы, never ты", () => {
 	const ty = /(^|[^а-яё])(ты|тебя|тебе|тобой|твой|твоя|твоё|твое|твои|твоих|твоим|твоей|твоего)(?![а-яё])/i;
 	assert.deepEqual(offenders((s) => ty.test(s)), []);
@@ -85,13 +93,74 @@ test("Russian says Условия обслуживания for Terms and Service
 
 test("a Russian label starts with a capital where the English one does", () => {
 	// catches a translation cut down to a trailing fragment ("надёжности" for
-	// "Reliability Weight"); strings that open with a placeholder are skipped
+	// "Reliability Weight"); strings that open with a placeholder are skipped.
+	// The reverse is allowed: a lowercase English fragment may lead a Russian
+	// sentence ("this region" is "Этот регион" in "{country}: …").
 	const up = (c) => c !== c.toLowerCase();
 	assert.deepEqual(
 		offenders((s, k) => {
 			const en = english(k);
-			return /^\p{L}/u.test(en) && /^\p{L}/u.test(s) && up(en[0]) !== up(s[0]);
+			return /^\p{L}/u.test(en) && /^\p{L}/u.test(s) && up(en[0]) && !up(s[0]);
 		}),
 		[],
 	);
+});
+
+test("Russian says пригласить for refer a friend, as the referral panel does", () => {
+	assert.deepEqual(offenders((s, k) => /\brefer/i.test(english(k)) && /рекоменд/i.test(s)), []);
+});
+
+test("Russian says предоставление for providing, in the apps and the ur.io panel alike", () => {
+	assert.deepEqual(offenders((s) => /разда(ч|в|ё|е|ю)/i.test(s)), []);
+});
+
+test("Russian says логи for logs, never журнал", () => {
+	assert.deepEqual(offenders((s, k) => /\blog(s|\b)(?! in)/i.test(english(k)) && /журнал/i.test(s)), []);
+});
+
+test("Russian says отвязать/отвязка for unlink, never отключить", () => {
+	assert.deepEqual(
+		offenders((s, k) => /unlink/i.test(english(k)) && (!/отвяз/i.test(s) || /отключ/i.test(s))),
+		[],
+	);
+});
+
+test("Russian keeps an inserted country name in the nominative", () => {
+	// the apps insert the country's display name (or "this region") as is, so
+	// "для {country}" reads "для Россия"; the strings lead with "{country}: …"
+	assert.deepEqual(
+		offenders((s, k) => k.placeholders.some((p) => p.name === "country") && /(^|\s)(для|в|во|из|по)\s+\{country\}/i.test(s)),
+		[],
+	);
+});
+
+test("Russian abbreviates макс. with a period", () => {
+	assert.deepEqual(offenders((s) => /(^|[^а-яё])макс(?![а-яё.])/i.test(s)), []);
+});
+
+// A count followed by a noun needs the noun's plural form for that count
+// ("1 месяц", "3 месяца", "5 месяцев"), so the key must be a plural key. The
+// onboarding mail (platform `email`) is rendered into Brevo templates, which
+// have no plural selection, and is left out.
+const COUNTED_NOUN =
+	/^(?:[а-яё]+(?:ых|их|ыми|ими|ым|им)\s+)?(?:месяц|дн[еяи]|день|дней|слов|провайдер|устройств|друз|друг(?:[аи])?(?![а-яё])|минут|час|секунд|недел|год|лет|эпох|контракт)/i;
+// fixed counts at their only call site
+const FIXED_COUNT = {
+	site_usdc_offer_term: "always 12 months plus 14 days (UpgradeSheet.jsx), both the many form",
+};
+
+test("a Russian count is followed by its noun only in a plural key", () => {
+	const wrong = [];
+	for (const k of russian) {
+		if (k.plurals || isDead(k) || !k.platforms.length || FIXED_COUNT[k.id]) continue;
+		if (k.platforms.every((p) => p === "email")) continue;
+		const counted = k.placeholders
+			.filter((p) => p.type === "int" || /^(count|days|months|minutes|hours|seconds)$/.test(p.name))
+			.map((p) => p.name);
+		for (const name of counted) {
+			for (const m of k.localizations.ru.matchAll(new RegExp(`\\{${name}\\}\\s+(\\S.*)`, "g")))
+				if (COUNTED_NOUN.test(m[1])) wrong.push(`${k.id}: ${k.localizations.ru}`);
+		}
+	}
+	assert.deepEqual(wrong, []);
 });

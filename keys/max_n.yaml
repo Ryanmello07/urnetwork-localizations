@@ -27,7 +27,7 @@ localizations:
   pt: "máx {amount}"
   pt-BR: "máx {amount}"
   pt-PT: "máx {amount}"
-  ru: "макс {amount}"
+  ru: "макс. {amount}"
   sv: "max {amount}"
   sw: "kiwango cha juu {amount}"
   th: "สูงสุด {amount}"

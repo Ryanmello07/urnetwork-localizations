@@ -32,7 +32,7 @@ localizations:
   sv: "+{amount} GiB/dag"
   sw: "+{amount} GiB/siku"
   th: "+{amount} GiB/วัน"
-  uk: "+{amount} ГіБ/день"
+  uk: "+{amount} GiB/день"
   vi: "+{amount} GiB/ngày"
   zh: "+{amount} GiB/天"
   zh-HK: "+{amount} GiB/日"

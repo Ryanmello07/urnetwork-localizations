@@ -26,7 +26,7 @@ localizations:
   pt: "{network_name} está pronto para conectar"
   pt-BR: "{network_name} está pronto para conectar"
   pt-PT: "{network_name} está pronto para conectar"
-  ru: "{network_name} готово к подключению"
+  ru: "Сеть {network_name} готова к подключению"
   sv: "{network_name} är redo att ansluta"
   sw: "{network_name} iko tayari kuunganisha"
   th: "เครือข่าย {network_name} พร้อมให้เชื่อมต่อแล้ว"

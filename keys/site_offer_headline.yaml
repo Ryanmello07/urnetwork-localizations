@@ -4,11 +4,30 @@ platforms:
 - site
 placeholders:
 - name: months
-  type: string
+  type: int
+plurals:
+  select: months
 localizations:
-  ar: '{months} أشهر من Pro مجانًا'
-  de: '{months} Monate Pro, gratis'
-  en: '{months} months of Pro, free'
-  es: '{months} meses de Pro, gratis'
-  ru: '{months} месяца Pro бесплатно'
-  zh: '{months} 个月 Pro，免费'
+  ar:
+    zero: "{months} شهر من Pro مجانًا"
+    one: "شهر واحد من Pro مجانًا"
+    two: "شهران من Pro مجانًا"
+    few: "{months} أشهر من Pro مجانًا"
+    many: "{months} شهرًا من Pro مجانًا"
+    other: "{months} شهر من Pro مجانًا"
+  de:
+    one: "{months} Monat Pro, gratis"
+    other: "{months} Monate Pro, gratis"
+  en:
+    one: "{months} month of Pro, free"
+    other: "{months} months of Pro, free"
+  es:
+    one: "{months} mes de Pro, gratis"
+    other: "{months} meses de Pro, gratis"
+  ru:
+    one: "{months} месяц Pro бесплатно"
+    few: "{months} месяца Pro бесплатно"
+    many: "{months} месяцев Pro бесплатно"
+    other: "{months} месяцев Pro бесплатно"
+  zh:
+    other: "{months} 个月 Pro，免费"

@@ -25,7 +25,7 @@ localizations:
   pt: "Ligar e desligar de novo o Kill switch pede ao serviço que o remova; se isso não funcionar, remova-o com: {command}"
   pt-BR: "Ligar e desligar de novo o Kill switch pede ao serviço que o remova; se isso não funcionar, remova-o com: {command}"
   pt-PT: "Ligar e voltar a desligar o Kill switch pede ao serviço que o remova; se isso não resultar, remova-o com: {command}"
-  ru: "Включение и повторное выключение Kill switch попросит службу снять её; если это не помогло, снимите её командой: {command}"
+  ru: "Если включить и снова выключить Kill switch, служба получит запрос снять блокировку; если это не помогло, снимите её командой: {command}"
   sv: "Att slå på Kill switch och sedan av igen ber tjänsten ta bort den; om det inte fungerar, ta bort den med: {command}"
   sw: "Kuwasha Kill switch kisha kuizima tena huiomba huduma ikiondoe; ikiwa hilo halifanyi kazi, kiondoe kwa: {command}"
   th: "การเปิดสวิตช์หยุดการเชื่อมต่อแล้วปิดอีกครั้งจะขอให้บริการลบออก หากไม่ได้ผล ให้ลบออกด้วยคำสั่ง: {command}"

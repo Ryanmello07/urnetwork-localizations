@@ -23,7 +23,7 @@ localizations:
   pt: "Renova a {date}"
   pt-BR: "Renova em {date}"
   pt-PT: "Renova a {date}"
-  ru: "Продлится {date}"
+  ru: "Продление {date}"
   sv: "Förnyas {date}"
   sw: "Itasasishwa {date}"
   th: "ต่ออายุในวันที่ {date}"

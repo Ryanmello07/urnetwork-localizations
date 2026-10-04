@@ -4,11 +4,30 @@ platforms:
 - site
 placeholders:
 - name: months
-  type: string
+  type: int
+plurals:
+  select: months
 localizations:
-  ar: ابدأ التجربة المجانية مع {months} أشهر مجانًا
-  de: Kostenlos testen mit {months} Gratismonaten
-  en: Start free trial with {months} months free
-  es: Empieza la prueba gratis con {months} meses gratis
-  ru: Начать пробный период с {months} бесплатными месяцами
-  zh: 开始免费试用，享 {months} 个月免费
+  ar:
+    zero: "ابدأ التجربة المجانية مع {months} شهر مجانًا"
+    one: "ابدأ التجربة المجانية مع شهر واحد مجانًا"
+    two: "ابدأ التجربة المجانية مع شهرين مجانًا"
+    few: "ابدأ التجربة المجانية مع {months} أشهر مجانًا"
+    many: "ابدأ التجربة المجانية مع {months} شهرًا مجانًا"
+    other: "ابدأ التجربة المجانية مع {months} شهر مجانًا"
+  de:
+    one: "Kostenlos testen mit {months} Gratismonat"
+    other: "Kostenlos testen mit {months} Gratismonaten"
+  en:
+    one: "Start free trial with {months} month free"
+    other: "Start free trial with {months} months free"
+  es:
+    one: "Empieza la prueba gratis con {months} mes gratis"
+    other: "Empieza la prueba gratis con {months} meses gratis"
+  ru:
+    one: "Начать пробный период с {months} бесплатным месяцем"
+    few: "Начать пробный период с {months} бесплатными месяцами"
+    many: "Начать пробный период с {months} бесплатными месяцами"
+    other: "Начать пробный период с {months} бесплатными месяцами"
+  zh:
+    other: "开始免费试用，享 {months} 个月免费"
