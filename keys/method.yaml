@@ -4,6 +4,9 @@ source: "Method"
 platforms:
   - apple
   - site
+  - android
+  - windows
+  - linux
 localizations:
   ar: "الطريقة"
   cs: "Způsob"

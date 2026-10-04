@@ -1,0 +1,36 @@
+description: "Add sign-in method sheet: the Bittensor wallet option's explanation (Talisman, WalletConnect, or a pasted signature)."
+source: "Connect a Bittensor wallet to add it as a sign-in method."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "اربط محفظة Bittensor لإضافتها كطريقة لتسجيل الدخول."
+  cs: "Připojte peněženku Bittensor a přidejte ji jako způsob přihlášení."
+  de: "Verbinde eine Bittensor-Wallet, um sie als Anmeldemethode hinzuzufügen."
+  el: "Συνδέστε ένα πορτοφόλι Bittensor για να το προσθέσετε ως μέθοδο σύνδεσης."
+  en: "Connect a Bittensor wallet to add it as a sign-in method."
+  es: "Conecta una billetera de Bittensor para añadirla como método de inicio de sesión."
+  es-419: "Conecta una billetera de Bittensor para agregarla como método de inicio de sesión."
+  es-MX: "Conecta una cartera de Bittensor para agregarla como método de inicio de sesión."
+  fr: "Connectez un portefeuille Bittensor pour l'ajouter comme méthode de connexion."
+  he: "חברו ארנק Bittensor כדי להוסיף אותו כשיטת התחברות."
+  hi: "Bittensor वॉलेट को साइन-इन विधि के रूप में जोड़ने के लिए उसे कनेक्ट करें।"
+  id: "Hubungkan dompet Bittensor untuk menambahkannya sebagai metode masuk."
+  it: "Collega un portafoglio Bittensor per aggiungerlo come metodo di accesso."
+  ja: "Bittensor ウォレットを接続して、サインイン方法として追加します。"
+  ko: "Bittensor 지갑을 연결하여 로그인 방법으로 추가하세요."
+  nl: "Koppel een Bittensor-wallet om deze als inlogmethode toe te voegen."
+  pl: "Połącz portfel Bittensor, aby dodać go jako metodę logowania."
+  pt: "Ligue uma carteira Bittensor para a adicionar como método de início de sessão."
+  pt-BR: "Conecte uma carteira Bittensor para adicioná-la como método de login."
+  pt-PT: "Ligue uma carteira Bittensor para a adicionar como método de início de sessão."
+  ru: "Подключите кошелек Bittensor, чтобы добавить его как способ входа."
+  sv: "Anslut en Bittensor-plånbok för att lägga till den som inloggningsmetod."
+  sw: "Unganisha pochi ya Bittensor ili kuiongeza kama njia ya kuingia."
+  th: "เชื่อมต่อกระเป๋า Bittensor เพื่อเพิ่มเป็นวิธีลงชื่อเข้าใช้"
+  uk: "Підключіть гаманець Bittensor, щоб додати його як спосіб входу."
+  vi: "Kết nối ví Bittensor để thêm làm phương thức đăng nhập."
+  zh: "连接 Bittensor 钱包，将其添加为登录方式。"
+  zh-HK: "連接 Bittensor 錢包，將其新增為登入方式。"

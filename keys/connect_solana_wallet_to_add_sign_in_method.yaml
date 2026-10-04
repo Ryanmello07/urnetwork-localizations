@@ -2,6 +2,9 @@ description: "Add sign-in method sheet (android): the wallet option's explanatio
 source: "Connect a Solana wallet to add it as a sign-in method."
 platforms:
   - android
+  - apple
+  - windows
+  - linux
 localizations:
   ar: "اربط محفظة Solana لإضافتها كطريقة لتسجيل الدخول."
   cs: "Připojte peněženku Solana a přidejte ji jako způsob přihlášení."
