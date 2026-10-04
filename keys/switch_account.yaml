@@ -2,6 +2,7 @@ description: "Call to action"
 source: "Switch Account"
 platforms:
   - android
+  - site
 localizations:
   ar: "تبديل الحساب"
   cs: "Přepnutí účtu"
