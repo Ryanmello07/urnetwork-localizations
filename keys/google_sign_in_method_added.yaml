@@ -4,6 +4,7 @@ source: "Google sign-in method added"
 platforms:
   - android
   - apple
+  - site
 localizations:
   ar: "تمت إضافة طريقة تسجيل الدخول عبر Google"
   cs: "Způsob přihlášení Google byl přidán"

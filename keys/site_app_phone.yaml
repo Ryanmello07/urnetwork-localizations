@@ -1,0 +1,11 @@
+description: "ur.io account profile: the label of a phone number sign-in method in the sign-in methods list."
+source: "Phone"
+platforms:
+  - site
+localizations:
+  ar: "الهاتف"
+  de: "Telefon"
+  en: "Phone"
+  es: "Teléfono"
+  ru: "Телефон"
+  zh: "电话"

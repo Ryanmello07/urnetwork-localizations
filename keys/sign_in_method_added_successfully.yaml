@@ -6,6 +6,7 @@ platforms:
   - apple
   - linux
   - windows
+  - site
 localizations:
   ar: "تمت إضافة طريقة تسجيل الدخول بنجاح"
   cs: "Způsob přihlášení byl úspěšně přidán"

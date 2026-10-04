@@ -3,6 +3,7 @@ description_auto: true
 source: "Sign in with your Apple ID to add it as a sign-in method."
 platforms:
   - apple
+  - site
 localizations:
   ar: "سجّل الدخول باستخدام Apple ID الخاص بك لإضافته كطريقة لتسجيل الدخول."
   cs: "Přihlaste se pomocí svého Apple ID a přidejte jej jako způsob přihlášení."

@@ -4,6 +4,7 @@ source: "Wallet sign-in method added"
 platforms:
   - android
   - apple
+  - site
 localizations:
   ar: "تمت إضافة طريقة تسجيل الدخول عبر المحفظة"
   cs: "Způsob přihlášení peněženkou byl přidán"

@@ -3,6 +3,7 @@ source: "Tell us who you really are. Enter the code we sent you to verify your i
 platforms:
   - apple
   - web
+  - site
 localizations:
   ar: "أخبرنا من أنت حقاً. أدخل الرمز الذي أرسلناه إليك للتحقق من هويتك."
   cs: "Řekněte nám, kdo skutečně jste. Zadejte kód, který jsme vám zaslali k ověření vaší totožnosti."

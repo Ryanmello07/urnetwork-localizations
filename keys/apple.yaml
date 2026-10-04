@@ -6,6 +6,7 @@ platforms:
   - android
   - windows
   - linux
+  - site
 localizations:
   ar: "Apple"
   de: "Apple"
