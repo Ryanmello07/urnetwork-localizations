@@ -4,6 +4,9 @@ source: "Apple sign-in method added"
 platforms:
   - apple
   - site
+  - android
+  - windows
+  - linux
 localizations:
   ar: "تمت إضافة طريقة تسجيل الدخول عبر Apple"
   cs: "Způsob přihlášení Apple byl přidán"

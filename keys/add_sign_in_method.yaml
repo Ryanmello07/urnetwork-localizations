@@ -3,6 +3,9 @@ source: "Add sign-in method"
 platforms:
   - apple
   - site
+  - android
+  - windows
+  - linux
 localizations:
   ar: "إضافة طريقة تسجيل دخول"
   cs: "Přidat způsob přihlášení"

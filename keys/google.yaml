@@ -6,6 +6,7 @@ platforms:
   - windows
   - linux
   - site
+  - android
 localizations:
   ar: "Google"
   de: "Google"

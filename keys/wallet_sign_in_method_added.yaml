@@ -5,6 +5,8 @@ platforms:
   - android
   - apple
   - site
+  - windows
+  - linux
 localizations:
   ar: "تمت إضافة طريقة تسجيل الدخول عبر المحفظة"
   cs: "Způsob přihlášení peněženkou byl přidán"

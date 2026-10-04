@@ -5,6 +5,8 @@ platforms:
   - android
   - apple
   - site
+  - windows
+  - linux
 localizations:
   ar: "إضافة طريقة تسجيل دخول"
   cs: "Přidat způsob přihlášení"
