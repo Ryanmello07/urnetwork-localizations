@@ -30,7 +30,7 @@ localizations:
   sv: "Var ansluten dagligen = Tjäna upp till {amount} GiB/dag"
   sw: "Unganishwa kila siku = Pata hadi {amount} GiB/siku"
   th: "เชื่อมต่อทุกวัน = รับสูงสุด {amount} GiB/วัน"
-  uk: "Залишайтеся на зв'язку щодня = Заробляйте до {amount} ГіБ/день"
+  uk: "Залишайтеся на зв'язку щодня = Заробляйте до {amount} GiB/день"
   vi: "Kết nối hàng ngày = Kiếm tới {amount} GiB/ngày"
   zh: "每天保持连接 = 每日最多可赚 {amount} GiB"
   zh-HK: "每天保持連接 = 每日賺取高達 {amount} GiB"

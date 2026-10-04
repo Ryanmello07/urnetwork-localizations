@@ -4,13 +4,32 @@ platforms:
 - site
 placeholders:
 - name: days
-  type: string
+  type: int
 - name: price
   type: string
+plurals:
+  select: days
 localizations:
-  ar: '{days} يومًا مجانًا، ثم {price}/سنة. إلغاء في أي وقت.'
-  de: '{days} Tage gratis, dann {price}/Jahr. Jederzeit kündbar.'
-  en: '{days} days free, then {price}/year. Cancel anytime.'
-  es: '{days} días gratis, luego {price}/año. Cancela cuando quieras.'
-  ru: '{days} дней бесплатно, затем {price}/год. Отмена в любое время.'
-  zh: '{days} 天免费，之后 {price}/年。随时取消。'
+  ar:
+    zero: "{days} يوم مجانًا، ثم {price}/سنة. إلغاء في أي وقت."
+    one: "يوم واحد مجانًا، ثم {price}/سنة. إلغاء في أي وقت."
+    two: "يومان مجانًا، ثم {price}/سنة. إلغاء في أي وقت."
+    few: "{days} أيام مجانًا، ثم {price}/سنة. إلغاء في أي وقت."
+    many: "{days} يومًا مجانًا، ثم {price}/سنة. إلغاء في أي وقت."
+    other: "{days} يوم مجانًا، ثم {price}/سنة. إلغاء في أي وقت."
+  de:
+    one: "{days} Tag gratis, dann {price}/Jahr. Jederzeit kündbar."
+    other: "{days} Tage gratis, dann {price}/Jahr. Jederzeit kündbar."
+  en:
+    one: "{days} day free, then {price}/year. Cancel anytime."
+    other: "{days} days free, then {price}/year. Cancel anytime."
+  es:
+    one: "{days} día gratis, luego {price}/año. Cancela cuando quieras."
+    other: "{days} días gratis, luego {price}/año. Cancela cuando quieras."
+  ru:
+    one: "{days} день бесплатно, затем {price}/год. Отмена в любое время."
+    few: "{days} дня бесплатно, затем {price}/год. Отмена в любое время."
+    many: "{days} дней бесплатно, затем {price}/год. Отмена в любое время."
+    other: "{days} дней бесплатно, затем {price}/год. Отмена в любое время."
+  zh:
+    other: "{days} 天免费，之后 {price}/年。随时取消。"

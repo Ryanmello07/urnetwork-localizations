@@ -27,7 +27,7 @@ localizations:
   pt: "Há definições recomendadas por aplicar para {country}"
   pt-BR: "Há configurações recomendadas não aplicadas para {country}"
   pt-PT: "Há definições recomendadas por aplicar para {country}"
-  ru: "Есть непримененные рекомендуемые настройки для {country}"
+  ru: "{country}: есть неприменённые рекомендуемые настройки"
   sv: "Det finns otillämpade rekommenderade inställningar för {country}"
   sw: "Kuna mipangilio inayopendekezwa ambayo haijatumika kwa {country}"
   th: "มีการตั้งค่าที่แนะนำสำหรับ {country} ที่ยังไม่ถูกนำมาใช้"

@@ -30,7 +30,7 @@ localizations:
   pt: "Cobrado uma vez por ano · preço para {country}"
   pt-BR: "Cobrado uma vez por ano · preço para {country}"
   pt-PT: "Cobrado uma vez por ano · preço para {country}"
-  ru: "Списание раз в год · цена для {country}"
+  ru: "Списание раз в год · цена для страны {country}"
   sv: "Debiteras en gång per år · pris för {country}"
   sw: "Hulipwa mara moja kwa mwaka · bei ya {country}"
   th: "เรียกเก็บปีละครั้ง · ราคาสำหรับ {country}"

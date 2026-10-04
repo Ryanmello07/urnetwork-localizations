@@ -9,32 +9,97 @@ platforms:
 placeholders:
   - name: months
     type: int
+plurals:
+  select: months
 localizations:
-  en: "Start free trial with {months} months free"
-  ar: "ابدأ التجربة المجانية مع {months} أشهر مجانًا"
-  cs: "Začít zkušební období s {months} měsíci zdarma"
-  de: "Kostenlos testen, mit {months} Gratismonaten"
-  el: "Ξεκίνα τη δωρεάν δοκιμή με {months} μήνες δωρεάν"
-  es: "Empezar la prueba gratis con {months} meses gratis"
-  es-419: "Empezar la prueba gratis con {months} meses gratis"
-  es-MX: "Empezar la prueba gratis con {months} meses gratis"
-  fr: "Essai gratuit avec {months} mois offerts"
-  he: "התחילו ניסיון בחינם עם {months} חודשים במתנה"
-  hi: "{months} मुफ़्त महीनों के साथ ट्रायल शुरू करें"
-  id: "Mulai uji coba gratis dengan {months} bulan gratis"
-  it: "Inizia la prova gratuita con {months} mesi gratis"
-  ja: "無料トライアルを開始（{months}か月無料付き）"
-  ko: "무료 체험 시작 + {months}개월 무료"
-  nl: "Start gratis proefperiode met {months} maanden gratis"
-  pl: "Rozpocznij okres próbny z {months} miesiącami gratis"
-  pt: "Começar o teste grátis com {months} meses grátis"
-  pt-BR: "Começar o teste grátis com {months} meses grátis"
-  pt-PT: "Começar o teste grátis com {months} meses grátis"
-  ru: "Начать пробный период с {months} бесплатными месяцами"
-  sv: "Starta gratis provperiod med {months} månader gratis"
-  sw: "Anza jaribio la bila malipo na miezi {months} bila malipo"
-  th: "เริ่มทดลองใช้ฟรี พร้อมฟรี {months} เดือน"
-  uk: "Почати пробний період із {months} безкоштовними місяцями"
-  vi: "Bắt đầu dùng thử miễn phí, tặng {months} tháng"
-  zh: "开始免费试用，另享 {months} 个月免费"
-  zh-HK: "開始免費試用，另享 {months} 個月免費"
+  en:
+    one: "Start free trial with {months} month free"
+    other: "Start free trial with {months} months free"
+  ar:
+    zero: "ابدأ التجربة المجانية مع {months} شهر مجانًا"
+    one: "ابدأ التجربة المجانية مع شهر واحد مجانًا"
+    two: "ابدأ التجربة المجانية مع شهرين مجانًا"
+    few: "ابدأ التجربة المجانية مع {months} أشهر مجانًا"
+    many: "ابدأ التجربة المجانية مع {months} شهرًا مجانًا"
+    other: "ابدأ التجربة المجانية مع {months} شهر مجانًا"
+  cs:
+    one: "Začít zkušební období s {months} měsícem zdarma"
+    few: "Začít zkušební období s {months} měsíci zdarma"
+    many: "Začít zkušební období s {months} měsíce zdarma"
+    other: "Začít zkušební období s {months} měsíci zdarma"
+  de:
+    one: "Kostenlos testen, mit {months} Gratismonat"
+    other: "Kostenlos testen, mit {months} Gratismonaten"
+  el:
+    one: "Ξεκίνα τη δωρεάν δοκιμή με {months} μήνα δωρεάν"
+    other: "Ξεκίνα τη δωρεάν δοκιμή με {months} μήνες δωρεάν"
+  es:
+    one: "Empezar la prueba gratis con {months} mes gratis"
+    other: "Empezar la prueba gratis con {months} meses gratis"
+  es-419:
+    one: "Empezar la prueba gratis con {months} mes gratis"
+    other: "Empezar la prueba gratis con {months} meses gratis"
+  es-MX:
+    one: "Empezar la prueba gratis con {months} mes gratis"
+    other: "Empezar la prueba gratis con {months} meses gratis"
+  fr:
+    one: "Essai gratuit avec {months} mois offert"
+    other: "Essai gratuit avec {months} mois offerts"
+  he:
+    one: "התחילו ניסיון בחינם עם חודש אחד במתנה"
+    two: "התחילו ניסיון בחינם עם חודשיים במתנה"
+    many: "התחילו ניסיון בחינם עם {months} חודשים במתנה"
+    other: "התחילו ניסיון בחינם עם {months} חודשים במתנה"
+  hi:
+    one: "{months} मुफ़्त महीने के साथ ट्रायल शुरू करें"
+    other: "{months} मुफ़्त महीनों के साथ ट्रायल शुरू करें"
+  id:
+    other: "Mulai uji coba gratis dengan {months} bulan gratis"
+  it:
+    one: "Inizia la prova gratuita con {months} mese gratis"
+    other: "Inizia la prova gratuita con {months} mesi gratis"
+  ja:
+    other: "無料トライアルを開始（{months}か月無料付き）"
+  ko:
+    other: "무료 체험 시작 + {months}개월 무료"
+  nl:
+    one: "Start gratis proefperiode met {months} maand gratis"
+    other: "Start gratis proefperiode met {months} maanden gratis"
+  pl:
+    one: "Rozpocznij okres próbny z {months} miesiącem gratis"
+    few: "Rozpocznij okres próbny z {months} miesiącami gratis"
+    many: "Rozpocznij okres próbny z {months} miesiącami gratis"
+    other: "Rozpocznij okres próbny z {months} miesiącami gratis"
+  pt:
+    one: "Começar o teste grátis com {months} mês grátis"
+    other: "Começar o teste grátis com {months} meses grátis"
+  pt-BR:
+    one: "Começar o teste grátis com {months} mês grátis"
+    other: "Começar o teste grátis com {months} meses grátis"
+  pt-PT:
+    one: "Começar o teste grátis com {months} mês grátis"
+    other: "Começar o teste grátis com {months} meses grátis"
+  ru:
+    one: "Начать пробный период с {months} бесплатным месяцем"
+    few: "Начать пробный период с {months} бесплатными месяцами"
+    many: "Начать пробный период с {months} бесплатными месяцами"
+    other: "Начать пробный период с {months} бесплатными месяцами"
+  sv:
+    one: "Starta gratis provperiod med {months} månad gratis"
+    other: "Starta gratis provperiod med {months} månader gratis"
+  sw:
+    one: "Anza jaribio la bila malipo na mwezi {months} bila malipo"
+    other: "Anza jaribio la bila malipo na miezi {months} bila malipo"
+  th:
+    other: "เริ่มทดลองใช้ฟรี พร้อมฟรี {months} เดือน"
+  uk:
+    one: "Почати пробний період із {months} безкоштовним місяцем"
+    few: "Почати пробний період із {months} безкоштовними місяцями"
+    many: "Почати пробний період із {months} безкоштовними місяцями"
+    other: "Почати пробний період із {months} безкоштовними місяцями"
+  vi:
+    other: "Bắt đầu dùng thử miễn phí, tặng {months} tháng"
+  zh:
+    other: "开始免费试用，另享 {months} 个月免费"
+  zh-HK:
+    other: "開始免費試用，另享 {months} 個月免費"

@@ -5,31 +5,94 @@ platforms:
 placeholders:
   - name: count
     type: int
+plurals:
+  select: count
 localizations:
-  ar: "هذه {count} كلمة — عبارة الاسترداد تتكون من 12 أو 24 كلمة"
-  cs: "To je {count} slov — seed fráze má 12 nebo 24 slov"
-  de: "Das sind {count} Wörter — eine Seedphrase hat 12 oder 24 Wörter"
-  el: "Αυτές είναι {count} λέξεις — μια φράση ανάκτησης έχει 12 ή 24 λέξεις"
-  en: "That's {count} words — a seedphrase is 12 or 24 words"
-  es: "Son {count} palabras — una frase semilla tiene 12 o 24 palabras"
-  es-MX: "Son {count} palabras — una frase semilla tiene 12 o 24 palabras"
-  fr: "Cela fait {count} mots — une phrase de récupération compte 12 ou 24 mots"
-  he: "אלה {count} מילים — ביטוי סיד הוא 12 או 24 מילים"
-  hi: "ये {count} शब्द हैं — सीड फ़्रेज़ में 12 या 24 शब्द होते हैं"
-  id: "Itu {count} kata — frasa pemulihan terdiri dari 12 atau 24 kata"
-  it: "Sono {count} parole — una frase seed è di 12 o 24 parole"
-  ja: "{count} 語です — シードフレーズは 12 語または 24 語です"
-  ko: "{count}개 단어입니다 — 시드 문구는 12개 또는 24개 단어입니다"
-  nl: "Dat zijn {count} woorden — een seedphrase heeft 12 of 24 woorden"
-  pl: "To {count} słów — fraza seed ma 12 lub 24 słowa"
-  pt: "São {count} palavras — uma frase-semente tem 12 ou 24 palavras"
-  pt-BR: "São {count} palavras — uma frase-semente tem 12 ou 24 palavras"
-  pt-PT: "São {count} palavras — uma frase-semente tem 12 ou 24 palavras"
-  ru: "Это {count} слов — сид-фраза состоит из 12 или 24 слов"
-  sv: "Det är {count} ord — en seedfras har 12 eller 24 ord"
-  sw: "Hayo ni maneno {count} — kifungu cha seed kina maneno 12 au 24"
-  th: "นั่นคือ {count} คำ — วลีกู้คืนมี 12 หรือ 24 คำ"
-  uk: "Це {count} слів — сід-фраза складається з 12 або 24 слів"
-  vi: "Đó là {count} từ — cụm từ khôi phục gồm 12 hoặc 24 từ"
-  zh: "这是 {count} 个词 — 助记词应为 12 或 24 个词"
-  zh-HK: "這是 {count} 個詞 — 助記詞應為 12 或 24 個詞"
+  ar:
+    zero: "هذه {count} كلمة — عبارة الاسترداد تتكون من 12 أو 24 كلمة"
+    one: "هذه كلمة واحدة — عبارة الاسترداد تتكون من 12 أو 24 كلمة"
+    two: "هاتان كلمتان — عبارة الاسترداد تتكون من 12 أو 24 كلمة"
+    few: "هذه {count} كلمات — عبارة الاسترداد تتكون من 12 أو 24 كلمة"
+    many: "هذه {count} كلمة — عبارة الاسترداد تتكون من 12 أو 24 كلمة"
+    other: "هذه {count} كلمة — عبارة الاسترداد تتكون من 12 أو 24 كلمة"
+  cs:
+    one: "To je {count} slovo — seed fráze má 12 nebo 24 slov"
+    few: "To jsou {count} slova — seed fráze má 12 nebo 24 slov"
+    many: "To je {count} slova — seed fráze má 12 nebo 24 slov"
+    other: "To je {count} slov — seed fráze má 12 nebo 24 slov"
+  de:
+    one: "Das ist {count} Wort — eine Seedphrase hat 12 oder 24 Wörter"
+    other: "Das sind {count} Wörter — eine Seedphrase hat 12 oder 24 Wörter"
+  el:
+    one: "Αυτή είναι {count} λέξη — μια φράση ανάκτησης έχει 12 ή 24 λέξεις"
+    other: "Αυτές είναι {count} λέξεις — μια φράση ανάκτησης έχει 12 ή 24 λέξεις"
+  en:
+    one: "That's {count} word — a seedphrase is 12 or 24 words"
+    other: "That's {count} words — a seedphrase is 12 or 24 words"
+  es:
+    one: "Es {count} palabra — una frase semilla tiene 12 o 24 palabras"
+    other: "Son {count} palabras — una frase semilla tiene 12 o 24 palabras"
+  es-MX:
+    one: "Es {count} palabra — una frase semilla tiene 12 o 24 palabras"
+    other: "Son {count} palabras — una frase semilla tiene 12 o 24 palabras"
+  fr:
+    one: "Cela fait {count} mot — une phrase de récupération compte 12 ou 24 mots"
+    other: "Cela fait {count} mots — une phrase de récupération compte 12 ou 24 mots"
+  he:
+    one: "זו מילה אחת — ביטוי סיד הוא 12 או 24 מילים"
+    two: "אלה שתי מילים — ביטוי סיד הוא 12 או 24 מילים"
+    many: "אלה {count} מילים — ביטוי סיד הוא 12 או 24 מילים"
+    other: "אלה {count} מילים — ביטוי סיד הוא 12 או 24 מילים"
+  hi:
+    one: "यह {count} शब्द है — सीड फ़्रेज़ में 12 या 24 शब्द होते हैं"
+    other: "ये {count} शब्द हैं — सीड फ़्रेज़ में 12 या 24 शब्द होते हैं"
+  id:
+    other: "Itu {count} kata — frasa pemulihan terdiri dari 12 atau 24 kata"
+  it:
+    one: "È {count} parola — una frase seed è di 12 o 24 parole"
+    other: "Sono {count} parole — una frase seed è di 12 o 24 parole"
+  ja:
+    other: "{count} 語です — シードフレーズは 12 語または 24 語です"
+  ko:
+    other: "{count}개 단어입니다 — 시드 문구는 12개 또는 24개 단어입니다"
+  nl:
+    one: "Dat is {count} woord — een seedphrase heeft 12 of 24 woorden"
+    other: "Dat zijn {count} woorden — een seedphrase heeft 12 of 24 woorden"
+  pl:
+    one: "To {count} słowo — fraza seed ma 12 lub 24 słowa"
+    few: "To {count} słowa — fraza seed ma 12 lub 24 słowa"
+    many: "To {count} słów — fraza seed ma 12 lub 24 słowa"
+    other: "To {count} słów — fraza seed ma 12 lub 24 słowa"
+  pt:
+    one: "É {count} palavra — uma frase-semente tem 12 ou 24 palavras"
+    other: "São {count} palavras — uma frase-semente tem 12 ou 24 palavras"
+  pt-BR:
+    one: "É {count} palavra — uma frase-semente tem 12 ou 24 palavras"
+    other: "São {count} palavras — uma frase-semente tem 12 ou 24 palavras"
+  pt-PT:
+    one: "É {count} palavra — uma frase-semente tem 12 ou 24 palavras"
+    other: "São {count} palavras — uma frase-semente tem 12 ou 24 palavras"
+  ru:
+    one: "Это {count} слово — сид-фраза состоит из 12 или 24 слов"
+    few: "Это {count} слова — сид-фраза состоит из 12 или 24 слов"
+    many: "Это {count} слов — сид-фраза состоит из 12 или 24 слов"
+    other: "Это {count} слов — сид-фраза состоит из 12 или 24 слов"
+  sv:
+    one: "Det är {count} ord — en seedfras har 12 eller 24 ord"
+    other: "Det är {count} ord — en seedfras har 12 eller 24 ord"
+  sw:
+    one: "Hilo ni neno {count} — kifungu cha seed kina maneno 12 au 24"
+    other: "Hayo ni maneno {count} — kifungu cha seed kina maneno 12 au 24"
+  th:
+    other: "นั่นคือ {count} คำ — วลีกู้คืนมี 12 หรือ 24 คำ"
+  uk:
+    one: "Це {count} слово — сід-фраза складається з 12 або 24 слів"
+    few: "Це {count} слова — сід-фраза складається з 12 або 24 слів"
+    many: "Це {count} слів — сід-фраза складається з 12 або 24 слів"
+    other: "Це {count} слів — сід-фраза складається з 12 або 24 слів"
+  vi:
+    other: "Đó là {count} từ — cụm từ khôi phục gồm 12 hoặc 24 từ"
+  zh:
+    other: "这是 {count} 个词 — 助记词应为 12 或 24 个词"
+  zh-HK:
+    other: "這是 {count} 個詞 — 助記詞應為 12 或 24 個詞"

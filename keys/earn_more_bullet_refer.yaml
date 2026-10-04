@@ -31,7 +31,7 @@ localizations:
   sv: "Tipsa en vän = +{amount} GiB/månad"
   sw: "Rejelea rafiki = +{amount} GiB/mwezi"
   th: "แนะนำเพื่อน = +{amount} GiB/เดือน"
-  uk: "Порекомендуйте друга = +{amount} ГіБ/місяць"
+  uk: "Порекомендуйте друга = +{amount} GiB/місяць"
   vi: "Giới thiệu bạn bè = +{amount} GiB/tháng"
   zh: "推荐好友 = +{amount} GiB/月"
   zh-HK: "推薦朋友 = +{amount} GiB/月"

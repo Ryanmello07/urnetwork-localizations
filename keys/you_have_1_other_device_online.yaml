@@ -1,5 +1,7 @@
 description: "General UI string."
 source: "You have 1 other device online"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

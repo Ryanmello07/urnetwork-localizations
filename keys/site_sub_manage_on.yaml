@@ -23,7 +23,7 @@ localizations:
   pt: "Gerir em {platform}"
   pt-BR: "Gerenciar em {platform}"
   pt-PT: "Gerir em {platform}"
-  ru: "Управлять в {platform}"
+  ru: "Управлять через {platform}"
   sv: "Hantera i {platform}"
   sw: "Dhibiti katika {platform}"
   th: "จัดการใน {platform}"

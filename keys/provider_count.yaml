@@ -3,6 +3,7 @@ source: "%d providers"
 platforms:
   - android
   - apple
+  - linux
 placeholders:
   - name: count
     type: int

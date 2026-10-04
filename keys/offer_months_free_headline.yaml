@@ -9,32 +9,97 @@ platforms:
 placeholders:
   - name: months
     type: int
+plurals:
+  select: months
 localizations:
-  en: "{months} months of Pro, free"
-  ar: "{months} أشهر من Pro مجانًا"
-  cs: "{months} měsíce Pro zdarma"
-  de: "{months} Monate Pro, gratis"
-  el: "{months} μήνες Pro, δωρεάν"
-  es: "{months} meses de Pro, gratis"
-  es-419: "{months} meses de Pro, gratis"
-  es-MX: "{months} meses de Pro, gratis"
-  fr: "{months} mois de Pro offerts"
-  he: "{months} חודשי Pro בחינם"
-  hi: "Pro के {months} महीने, मुफ़्त"
-  id: "{months} bulan Pro, gratis"
-  it: "{months} mesi di Pro, gratis"
-  ja: "Proが{months}か月無料"
-  ko: "Pro {months}개월 무료"
-  nl: "{months} maanden Pro, gratis"
-  pl: "{months} miesiące Pro za darmo"
-  pt: "{months} meses de Pro, grátis"
-  pt-BR: "{months} meses de Pro, grátis"
-  pt-PT: "{months} meses de Pro, grátis"
-  ru: "{months} месяца Pro бесплатно"
-  sv: "{months} månader Pro, gratis"
-  sw: "Miezi {months} ya Pro, bila malipo"
-  th: "Pro ฟรี {months} เดือน"
-  uk: "{months} місяці Pro безкоштовно"
-  vi: "{months} tháng Pro miễn phí"
-  zh: "Pro 免费 {months} 个月"
-  zh-HK: "Pro 免費 {months} 個月"
+  en:
+    one: "{months} month of Pro, free"
+    other: "{months} months of Pro, free"
+  ar:
+    zero: "{months} شهر من Pro مجانًا"
+    one: "شهر واحد من Pro مجانًا"
+    two: "شهران من Pro مجانًا"
+    few: "{months} أشهر من Pro مجانًا"
+    many: "{months} شهرًا من Pro مجانًا"
+    other: "{months} شهر من Pro مجانًا"
+  cs:
+    one: "{months} měsíc Pro zdarma"
+    few: "{months} měsíce Pro zdarma"
+    many: "{months} měsíce Pro zdarma"
+    other: "{months} měsíců Pro zdarma"
+  de:
+    one: "{months} Monat Pro, gratis"
+    other: "{months} Monate Pro, gratis"
+  el:
+    one: "{months} μήνας Pro, δωρεάν"
+    other: "{months} μήνες Pro, δωρεάν"
+  es:
+    one: "{months} mes de Pro, gratis"
+    other: "{months} meses de Pro, gratis"
+  es-419:
+    one: "{months} mes de Pro, gratis"
+    other: "{months} meses de Pro, gratis"
+  es-MX:
+    one: "{months} mes de Pro, gratis"
+    other: "{months} meses de Pro, gratis"
+  fr:
+    one: "{months} mois de Pro offert"
+    other: "{months} mois de Pro offerts"
+  he:
+    one: "חודש Pro אחד בחינם"
+    two: "חודשיים של Pro בחינם"
+    many: "{months} חודשי Pro בחינם"
+    other: "{months} חודשי Pro בחינם"
+  hi:
+    one: "Pro का {months} महीना, मुफ़्त"
+    other: "Pro के {months} महीने, मुफ़्त"
+  id:
+    other: "{months} bulan Pro, gratis"
+  it:
+    one: "{months} mese di Pro, gratis"
+    other: "{months} mesi di Pro, gratis"
+  ja:
+    other: "Proが{months}か月無料"
+  ko:
+    other: "Pro {months}개월 무료"
+  nl:
+    one: "{months} maand Pro, gratis"
+    other: "{months} maanden Pro, gratis"
+  pl:
+    one: "{months} miesiąc Pro za darmo"
+    few: "{months} miesiące Pro za darmo"
+    many: "{months} miesięcy Pro za darmo"
+    other: "{months} miesięcy Pro za darmo"
+  pt:
+    one: "{months} mês de Pro, grátis"
+    other: "{months} meses de Pro, grátis"
+  pt-BR:
+    one: "{months} mês de Pro, grátis"
+    other: "{months} meses de Pro, grátis"
+  pt-PT:
+    one: "{months} mês de Pro, grátis"
+    other: "{months} meses de Pro, grátis"
+  ru:
+    one: "{months} месяц Pro бесплатно"
+    few: "{months} месяца Pro бесплатно"
+    many: "{months} месяцев Pro бесплатно"
+    other: "{months} месяцев Pro бесплатно"
+  sv:
+    one: "{months} månad Pro, gratis"
+    other: "{months} månader Pro, gratis"
+  sw:
+    one: "Mwezi {months} wa Pro, bila malipo"
+    other: "Miezi {months} ya Pro, bila malipo"
+  th:
+    other: "Pro ฟรี {months} เดือน"
+  uk:
+    one: "{months} місяць Pro безкоштовно"
+    few: "{months} місяці Pro безкоштовно"
+    many: "{months} місяців Pro безкоштовно"
+    other: "{months} місяців Pro безкоштовно"
+  vi:
+    other: "{months} tháng Pro miễn phí"
+  zh:
+    other: "Pro 免费 {months} 个月"
+  zh-HK:
+    other: "Pro 免費 {months} 個月"

@@ -11,5 +11,5 @@ localizations:
   de: "+{count} weitere"
   en: "+{count} more"
   es: "+{count} más"
-  ru: "ещё {count}"
+  ru: "+ ещё {count}"
   zh: "另有 {count} 个"
