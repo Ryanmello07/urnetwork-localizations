@@ -1,0 +1,15 @@
+description: "Subtitle of the WalletConnect option in the Bittensor wallet chooser: which wallets it works with. Nova, Nightly and WalletConnect are product names."
+source: "Nova, Nightly and other WalletConnect wallets"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "Nova وNightly ومحافظ WalletConnect الأخرى"
+  de: "Nova, Nightly und andere WalletConnect-Wallets"
+  en: "Nova, Nightly and other WalletConnect wallets"
+  es: "Nova, Nightly y otras billeteras compatibles con WalletConnect"
+  ru: "Nova, Nightly и другие кошельки с поддержкой WalletConnect"
+  zh: "Nova、Nightly 及其他 WalletConnect 钱包"
