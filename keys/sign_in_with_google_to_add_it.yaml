@@ -4,6 +4,7 @@ source: "Sign in with Google to add it as a sign-in method."
 platforms:
   - android
   - apple
+  - site
 localizations:
   ar: "سجّل الدخول باستخدام Google لإضافته كطريقة لتسجيل الدخول."
   cs: "Přihlaste se přes Google a přidejte jej jako způsob přihlášení."

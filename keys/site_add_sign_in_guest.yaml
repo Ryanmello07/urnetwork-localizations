@@ -1,0 +1,11 @@
+description: "ur.io account: shown on a legacy guest network (one with no sign-in method) in place of checkout, and on the add sign-in method sheet. Adding a sign-in method converts the network in place: its plan and balance stay with it."
+source: "Add a way to sign in to this network before buying. Its plan and balance stay with it."
+platforms:
+  - site
+localizations:
+  ar: "أضف طريقة لتسجيل الدخول إلى هذه الشبكة قبل الشراء. تبقى خطتها ورصيدها معها."
+  de: "Füge eine Anmeldemöglichkeit für dieses Netzwerk hinzu, bevor du etwas kaufst. Sein Tarif und sein Guthaben bleiben erhalten."
+  en: "Add a way to sign in to this network before buying. Its plan and balance stay with it."
+  es: "Añade una forma de iniciar sesión en esta red antes de comprar. Su plan y su saldo se quedan con ella."
+  ru: "Добавьте способ входа в эту сеть перед покупкой. Её тариф и баланс сохранятся."
+  zh: "购买前，请为此网络添加一种登录方式。其套餐和余额都会保留。"

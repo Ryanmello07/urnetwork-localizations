@@ -4,6 +4,7 @@ platforms:
   - android
   - windows
   - linux
+  - site
 localizations:
   ar: "تسجيل الدخول باستخدام Apple"
   de: "Mit Apple anmelden"

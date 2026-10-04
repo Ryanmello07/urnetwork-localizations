@@ -3,6 +3,7 @@ description_auto: true
 source: "Method"
 platforms:
   - apple
+  - site
 localizations:
   ar: "الطريقة"
   cs: "Způsob"

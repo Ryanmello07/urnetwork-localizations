@@ -5,6 +5,7 @@ platforms:
   - apple
   - windows
   - linux
+  - site
 localizations:
   ar: "تسجيل الدخول باستخدام Google"
   cs: "Přihlásit se pomocí Google"

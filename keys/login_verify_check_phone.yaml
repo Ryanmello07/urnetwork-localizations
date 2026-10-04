@@ -3,6 +3,7 @@ source: "Check your phone"
 platforms:
   - android
   - apple
+  - site
 localizations:
   ar: "تحقق من هاتفك"
   cs: "Zkontrolujte telefon"

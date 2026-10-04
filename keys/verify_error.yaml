@@ -2,6 +2,7 @@ description: "Call to action"
 source: "Something went wrong. Try again."
 platforms:
   - android
+  - site
 localizations:
   ar: "حدث خطأ ما. حاول مجددا."
   cs: "Něco se pokazilo. Zkuste to znovu."

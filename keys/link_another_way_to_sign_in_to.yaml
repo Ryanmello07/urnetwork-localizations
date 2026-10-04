@@ -4,6 +4,7 @@ source: "Link another way to sign in to your account."
 platforms:
   - android
   - apple
+  - site
 localizations:
   ar: "اربط طريقة أخرى لتسجيل الدخول إلى حسابك."
   cs: "Propojte další způsob přihlášení k vašemu účtu."

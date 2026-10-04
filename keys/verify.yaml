@@ -2,6 +2,7 @@ description: "Used in Main/Account/Settings/SettingsForm-iOS.swift."
 source: "Verify"
 platforms:
   - apple
+  - site
 localizations:
   ar: "تحقق"
   cs: "Ověřit"

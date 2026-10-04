@@ -3,6 +3,7 @@ description_auto: true
 source: "Done"
 platforms:
   - apple
+  - site
 localizations:
   ar: "تم"
   cs: "Hotovo"

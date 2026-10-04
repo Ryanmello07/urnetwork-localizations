@@ -2,6 +2,7 @@ description: "General UI string."
 source: "Add sign-in method"
 platforms:
   - apple
+  - site
 localizations:
   ar: "إضافة طريقة تسجيل دخول"
   cs: "Přidat způsob přihlášení"

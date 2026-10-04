@@ -3,6 +3,7 @@ source: "Wallet"
 platforms:
   - android
   - apple
+  - site
 localizations:
   ar: "المحفظة"
   cs: "Peněženka"
