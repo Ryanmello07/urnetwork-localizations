@@ -2,6 +2,10 @@ description: "Error when the wallet that signed the connect challenge is not the
 source: "The wallet that signed is not the address you entered."
 platforms:
   - windows
+  - android
+  - apple
+  - linux
+  - site
 localizations:
   ar: "المحفظة التي وقّعت ليست العنوان الذي أدخلته."
   de: "Die Wallet, die signiert hat, entspricht nicht der eingegebenen Adresse."

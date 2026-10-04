@@ -1,0 +1,15 @@
+description: "Error: the single-use wallet challenge expired (5 minutes) before it was signed."
+source: "This request expired. Start again to get a new message to sign."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "انتهت صلاحية هذا الطلب. ابدأ من جديد للحصول على رسالة جديدة للتوقيع."
+  de: "Diese Anfrage ist abgelaufen. Starte erneut, um eine neue Nachricht zum Signieren zu erhalten."
+  en: "This request expired. Start again to get a new message to sign."
+  es: "Esta solicitud caducó. Empieza de nuevo para obtener un mensaje nuevo para firmar."
+  ru: "Срок действия запроса истек. Начните заново, чтобы получить новое сообщение для подписи."
+  zh: "此请求已过期。请重新开始以获取新的待签名消息。"

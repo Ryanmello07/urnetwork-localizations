@@ -1,0 +1,15 @@
+description: "Error: the pasted or returned Bittensor signature is not a 64-byte hex signature."
+source: "That is not a valid signature. Paste the full 0x signature from your wallet."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "هذا ليس توقيعًا صالحًا. الصق توقيع 0x الكامل من محفظتك."
+  de: "Das ist keine gültige Signatur. Füge die vollständige 0x-Signatur aus deiner Wallet ein."
+  en: "That is not a valid signature. Paste the full 0x signature from your wallet."
+  es: "No es una firma válida. Pega la firma 0x completa de tu billetera."
+  ru: "Это недействительная подпись. Вставьте полную подпись 0x из вашего кошелька."
+  zh: "这不是有效的签名。请粘贴钱包中完整的 0x 签名。"

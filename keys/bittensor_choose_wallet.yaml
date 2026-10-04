@@ -1,0 +1,15 @@
+description: "Title of the picker that chooses which Bittensor wallet (Talisman or TAO.com) signs."
+source: "Choose your Bittensor wallet"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "اختر محفظة Bittensor"
+  de: "Wähle deine Bittensor-Wallet"
+  en: "Choose your Bittensor wallet"
+  es: "Elige tu billetera de Bittensor"
+  ru: "Выберите кошелек Bittensor"
+  zh: "选择您的 Bittensor 钱包"

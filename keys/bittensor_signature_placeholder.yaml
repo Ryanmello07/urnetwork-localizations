@@ -1,0 +1,15 @@
+description: "Placeholder of the Bittensor signature field (a 0x-prefixed hex signature)."
+source: "Paste the 0x… signature"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "الصق التوقيع ‎0x…"
+  de: "0x…-Signatur einfügen"
+  en: "Paste the 0x… signature"
+  es: "Pega la firma 0x…"
+  ru: "Вставьте подпись 0x…"
+  zh: "粘贴 0x… 签名"

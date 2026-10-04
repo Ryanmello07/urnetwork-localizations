@@ -1,0 +1,18 @@
+description: "Desktop: shown while the browser is open on the wallet page. The argument is the wallet product name (Talisman)."
+source: "Continue in your browser and approve the request in the %@ extension."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: wallet
+    type: string
+localizations:
+  ar: "تابع في متصفحك ووافق على الطلب في إضافة {wallet}."
+  de: "Fahre in deinem Browser fort und bestätige die Anfrage in der {wallet}-Erweiterung."
+  en: "Continue in your browser and approve the request in the {wallet} extension."
+  es: "Continúa en tu navegador y aprueba la solicitud en la extensión de {wallet}."
+  ru: "Продолжите в браузере и подтвердите запрос в расширении {wallet}."
+  zh: "请在浏览器中继续，并在 {wallet} 扩展中批准请求。"
