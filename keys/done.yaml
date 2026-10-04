@@ -4,6 +4,7 @@ source: "Done"
 platforms:
   - apple
   - site
+  - linux
 localizations:
   ar: "تم"
   cs: "Hotovo"
