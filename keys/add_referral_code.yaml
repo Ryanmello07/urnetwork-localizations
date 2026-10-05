@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - site
+  - linux
 localizations:
   ar: "إضافة رمز الإحالة"
   cs: "Přidání doporučujícího kódu"

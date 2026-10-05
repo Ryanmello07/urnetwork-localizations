@@ -1,8 +1,11 @@
 description: "Empty value: the Referrals section shows it when no referral network is linked (apple), and the android referral network row."
 source: "None"
-platforms:
-  - android
+deprecated:
   - apple
+platforms:
+  - apple
+  - linux
+  - windows
 localizations:
   ar: "لا يوجد"
   cs: "Žádné"

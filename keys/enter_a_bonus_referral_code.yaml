@@ -1,7 +1,9 @@
 description: "Used in Authenticate/CreateNetwork/CreateNetworkView.swift."
 source: "Enter a bonus referral code"
 platforms:
+  - android
   - apple
+  - linux
 localizations:
   ar: "أدخل رمز الإحالة المكافأة"
   cs: "Vložte bonusový referální kód"

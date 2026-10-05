@@ -1,5 +1,7 @@
 description: "Call to action"
 source: "Bonus referral code"
+deprecated:
+  - apple
 platforms:
   - android
   - apple

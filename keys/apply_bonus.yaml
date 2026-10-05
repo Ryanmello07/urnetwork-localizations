@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "Apply bonus"
+deprecated:
+  - apple
 platforms:
-  - android
   - apple
 localizations:
   ar: "تطبيق المكافأة"

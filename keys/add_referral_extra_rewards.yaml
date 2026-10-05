@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "Add referral code to earn extra rewards"
+deprecated:
+  - apple
 platforms:
-  - android
   - apple
 localizations:
   ar: "أضف رمز الإحالة لكسب مكافآت إضافية"
