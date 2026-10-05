@@ -1,6 +1,11 @@
 description: "Body of the remove confirmation for the Solana payout wallet (the title is remove_wallet)."
 source: "USDC payouts are held until another wallet is connected."
 platforms:
+  - apple
+  - windows
+  - linux
+  - site
+deprecated:
   - android
   - apple
   - windows
