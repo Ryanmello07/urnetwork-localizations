@@ -2,6 +2,7 @@ description: "Create Network Form: the network name availability check could not
 source: "Couldn't check availability. You can still continue."
 platforms:
   - android
+  - apple
 localizations:
   ar: "تعذّر التحقق من التوفر. لا يزال بإمكانك المتابعة."
   cs: "Dostupnost se nepodařilo ověřit. Přesto můžete pokračovat."
