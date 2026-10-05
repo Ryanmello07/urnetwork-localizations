@@ -1,0 +1,37 @@
+description: "Earnings card: shown in place of sn_payout_schedule while no Bittensor coldkey is set. SN payouts go only to a coldkey; the set_coldkey action next to it opens the coldkey (connect wallet) flow."
+source: "Set your Bittensor coldkey to get paid"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "عيّن coldkey الخاص بك على Bittensor لتحصل على أرباحك"
+  cs: "Nastavte svůj Bittensor coldkey, abyste dostávali výplaty"
+  de: "Lege deinen Bittensor-Coldkey fest, um ausgezahlt zu werden"
+  el: "Ορίστε το Bittensor coldkey σας για να πληρώνεστε"
+  en: "Set your Bittensor coldkey to get paid"
+  es: "Configura tu coldkey de Bittensor para cobrar"
+  es-419: "Configura tu coldkey de Bittensor para cobrar"
+  es-MX: "Configura tu coldkey de Bittensor para cobrar"
+  fr: "Définissez votre coldkey Bittensor pour être payé"
+  he: "הגדר את ה-coldkey שלך ב-Bittensor כדי לקבל תשלום"
+  hi: "भुगतान पाने के लिए अपना Bittensor coldkey सेट करें"
+  id: "Atur coldkey Bittensor Anda agar dibayar"
+  it: "Imposta la tua coldkey Bittensor per essere pagato"
+  ja: "支払いを受け取るには Bittensor の coldkey を設定してください"
+  ko: "지급을 받으려면 Bittensor coldkey를 설정하세요"
+  nl: "Stel je Bittensor-coldkey in om uitbetaald te worden"
+  pl: "Ustaw swój coldkey Bittensor, aby otrzymywać wypłaty"
+  pt: "Defina sua coldkey Bittensor para receber pagamentos"
+  pt-BR: "Defina sua coldkey Bittensor para receber pagamentos"
+  pt-PT: "Defina a sua coldkey Bittensor para receber pagamentos"
+  ru: "Укажите свой coldkey Bittensor, чтобы получать выплаты"
+  sv: "Ange din Bittensor-coldkey för att få betalt"
+  sw: "Weka coldkey yako ya Bittensor ili ulipwe"
+  th: "ตั้งค่า coldkey Bittensor ของคุณเพื่อรับเงิน"
+  uk: "Укажіть свій coldkey Bittensor, щоб отримувати виплати"
+  vi: "Đặt coldkey Bittensor của bạn để được thanh toán"
+  zh: "设置你的 Bittensor coldkey 以获得报酬"
+  zh-HK: "設定你的 Bittensor coldkey 以獲得報酬"

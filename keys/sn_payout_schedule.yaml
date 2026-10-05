@@ -1,0 +1,37 @@
+description: "Earnings card: how providers are paid on the UR subnet (WHITEPAPER §5.2, §8.3). Earnings settle per epoch and are paid in SN25α as stake to the provider's Bittensor coldkey once the provider claims them; nothing is paid automatically. Followed by sn_payout_schedule_times when the epoch schedule is known."
+source: "Earnings settle every epoch and are paid in SN25α to your Bittensor coldkey when you claim them."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تُسوّى الأرباح في كل فترة وتُدفع بعملة SN25α إلى coldkey الخاص بك على Bittensor عند المطالبة بها."
+  cs: "Výdělky se vypořádávají každou epochu a vyplácejí se v SN25α na váš Bittensor coldkey, když si je vyzvednete."
+  de: "Einnahmen werden jede Epoche abgerechnet und in SN25α an deinen Bittensor-Coldkey ausgezahlt, sobald du sie einlöst."
+  el: "Τα κέρδη εκκαθαρίζονται σε κάθε εποχή και πληρώνονται σε SN25α στο Bittensor coldkey σας όταν τα διεκδικήσετε."
+  en: "Earnings settle every epoch and are paid in SN25α to your Bittensor coldkey when you claim them."
+  es: "Las ganancias se liquidan cada época y se pagan en SN25α a tu coldkey de Bittensor cuando las reclamas."
+  es-419: "Las ganancias se liquidan cada época y se pagan en SN25α a tu coldkey de Bittensor cuando las reclamas."
+  es-MX: "Las ganancias se liquidan cada época y se pagan en SN25α a tu coldkey de Bittensor cuando las reclamas."
+  fr: "Les gains sont réglés à chaque époque et versés en SN25α sur votre coldkey Bittensor lorsque vous les réclamez."
+  he: "הרווחים מסולקים בכל תקופה ומשולמים ב-SN25α ל-coldkey שלך ב-Bittensor כשתממש אותם."
+  hi: "कमाई हर एपोक में तय होती है और जब आप उस पर दावा करते हैं, तो SN25α में आपके Bittensor coldkey पर भुगतान की जाती है।"
+  id: "Penghasilan diselesaikan setiap epoch dan dibayarkan dalam SN25α ke coldkey Bittensor Anda saat Anda mengklaimnya."
+  it: "I guadagni vengono regolati a ogni epoca e pagati in SN25α sulla tua coldkey Bittensor quando li riscatti."
+  ja: "収益はエポックごとに確定し、受け取ると SN25α で Bittensor の coldkey に支払われます。"
+  ko: "수익은 에포크마다 정산되며, 받기를 하면 SN25α로 Bittensor coldkey에 지급됩니다."
+  nl: "Verdiensten worden elke epoch afgerekend en in SN25α uitbetaald aan je Bittensor-coldkey wanneer je ze opeist."
+  pl: "Zarobki są rozliczane w każdej epoce i wypłacane w SN25α na Twój coldkey Bittensor, gdy je odbierzesz."
+  pt: "Os ganhos são liquidados a cada época e pagos em SN25α na sua coldkey Bittensor quando você os reivindica."
+  pt-BR: "Os ganhos são liquidados a cada época e pagos em SN25α na sua coldkey Bittensor quando você os resgata."
+  pt-PT: "Os ganhos são liquidados em cada época e pagos em SN25α na sua coldkey Bittensor quando os reivindicar."
+  ru: "Заработок рассчитывается каждую эпоху и выплачивается в SN25α на ваш coldkey Bittensor, когда вы его получаете."
+  sv: "Intäkter avräknas varje epok och betalas ut i SN25α till din Bittensor-coldkey när du hämtar dem."
+  sw: "Mapato hulipwa kila kipindi kwa SN25α kwenye coldkey yako ya Bittensor unapoyadai."
+  th: "รายได้จะสรุปทุกอีพอคและจ่ายเป็น SN25α ไปยัง coldkey Bittensor ของคุณเมื่อคุณกดรับ"
+  uk: "Заробіток розраховується кожну епоху й виплачується в SN25α на ваш coldkey Bittensor, коли ви його отримуєте."
+  vi: "Thu nhập được quyết toán mỗi epoch và được trả bằng SN25α vào coldkey Bittensor của bạn khi bạn nhận."
+  zh: "收益每个周期结算一次，你领取后会以 SN25α 支付到你的 Bittensor coldkey。"
+  zh-HK: "收益每個週期結算一次，你領取後會以 SN25α 支付到你的 Bittensor coldkey。"

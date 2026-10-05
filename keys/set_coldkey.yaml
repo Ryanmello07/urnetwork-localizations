@@ -1,0 +1,37 @@
+description: "Earnings card: the action next to set_coldkey_to_get_paid. Opens the existing coldkey setting (the connect Bittensor wallet flow)."
+source: "Set coldkey"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تعيين coldkey"
+  cs: "Nastavit coldkey"
+  de: "Coldkey festlegen"
+  el: "Ορισμός coldkey"
+  en: "Set coldkey"
+  es: "Configurar coldkey"
+  es-419: "Configurar coldkey"
+  es-MX: "Configurar coldkey"
+  fr: "Définir la coldkey"
+  he: "הגדרת coldkey"
+  hi: "coldkey सेट करें"
+  id: "Atur coldkey"
+  it: "Imposta coldkey"
+  ja: "coldkey を設定"
+  ko: "coldkey 설정"
+  nl: "Coldkey instellen"
+  pl: "Ustaw coldkey"
+  pt: "Definir coldkey"
+  pt-BR: "Definir coldkey"
+  pt-PT: "Definir coldkey"
+  ru: "Указать coldkey"
+  sv: "Ange coldkey"
+  sw: "Weka coldkey"
+  th: "ตั้งค่า coldkey"
+  uk: "Указати coldkey"
+  vi: "Đặt coldkey"
+  zh: "设置 coldkey"
+  zh-HK: "設定 coldkey"
