@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: label of the device's selection weight for speed-ranked requests."
+source: "Selection weight (speed)"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "وزن الاختيار (السرعة)"
+  cs: "Váha výběru (rychlost)"
+  de: "Auswahlgewicht (Geschwindigkeit)"
+  el: "Βάρος επιλογής (ταχύτητα)"
+  en: "Selection weight (speed)"
+  es: "Peso de selección (velocidad)"
+  es-419: "Peso de selección (velocidad)"
+  es-MX: "Peso de selección (velocidad)"
+  fr: "Poids de sélection (vitesse)"
+  he: "משקל בחירה (מהירות)"
+  hi: "चयन भार (गति)"
+  id: "Bobot pemilihan (kecepatan)"
+  it: "Peso di selezione (velocità)"
+  ja: "選択の重み（速度）"
+  ko: "선택 가중치(속도)"
+  nl: "Selectiegewicht (snelheid)"
+  pl: "Waga wyboru (szybkość)"
+  pt: "Peso de seleção (velocidade)"
+  pt-BR: "Peso de seleção (velocidade)"
+  pt-PT: "Peso de seleção (velocidade)"
+  ru: "Вес выбора (скорость)"
+  sv: "Urvalsvikt (hastighet)"
+  sw: "Uzito wa uteuzi (kasi)"
+  th: "น้ำหนักการเลือก (ความเร็ว)"
+  uk: "Вага вибору (швидкість)"
+  vi: "Trọng số chọn (tốc độ)"
+  zh: "选择权重（速度）"
+  zh-HK: "選擇權重（速度）"

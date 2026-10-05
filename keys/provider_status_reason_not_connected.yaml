@@ -1,0 +1,36 @@
+description: "Provider status reason (not_connected)."
+source: "This device isn't connected right now. Clients are offered only connected devices."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "هذا الجهاز غير متصل الآن. لا يُعرض على العملاء إلا الأجهزة المتصلة."
+  cs: "Toto zařízení teď není připojeno. Klientům se nabízejí jen připojená zařízení."
+  de: "Dieses Gerät ist gerade nicht verbunden. Clients werden nur verbundene Geräte angeboten."
+  el: "Αυτή η συσκευή δεν είναι συνδεδεμένη αυτή τη στιγμή. Στους πελάτες προτείνονται μόνο συνδεδεμένες συσκευές."
+  en: "This device isn't connected right now. Clients are offered only connected devices."
+  es: "Este dispositivo no está conectado en este momento. A los clientes solo se les ofrecen dispositivos conectados."
+  es-419: "Este dispositivo no está conectado en este momento. A los clientes solo se les ofrecen dispositivos conectados."
+  es-MX: "Este dispositivo no está conectado en este momento. A los clientes solo se les ofrecen dispositivos conectados."
+  fr: "Cet appareil n'est pas connecté pour le moment. Seuls les appareils connectés sont proposés aux clients."
+  he: "המכשיר הזה אינו מחובר כרגע. ללקוחות מוצעים רק מכשירים מחוברים."
+  hi: "यह डिवाइस अभी कनेक्ट नहीं है। क्लाइंट को केवल कनेक्ट किए गए डिवाइस पेश किए जाते हैं।"
+  id: "Perangkat ini sedang tidak terhubung. Klien hanya ditawari perangkat yang terhubung."
+  it: "Questo dispositivo non è connesso in questo momento. Ai client vengono offerti solo dispositivi connessi."
+  ja: "このデバイスは現在接続されていません。クライアントには接続中のデバイスのみが提示されます。"
+  ko: "이 기기는 현재 연결되어 있지 않습니다. 클라이언트에게는 연결된 기기만 제시됩니다."
+  nl: "Dit apparaat is nu niet verbonden. Aan clients worden alleen verbonden apparaten aangeboden."
+  pl: "To urządzenie nie jest teraz połączone. Klientom proponowane są tylko połączone urządzenia."
+  pt: "Este dispositivo não está ligado neste momento. Só são oferecidos aos clientes dispositivos ligados."
+  pt-BR: "Este dispositivo não está conectado no momento. Somente dispositivos conectados são oferecidos aos clientes."
+  pt-PT: "Este dispositivo não está ligado neste momento. Só são oferecidos aos clientes dispositivos ligados."
+  ru: "Это устройство сейчас не подключено. Клиентам предлагаются только подключенные устройства."
+  sv: "Den här enheten är inte ansluten just nu. Klienter erbjuds bara anslutna enheter."
+  sw: "Kifaa hiki hakijaunganishwa kwa sasa. Wateja hupendekezewa vifaa vilivyounganishwa pekee."
+  th: "อุปกรณ์นี้ไม่ได้เชื่อมต่ออยู่ในขณะนี้ ไคลเอนต์จะได้รับการเสนอเฉพาะอุปกรณ์ที่เชื่อมต่ออยู่"
+  uk: "Цей пристрій зараз не підключено. Клієнтам пропонують лише підключені пристрої."
+  vi: "Thiết bị này hiện không kết nối. Máy khách chỉ được đề xuất các thiết bị đang kết nối."
+  zh: "此设备目前未连接。只有已连接的设备才会被推荐给客户端。"
+  zh-HK: "此裝置目前未連接。只有已連接的裝置才會被推薦給客戶端。"

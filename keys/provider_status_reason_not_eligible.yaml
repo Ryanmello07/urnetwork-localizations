@@ -1,0 +1,36 @@
+description: "Provider status reason (not_eligible): one generic reason for every anti-abuse check. Keep it generic; do not add detail."
+source: "This connection isn't eligible to provide right now."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "هذا الاتصال غير مؤهل للتوفير حاليًا."
+  cs: "Toto připojení teď nesplňuje podmínky pro poskytování."
+  de: "Diese Verbindung ist derzeit nicht für die Bereitstellung berechtigt."
+  el: "Αυτή η σύνδεση δεν είναι επιλέξιμη για παροχή αυτή τη στιγμή."
+  en: "This connection isn't eligible to provide right now."
+  es: "Esta conexión no cumple los requisitos para proporcionar en este momento."
+  es-419: "Esta conexión no cumple los requisitos para proporcionar en este momento."
+  es-MX: "Esta conexión no cumple los requisitos para proporcionar en este momento."
+  fr: "Cette connexion n'est pas éligible à la fourniture pour le moment."
+  he: "החיבור הזה אינו עומד בדרישות לאספקה כרגע."
+  hi: "यह कनेक्शन अभी प्रदान करने के योग्य नहीं है।"
+  id: "Koneksi ini tidak memenuhi syarat untuk menyediakan saat ini."
+  it: "Questa connessione non è idonea alla fornitura in questo momento."
+  ja: "この接続は現在、提供の対象外です。"
+  ko: "이 연결은 현재 제공 대상이 아닙니다."
+  nl: "Deze verbinding komt nu niet in aanmerking om te leveren."
+  pl: "To połączenie nie kwalifikuje się obecnie do udostępniania."
+  pt: "Esta ligação não é elegível para fornecer neste momento."
+  pt-BR: "Esta conexão não está qualificada para fornecer no momento."
+  pt-PT: "Esta ligação não é elegível para fornecer neste momento."
+  ru: "Это подключение сейчас не подходит для предоставления."
+  sv: "Den här anslutningen är inte berättigad att tillhandahålla just nu."
+  sw: "Muunganisho huu haustahili kutoa kwa sasa."
+  th: "การเชื่อมต่อนี้ไม่มีสิทธิ์ให้บริการในขณะนี้"
+  uk: "Це підключення зараз не підходить для надання."
+  vi: "Kết nối này hiện không đủ điều kiện để cung cấp."
+  zh: "此连接目前不符合提供条件。"
+  zh-HK: "此連接目前不符合提供條件。"

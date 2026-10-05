@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: explanation under the 5-minute reliability."
+source: "How steadily this device stayed connected over the last 5 minutes. It scales how often clients are offered this device; staying connected raises it."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "مدى ثبات اتصال هذا الجهاز خلال آخر 5 دقائق. تؤثر في عدد مرات عرض هذا الجهاز على العملاء، ويرفعها البقاء متصلًا."
+  cs: "Jak stabilně bylo toto zařízení připojené za posledních 5 minut. Ovlivňuje, jak často se nabízí klientům; nepřetržité připojení ji zvyšuje."
+  de: "Wie stabil dieses Gerät in den letzten 5 Minuten verbunden war. Sie bestimmt mit, wie oft es Clients angeboten wird; verbunden bleiben erhöht sie."
+  el: "Πόσο σταθερά έμεινε συνδεδεμένη αυτή η συσκευή τα τελευταία 5 λεπτά. Επηρεάζει πόσο συχνά προτείνεται σε πελάτες· η συνεχής σύνδεση την αυξάνει."
+  en: "How steadily this device stayed connected over the last 5 minutes. It scales how often clients are offered this device; staying connected raises it."
+  es: "Qué tan estable se mantuvo conectado este dispositivo en los últimos 5 minutos. Influye en la frecuencia con que se ofrece a los clientes; mantenerse conectado la aumenta."
+  es-419: "Qué tan estable se mantuvo conectado este dispositivo en los últimos 5 minutos. Influye en la frecuencia con que se ofrece a los clientes; mantenerse conectado la aumenta."
+  es-MX: "Qué tan estable se mantuvo conectado este dispositivo en los últimos 5 minutos. Influye en la frecuencia con que se ofrece a los clientes; mantenerse conectado la aumenta."
+  fr: "Stabilité de la connexion de cet appareil au cours des 5 dernières minutes. Elle module la fréquence à laquelle il est proposé aux clients ; rester connecté l'augmente."
+  he: "עד כמה המכשיר הזה נשאר מחובר ביציבות ב-5 הדקות האחרונות. היא משפיעה על התדירות שבה הוא מוצע ללקוחות; חיבור רציף מעלה אותה."
+  hi: "पिछले 5 मिनट में यह डिवाइस कितनी स्थिरता से कनेक्ट रहा। इससे तय होता है कि इसे क्लाइंट को कितनी बार पेश किया जाए; कनेक्ट बने रहने से यह बढ़ती है।"
+  id: "Seberapa stabil perangkat ini tetap terhubung dalam 5 menit terakhir. Ini memengaruhi seberapa sering perangkat ditawarkan ke klien; tetap terhubung akan menaikkannya."
+  it: "Quanto stabilmente questo dispositivo è rimasto connesso negli ultimi 5 minuti. Influisce su quanto spesso viene offerto ai client; restare connesso la aumenta."
+  ja: "過去5分間にこのデバイスがどれだけ安定して接続していたかを示します。クライアントに提示される頻度に影響し、接続を維持すると上がります。"
+  ko: "최근 5분 동안 이 기기가 얼마나 안정적으로 연결되어 있었는지를 나타냅니다. 클라이언트에게 제시되는 빈도에 영향을 주며, 연결을 유지하면 올라갑니다."
+  nl: "Hoe stabiel dit apparaat de afgelopen 5 minuten verbonden bleef. Dit bepaalt mee hoe vaak het aan clients wordt aangeboden; verbonden blijven verhoogt het."
+  pl: "Jak stabilnie to urządzenie było połączone w ciągu ostatnich 5 minut. Wpływa na to, jak często jest proponowane klientom; utrzymywanie połączenia ją zwiększa."
+  pt: "Quão estável este dispositivo se manteve ligado nos últimos 5 minutos. Influencia a frequência com que é oferecido aos clientes; manter-se ligado aumenta-a."
+  pt-BR: "Quão estável este dispositivo ficou conectado nos últimos 5 minutos. Influencia a frequência com que ele é oferecido aos clientes; permanecer conectado a aumenta."
+  pt-PT: "Quão estável este dispositivo se manteve ligado nos últimos 5 minutos. Influencia a frequência com que é oferecido aos clientes; manter-se ligado aumenta-a."
+  ru: "Насколько стабильно это устройство было подключено за последние 5 минут. Это влияет на то, как часто его предлагают клиентам; постоянное подключение повышает показатель."
+  sv: "Hur stabilt enheten var ansluten de senaste 5 minuterna. Den påverkar hur ofta enheten erbjuds klienter; att förbli ansluten höjer den."
+  sw: "Jinsi kifaa hiki kilivyobaki kimeunganishwa kwa uthabiti katika dakika 5 zilizopita. Huathiri mara ambazo kifaa hupendekezwa kwa wateja; kubaki umeunganishwa huuongeza."
+  th: "อุปกรณ์นี้เชื่อมต่ออย่างต่อเนื่องเพียงใดในช่วง 5 นาทีที่ผ่านมา มีผลต่อความถี่ที่อุปกรณ์ถูกเสนอให้ไคลเอนต์ การเชื่อมต่อต่อเนื่องจะช่วยเพิ่มค่านี้"
+  uk: "Наскільки стабільно цей пристрій був підключений за останні 5 хвилин. Це впливає на те, як часто його пропонують клієнтам; постійне підключення підвищує показник."
+  vi: "Mức độ ổn định của kết nối thiết bị này trong 5 phút qua. Ảnh hưởng đến tần suất thiết bị được đề xuất cho máy khách; duy trì kết nối sẽ tăng chỉ số này."
+  zh: "此设备在过去 5 分钟内保持连接的稳定程度。它影响此设备被推荐给客户端的频率；保持连接可以提高它。"
+  zh-HK: "此裝置在過去 5 分鐘內保持連接的穩定程度。它影響此裝置被推薦給客戶端的頻率；保持連接可以提高它。"

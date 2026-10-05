@@ -1,0 +1,36 @@
+description: "Provider status reason (location_invalid): the device was seen at more than one IP address, or its location is unknown."
+source: "This device is connecting from more than one address, or its location is unknown. Clients are offered only devices with one address and a known location."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يتصل هذا الجهاز من أكثر من عنوان، أو أن موقعه غير معروف. لا يُعرض على العملاء إلا الأجهزة ذات العنوان الواحد والموقع المعروف."
+  cs: "Toto zařízení se připojuje z více než jedné adresy, nebo je jeho poloha neznámá. Klientům se nabízejí jen zařízení s jednou adresou a známou polohou."
+  de: "Dieses Gerät verbindet sich von mehr als einer Adresse, oder sein Standort ist unbekannt. Clients werden nur Geräte mit einer Adresse und bekanntem Standort angeboten."
+  el: "Αυτή η συσκευή συνδέεται από περισσότερες από μία διευθύνσεις ή η τοποθεσία της είναι άγνωστη. Στους πελάτες προτείνονται μόνο συσκευές με μία διεύθυνση και γνωστή τοποθεσία."
+  en: "This device is connecting from more than one address, or its location is unknown. Clients are offered only devices with one address and a known location."
+  es: "Este dispositivo se conecta desde más de una dirección, o su ubicación es desconocida. A los clientes solo se les ofrecen dispositivos con una sola dirección y una ubicación conocida."
+  es-419: "Este dispositivo se conecta desde más de una dirección, o su ubicación es desconocida. A los clientes solo se les ofrecen dispositivos con una sola dirección y una ubicación conocida."
+  es-MX: "Este dispositivo se conecta desde más de una dirección, o su ubicación es desconocida. A los clientes solo se les ofrecen dispositivos con una sola dirección y una ubicación conocida."
+  fr: "Cet appareil se connecte depuis plusieurs adresses, ou sa position est inconnue. Seuls les appareils ayant une seule adresse et une position connue sont proposés aux clients."
+  he: "המכשיר הזה מתחבר מיותר מכתובת אחת, או שמיקומו אינו ידוע. ללקוחות מוצעים רק מכשירים עם כתובת אחת ומיקום ידוע."
+  hi: "यह डिवाइस एक से अधिक पते से कनेक्ट हो रहा है, या इसका स्थान अज्ञात है। क्लाइंट को केवल एक पते और ज्ञात स्थान वाले डिवाइस पेश किए जाते हैं।"
+  id: "Perangkat ini terhubung dari lebih dari satu alamat, atau lokasinya tidak diketahui. Klien hanya ditawari perangkat dengan satu alamat dan lokasi yang diketahui."
+  it: "Questo dispositivo si connette da più di un indirizzo, oppure la sua posizione è sconosciuta. Ai client vengono offerti solo dispositivi con un solo indirizzo e una posizione nota."
+  ja: "このデバイスは複数のアドレスから接続しているか、位置が不明です。クライアントには、アドレスが1つで位置がわかっているデバイスのみが提示されます。"
+  ko: "이 기기가 둘 이상의 주소에서 연결하고 있거나 위치를 알 수 없습니다. 클라이언트에게는 주소가 하나이고 위치가 확인된 기기만 제시됩니다."
+  nl: "Dit apparaat maakt verbinding vanaf meer dan één adres, of de locatie is onbekend. Aan clients worden alleen apparaten met één adres en een bekende locatie aangeboden."
+  pl: "To urządzenie łączy się z więcej niż jednego adresu albo jego lokalizacja jest nieznana. Klientom proponowane są tylko urządzenia z jednym adresem i znaną lokalizacją."
+  pt: "Este dispositivo está a ligar-se a partir de mais de um endereço, ou a sua localização é desconhecida. Só são oferecidos aos clientes dispositivos com um único endereço e uma localização conhecida."
+  pt-BR: "Este dispositivo está se conectando de mais de um endereço, ou sua localização é desconhecida. Somente dispositivos com um único endereço e uma localização conhecida são oferecidos aos clientes."
+  pt-PT: "Este dispositivo está a ligar-se a partir de mais de um endereço, ou a sua localização é desconhecida. Só são oferecidos aos clientes dispositivos com um único endereço e uma localização conhecida."
+  ru: "Это устройство подключается с нескольких адресов, или его местоположение неизвестно. Клиентам предлагаются только устройства с одним адресом и известным местоположением."
+  sv: "Den här enheten ansluter från mer än en adress, eller så är dess plats okänd. Klienter erbjuds bara enheter med en adress och en känd plats."
+  sw: "Kifaa hiki kinaunganisha kutoka anwani zaidi ya moja, au mahali kilipo hapajulikani. Wateja hupendekezewa vifaa vyenye anwani moja na mahali panapojulikana pekee."
+  th: "อุปกรณ์นี้เชื่อมต่อจากที่อยู่มากกว่าหนึ่งแห่ง หรือไม่ทราบตำแหน่ง ไคลเอนต์จะได้รับการเสนอเฉพาะอุปกรณ์ที่มีที่อยู่เดียวและทราบตำแหน่ง"
+  uk: "Цей пристрій підключається з кількох адрес, або його розташування невідоме. Клієнтам пропонують лише пристрої з однією адресою та відомим розташуванням."
+  vi: "Thiết bị này đang kết nối từ nhiều địa chỉ, hoặc không xác định được vị trí. Máy khách chỉ được đề xuất các thiết bị có một địa chỉ và vị trí đã biết."
+  zh: "此设备正从多个地址连接，或其位置未知。只有单一地址且位置已知的设备才会被推荐给客户端。"
+  zh-HK: "此裝置正從多個地址連接，或其位置未知。只有單一地址且位置已知的裝置才會被推薦給客戶端。"

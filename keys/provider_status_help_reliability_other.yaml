@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: explanation under a reliability measured over another window."
+source: "How steadily this device stayed connected over a longer window. It must reach the minimum to be offered to clients."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "مدى ثبات اتصال هذا الجهاز خلال فترة أطول. يجب أن تبلغ الحد الأدنى ليُعرض على العملاء."
+  cs: "Jak stabilně bylo toto zařízení připojené za delší období. Musí dosáhnout minima, aby se nabízelo klientům."
+  de: "Wie stabil dieses Gerät über einen längeren Zeitraum verbunden war. Sie muss das Minimum erreichen, damit es Clients angeboten wird."
+  el: "Πόσο σταθερά έμεινε συνδεδεμένη αυτή η συσκευή σε μεγαλύτερο διάστημα. Πρέπει να φτάσει το ελάχιστο για να προτείνεται σε πελάτες."
+  en: "How steadily this device stayed connected over a longer window. It must reach the minimum to be offered to clients."
+  es: "Qué tan estable se mantuvo conectado este dispositivo en un período más largo. Debe alcanzar el mínimo para ofrecerse a los clientes."
+  es-419: "Qué tan estable se mantuvo conectado este dispositivo en un período más largo. Debe alcanzar el mínimo para ofrecerse a los clientes."
+  es-MX: "Qué tan estable se mantuvo conectado este dispositivo en un período más largo. Debe alcanzar el mínimo para ofrecerse a los clientes."
+  fr: "Stabilité de la connexion de cet appareil sur une période plus longue. Elle doit atteindre le minimum pour qu'il soit proposé aux clients."
+  he: "עד כמה המכשיר הזה נשאר מחובר ביציבות לאורך פרק זמן ארוך יותר. היא חייבת להגיע למינימום כדי שהמכשיר יוצע ללקוחות."
+  hi: "लंबी अवधि में यह डिवाइस कितनी स्थिरता से कनेक्ट रहा। क्लाइंट को पेश किए जाने के लिए इसे न्यूनतम तक पहुँचना होगा।"
+  id: "Seberapa stabil perangkat ini tetap terhubung dalam rentang waktu yang lebih panjang. Nilainya harus mencapai batas minimum agar ditawarkan ke klien."
+  it: "Quanto stabilmente questo dispositivo è rimasto connesso in un periodo più lungo. Deve raggiungere il minimo perché venga offerto ai client."
+  ja: "より長い期間にこのデバイスがどれだけ安定して接続していたかを示します。クライアントに提示されるには最低値に達する必要があります。"
+  ko: "더 긴 기간 동안 이 기기가 얼마나 안정적으로 연결되어 있었는지를 나타냅니다. 클라이언트에게 제시되려면 최솟값에 도달해야 합니다."
+  nl: "Hoe stabiel dit apparaat over een langere periode verbonden bleef. Dit moet het minimum halen om aan clients te worden aangeboden."
+  pl: "Jak stabilnie to urządzenie było połączone w dłuższym okresie. Musi osiągnąć minimum, aby urządzenie było proponowane klientom."
+  pt: "Quão estável este dispositivo se manteve ligado num período mais longo. Tem de atingir o mínimo para ser oferecido aos clientes."
+  pt-BR: "Quão estável este dispositivo ficou conectado em um período mais longo. Ela precisa atingir o mínimo para que o dispositivo seja oferecido aos clientes."
+  pt-PT: "Quão estável este dispositivo se manteve ligado num período mais longo. Tem de atingir o mínimo para ser oferecido aos clientes."
+  ru: "Насколько стабильно это устройство было подключено за более длительный период. Показатель должен достичь минимума, чтобы устройство предлагали клиентам."
+  sv: "Hur stabilt enheten var ansluten under en längre period. Den måste nå miniminivån för att enheten ska erbjudas klienter."
+  sw: "Jinsi kifaa hiki kilivyobaki kimeunganishwa kwa uthabiti katika kipindi kirefu zaidi. Lazima ufikie kiwango cha chini ili kifaa kipendekezwe kwa wateja."
+  th: "อุปกรณ์นี้เชื่อมต่ออย่างต่อเนื่องเพียงใดในช่วงเวลาที่ยาวขึ้น ต้องถึงค่าขั้นต่ำจึงจะถูกเสนอให้ไคลเอนต์"
+  uk: "Наскільки стабільно цей пристрій був підключений за триваліший період. Показник має досягти мінімуму, щоб пристрій пропонували клієнтам."
+  vi: "Mức độ ổn định của kết nối thiết bị này trong một khoảng thời gian dài hơn. Chỉ số phải đạt mức tối thiểu để thiết bị được đề xuất cho máy khách."
+  zh: "此设备在更长时间段内保持连接的稳定程度。必须达到最低要求才会被推荐给客户端。"
+  zh-HK: "此裝置在更長時間段內保持連接的穩定程度。必須達到最低要求才會被推薦給客戶端。"

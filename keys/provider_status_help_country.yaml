@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: explanation under the country the device is offered in."
+source: "Clients who choose this country can be offered this device."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يمكن عرض هذا الجهاز على العملاء الذين يختارون هذه الدولة."
+  cs: "Klientům, kteří zvolí tuto zemi, může být toto zařízení nabídnuto."
+  de: "Clients, die dieses Land wählen, kann dieses Gerät angeboten werden."
+  el: "Αυτή η συσκευή μπορεί να προταθεί σε πελάτες που επιλέγουν αυτή τη χώρα."
+  en: "Clients who choose this country can be offered this device."
+  es: "Este dispositivo se puede ofrecer a los clientes que elijan este país."
+  es-419: "Este dispositivo se puede ofrecer a los clientes que elijan este país."
+  es-MX: "Este dispositivo se puede ofrecer a los clientes que elijan este país."
+  fr: "Cet appareil peut être proposé aux clients qui choisissent ce pays."
+  he: "המכשיר הזה יכול להיות מוצע ללקוחות שבוחרים במדינה הזו."
+  hi: "यह देश चुनने वाले क्लाइंट को यह डिवाइस पेश किया जा सकता है।"
+  id: "Perangkat ini dapat ditawarkan ke klien yang memilih negara ini."
+  it: "Questo dispositivo può essere offerto ai client che scelgono questo paese."
+  ja: "この国を選択したクライアントに、このデバイスが提示されることがあります。"
+  ko: "이 국가를 선택한 클라이언트에게 이 기기가 제시될 수 있습니다."
+  nl: "Dit apparaat kan worden aangeboden aan clients die dit land kiezen."
+  pl: "To urządzenie może zostać zaproponowane klientom, którzy wybiorą ten kraj."
+  pt: "Este dispositivo pode ser oferecido aos clientes que escolherem este país."
+  pt-BR: "Este dispositivo pode ser oferecido aos clientes que escolherem este país."
+  pt-PT: "Este dispositivo pode ser oferecido aos clientes que escolherem este país."
+  ru: "Это устройство могут предложить клиентам, которые выбирают эту страну."
+  sv: "Enheten kan erbjudas klienter som väljer det här landet."
+  sw: "Kifaa hiki kinaweza kupendekezwa kwa wateja wanaochagua nchi hii."
+  th: "อุปกรณ์นี้อาจถูกเสนอให้ไคลเอนต์ที่เลือกประเทศนี้"
+  uk: "Цей пристрій можуть запропонувати клієнтам, які вибирають цю країну."
+  vi: "Thiết bị này có thể được đề xuất cho máy khách chọn quốc gia này."
+  zh: "选择此国家的客户端可能会被推荐此设备。"
+  zh-HK: "選擇此國家的客戶端可能會被推薦此裝置。"

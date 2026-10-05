@@ -1,0 +1,36 @@
+description: "Provider status reason (slow): past the speed or delay cutoff."
+source: "This connection measured slower than clients need, so it is offered much less often."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "قيست سرعة هذا الاتصال بأقل مما يحتاجه العملاء، لذا يُعرض بوتيرة أقل بكثير."
+  cs: "Toto připojení bylo naměřeno pomalejší, než klienti potřebují, a proto se nabízí mnohem méně často."
+  de: "Diese Verbindung wurde langsamer gemessen, als Clients brauchen, deshalb wird sie viel seltener angeboten."
+  el: "Αυτή η σύνδεση μετρήθηκε πιο αργή από όσο χρειάζονται οι πελάτες, γι' αυτό προτείνεται πολύ λιγότερο συχνά."
+  en: "This connection measured slower than clients need, so it is offered much less often."
+  es: "Esta conexión se midió más lenta de lo que necesitan los clientes, por lo que se ofrece con mucha menos frecuencia."
+  es-419: "Esta conexión se midió más lenta de lo que necesitan los clientes, por lo que se ofrece con mucha menos frecuencia."
+  es-MX: "Esta conexión se midió más lenta de lo que necesitan los clientes, por lo que se ofrece con mucha menos frecuencia."
+  fr: "Cette connexion a été mesurée plus lente que ce dont les clients ont besoin ; elle est donc proposée beaucoup moins souvent."
+  he: "החיבור הזה נמדד כאיטי יותר ממה שהלקוחות צריכים, ולכן הוא מוצע בתדירות נמוכה בהרבה."
+  hi: "इस कनेक्शन की गति क्लाइंट की ज़रूरत से धीमी मापी गई, इसलिए इसे बहुत कम बार पेश किया जाता है।"
+  id: "Koneksi ini terukur lebih lambat dari yang dibutuhkan klien, sehingga jauh lebih jarang ditawarkan."
+  it: "Questa connessione è risultata più lenta di quanto richiesto dai client, quindi viene offerta molto meno spesso."
+  ja: "この接続はクライアントに必要な速度を下回ったため、提示される頻度がかなり低くなります。"
+  ko: "이 연결은 클라이언트에게 필요한 속도보다 느리게 측정되어 훨씬 덜 자주 제시됩니다."
+  nl: "Deze verbinding is trager gemeten dan clients nodig hebben, dus wordt ze veel minder vaak aangeboden."
+  pl: "To połączenie zmierzono jako wolniejsze, niż potrzebują klienci, więc jest proponowane znacznie rzadziej."
+  pt: "Esta ligação foi medida como mais lenta do que os clientes precisam, por isso é oferecida com muito menos frequência."
+  pt-BR: "Esta conexão foi medida como mais lenta do que os clientes precisam, por isso é oferecida com muito menos frequência."
+  pt-PT: "Esta ligação foi medida como mais lenta do que os clientes precisam, por isso é oferecida com muito menos frequência."
+  ru: "Скорость этого подключения ниже, чем нужно клиентам, поэтому его предлагают гораздо реже."
+  sv: "Den här anslutningen uppmättes som långsammare än vad klienter behöver, så den erbjuds mycket mer sällan."
+  sw: "Muunganisho huu ulipimwa kuwa wa polepole kuliko wateja wanavyohitaji, kwa hivyo hupendekezwa mara chache zaidi."
+  th: "การเชื่อมต่อนี้วัดได้ช้ากว่าที่ไคลเอนต์ต้องการ จึงถูกเสนอน้อยลงมาก"
+  uk: "Швидкість цього підключення нижча, ніж потрібно клієнтам, тому його пропонують набагато рідше."
+  vi: "Kết nối này được đo chậm hơn mức máy khách cần, nên được đề xuất ít hơn nhiều."
+  zh: "此连接的测速低于客户端所需，因此被推荐的频率会低很多。"
+  zh-HK: "此連接的測速低於客戶端所需，因此被推薦的頻率會低很多。"

@@ -1,0 +1,36 @@
+description: "Provider card: shown instead of the chart and reason when the status could not be loaded."
+source: "Provider status isn't available right now."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "حالة المزود غير متاحة الآن."
+  cs: "Stav poskytovatele teď není k dispozici."
+  de: "Der Anbieterstatus ist gerade nicht verfügbar."
+  el: "Η κατάσταση παρόχου δεν είναι διαθέσιμη αυτή τη στιγμή."
+  en: "Provider status isn't available right now."
+  es: "El estado del proveedor no está disponible en este momento."
+  es-419: "El estado del proveedor no está disponible en este momento."
+  es-MX: "El estado del proveedor no está disponible en este momento."
+  fr: "Le statut du fournisseur n'est pas disponible pour le moment."
+  he: "סטטוס הספק אינו זמין כרגע."
+  hi: "प्रदाता की स्थिति अभी उपलब्ध नहीं है।"
+  id: "Status penyedia tidak tersedia saat ini."
+  it: "Lo stato del provider non è disponibile al momento."
+  ja: "プロバイダーのステータスは現在利用できません。"
+  ko: "지금은 제공업체 상태를 확인할 수 없습니다."
+  nl: "De providerstatus is nu niet beschikbaar."
+  pl: "Stan dostawcy jest teraz niedostępny."
+  pt: "O estado do fornecedor não está disponível de momento."
+  pt-BR: "O status do provedor não está disponível no momento."
+  pt-PT: "O estado do fornecedor não está disponível de momento."
+  ru: "Статус провайдера сейчас недоступен."
+  sv: "Leverantörsstatus är inte tillgänglig just nu."
+  sw: "Hali ya mtoa huduma haipatikani kwa sasa."
+  th: "ไม่สามารถดูสถานะผู้ให้บริการได้ในขณะนี้"
+  uk: "Статус провайдера зараз недоступний."
+  vi: "Trạng thái nhà cung cấp hiện không khả dụng."
+  zh: "提供商状态暂时不可用。"
+  zh-HK: "供應商狀態暫時無法使用。"

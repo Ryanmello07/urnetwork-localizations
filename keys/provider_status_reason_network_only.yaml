@@ -1,0 +1,36 @@
+description: "Provider status reason (network_only). 'Always' is the provide mode label (key always)."
+source: "This device provides only to your own devices. Choose Always to share with everyone."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "هذا الجهاز يوفّر لأجهزتك فقط. اختر «دائمًا» للمشاركة مع الجميع."
+  cs: "Toto zařízení poskytuje jen vašim vlastním zařízením. Zvolte Vždy a sdílejte se všemi."
+  de: "Dieses Gerät stellt nur deinen eigenen Geräten bereit. Wähle Immer, um mit allen zu teilen."
+  el: "Αυτή η συσκευή παρέχει μόνο στις δικές σας συσκευές. Επιλέξτε Πάντα για κοινή χρήση με όλους."
+  en: "This device provides only to your own devices. Choose Always to share with everyone."
+  es: "Este dispositivo solo proporciona a tus propios dispositivos. Elige Siempre para compartir con todos."
+  es-419: "Este dispositivo solo proporciona a tus propios dispositivos. Elige Siempre para compartir con todos."
+  es-MX: "Este dispositivo solo proporciona a tus propios dispositivos. Elige Siempre para compartir con todos."
+  fr: "Cet appareil ne fournit qu'à vos propres appareils. Choisissez Toujours pour partager avec tout le monde."
+  he: "המכשיר הזה מספק רק למכשירים שלך. בחר תמיד כדי לשתף עם כולם."
+  hi: "यह डिवाइस केवल आपके अपने डिवाइस को प्रदान करता है। सभी के साथ साझा करने के लिए हमेशा चुनें।"
+  id: "Perangkat ini hanya menyediakan untuk perangkat Anda sendiri. Pilih Selalu untuk berbagi dengan semua orang."
+  it: "Questo dispositivo fornisce solo ai tuoi dispositivi. Scegli Sempre per condividere con tutti."
+  ja: "このデバイスは自分のデバイスにのみ提供しています。すべての人と共有するには「常に」を選択してください。"
+  ko: "이 기기는 내 기기에만 제공합니다. 모든 사람과 공유하려면 '항상'을 선택하세요."
+  nl: "Dit apparaat levert alleen aan je eigen apparaten. Kies Altijd om met iedereen te delen."
+  pl: "To urządzenie udostępnia tylko Twoim urządzeniom. Wybierz Zawsze, aby udostępniać wszystkim."
+  pt: "Este dispositivo fornece apenas aos seus próprios dispositivos. Escolha Sempre para partilhar com todos."
+  pt-BR: "Este dispositivo fornece apenas para seus próprios dispositivos. Escolha Sempre para compartilhar com todos."
+  pt-PT: "Este dispositivo fornece apenas aos seus próprios dispositivos. Escolha Sempre para partilhar com todos."
+  ru: "Это устройство предоставляет доступ только вашим устройствам. Выберите «Всегда», чтобы предоставлять его всем."
+  sv: "Den här enheten tillhandahåller bara till dina egna enheter. Välj Alltid för att dela med alla."
+  sw: "Kifaa hiki kinatoa kwa vifaa vyako tu. Chagua Daima ili kushiriki na kila mtu."
+  th: "อุปกรณ์นี้ให้บริการเฉพาะอุปกรณ์ของคุณเอง เลือก ตลอดเวลา เพื่อแชร์กับทุกคน"
+  uk: "Цей пристрій надає доступ лише вашим пристроям. Виберіть «Завжди», щоб надавати його всім."
+  vi: "Thiết bị này chỉ cung cấp cho thiết bị của riêng bạn. Chọn Luôn luôn để chia sẻ với mọi người."
+  zh: "此设备仅向你自己的设备提供。选择“始终”即可与所有人共享。"
+  zh-HK: "此裝置只向你自己的裝置提供。選擇「始終」即可與所有人分享。"

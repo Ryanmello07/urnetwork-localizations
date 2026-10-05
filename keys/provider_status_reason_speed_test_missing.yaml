@@ -1,0 +1,36 @@
+description: "Provider status reason (speed_test_missing)."
+source: "No speed test yet. Until one completes, clients are offered this device much less often."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "لم يُجرَ اختبار سرعة بعد. وإلى أن يكتمل أحدها، يُعرض هذا الجهاز على العملاء بوتيرة أقل بكثير."
+  cs: "Zatím žádný test rychlosti. Dokud neproběhne, nabízí se toto zařízení klientům mnohem méně často."
+  de: "Noch kein Geschwindigkeitstest. Bis einer abgeschlossen ist, wird dieses Gerät Clients viel seltener angeboten."
+  el: "Δεν έχει γίνει ακόμη δοκιμή ταχύτητας. Μέχρι να ολοκληρωθεί μία, η συσκευή προτείνεται σε πελάτες πολύ λιγότερο συχνά."
+  en: "No speed test yet. Until one completes, clients are offered this device much less often."
+  es: "Todavía no hay prueba de velocidad. Hasta que se complete una, este dispositivo se ofrece a los clientes con mucha menos frecuencia."
+  es-419: "Todavía no hay prueba de velocidad. Hasta que se complete una, este dispositivo se ofrece a los clientes con mucha menos frecuencia."
+  es-MX: "Todavía no hay prueba de velocidad. Hasta que se complete una, este dispositivo se ofrece a los clientes con mucha menos frecuencia."
+  fr: "Pas encore de test de vitesse. Tant qu'aucun n'est terminé, cet appareil est proposé beaucoup moins souvent aux clients."
+  he: "עדיין אין בדיקת מהירות. עד שאחת תושלם, המכשיר הזה יוצע ללקוחות בתדירות נמוכה בהרבה."
+  hi: "अभी तक कोई स्पीड टेस्ट नहीं हुआ। जब तक एक पूरा नहीं होता, यह डिवाइस क्लाइंट को बहुत कम बार पेश किया जाता है।"
+  id: "Belum ada tes kecepatan. Sampai ada yang selesai, perangkat ini jauh lebih jarang ditawarkan ke klien."
+  it: "Nessun test di velocità ancora. Finché non ne viene completato uno, questo dispositivo viene offerto ai client molto meno spesso."
+  ja: "速度テストはまだ行われていません。テストが完了するまで、このデバイスがクライアントに提示される頻度はかなり低くなります。"
+  ko: "아직 속도 테스트가 없습니다. 테스트가 완료될 때까지 이 기기는 클라이언트에게 훨씬 덜 자주 제시됩니다."
+  nl: "Nog geen snelheidstest. Tot er een is voltooid, wordt dit apparaat veel minder vaak aan clients aangeboden."
+  pl: "Brak jeszcze testu prędkości. Dopóki się nie zakończy, to urządzenie jest proponowane klientom znacznie rzadziej."
+  pt: "Ainda não há teste de velocidade. Até ser concluído um, este dispositivo é oferecido aos clientes com muito menos frequência."
+  pt-BR: "Ainda não há teste de velocidade. Até que um seja concluído, este dispositivo é oferecido aos clientes com muito menos frequência."
+  pt-PT: "Ainda não há teste de velocidade. Até ser concluído um, este dispositivo é oferecido aos clientes com muito menos frequência."
+  ru: "Теста скорости еще не было. Пока он не завершится, устройство будут предлагать клиентам гораздо реже."
+  sv: "Inget hastighetstest ännu. Tills ett har slutförts erbjuds enheten klienter mycket mer sällan."
+  sw: "Bado hakuna jaribio la kasi. Hadi moja likamilike, kifaa hiki hupendekezwa kwa wateja mara chache zaidi."
+  th: "ยังไม่มีการทดสอบความเร็ว จนกว่าจะทดสอบเสร็จ อุปกรณ์นี้จะถูกเสนอให้ไคลเอนต์น้อยลงมาก"
+  uk: "Тесту швидкості ще не було. Доки він не завершиться, пристрій пропонуватимуть клієнтам набагато рідше."
+  vi: "Chưa có kiểm tra tốc độ. Cho đến khi hoàn tất một lần, thiết bị này được đề xuất cho máy khách ít hơn nhiều."
+  zh: "尚未进行速度测试。在完成测试之前，此设备被推荐给客户端的频率会低很多。"
+  zh-HK: "尚未進行速度測試。在完成測試之前，此裝置被推薦給客戶端的頻率會低很多。"

@@ -1,0 +1,41 @@
+description: "Provider status 'Why?' list: a value with the most the network allows, e.g. '35 ms (at most 200 ms)'. Both arguments are already formatted text."
+source: "%@ (at most %@)"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: value
+    type: string
+  - name: maximum
+    type: string
+localizations:
+  ar: "{value} (بحد أقصى {maximum})"
+  cs: "{value} (nejvýše {maximum})"
+  de: "{value} (höchstens {maximum})"
+  el: "{value} (το πολύ {maximum})"
+  en: "{value} (at most {maximum})"
+  es: "{value} (como máximo {maximum})"
+  es-419: "{value} (como máximo {maximum})"
+  es-MX: "{value} (como máximo {maximum})"
+  fr: "{value} (au plus {maximum})"
+  he: "{value} (לכל היותר {maximum})"
+  hi: "{value} (अधिकतम {maximum})"
+  id: "{value} (maksimal {maximum})"
+  it: "{value} (al massimo {maximum})"
+  ja: "{value}（上限: {maximum}）"
+  ko: "{value}(최대 {maximum})"
+  nl: "{value} (hoogstens {maximum})"
+  pl: "{value} (najwyżej {maximum})"
+  pt: "{value} (no máximo {maximum})"
+  pt-BR: "{value} (no máximo {maximum})"
+  pt-PT: "{value} (no máximo {maximum})"
+  ru: "{value} (не более {maximum})"
+  sv: "{value} (högst {maximum})"
+  sw: "{value} (isizidi {maximum})"
+  th: "{value} (สูงสุด {maximum})"
+  uk: "{value} (не більше {maximum})"
+  vi: "{value} (tối đa {maximum})"
+  zh: "{value}（最多 {maximum}）"
+  zh-HK: "{value}（最多 {maximum}）"

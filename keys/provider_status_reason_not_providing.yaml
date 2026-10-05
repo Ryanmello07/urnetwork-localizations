@@ -1,0 +1,36 @@
+description: "Provider status reason (not_providing): the device is not set to provide."
+source: "This device isn't set to share its connection."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "هذا الجهاز غير مضبوط لمشاركة اتصاله."
+  cs: "Toto zařízení nemá nastavené sdílení připojení."
+  de: "Dieses Gerät ist nicht so eingestellt, dass es seine Verbindung teilt."
+  el: "Αυτή η συσκευή δεν έχει ρυθμιστεί να μοιράζεται τη σύνδεσή της."
+  en: "This device isn't set to share its connection."
+  es: "Este dispositivo no está configurado para compartir su conexión."
+  es-419: "Este dispositivo no está configurado para compartir su conexión."
+  es-MX: "Este dispositivo no está configurado para compartir su conexión."
+  fr: "Cet appareil n'est pas configuré pour partager sa connexion."
+  he: "המכשיר הזה לא מוגדר לשתף את החיבור שלו."
+  hi: "यह डिवाइस अपना कनेक्शन साझा करने के लिए सेट नहीं है।"
+  id: "Perangkat ini tidak diatur untuk berbagi koneksinya."
+  it: "Questo dispositivo non è impostato per condividere la sua connessione."
+  ja: "このデバイスは接続を共有するように設定されていません。"
+  ko: "이 기기는 연결을 공유하도록 설정되어 있지 않습니다."
+  nl: "Dit apparaat is niet ingesteld om zijn verbinding te delen."
+  pl: "To urządzenie nie jest ustawione na udostępnianie połączenia."
+  pt: "Este dispositivo não está configurado para partilhar a sua ligação."
+  pt-BR: "Este dispositivo não está configurado para compartilhar sua conexão."
+  pt-PT: "Este dispositivo não está configurado para partilhar a sua ligação."
+  ru: "На этом устройстве не включено предоставление подключения."
+  sv: "Den här enheten är inte inställd på att dela sin anslutning."
+  sw: "Kifaa hiki hakijawekwa kushiriki muunganisho wake."
+  th: "อุปกรณ์นี้ไม่ได้ตั้งค่าให้แชร์การเชื่อมต่อ"
+  uk: "На цьому пристрої не ввімкнено надання підключення."
+  vi: "Thiết bị này chưa được đặt để chia sẻ kết nối."
+  zh: "此设备未设置为共享其连接。"
+  zh-HK: "此裝置未設定為分享其連接。"

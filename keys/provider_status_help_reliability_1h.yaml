@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: explanation under the 1-hour reliability."
+source: "How steadily this device stayed connected over the last hour. It must reach the minimum to be offered to clients; disconnects lower it and steady uptime raises it."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "مدى ثبات اتصال هذا الجهاز خلال الساعة الأخيرة. يجب أن تبلغ الحد الأدنى ليُعرض على العملاء؛ تخفضها الانقطاعات ويرفعها الاتصال المستقر."
+  cs: "Jak stabilně bylo toto zařízení připojené za poslední hodinu. Musí dosáhnout minima, aby se nabízelo klientům; odpojení ji snižují a stabilní provoz zvyšuje."
+  de: "Wie stabil dieses Gerät in der letzten Stunde verbunden war. Sie muss das Minimum erreichen, damit es Clients angeboten wird; Verbindungsabbrüche senken sie, stabile Laufzeit erhöht sie."
+  el: "Πόσο σταθερά έμεινε συνδεδεμένη αυτή η συσκευή την τελευταία ώρα. Πρέπει να φτάσει το ελάχιστο για να προτείνεται σε πελάτες· οι αποσυνδέσεις τη μειώνουν και η σταθερή λειτουργία την αυξάνει."
+  en: "How steadily this device stayed connected over the last hour. It must reach the minimum to be offered to clients; disconnects lower it and steady uptime raises it."
+  es: "Qué tan estable se mantuvo conectado este dispositivo en la última hora. Debe alcanzar el mínimo para ofrecerse a los clientes; las desconexiones la bajan y el funcionamiento estable la sube."
+  es-419: "Qué tan estable se mantuvo conectado este dispositivo en la última hora. Debe alcanzar el mínimo para ofrecerse a los clientes; las desconexiones la bajan y el funcionamiento estable la sube."
+  es-MX: "Qué tan estable se mantuvo conectado este dispositivo en la última hora. Debe alcanzar el mínimo para ofrecerse a los clientes; las desconexiones la bajan y el funcionamiento estable la sube."
+  fr: "Stabilité de la connexion de cet appareil au cours de la dernière heure. Elle doit atteindre le minimum pour qu'il soit proposé aux clients ; les déconnexions la font baisser et une disponibilité stable l'augmente."
+  he: "עד כמה המכשיר הזה נשאר מחובר ביציבות בשעה האחרונה. היא חייבת להגיע למינימום כדי שהמכשיר יוצע ללקוחות; ניתוקים מורידים אותה וזמינות יציבה מעלה אותה."
+  hi: "पिछले एक घंटे में यह डिवाइस कितनी स्थिरता से कनेक्ट रहा। क्लाइंट को पेश किए जाने के लिए इसे न्यूनतम तक पहुँचना होगा; डिस्कनेक्ट होने से यह घटती है और स्थिर अपटाइम से बढ़ती है।"
+  id: "Seberapa stabil perangkat ini tetap terhubung dalam satu jam terakhir. Nilainya harus mencapai batas minimum agar ditawarkan ke klien; pemutusan koneksi menurunkannya dan waktu aktif yang stabil menaikkannya."
+  it: "Quanto stabilmente questo dispositivo è rimasto connesso nell'ultima ora. Deve raggiungere il minimo perché venga offerto ai client; le disconnessioni la abbassano e un'attività stabile la aumenta."
+  ja: "過去1時間にこのデバイスがどれだけ安定して接続していたかを示します。クライアントに提示されるには最低値に達する必要があります。切断すると下がり、安定して稼働すると上がります。"
+  ko: "최근 1시간 동안 이 기기가 얼마나 안정적으로 연결되어 있었는지를 나타냅니다. 클라이언트에게 제시되려면 최솟값에 도달해야 합니다. 연결이 끊기면 내려가고 안정적으로 가동하면 올라갑니다."
+  nl: "Hoe stabiel dit apparaat het afgelopen uur verbonden bleef. Dit moet het minimum halen om aan clients te worden aangeboden; verbroken verbindingen verlagen het en stabiele uptime verhoogt het."
+  pl: "Jak stabilnie to urządzenie było połączone w ciągu ostatniej godziny. Musi osiągnąć minimum, aby urządzenie było proponowane klientom; rozłączenia ją obniżają, a stabilna praca zwiększa."
+  pt: "Quão estável este dispositivo se manteve ligado na última hora. Tem de atingir o mínimo para ser oferecido aos clientes; as desconexões fazem-na descer e o funcionamento estável fá-la subir."
+  pt-BR: "Quão estável este dispositivo ficou conectado na última hora. Ela precisa atingir o mínimo para que o dispositivo seja oferecido aos clientes; desconexões a reduzem e o funcionamento estável a aumenta."
+  pt-PT: "Quão estável este dispositivo se manteve ligado na última hora. Tem de atingir o mínimo para ser oferecido aos clientes; as desconexões fazem-na descer e o funcionamento estável fá-la subir."
+  ru: "Насколько стабильно это устройство было подключено за последний час. Показатель должен достичь минимума, чтобы устройство предлагали клиентам; отключения его снижают, а стабильная работа повышает."
+  sv: "Hur stabilt enheten var ansluten den senaste timmen. Den måste nå miniminivån för att enheten ska erbjudas klienter; frånkopplingar sänker den och stabil drifttid höjer den."
+  sw: "Jinsi kifaa hiki kilivyobaki kimeunganishwa kwa uthabiti katika saa iliyopita. Lazima ufikie kiwango cha chini ili kifaa kipendekezwe kwa wateja; kukatika huupunguza na kufanya kazi bila kukatika huuongeza."
+  th: "อุปกรณ์นี้เชื่อมต่ออย่างต่อเนื่องเพียงใดในชั่วโมงที่ผ่านมา ต้องถึงค่าขั้นต่ำจึงจะถูกเสนอให้ไคลเอนต์ การหลุดการเชื่อมต่อทำให้ลดลง และการออนไลน์อย่างต่อเนื่องทำให้เพิ่มขึ้น"
+  uk: "Наскільки стабільно цей пристрій був підключений за останню годину. Показник має досягти мінімуму, щоб пристрій пропонували клієнтам; відключення його знижують, а стабільна робота підвищує."
+  vi: "Mức độ ổn định của kết nối thiết bị này trong giờ qua. Chỉ số phải đạt mức tối thiểu để thiết bị được đề xuất cho máy khách; mất kết nối làm giảm và hoạt động ổn định làm tăng."
+  zh: "此设备在过去一小时内保持连接的稳定程度。必须达到最低要求才会被推荐给客户端；断开连接会降低它，稳定在线会提高它。"
+  zh-HK: "此裝置在過去一小時內保持連接的穩定程度。必須達到最低要求才會被推薦給客戶端；中斷連接會降低它，穩定在線會提高它。"

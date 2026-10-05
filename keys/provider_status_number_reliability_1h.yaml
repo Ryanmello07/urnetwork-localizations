@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: label of the reliability over the last hour."
+source: "Reliability, last hour"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "الموثوقية، آخر ساعة"
+  cs: "Spolehlivost, poslední hodina"
+  de: "Zuverlässigkeit, letzte Stunde"
+  el: "Αξιοπιστία, τελευταία ώρα"
+  en: "Reliability, last hour"
+  es: "Fiabilidad, última hora"
+  es-419: "Fiabilidad, última hora"
+  es-MX: "Fiabilidad, última hora"
+  fr: "Fiabilité, dernière heure"
+  he: "אמינות, השעה האחרונה"
+  hi: "विश्वसनीयता, पिछला एक घंटा"
+  id: "Keandalan, 1 jam terakhir"
+  it: "Affidabilità, ultima ora"
+  ja: "信頼性（過去1時間）"
+  ko: "신뢰성(최근 1시간)"
+  nl: "Betrouwbaarheid, afgelopen uur"
+  pl: "Niezawodność, ostatnia godzina"
+  pt: "Fiabilidade, última hora"
+  pt-BR: "Confiabilidade, última hora"
+  pt-PT: "Confiabilidade, última hora"
+  ru: "Надежность, последний час"
+  sv: "Tillförlitlighet, senaste timmen"
+  sw: "Uaminifu, saa iliyopita"
+  th: "ความน่าเชื่อถือ 1 ชั่วโมงล่าสุด"
+  uk: "Надійність, остання година"
+  vi: "Độ tin cậy, 1 giờ qua"
+  zh: "可靠性（过去 1 小时）"
+  zh-HK: "可靠性（過去 1 小時）"

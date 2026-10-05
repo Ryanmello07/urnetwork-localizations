@@ -1,0 +1,36 @@
+description: "Provider card chart: shown when every bar is zero."
+source: "Not offered to clients in the last hour"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "لم يُعرض على العملاء خلال الساعة الأخيرة"
+  cs: "Za poslední hodinu nebylo nabídnuto žádným klientům"
+  de: "In der letzten Stunde keinen Clients angeboten"
+  el: "Δεν προτάθηκε σε πελάτες την τελευταία ώρα"
+  en: "Not offered to clients in the last hour"
+  es: "No se ofreció a clientes en la última hora"
+  es-419: "No se ofreció a clientes en la última hora"
+  es-MX: "No se ofreció a clientes en la última hora"
+  fr: "Pas proposé aux clients au cours de la dernière heure"
+  he: "לא הוצע ללקוחות בשעה האחרונה"
+  hi: "पिछले एक घंटे में क्लाइंट को पेश नहीं किया गया"
+  id: "Tidak ditawarkan ke klien dalam satu jam terakhir"
+  it: "Non offerto ai client nell'ultima ora"
+  ja: "過去1時間、クライアントに提示されていません"
+  ko: "최근 1시간 동안 클라이언트에게 제시되지 않음"
+  nl: "Het afgelopen uur niet aan clients aangeboden"
+  pl: "Nie zaproponowano klientom w ciągu ostatniej godziny"
+  pt: "Não foi oferecido a clientes na última hora"
+  pt-BR: "Não foi oferecido a clientes na última hora"
+  pt-PT: "Não foi oferecido a clientes na última hora"
+  ru: "За последний час не предлагалось клиентам"
+  sv: "Inte erbjuden till klienter den senaste timmen"
+  sw: "Hakijapendekezwa kwa wateja katika saa iliyopita"
+  th: "ไม่ถูกเสนอให้ไคลเอนต์ในชั่วโมงที่ผ่านมา"
+  uk: "За останню годину не пропонувався клієнтам"
+  vi: "Không được đề xuất cho máy khách trong giờ qua"
+  zh: "过去一小时内未被推荐给客户端"
+  zh-HK: "過去一小時內未被推薦給客戶端"

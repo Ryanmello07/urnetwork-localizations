@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: explanation under both selection weights."
+source: "Combines reliability, speed and passed network checks. Clients are offered providers with a higher weight more often."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يجمع بين الموثوقية والسرعة وفحوصات الشبكة الناجحة. يُعرض المزودون ذوو الوزن الأعلى على العملاء بوتيرة أكبر."
+  cs: "Kombinuje spolehlivost, rychlost a úspěšné kontroly sítě. Poskytovatelé s vyšší váhou se klientům nabízejí častěji."
+  de: "Kombiniert Zuverlässigkeit, Geschwindigkeit und bestandene Netzwerkprüfungen. Anbieter mit höherem Gewicht werden Clients häufiger angeboten."
+  el: "Συνδυάζει αξιοπιστία, ταχύτητα και επιτυχημένους ελέγχους δικτύου. Οι πάροχοι με μεγαλύτερο βάρος προτείνονται συχνότερα στους πελάτες."
+  en: "Combines reliability, speed and passed network checks. Clients are offered providers with a higher weight more often."
+  es: "Combina fiabilidad, velocidad y comprobaciones de red superadas. A los clientes se les ofrecen con más frecuencia los proveedores con mayor peso."
+  es-419: "Combina fiabilidad, velocidad y verificaciones de red aprobadas. A los clientes se les ofrecen con más frecuencia los proveedores con mayor peso."
+  es-MX: "Combina fiabilidad, velocidad y verificaciones de red aprobadas. A los clientes se les ofrecen con más frecuencia los proveedores con mayor peso."
+  fr: "Combine la fiabilité, la vitesse et les vérifications réseau réussies. Les fournisseurs ayant un poids plus élevé sont proposés plus souvent aux clients."
+  he: "משלב אמינות, מהירות ובדיקות רשת שעברו. ספקים עם משקל גבוה יותר מוצעים ללקוחות לעיתים קרובות יותר."
+  hi: "विश्वसनीयता, गति और पास हुई नेटवर्क जाँचों को मिलाता है। अधिक भार वाले प्रदाता क्लाइंट को अधिक बार पेश किए जाते हैं।"
+  id: "Menggabungkan keandalan, kecepatan, dan pemeriksaan jaringan yang lulus. Penyedia dengan bobot lebih tinggi lebih sering ditawarkan ke klien."
+  it: "Combina affidabilità, velocità e controlli di rete superati. I provider con un peso maggiore vengono offerti più spesso ai client."
+  ja: "信頼性、速度、合格したネットワークチェックを組み合わせた値です。重みが大きいプロバイダーほど、クライアントに頻繁に提示されます。"
+  ko: "신뢰성, 속도, 통과한 네트워크 검사를 결합한 값입니다. 가중치가 높은 제공업체일수록 클라이언트에게 더 자주 제시됩니다."
+  nl: "Combineert betrouwbaarheid, snelheid en geslaagde netwerkcontroles. Providers met een hoger gewicht worden vaker aan clients aangeboden."
+  pl: "Łączy niezawodność, prędkość i zaliczone kontrole sieci. Dostawcy z wyższą wagą są częściej proponowani klientom."
+  pt: "Combina fiabilidade, velocidade e verificações de rede aprovadas. Os fornecedores com maior peso são oferecidos aos clientes com mais frequência."
+  pt-BR: "Combina confiabilidade, velocidade e verificações de rede aprovadas. Provedores com peso maior são oferecidos aos clientes com mais frequência."
+  pt-PT: "Combina confiabilidade, velocidade e verificações de rede aprovadas. Os fornecedores com maior peso são oferecidos aos clientes com mais frequência."
+  ru: "Сочетает надежность, скорость и пройденные проверки сети. Провайдеров с большим весом предлагают клиентам чаще."
+  sv: "Kombinerar tillförlitlighet, hastighet och godkända nätverkskontroller. Leverantörer med högre vikt erbjuds klienter oftare."
+  sw: "Huunganisha uaminifu, kasi na ukaguzi wa mtandao uliofaulu. Watoa huduma wenye uzito mkubwa zaidi hupendekezwa kwa wateja mara nyingi zaidi."
+  th: "รวมความน่าเชื่อถือ ความเร็ว และการตรวจสอบเครือข่ายที่ผ่าน ผู้ให้บริการที่มีน้ำหนักสูงกว่าจะถูกเสนอให้ไคลเอนต์บ่อยกว่า"
+  uk: "Поєднує надійність, швидкість і пройдені перевірки мережі. Провайдерів із більшою вагою пропонують клієнтам частіше."
+  vi: "Kết hợp độ tin cậy, tốc độ và các lần kiểm tra mạng đã đạt. Nhà cung cấp có trọng số cao hơn được đề xuất cho máy khách thường xuyên hơn."
+  zh: "综合可靠性、速度和已通过的网络检查。权重越高的提供商，被推荐给客户端的次数越多。"
+  zh-HK: "綜合可靠性、速度和已通過的網絡檢查。權重越高的供應商，被推薦給客戶端的次數越多。"

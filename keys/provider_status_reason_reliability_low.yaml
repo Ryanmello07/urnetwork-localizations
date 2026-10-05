@@ -1,0 +1,36 @@
+description: "Provider status reason (reliability_low): the last hour's reliability is below the minimum."
+source: "Reliability over the last hour is below what clients need. It rises with every minute this device stays connected; disconnects lower it."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "الموثوقية خلال الساعة الأخيرة أقل مما يحتاجه العملاء. ترتفع مع كل دقيقة يبقى فيها هذا الجهاز متصلًا، وتنخفض مع كل انقطاع."
+  cs: "Spolehlivost za poslední hodinu je nižší, než klienti potřebují. Roste s každou minutou, kdy zůstane toto zařízení připojené; odpojení ji snižují."
+  de: "Die Zuverlässigkeit der letzten Stunde liegt unter dem, was Clients brauchen. Sie steigt mit jeder Minute, die dieses Gerät verbunden bleibt; Verbindungsabbrüche senken sie."
+  el: "Η αξιοπιστία της τελευταίας ώρας είναι χαμηλότερη από όση χρειάζονται οι πελάτες. Αυξάνεται με κάθε λεπτό που η συσκευή μένει συνδεδεμένη· οι αποσυνδέσεις τη μειώνουν."
+  en: "Reliability over the last hour is below what clients need. It rises with every minute this device stays connected; disconnects lower it."
+  es: "La fiabilidad de la última hora está por debajo de lo que necesitan los clientes. Sube con cada minuto que este dispositivo permanece conectado; las desconexiones la bajan."
+  es-419: "La fiabilidad de la última hora está por debajo de lo que necesitan los clientes. Sube con cada minuto que este dispositivo permanece conectado; las desconexiones la bajan."
+  es-MX: "La fiabilidad de la última hora está por debajo de lo que necesitan los clientes. Sube con cada minuto que este dispositivo permanece conectado; las desconexiones la bajan."
+  fr: "La fiabilité de la dernière heure est inférieure à ce dont les clients ont besoin. Elle augmente à chaque minute où cet appareil reste connecté ; les déconnexions la font baisser."
+  he: "האמינות בשעה האחרונה נמוכה ממה שהלקוחות צריכים. היא עולה עם כל דקה שהמכשיר נשאר מחובר; ניתוקים מורידים אותה."
+  hi: "पिछले एक घंटे की विश्वसनीयता क्लाइंट की ज़रूरत से कम है। यह डिवाइस जितनी देर कनेक्ट रहता है, हर मिनट के साथ यह बढ़ती है; डिस्कनेक्ट होने से घटती है।"
+  id: "Keandalan selama satu jam terakhir di bawah kebutuhan klien. Keandalan naik setiap menit perangkat ini tetap terhubung; pemutusan koneksi menurunkannya."
+  it: "L'affidabilità dell'ultima ora è inferiore a quella richiesta dai client. Aumenta con ogni minuto in cui questo dispositivo resta connesso; le disconnessioni la abbassano."
+  ja: "過去1時間の信頼性がクライアントに必要な水準を下回っています。このデバイスが接続を維持する1分ごとに上がり、切断すると下がります。"
+  ko: "최근 1시간의 신뢰성이 클라이언트에게 필요한 수준보다 낮습니다. 이 기기가 연결을 유지하는 1분마다 올라가고, 연결이 끊기면 내려갑니다."
+  nl: "De betrouwbaarheid over het afgelopen uur is lager dan clients nodig hebben. Die stijgt met elke minuut dat dit apparaat verbonden blijft; verbroken verbindingen verlagen haar."
+  pl: "Niezawodność z ostatniej godziny jest niższa, niż potrzebują klienci. Rośnie z każdą minutą, przez którą to urządzenie pozostaje połączone; rozłączenia ją obniżają."
+  pt: "A fiabilidade da última hora está abaixo do que os clientes precisam. Aumenta a cada minuto que este dispositivo se mantém ligado; as desconexões fazem-na descer."
+  pt-BR: "A confiabilidade da última hora está abaixo do que os clientes precisam. Ela aumenta a cada minuto em que este dispositivo permanece conectado; desconexões a reduzem."
+  pt-PT: "A confiabilidade da última hora está abaixo do que os clientes precisam. Aumenta a cada minuto que este dispositivo se mantém ligado; as desconexões fazem-na descer."
+  ru: "Надежность за последний час ниже, чем нужно клиентам. Она растет с каждой минутой, пока устройство остается подключенным; отключения ее снижают."
+  sv: "Tillförlitligheten den senaste timmen är lägre än vad klienter behöver. Den ökar för varje minut som enheten förblir ansluten; frånkopplingar sänker den."
+  sw: "Uaminifu katika saa iliyopita uko chini ya kile wateja wanachohitaji. Huongezeka kila dakika kifaa hiki kikiendelea kuunganishwa; kukatika kwa muunganisho huupunguza."
+  th: "ความน่าเชื่อถือในชั่วโมงที่ผ่านมาต่ำกว่าที่ไคลเอนต์ต้องการ จะเพิ่มขึ้นทุกนาทีที่อุปกรณ์นี้เชื่อมต่ออยู่ และลดลงเมื่อการเชื่อมต่อขาดหาย"
+  uk: "Надійність за останню годину нижча, ніж потрібно клієнтам. Вона зростає з кожною хвилиною, поки пристрій залишається підключеним; відключення її знижують."
+  vi: "Độ tin cậy trong giờ qua thấp hơn mức máy khách cần. Độ tin cậy tăng theo mỗi phút thiết bị này duy trì kết nối; mất kết nối sẽ làm giảm."
+  zh: "过去一小时的可靠性低于客户端所需。此设备每保持连接一分钟，可靠性就会提升；断开连接会降低可靠性。"
+  zh-HK: "過去一小時的可靠性低於客戶端所需。此裝置每保持連接一分鐘，可靠性就會提升；中斷連接會降低可靠性。"

@@ -1,0 +1,36 @@
+description: "Provider card: expandable section title that reveals the numbers the network ranks this device by, with explanations."
+source: "Why?"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "لماذا؟"
+  cs: "Proč?"
+  de: "Warum?"
+  el: "Γιατί;"
+  en: "Why?"
+  es: "¿Por qué?"
+  es-419: "¿Por qué?"
+  es-MX: "¿Por qué?"
+  fr: "Pourquoi ?"
+  he: "למה?"
+  hi: "क्यों?"
+  id: "Mengapa?"
+  it: "Perché?"
+  ja: "なぜ？"
+  ko: "이유"
+  nl: "Waarom?"
+  pl: "Dlaczego?"
+  pt: "Porquê?"
+  pt-BR: "Por quê?"
+  pt-PT: "Porquê?"
+  ru: "Почему?"
+  sv: "Varför?"
+  sw: "Kwa nini?"
+  th: "ทำไม?"
+  uk: "Чому?"
+  vi: "Tại sao?"
+  zh: "为什么？"
+  zh-HK: "為甚麼？"

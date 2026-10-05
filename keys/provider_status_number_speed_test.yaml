@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: label of the measured speed."
+source: "Speed test"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "اختبار السرعة"
+  cs: "Test rychlosti"
+  de: "Geschwindigkeitstest"
+  el: "Δοκιμή ταχύτητας"
+  en: "Speed test"
+  es: "Prueba de velocidad"
+  es-419: "Prueba de velocidad"
+  es-MX: "Prueba de velocidad"
+  fr: "Test de vitesse"
+  he: "בדיקת מהירות"
+  hi: "स्पीड टेस्ट"
+  id: "Tes kecepatan"
+  it: "Test di velocità"
+  ja: "速度テスト"
+  ko: "속도 테스트"
+  nl: "Snelheidstest"
+  pl: "Test prędkości"
+  pt: "Teste de velocidade"
+  pt-BR: "Teste de velocidade"
+  pt-PT: "Teste de velocidade"
+  ru: "Тест скорости"
+  sv: "Hastighetstest"
+  sw: "Jaribio la kasi"
+  th: "การทดสอบความเร็ว"
+  uk: "Тест швидкості"
+  vi: "Kiểm tra tốc độ"
+  zh: "速度测试"
+  zh-HK: "速度測試"

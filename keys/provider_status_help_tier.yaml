@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: explanation under both tiers."
+source: "Clients try lower tiers first. 0 is best; 3 means past the speed or delay cutoff."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يجرّب العملاء المستويات الأدنى أولًا. 0 هو الأفضل؛ و3 يعني تجاوز حد السرعة أو التأخير."
+  cs: "Klienti zkoušejí nejdřív nižší úrovně. 0 je nejlepší; 3 znamená překročení limitu rychlosti nebo zpoždění."
+  de: "Clients versuchen zuerst niedrigere Stufen. 0 ist am besten; 3 bedeutet jenseits der Grenze für Geschwindigkeit oder Verzögerung."
+  el: "Οι πελάτες δοκιμάζουν πρώτα τις χαμηλότερες βαθμίδες. Το 0 είναι το καλύτερο· το 3 σημαίνει πέρα από το όριο ταχύτητας ή καθυστέρησης."
+  en: "Clients try lower tiers first. 0 is best; 3 means past the speed or delay cutoff."
+  es: "Los clientes prueban primero los niveles más bajos. 0 es el mejor; 3 significa que supera el límite de velocidad o de latencia."
+  es-419: "Los clientes prueban primero los niveles más bajos. 0 es el mejor; 3 significa que supera el límite de velocidad o de latencia."
+  es-MX: "Los clientes prueban primero los niveles más bajos. 0 es el mejor; 3 significa que supera el límite de velocidad o de latencia."
+  fr: "Les clients essaient d'abord les niveaux les plus bas. 0 est le meilleur ; 3 signifie au-delà du seuil de vitesse ou de latence."
+  he: "לקוחות מנסים קודם דרגים נמוכים יותר. 0 הוא הטוב ביותר; 3 פירושו חריגה מסף המהירות או ההשהיה."
+  hi: "क्लाइंट पहले निचले स्तर आज़माते हैं। 0 सबसे अच्छा है; 3 का मतलब गति या विलंब की सीमा से बाहर है।"
+  id: "Klien mencoba tingkat yang lebih rendah lebih dulu. 0 adalah yang terbaik; 3 berarti melewati batas kecepatan atau latensi."
+  it: "I client provano prima i livelli più bassi. 0 è il migliore; 3 significa oltre la soglia di velocità o di latenza."
+  ja: "クライアントは低いティアから試します。0が最良で、3は速度または遅延の基準を超えていることを示します。"
+  ko: "클라이언트는 낮은 등급부터 시도합니다. 0이 가장 좋으며, 3은 속도 또는 지연 기준을 넘었다는 뜻입니다."
+  nl: "Clients proberen eerst lagere niveaus. 0 is het best; 3 betekent voorbij de grens voor snelheid of vertraging."
+  pl: "Klienci najpierw próbują niższych poziomów. 0 to najlepszy; 3 oznacza przekroczenie progu prędkości lub opóźnienia."
+  pt: "Os clientes experimentam primeiro os níveis mais baixos. 0 é o melhor; 3 significa que ultrapassou o limite de velocidade ou de latência."
+  pt-BR: "Os clientes tentam primeiro os níveis mais baixos. 0 é o melhor; 3 significa que passou do limite de velocidade ou de latência."
+  pt-PT: "Os clientes experimentam primeiro os níveis mais baixos. 0 é o melhor; 3 significa que ultrapassou o limite de velocidade ou de latência."
+  ru: "Клиенты сначала пробуют более низкие уровни. 0 — лучший; 3 означает выход за порог скорости или задержки."
+  sv: "Klienter provar lägre nivåer först. 0 är bäst; 3 betyder bortom gränsen för hastighet eller fördröjning."
+  sw: "Wateja hujaribu madaraja ya chini kwanza. 0 ndilo bora; 3 inamaanisha imepita kikomo cha kasi au ucheleweshaji."
+  th: "ไคลเอนต์จะลองระดับที่ต่ำกว่าก่อน 0 ดีที่สุด ส่วน 3 หมายถึงเกินเกณฑ์ความเร็วหรือความหน่วง"
+  uk: "Клієнти спершу пробують нижчі рівні. 0 — найкращий; 3 означає вихід за поріг швидкості або затримки."
+  vi: "Máy khách thử các bậc thấp hơn trước. 0 là tốt nhất; 3 nghĩa là vượt ngưỡng tốc độ hoặc độ trễ."
+  zh: "客户端会先尝试较低的层级。0 为最佳；3 表示超出速度或延迟限制。"
+  zh-HK: "客戶端會先嘗試較低的層級。0 為最佳；3 表示超出速度或延遲限制。"

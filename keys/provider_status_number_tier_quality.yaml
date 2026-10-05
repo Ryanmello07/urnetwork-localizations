@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: label of the device's tier for quality-ranked requests (0 is best)."
+source: "Tier (quality)"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "المستوى (الجودة)"
+  cs: "Úroveň (kvalita)"
+  de: "Stufe (Qualität)"
+  el: "Βαθμίδα (ποιότητα)"
+  en: "Tier (quality)"
+  es: "Nivel (calidad)"
+  es-419: "Nivel (calidad)"
+  es-MX: "Nivel (calidad)"
+  fr: "Niveau (qualité)"
+  he: "דרג (איכות)"
+  hi: "स्तर (गुणवत्ता)"
+  id: "Tingkat (kualitas)"
+  it: "Livello (qualità)"
+  ja: "ティア（品質）"
+  ko: "등급(품질)"
+  nl: "Niveau (kwaliteit)"
+  pl: "Poziom (jakość)"
+  pt: "Nível (qualidade)"
+  pt-BR: "Nível (qualidade)"
+  pt-PT: "Nível (qualidade)"
+  ru: "Уровень (качество)"
+  sv: "Nivå (kvalitet)"
+  sw: "Daraja (ubora)"
+  th: "ระดับ (คุณภาพ)"
+  uk: "Рівень (якість)"
+  vi: "Bậc (chất lượng)"
+  zh: "层级（质量）"
+  zh-HK: "層級（質素）"

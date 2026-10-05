@@ -1,0 +1,36 @@
+description: "Provider card, under the provide mode row: providing is paused because it is limited to Wi-Fi and the device is on another network."
+source: "Paused: providing is set to Wi-Fi only, and this device isn't on Wi-Fi."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "متوقف مؤقتًا: التوفير مضبوط على الواي فاي فقط، وهذا الجهاز غير متصل بالواي فاي."
+  cs: "Pozastaveno: poskytování je nastaveno jen na Wi-Fi a toto zařízení není připojeno k Wi-Fi."
+  de: "Pausiert: Die Bereitstellung ist auf „nur WLAN“ eingestellt, und dieses Gerät ist nicht im WLAN."
+  el: "Σε παύση: η παροχή έχει οριστεί μόνο για Wi-Fi και αυτή η συσκευή δεν είναι συνδεδεμένη σε Wi-Fi."
+  en: "Paused: providing is set to Wi-Fi only, and this device isn't on Wi-Fi."
+  es: "En pausa: la provisión está configurada solo para Wi-Fi y este dispositivo no está en Wi-Fi."
+  es-419: "En pausa: la provisión está configurada solo para Wi-Fi y este dispositivo no está en Wi-Fi."
+  es-MX: "En pausa: la provisión está configurada solo para Wi-Fi y este dispositivo no está en Wi-Fi."
+  fr: "En pause : la fourniture est limitée au Wi-Fi, et cet appareil n'est pas en Wi-Fi."
+  he: "מושהה: האספקה מוגדרת ל-Wi-Fi בלבד, והמכשיר הזה אינו מחובר ל-Wi-Fi."
+  hi: "रुका हुआ: प्रदान करना केवल Wi-Fi पर सेट है, और यह डिवाइस Wi-Fi पर नहीं है।"
+  id: "Dijeda: penyediaan diatur hanya melalui Wi-Fi, dan perangkat ini tidak terhubung ke Wi-Fi."
+  it: "In pausa: la fornitura è impostata solo su Wi-Fi e questo dispositivo non è connesso al Wi-Fi."
+  ja: "一時停止中：提供はWi-Fiのみに設定されていますが、このデバイスはWi-Fiに接続されていません。"
+  ko: "일시 중지됨: 제공이 Wi-Fi 전용으로 설정되어 있는데 이 기기가 Wi-Fi에 연결되어 있지 않습니다."
+  nl: "Gepauzeerd: leveren is ingesteld op alleen Wi-Fi, en dit apparaat is niet met Wi-Fi verbonden."
+  pl: "Wstrzymano: udostępnianie jest ustawione tylko na Wi-Fi, a to urządzenie nie jest połączone z Wi-Fi."
+  pt: "Em pausa: o fornecimento está definido apenas para Wi-Fi e este dispositivo não está em Wi-Fi."
+  pt-BR: "Pausado: o fornecimento está configurado somente para Wi-Fi, e este dispositivo não está no Wi-Fi."
+  pt-PT: "Em pausa: o fornecimento está definido apenas para Wi-Fi e este dispositivo não está em Wi-Fi."
+  ru: "Приостановлено: предоставление разрешено только по Wi-Fi, а это устройство не подключено к Wi-Fi."
+  sv: "Pausad: tillhandahållande är inställt på endast Wi-Fi, och den här enheten är inte ansluten till Wi-Fi."
+  sw: "Imesitishwa: utoaji umewekwa kwa Wi-Fi pekee, na kifaa hiki hakiko kwenye Wi-Fi."
+  th: "หยุดชั่วคราว: ตั้งค่าการให้บริการเป็น Wi-Fi เท่านั้น และอุปกรณ์นี้ไม่ได้เชื่อมต่อ Wi-Fi"
+  uk: "Призупинено: надання дозволено лише через Wi-Fi, а цей пристрій не підключено до Wi-Fi."
+  vi: "Đã tạm dừng: cung cấp được đặt chỉ qua Wi-Fi và thiết bị này không dùng Wi-Fi."
+  zh: "已暂停：提供功能设置为仅限 Wi-Fi，而此设备未连接 Wi-Fi。"
+  zh-HK: "已暫停：提供功能設定為只限 Wi-Fi，而此裝置未連接 Wi-Fi。"

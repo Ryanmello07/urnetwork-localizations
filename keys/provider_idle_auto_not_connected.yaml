@@ -1,0 +1,36 @@
+description: "Provider card, under the provide mode row: why an enabled provider gets no traffic. The device is in Auto mode and not connected, so it shares only with the user's own devices. 'Always' is the provide mode label (key always)."
+source: "Auto shares with everyone only while you're connected. Choose Always to earn while idle."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "وضع «تلقائي» يشارك مع الجميع فقط أثناء اتصالك. اختر «دائمًا» لتكسب حتى عندما لا تكون متصلًا."
+  cs: "Režim Auto sdílí se všemi jen tehdy, když jste připojeni. Zvolte Vždy a vydělávejte i v nečinnosti."
+  de: "Automatisch teilt nur mit allen, solange du verbunden bist. Wähle Immer, um auch im Leerlauf zu verdienen."
+  el: "Το Αυτόματο μοιράζεται με όλους μόνο όσο είστε συνδεδεμένοι. Επιλέξτε Πάντα για να κερδίζετε και όταν δεν είστε συνδεδεμένοι."
+  en: "Auto shares with everyone only while you're connected. Choose Always to earn while idle."
+  es: "Automático comparte con todos solo mientras estás conectado. Elige Siempre para ganar también cuando no estés conectado."
+  es-419: "Automático comparte con todos solo mientras estás conectado. Elige Siempre para ganar también cuando no estés conectado."
+  es-MX: "Automático comparte con todos solo mientras estás conectado. Elige Siempre para ganar también cuando no estés conectado."
+  fr: "Automatique ne partage avec tout le monde que lorsque vous êtes connecté. Choisissez Toujours pour gagner même quand vous n'êtes pas connecté."
+  he: "מצב אוטומטי משתף עם כולם רק בזמן שאתה מחובר. בחר תמיד כדי להרוויח גם כשאתה לא מחובר."
+  hi: "स्वचालित केवल तभी सभी के साथ साझा करता है जब आप कनेक्ट हों। कनेक्ट न होने पर भी कमाने के लिए हमेशा चुनें।"
+  id: "Otomatis hanya berbagi dengan semua orang saat Anda terhubung. Pilih Selalu agar tetap menghasilkan saat tidak terhubung."
+  it: "Auto condivide con tutti solo mentre sei connesso. Scegli Sempre per guadagnare anche quando non sei connesso."
+  ja: "「自動」は接続中のみ、すべての人と共有します。接続していないときも収益を得るには「常に」を選択してください。"
+  ko: "'자동'은 연결되어 있는 동안에만 모든 사람과 공유합니다. 연결하지 않을 때도 수익을 얻으려면 '항상'을 선택하세요."
+  nl: "Auto deelt alleen met iedereen terwijl je verbonden bent. Kies Altijd om ook te verdienen wanneer je niet verbonden bent."
+  pl: "Tryb Automatycznie udostępnia wszystkim tylko wtedy, gdy jesteś połączony. Wybierz Zawsze, aby zarabiać także bez połączenia."
+  pt: "Automático partilha com todos apenas enquanto está ligado. Escolha Sempre para ganhar também quando não está ligado."
+  pt-BR: "Automático compartilha com todos apenas enquanto você está conectado. Escolha Sempre para ganhar também quando não estiver conectado."
+  pt-PT: "Automático partilha com todos apenas enquanto está ligado. Escolha Sempre para ganhar também quando não está ligado."
+  ru: "Режим «Автоматически» предоставляет доступ всем только во время вашего подключения. Выберите «Всегда», чтобы зарабатывать и без подключения."
+  sv: "Auto delar bara med alla medan du är ansluten. Välj Alltid för att tjäna även när du inte är ansluten."
+  sw: "Moja kwa moja hushiriki na kila mtu tu ukiwa umeunganishwa. Chagua Daima ili upate mapato hata usipounganishwa."
+  th: "อัตโนมัติจะแชร์กับทุกคนเฉพาะขณะที่คุณเชื่อมต่ออยู่ เลือก ตลอดเวลา เพื่อรับรายได้แม้ไม่ได้เชื่อมต่อ"
+  uk: "Режим «Авто» надає доступ усім лише під час вашого підключення. Виберіть «Завжди», щоб заробляти й без підключення."
+  vi: "Tự động chỉ chia sẻ với mọi người khi bạn đang kết nối. Chọn Luôn luôn để kiếm tiền cả khi không kết nối."
+  zh: "“自动”仅在你连接时与所有人共享。选择“始终”，未连接时也能赚取收益。"
+  zh-HK: "「自動」只會在你連接時與所有人分享。選擇「始終」，未連接時也能賺取收益。"

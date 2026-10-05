@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: explanation under the delay."
+source: "Delay measured above what is expected for this location. Lower delay is offered more often."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "التأخير المقيس فوق المتوقع لهذا الموقع. يُعرض التأخير الأقل بوتيرة أكبر."
+  cs: "Zpoždění naměřené nad rámec očekávaného pro tuto polohu. Nižší zpoždění se nabízí častěji."
+  de: "Gemessene Verzögerung über dem für diesen Standort erwarteten Wert. Geringere Verzögerung wird häufiger angeboten."
+  el: "Καθυστέρηση που μετρήθηκε πάνω από την αναμενόμενη για αυτή την τοποθεσία. Η μικρότερη καθυστέρηση προτείνεται συχνότερα."
+  en: "Delay measured above what is expected for this location. Lower delay is offered more often."
+  es: "Latencia medida por encima de la esperada para esta ubicación. Las conexiones con menos latencia se ofrecen con más frecuencia."
+  es-419: "Latencia medida por encima de la esperada para esta ubicación. Las conexiones con menos latencia se ofrecen con más frecuencia."
+  es-MX: "Latencia medida por encima de la esperada para esta ubicación. Las conexiones con menos latencia se ofrecen con más frecuencia."
+  fr: "Latence mesurée au-delà de celle attendue pour cet emplacement. Une latence plus faible est proposée plus souvent."
+  he: "השהיה שנמדדה מעבר לצפוי עבור המיקום הזה. השהיה נמוכה יותר מוצעת לעיתים קרובות יותר."
+  hi: "इस स्थान के लिए अपेक्षित से अधिक मापा गया विलंब। कम विलंब वाले कनेक्शन अधिक बार पेश किए जाते हैं।"
+  id: "Latensi yang diukur di atas perkiraan untuk lokasi ini. Latensi yang lebih rendah lebih sering ditawarkan."
+  it: "Latenza misurata oltre quella prevista per questa posizione. Una latenza più bassa viene offerta più spesso."
+  ja: "この地域で想定される値を上回って測定された遅延です。遅延が小さいほど頻繁に提示されます。"
+  ko: "이 위치에서 예상되는 수준보다 높게 측정된 지연입니다. 지연이 낮을수록 더 자주 제시됩니다."
+  nl: "Vertraging gemeten boven wat voor deze locatie wordt verwacht. Lagere vertraging wordt vaker aangeboden."
+  pl: "Opóźnienie zmierzone powyżej oczekiwanego dla tej lokalizacji. Mniejsze opóźnienie jest proponowane częściej."
+  pt: "Latência medida acima do esperado para esta localização. Menor latência é oferecida com mais frequência."
+  pt-BR: "Latência medida acima do esperado para esta localização. Menor latência é oferecida com mais frequência."
+  pt-PT: "Latência medida acima do esperado para esta localização. Menor latência é oferecida com mais frequência."
+  ru: "Задержка сверх ожидаемой для этого местоположения. Подключения с меньшей задержкой предлагают чаще."
+  sv: "Fördröjning uppmätt utöver den förväntade för den här platsen. Lägre fördröjning erbjuds oftare."
+  sw: "Ucheleweshaji uliopimwa zaidi ya unaotarajiwa kwa eneo hili. Ucheleweshaji mdogo hupendekezwa mara nyingi zaidi."
+  th: "ความหน่วงที่วัดได้สูงกว่าที่คาดไว้สำหรับตำแหน่งนี้ ความหน่วงที่ต่ำกว่าจะถูกเสนอบ่อยกว่า"
+  uk: "Затримка понад очікувану для цього розташування. Підключення з меншою затримкою пропонують частіше."
+  vi: "Độ trễ đo được vượt mức dự kiến cho vị trí này. Độ trễ thấp hơn được đề xuất thường xuyên hơn."
+  zh: "测得的延迟高于此位置的预期值。延迟越低，被推荐的次数越多。"
+  zh-HK: "測得的延遲高於此位置的預期值。延遲越低，被推薦的次數越多。"

@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: value of a reliability with no history yet (which does not count against the device)."
+source: "No history yet"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "لا يوجد سجل بعد"
+  cs: "Zatím bez historie"
+  de: "Noch kein Verlauf"
+  el: "Δεν υπάρχει ιστορικό ακόμη"
+  en: "No history yet"
+  es: "Aún sin historial"
+  es-419: "Aún sin historial"
+  es-MX: "Aún sin historial"
+  fr: "Pas encore d'historique"
+  he: "עדיין אין היסטוריה"
+  hi: "अभी कोई इतिहास नहीं"
+  id: "Belum ada riwayat"
+  it: "Nessuno storico ancora"
+  ja: "履歴なし"
+  ko: "아직 기록 없음"
+  nl: "Nog geen geschiedenis"
+  pl: "Brak historii"
+  pt: "Ainda sem histórico"
+  pt-BR: "Ainda sem histórico"
+  pt-PT: "Ainda sem histórico"
+  ru: "Истории пока нет"
+  sv: "Ingen historik än"
+  sw: "Hakuna historia bado"
+  th: "ยังไม่มีประวัติ"
+  uk: "Історії ще немає"
+  vi: "Chưa có lịch sử"
+  zh: "暂无历史记录"
+  zh-HK: "暫無歷史記錄"

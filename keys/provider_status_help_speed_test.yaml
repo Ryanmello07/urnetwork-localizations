@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: explanation under the speed test."
+source: "Speed measured through this device. Faster connections are offered more often."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "السرعة المقيسة عبر هذا الجهاز. تُعرض الاتصالات الأسرع بوتيرة أكبر."
+  cs: "Rychlost naměřená přes toto zařízení. Rychlejší připojení se nabízejí častěji."
+  de: "Über dieses Gerät gemessene Geschwindigkeit. Schnellere Verbindungen werden häufiger angeboten."
+  el: "Ταχύτητα που μετρήθηκε μέσω αυτής της συσκευής. Οι ταχύτερες συνδέσεις προτείνονται συχνότερα."
+  en: "Speed measured through this device. Faster connections are offered more often."
+  es: "Velocidad medida a través de este dispositivo. Las conexiones más rápidas se ofrecen con más frecuencia."
+  es-419: "Velocidad medida a través de este dispositivo. Las conexiones más rápidas se ofrecen con más frecuencia."
+  es-MX: "Velocidad medida a través de este dispositivo. Las conexiones más rápidas se ofrecen con más frecuencia."
+  fr: "Vitesse mesurée via cet appareil. Les connexions plus rapides sont proposées plus souvent."
+  he: "המהירות שנמדדה דרך המכשיר הזה. חיבורים מהירים יותר מוצעים לעיתים קרובות יותר."
+  hi: "इस डिवाइस के ज़रिए मापी गई गति। तेज़ कनेक्शन अधिक बार पेश किए जाते हैं।"
+  id: "Kecepatan yang diukur melalui perangkat ini. Koneksi yang lebih cepat lebih sering ditawarkan."
+  it: "Velocità misurata tramite questo dispositivo. Le connessioni più veloci vengono offerte più spesso."
+  ja: "このデバイスを通じて測定された速度です。速い接続ほど頻繁に提示されます。"
+  ko: "이 기기를 통해 측정된 속도입니다. 빠른 연결일수록 더 자주 제시됩니다."
+  nl: "Snelheid gemeten via dit apparaat. Snellere verbindingen worden vaker aangeboden."
+  pl: "Prędkość zmierzona przez to urządzenie. Szybsze połączenia są proponowane częściej."
+  pt: "Velocidade medida através deste dispositivo. As ligações mais rápidas são oferecidas com mais frequência."
+  pt-BR: "Velocidade medida por este dispositivo. Conexões mais rápidas são oferecidas com mais frequência."
+  pt-PT: "Velocidade medida através deste dispositivo. As ligações mais rápidas são oferecidas com mais frequência."
+  ru: "Скорость, измеренная через это устройство. Более быстрые подключения предлагают чаще."
+  sv: "Hastighet uppmätt via den här enheten. Snabbare anslutningar erbjuds oftare."
+  sw: "Kasi iliyopimwa kupitia kifaa hiki. Miunganisho yenye kasi zaidi hupendekezwa mara nyingi zaidi."
+  th: "ความเร็วที่วัดผ่านอุปกรณ์นี้ การเชื่อมต่อที่เร็วกว่าจะถูกเสนอบ่อยกว่า"
+  uk: "Швидкість, виміряна через цей пристрій. Швидші підключення пропонують частіше."
+  vi: "Tốc độ đo được qua thiết bị này. Kết nối nhanh hơn được đề xuất thường xuyên hơn."
+  zh: "通过此设备测得的速度。速度越快的连接被推荐的次数越多。"
+  zh-HK: "透過此裝置測得的速度。速度越快的連接被推薦的次數越多。"

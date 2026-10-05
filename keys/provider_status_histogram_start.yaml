@@ -1,0 +1,36 @@
+description: "Provider card chart: label under the left (oldest) end of the 60-minute axis."
+source: "60 min ago"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "قبل 60 دقيقة"
+  cs: "před 60 min"
+  de: "vor 60 Min."
+  el: "πριν από 60 λεπτά"
+  en: "60 min ago"
+  es: "hace 60 min"
+  es-419: "hace 60 min"
+  es-MX: "hace 60 min"
+  fr: "il y a 60 min"
+  he: "לפני 60 דק׳"
+  hi: "60 मिनट पहले"
+  id: "60 mnt lalu"
+  it: "60 min fa"
+  ja: "60分前"
+  ko: "60분 전"
+  nl: "60 min geleden"
+  pl: "60 min temu"
+  pt: "há 60 min"
+  pt-BR: "há 60 min"
+  pt-PT: "há 60 min"
+  ru: "60 мин назад"
+  sv: "för 60 min sedan"
+  sw: "dakika 60 zilizopita"
+  th: "60 นาทีที่แล้ว"
+  uk: "60 хв тому"
+  vi: "60 phút trước"
+  zh: "60 分钟前"
+  zh-HK: "60 分鐘前"

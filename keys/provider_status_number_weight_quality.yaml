@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: label of the device's selection weight for quality-ranked requests (a relative number)."
+source: "Selection weight (quality)"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "وزن الاختيار (الجودة)"
+  cs: "Váha výběru (kvalita)"
+  de: "Auswahlgewicht (Qualität)"
+  el: "Βάρος επιλογής (ποιότητα)"
+  en: "Selection weight (quality)"
+  es: "Peso de selección (calidad)"
+  es-419: "Peso de selección (calidad)"
+  es-MX: "Peso de selección (calidad)"
+  fr: "Poids de sélection (qualité)"
+  he: "משקל בחירה (איכות)"
+  hi: "चयन भार (गुणवत्ता)"
+  id: "Bobot pemilihan (kualitas)"
+  it: "Peso di selezione (qualità)"
+  ja: "選択の重み（品質）"
+  ko: "선택 가중치(품질)"
+  nl: "Selectiegewicht (kwaliteit)"
+  pl: "Waga wyboru (jakość)"
+  pt: "Peso de seleção (qualidade)"
+  pt-BR: "Peso de seleção (qualidade)"
+  pt-PT: "Peso de seleção (qualidade)"
+  ru: "Вес выбора (качество)"
+  sv: "Urvalsvikt (kvalitet)"
+  sw: "Uzito wa uteuzi (ubora)"
+  th: "น้ำหนักการเลือก (คุณภาพ)"
+  uk: "Вага вибору (якість)"
+  vi: "Trọng số chọn (chất lượng)"
+  zh: "选择权重（质量）"
+  zh-HK: "選擇權重（質素）"

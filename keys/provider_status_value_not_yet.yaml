@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: value shown when a measurement (speed test, delay, network check) has not happened yet."
+source: "Not yet"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "ليس بعد"
+  cs: "Zatím ne"
+  de: "Noch nicht"
+  el: "Όχι ακόμη"
+  en: "Not yet"
+  es: "Todavía no"
+  es-419: "Todavía no"
+  es-MX: "Todavía no"
+  fr: "Pas encore"
+  he: "עדיין לא"
+  hi: "अभी नहीं"
+  id: "Belum"
+  it: "Non ancora"
+  ja: "未実施"
+  ko: "아직 없음"
+  nl: "Nog niet"
+  pl: "Jeszcze nie"
+  pt: "Ainda não"
+  pt-BR: "Ainda não"
+  pt-PT: "Ainda não"
+  ru: "Еще нет"
+  sv: "Inte än"
+  sw: "Bado"
+  th: "ยังไม่มี"
+  uk: "Ще ні"
+  vi: "Chưa có"
+  zh: "尚无"
+  zh-HK: "尚未有"

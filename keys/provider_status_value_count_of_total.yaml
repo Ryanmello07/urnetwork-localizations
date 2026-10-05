@@ -1,0 +1,41 @@
+description: "Provider status 'Why?' list: how many test sites loaded through the device out of all that were tried, e.g. '19 of 20 loaded'."
+source: "%lld of %lld loaded"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: count
+    type: int
+  - name: total
+    type: int
+localizations:
+  ar: "تم تحميل {count} من {total}"
+  cs: "Načteno {count} z {total}"
+  de: "{count} von {total} geladen"
+  el: "Φορτώθηκαν {count} από {total}"
+  en: "{count} of {total} loaded"
+  es: "{count} de {total} cargados"
+  es-419: "{count} de {total} cargados"
+  es-MX: "{count} de {total} cargados"
+  fr: "{count} sur {total} chargés"
+  he: "{count} מתוך {total} נטענו"
+  hi: "{total} में से {count} लोड हुए"
+  id: "{count} dari {total} dimuat"
+  it: "{count} su {total} caricati"
+  ja: "{total}件中{count}件読み込み"
+  ko: "{total}개 중 {count}개 로드됨"
+  nl: "{count} van {total} geladen"
+  pl: "Załadowano {count} z {total}"
+  pt: "{count} de {total} carregados"
+  pt-BR: "{count} de {total} carregados"
+  pt-PT: "{count} de {total} carregados"
+  ru: "Загружено {count} из {total}"
+  sv: "{count} av {total} laddades"
+  sw: "{count} kati ya {total} zimepakiwa"
+  th: "โหลดได้ {count} จาก {total}"
+  uk: "Завантажено {count} з {total}"
+  vi: "Đã tải {count}/{total}"
+  zh: "已加载 {count}/{total}"
+  zh-HK: "已載入 {count}/{total}"
