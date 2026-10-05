@@ -2,6 +2,7 @@ description: "Android app string: pinned."
 source: "Pinned"
 platforms:
   - android
+  - apple
 localizations:
   ar: "مثبّت"
   cs: "Připnuto"

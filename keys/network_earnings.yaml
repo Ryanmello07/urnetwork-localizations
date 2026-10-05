@@ -4,6 +4,7 @@ deprecated:
   - apple
 platforms:
   - apple
+  - linux
 localizations:
   ar: "أرباح الشبكة"
   cs: "Výnosy ze sítě"

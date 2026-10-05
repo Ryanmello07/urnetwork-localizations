@@ -1,5 +1,5 @@
 description: "Accessibility description of the onboarding step bubbles: the current step and the total."
-source: "Step %1$d of %2$d"
+source: "Step %lld of %lld"
 platforms:
   - android
   - apple
@@ -13,8 +13,30 @@ placeholders:
     type: int
 localizations:
   ar: "الخطوة {step} من {total}"
+  cs: "Krok {step} z {total}"
   de: "Schritt {step} von {total}"
+  el: "Βήμα {step} από {total}"
   en: "Step {step} of {total}"
   es: "Paso {step} de {total}"
+  es-419: "Paso {step} de {total}"
+  es-MX: "Paso {step} de {total}"
+  fr: "Étape {step} sur {total}"
+  he: "שלב {step} מתוך {total}"
+  hi: "{total} में से चरण {step}"
+  id: "Langkah {step} dari {total}"
+  it: "Passaggio {step} di {total}"
+  ja: "ステップ {step} / {total}"
+  ko: "{total}단계 중 {step}단계"
+  nl: "Stap {step} van {total}"
+  pl: "Krok {step} z {total}"
+  pt: "Passo {step} de {total}"
+  pt-BR: "Etapa {step} de {total}"
+  pt-PT: "Passo {step} de {total}"
   ru: "Шаг {step} из {total}"
+  sv: "Steg {step} av {total}"
+  sw: "Hatua {step} kati ya {total}"
+  th: "ขั้นตอนที่ {step} จาก {total}"
+  uk: "Крок {step} з {total}"
+  vi: "Bước {step}/{total}"
   zh: "第 {step} 步，共 {total} 步"
+  zh-HK: "第 {step} 步，共 {total} 步"

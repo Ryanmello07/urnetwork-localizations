@@ -2,6 +2,7 @@ description: "Settings: switch that checks for updates automatically."
 source: "Check for updates automatically"
 platforms:
   - linux
+  - apple
 localizations:
   ar: "التحقق من التحديثات تلقائيًا"
   cs: "Kontrolovat aktualizace automaticky"
@@ -9,6 +10,7 @@ localizations:
   el: "Αυτόματος έλεγχος για ενημερώσεις"
   en: "Check for updates automatically"
   es: "Buscar actualizaciones automáticamente"
+  es-419: "Buscar actualizaciones automáticamente"
   es-MX: "Buscar actualizaciones automáticamente"
   fr: "Rechercher automatiquement les mises à jour"
   he: "בדוק עדכונים אוטומטית"

@@ -1,0 +1,36 @@
+description: "macOS Settings > Software update error. {detail} is a short technical reason."
+source: "The download could not be unpacked: %@"
+platforms:
+  - apple
+placeholders:
+  - name: detail
+    type: string
+localizations:
+  ar: "تعذّر فك ضغط الملف الذي تم تنزيله: {detail}"
+  cs: "Stažený soubor se nepodařilo rozbalit: {detail}"
+  de: "Der Download konnte nicht entpackt werden: {detail}"
+  el: "Δεν ήταν δυνατή η αποσυμπίεση της λήψης: {detail}"
+  en: "The download could not be unpacked: {detail}"
+  es: "No se pudo descomprimir la descarga: {detail}"
+  es-419: "No se pudo descomprimir la descarga: {detail}"
+  es-MX: "No se pudo descomprimir la descarga: {detail}"
+  fr: "Le téléchargement n’a pas pu être décompressé : {detail}"
+  he: "לא ניתן היה לחלץ את ההורדה: {detail}"
+  hi: "डाउनलोड को अनपैक नहीं किया जा सका: {detail}"
+  id: "Unduhan tidak dapat diekstrak: {detail}"
+  it: "Impossibile decomprimere il download: {detail}"
+  ja: "ダウンロードを展開できませんでした: {detail}"
+  ko: "다운로드의 압축을 풀 수 없습니다: {detail}"
+  nl: "De download kan niet worden uitgepakt: {detail}"
+  pl: "Nie udało się rozpakować pobranego pliku: {detail}"
+  pt: "Não foi possível descompactar o download: {detail}"
+  pt-BR: "Não foi possível descompactar o download: {detail}"
+  pt-PT: "Não foi possível descomprimir a transferência: {detail}"
+  ru: "Не удалось распаковать загруженный файл: {detail}"
+  sv: "Nedladdningen kunde inte packas upp: {detail}"
+  sw: "Faili lililopakuliwa halikuweza kufunguliwa: {detail}"
+  th: "แตกไฟล์ที่ดาวน์โหลดไม่ได้: {detail}"
+  uk: "Не вдалося розпакувати завантажений файл: {detail}"
+  vi: "Không thể giải nén tệp tải về: {detail}"
+  zh: "无法解压下载的文件：{detail}"
+  zh-HK: "無法解壓下載的檔案：{detail}"

@@ -2,6 +2,7 @@ description: "Connection inspector: heading of the exits section."
 source: "Exits"
 platforms:
   - linux
+  - apple
 localizations:
   ar: "المخارج"
   cs: "Výstupy"
@@ -9,6 +10,7 @@ localizations:
   el: "Έξοδοι"
   en: "Exits"
   es: "Salidas"
+  es-419: "Salidas"
   es-MX: "Salidas"
   fr: "Sorties"
   he: "יציאות"

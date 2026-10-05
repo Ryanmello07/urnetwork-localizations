@@ -3,5 +3,6 @@ source: "example.com, *.example.com, 10.0.0.0/8"
 translatable: false
 platforms:
   - android
+  - apple
 localizations:
   en: "example.com, *.example.com, 10.0.0.0/8"

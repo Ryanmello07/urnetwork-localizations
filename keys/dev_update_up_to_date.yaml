@@ -1,0 +1,36 @@
+description: "Developer page: update check result on the newest release. {version} is the release version."
+source: "Up to date. Newest release: v{version}"
+platforms:
+  - linux
+placeholders:
+  - name: version
+    type: string
+localizations:
+  ar: "محدَّث. أحدث إصدار: v{version}"
+  cs: "Aktuální. Nejnovější vydání: v{version}"
+  de: "Aktuell. Neueste Version: v{version}"
+  el: "Ενημερωμένο. Νεότερη έκδοση: v{version}"
+  en: "Up to date. Newest release: v{version}"
+  es: "Al día. Versión más reciente: v{version}"
+  es-419: "Al día. Versión más reciente: v{version}"
+  es-MX: "Al día. Versión más reciente: v{version}"
+  fr: "À jour. Dernière version : v{version}"
+  he: "מעודכן. הגרסה האחרונה: v{version}"
+  hi: "अपडेट है। नवीनतम रिलीज़: v{version}"
+  id: "Sudah terbaru. Rilis terbaru: v{version}"
+  it: "Aggiornato. Ultima versione: v{version}"
+  ja: "最新です。最新リリース: v{version}"
+  ko: "최신 상태입니다. 최신 릴리스: v{version}"
+  nl: "Actueel. Nieuwste release: v{version}"
+  pl: "Aktualna. Najnowsze wydanie: v{version}"
+  pt: "Atualizado. Versão mais recente: v{version}"
+  pt-BR: "Atualizado. Versão mais recente: v{version}"
+  pt-PT: "Atualizado. Versão mais recente: v{version}"
+  ru: "Обновлений нет. Новейший выпуск: v{version}"
+  sv: "Aktuell. Senaste version: v{version}"
+  sw: "Imesasishwa. Toleo jipya zaidi: v{version}"
+  th: "เป็นรุ่นล่าสุดแล้ว รุ่นล่าสุด: v{version}"
+  uk: "Оновлень немає. Найновіший випуск: v{version}"
+  vi: "Đã cập nhật. Bản phát hành mới nhất: v{version}"
+  zh: "已是最新。最新版本：v{version}"
+  zh-HK: "已是最新。最新版本：v{version}"

@@ -1,0 +1,36 @@
+description: "Linux Settings update notice title once the new AppImage is installed. {version} is the release version; keep the \"v\" before it."
+source: "Ready to relaunch: v{version}"
+platforms:
+  - linux
+placeholders:
+  - name: version
+    type: string
+localizations:
+  ar: "جاهز لإعادة التشغيل: v{version}"
+  cs: "Připraveno k restartu: v{version}"
+  de: "Bereit zum Neustart: v{version}"
+  el: "Έτοιμο για επανεκκίνηση: v{version}"
+  en: "Ready to relaunch: v{version}"
+  es: "Listo para reiniciar: v{version}"
+  es-419: "Listo para reiniciar: v{version}"
+  es-MX: "Listo para reiniciar: v{version}"
+  fr: "Prêt à redémarrer : v{version}"
+  he: "מוכן להפעלה מחדש: v{version}"
+  hi: "फिर से लॉन्च के लिए तैयार: v{version}"
+  id: "Siap dimulai ulang: v{version}"
+  it: "Pronto per il riavvio: v{version}"
+  ja: "再起動の準備完了: v{version}"
+  ko: "다시 실행 준비 완료: v{version}"
+  nl: "Klaar om opnieuw te starten: v{version}"
+  pl: "Gotowe do ponownego uruchomienia: v{version}"
+  pt: "Pronto para reiniciar: v{version}"
+  pt-BR: "Pronto para reiniciar: v{version}"
+  pt-PT: "Pronto para reiniciar: v{version}"
+  ru: "Готово к перезапуску: v{version}"
+  sv: "Redo att starta om: v{version}"
+  sw: "Tayari kuzindua upya: v{version}"
+  th: "พร้อมเปิดใหม่: v{version}"
+  uk: "Готово до перезапуску: v{version}"
+  vi: "Sẵn sàng khởi chạy lại: v{version}"
+  zh: "可以重新启动：v{version}"
+  zh-HK: "可以重新啟動：v{version}"

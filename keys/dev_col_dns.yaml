@@ -1,4 +1,4 @@
-description: "Developer page: table column header for the DNS timing."
+description: "Developer page: table column header for the DNS timing. A protocol name; never translated."
 source: "DNS"
 translatable: false
 platforms:

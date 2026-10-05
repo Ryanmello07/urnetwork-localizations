@@ -2,6 +2,7 @@ description: "Split rules: validation error when the typed entry is already in t
 source: "Already in this rule."
 platforms:
   - android
+  - apple
 localizations:
   ar: "موجود بالفعل في هذه القاعدة."
   cs: "V tomto pravidle již je."

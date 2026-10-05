@@ -2,6 +2,7 @@ description: "Call to action"
 source: "Next"
 platforms:
   - android
+  - apple
 localizations:
   ar: "التالي"
   cs: "Další"

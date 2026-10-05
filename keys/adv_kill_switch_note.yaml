@@ -9,6 +9,7 @@ localizations:
   el: "Αν η σήραγγα πέσει απροσδόκητα, αποκλείστε την κίνηση αυτής της συσκευής αντί να την αφήσετε να βγει απροστάτευτη."
   en: "If the tunnel drops unexpectedly, block this device's traffic instead of letting it out unprotected."
   es: "Si el túnel se cae de forma inesperada, bloquea el tráfico de este dispositivo en vez de dejarlo salir sin protección."
+  es-419: "Si el túnel se cae de forma inesperada, bloquea el tráfico de este dispositivo en vez de dejarlo salir sin protección."
   es-MX: "Si el túnel se cae de forma inesperada, bloquea el tráfico de este dispositivo en vez de dejarlo salir sin protección."
   fr: "Si le tunnel tombe de façon inattendue, bloquer le trafic de cet appareil au lieu de le laisser sortir sans protection."
   he: "אם המנהרה נופלת במפתיע, חסום את התעבורה של המכשיר הזה במקום לתת לה לצאת ללא הגנה."

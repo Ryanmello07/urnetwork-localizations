@@ -1,7 +1,8 @@
 description: "Referral perk bullet on the introduction referral screen (the referred side). The referral grant is per day (pro.yml referral.period: 24h)."
-source: "Your friend gets +%s GiB/day for life"
+source: "Your friend gets +%lld GiB/day for life"
 platforms:
   - android
+  - apple
 placeholders:
   - name: amount
     type: string

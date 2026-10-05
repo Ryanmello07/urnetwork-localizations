@@ -9,6 +9,7 @@ localizations:
   el: "Δεν ήταν δυνατή η φόρτωση της λίστας παρόχων."
   en: "Could not load the provider list."
   es: "No se pudo cargar la lista de proveedores."
+  es-419: "No se pudo cargar la lista de proveedores."
   es-MX: "No se pudo cargar la lista de proveedores."
   fr: "Impossible de charger la liste des fournisseurs."
   he: "לא ניתן לטעון את רשימת הספקים."

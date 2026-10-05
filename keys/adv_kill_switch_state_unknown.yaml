@@ -9,6 +9,7 @@ localizations:
   el: "Δεν είναι δυνατό να ελεγχθεί αυτήν τη στιγμή αν το Kill switch είναι σε ισχύ."
   en: "Whether the kill switch is in force cannot be checked right now."
   es: "Ahora mismo no se puede comprobar si el Kill switch está en vigor."
+  es-419: "En este momento no se puede verificar si el Kill switch está en vigor."
   es-MX: "Ahora mismo no se puede comprobar si el Kill switch está en vigor."
   fr: "Impossible de vérifier pour le moment si le Kill switch est en vigueur."
   he: "לא ניתן לבדוק כרגע אם הקיל סוויץ' בתוקף."

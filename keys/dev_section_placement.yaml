@@ -2,10 +2,35 @@ description: "Developer tools screen: section heading for the placement controls
 source: "Placement"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "التوزيع"
+  cs: "Umístění"
   de: "Platzierung"
+  el: "Τοποθέτηση"
   en: "Placement"
   es: "Asignación"
+  es-419: "Asignación"
+  es-MX: "Asignación"
+  fr: "Placement"
+  he: "שיבוץ"
+  hi: "प्लेसमेंट"
+  id: "Penempatan"
+  it: "Assegnazione"
+  ja: "配置"
+  ko: "배치"
+  nl: "Plaatsing"
+  pl: "Rozmieszczenie"
+  pt: "Atribuição"
+  pt-BR: "Alocação"
+  pt-PT: "Atribuição"
   ru: "Размещение"
+  sv: "Placering"
+  sw: "Upangaji"
+  th: "การจัดวาง"
+  uk: "Розміщення"
+  vi: "Bố trí"
   zh: "分配"
+  zh-HK: "分配"

@@ -18,13 +18,64 @@ localizations:
     few: "{count} أحداث/دقيقة"
     many: "{count} حدثًا/دقيقة"
     other: "{count} حدث/دقيقة"
+  cs:
+    one: "{count} událost/min"
+    few: "{count} události/min"
+    many: "{count} události/min"
+    other: "{count} událostí/min"
   de:
     one: "{count} Ereignis/Min."
     other: "{count} Ereignisse/Min."
+  el:
+    one: "{count} συμβάν/λεπτό"
+    other: "{count} συμβάντα/λεπτό"
   en:
     one: "{count} event/min"
     other: "{count} events/min"
   es:
+    one: "{count} evento/min"
+    other: "{count} eventos/min"
+  es-419:
+    one: "{count} evento/min"
+    other: "{count} eventos/min"
+  es-MX:
+    one: "{count} evento/min"
+    other: "{count} eventos/min"
+  fr:
+    one: "{count} événement/min"
+    other: "{count} événements/min"
+  he:
+    one: "אירוע אחד לדקה"
+    two: "{count} אירועים לדקה"
+    many: "{count} אירועים לדקה"
+    other: "{count} אירועים לדקה"
+  hi:
+    one: "{count} इवेंट/मिनट"
+    other: "{count} इवेंट/मिनट"
+  id:
+    other: "{count} peristiwa/mnt"
+  it:
+    one: "{count} evento/min"
+    other: "{count} eventi/min"
+  ja:
+    other: "{count} 件/分"
+  ko:
+    other: "분당 이벤트 {count}개"
+  nl:
+    one: "{count} gebeurtenis/min"
+    other: "{count} gebeurtenissen/min"
+  pl:
+    one: "{count} zdarzenie/min"
+    few: "{count} zdarzenia/min"
+    many: "{count} zdarzeń/min"
+    other: "{count} zdarzenia/min"
+  pt:
+    one: "{count} evento/min"
+    other: "{count} eventos/min"
+  pt-BR:
+    one: "{count} evento/min"
+    other: "{count} eventos/min"
+  pt-PT:
     one: "{count} evento/min"
     other: "{count} eventos/min"
   ru:
@@ -32,5 +83,22 @@ localizations:
     few: "{count} события/мин"
     many: "{count} событий/мин"
     other: "{count} события/мин"
+  sv:
+    one: "{count} händelse/min"
+    other: "{count} händelser/min"
+  sw:
+    one: "Tukio {count}/dak"
+    other: "Matukio {count}/dak"
+  th:
+    other: "{count} เหตุการณ์/นาที"
+  uk:
+    one: "{count} подія/хв"
+    few: "{count} події/хв"
+    many: "{count} подій/хв"
+    other: "{count} події/хв"
+  vi:
+    other: "{count} sự kiện/phút"
   zh:
     other: "{count} 个事件/分钟"
+  zh-HK:
+    other: "{count} 個事件/分鐘"

@@ -9,6 +9,7 @@ localizations:
   el: "Σε ισχύ: μόνο η κίνηση τοπικού δικτύου φεύγει από αυτήν τη συσκευή μέχρι να συνδεθείτε."
   en: "In force: nothing but local network traffic leaves this device until you connect."
   es: "En vigor: solo el tráfico de la red local sale de este dispositivo hasta que te conectes."
+  es-419: "En vigor: solo el tráfico de la red local sale de este dispositivo hasta que te conectes."
   es-MX: "En vigor: solo el tráfico de la red local sale de este dispositivo hasta que te conectes."
   fr: "En vigueur : seul le trafic du réseau local quitte cet appareil jusqu’à ce que vous vous connectiez."
   he: "בתוקף: שום דבר מלבד תעבורת הרשת המקומית לא יוצא מהמכשיר הזה עד שתתחברו."

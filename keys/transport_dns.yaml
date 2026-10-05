@@ -1,0 +1,7 @@
+description: "Transport name: the DNS-disguised transport. A product name; never translated."
+source: "whodis"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "whodis"

@@ -2,10 +2,35 @@ description: "Developer tools screen (reliability surface): recovery control lab
 source: "Recovery time"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "وقت الاستعادة"
+  cs: "Doba obnovy"
   de: "Wiederherstellungszeit"
+  el: "Χρόνος ανάκαμψης"
   en: "Recovery time"
   es: "Tiempo de recuperación"
+  es-419: "Tiempo de recuperación"
+  es-MX: "Tiempo de recuperación"
+  fr: "Temps de rétablissement"
+  he: "זמן התאוששות"
+  hi: "रिकवरी समय"
+  id: "Waktu pemulihan"
+  it: "Tempo di ripristino"
+  ja: "復旧時間"
+  ko: "복구 시간"
+  nl: "Hersteltijd"
+  pl: "Czas odzyskiwania"
+  pt: "Tempo de recuperação"
+  pt-BR: "Tempo de recuperação"
+  pt-PT: "Tempo de recuperação"
   ru: "Время восстановления"
+  sv: "Återhämtningstid"
+  sw: "Muda wa kurejea"
+  th: "เวลากู้คืน"
+  uk: "Час відновлення"
+  vi: "Thời gian phục hồi"
   zh: "恢复时间"
+  zh-HK: "恢復時間"

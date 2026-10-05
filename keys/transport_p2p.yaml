@@ -1,0 +1,7 @@
+description: "Transport name: peer to peer. A protocol name; never translated."
+source: "P2P"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "P2P"

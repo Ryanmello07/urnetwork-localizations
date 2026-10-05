@@ -1,0 +1,36 @@
+description: "macOS Settings > Software update status while the release downloads. {version} is its version."
+source: "Downloading %@…"
+platforms:
+  - apple
+placeholders:
+  - name: version
+    type: string
+localizations:
+  ar: "جارٍ تنزيل {version}…"
+  cs: "Stahování {version}…"
+  de: "{version} wird heruntergeladen…"
+  el: "Λήψη {version}…"
+  en: "Downloading {version}…"
+  es: "Descargando {version}…"
+  es-419: "Descargando {version}…"
+  es-MX: "Descargando {version}…"
+  fr: "Téléchargement de {version}…"
+  he: "מוריד את {version}…"
+  hi: "{version} डाउनलोड हो रहा है…"
+  id: "Mengunduh {version}…"
+  it: "Download di {version}…"
+  ja: "{version} をダウンロードしています…"
+  ko: "{version} 다운로드 중…"
+  nl: "{version} downloaden…"
+  pl: "Pobieranie {version}…"
+  pt: "Baixando {version}…"
+  pt-BR: "Baixando {version}…"
+  pt-PT: "A transferir {version}…"
+  ru: "Загрузка {version}…"
+  sv: "Hämtar {version}…"
+  sw: "Inapakua {version}…"
+  th: "กำลังดาวน์โหลด {version}…"
+  uk: "Завантаження {version}…"
+  vi: "Đang tải {version}…"
+  zh: "正在下载 {version}…"
+  zh-HK: "正在下載 {version}…"

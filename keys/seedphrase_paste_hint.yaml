@@ -1,7 +1,8 @@
-description: "Seed sign-in sheet: placeholder of the seedphrase field (android accepts 12 or 24 words)."
+description: "Seed sign-in sheet: placeholder of the seedphrase field (android and windows accept 12 or 24 words)."
 source: "Paste your 12 or 24-word seedphrase here"
 platforms:
   - android
+  - windows
 localizations:
   ar: "الصق عبارة الاسترداد المكونة من 12 أو 24 كلمة هنا"
   cs: "Sem vložte svou seed frázi o 12 nebo 24 slovech"
@@ -9,6 +10,7 @@ localizations:
   el: "Επικολλήστε εδώ τη φράση ανάκτησης 12 ή 24 λέξεων"
   en: "Paste your 12 or 24-word seedphrase here"
   es: "Pega aquí tu frase semilla de 12 o 24 palabras"
+  es-419: "Pega aquí tu frase semilla de 12 o 24 palabras"
   es-MX: "Pega aquí tu frase semilla de 12 o 24 palabras"
   fr: "Collez ici votre phrase de récupération de 12 ou 24 mots"
   he: "הדביקו כאן את ביטוי הסיד בן 12 או 24 המילים"

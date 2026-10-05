@@ -1,0 +1,36 @@
+description: "macOS Settings > Software update error. {detail} is a short technical reason (often English, from the system)."
+source: "Could not check for updates: %@"
+platforms:
+  - apple
+placeholders:
+  - name: detail
+    type: string
+localizations:
+  ar: "تعذّر التحقق من التحديثات: {detail}"
+  cs: "Nepodařilo se vyhledat aktualizace: {detail}"
+  de: "Suche nach Updates fehlgeschlagen: {detail}"
+  el: "Δεν ήταν δυνατός ο έλεγχος για ενημερώσεις: {detail}"
+  en: "Could not check for updates: {detail}"
+  es: "No se pudieron buscar actualizaciones: {detail}"
+  es-419: "No se pudieron buscar actualizaciones: {detail}"
+  es-MX: "No se pudieron buscar actualizaciones: {detail}"
+  fr: "Impossible de rechercher des mises à jour : {detail}"
+  he: "לא ניתן היה לבדוק עדכונים: {detail}"
+  hi: "अपडेट जाँचे नहीं जा सके: {detail}"
+  id: "Tidak dapat memeriksa pembaruan: {detail}"
+  it: "Impossibile cercare aggiornamenti: {detail}"
+  ja: "アップデートを確認できませんでした: {detail}"
+  ko: "업데이트를 확인할 수 없습니다: {detail}"
+  nl: "Kan niet op updates controleren: {detail}"
+  pl: "Nie udało się sprawdzić aktualizacji: {detail}"
+  pt: "Não foi possível verificar atualizações: {detail}"
+  pt-BR: "Não foi possível verificar atualizações: {detail}"
+  pt-PT: "Não foi possível procurar atualizações: {detail}"
+  ru: "Не удалось проверить обновления: {detail}"
+  sv: "Det gick inte att söka efter uppdateringar: {detail}"
+  sw: "Imeshindwa kuangalia masasisho: {detail}"
+  th: "ตรวจสอบอัปเดตไม่ได้: {detail}"
+  uk: "Не вдалося перевірити оновлення: {detail}"
+  vi: "Không thể kiểm tra cập nhật: {detail}"
+  zh: "无法检查更新：{detail}"
+  zh-HK: "無法檢查更新：{detail}"

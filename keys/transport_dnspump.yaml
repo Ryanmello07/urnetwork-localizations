@@ -1,0 +1,7 @@
+description: "Transport name: the DNS-disguised transport with a reply pump. A product name; never translated."
+source: "whodis pump"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "whodis pump"

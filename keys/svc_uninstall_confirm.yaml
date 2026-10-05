@@ -9,6 +9,7 @@ localizations:
   el: "Αυτό σταματά την υπηρεσία URnetwork και αφαιρεί τη μονάδα systemd της. Η εφαρμογή δεν μπορεί να συνδεθεί μέχρι να ρυθμιστεί ξανά. Θα σας ζητηθεί άδεια διαχειριστή."
   en: "This stops the URnetwork service and removes its systemd unit. The app can't connect until it is set up again. You will be asked for administrator permission."
   es: "Esto detiene el servicio de URnetwork y elimina su unidad de systemd. La app no podrá conectarse hasta que se configure de nuevo. Se te pedirá permiso de administrador."
+  es-419: "Esto detiene el servicio de URnetwork y elimina su unidad de systemd. La app no podrá conectarse hasta que se configure de nuevo. Se te pedirá permiso de administrador."
   es-MX: "Esto detiene el servicio de URnetwork y elimina su unidad de systemd. La app no podrá conectarse hasta que se configure de nuevo. Se te pedirá permiso de administrador."
   fr: "Cela arrête le service URnetwork et supprime son unité systemd. L’application ne pourra pas se connecter tant qu’il n’est pas reconfiguré. Une autorisation d’administrateur vous sera demandée."
   he: "פעולה זו עוצרת את שירות URnetwork ומסירה את יחידת ה-systemd שלו. האפליקציה לא תוכל להתחבר עד שהוא יוגדר מחדש. תתבקשו לתת הרשאת מנהל."

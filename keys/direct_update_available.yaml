@@ -1,0 +1,36 @@
+description: "macOS Settings > Software update status when a newer release exists. {version} is its version."
+source: "Update available: %@"
+platforms:
+  - apple
+placeholders:
+  - name: version
+    type: string
+localizations:
+  ar: "يتوفر تحديث: {version}"
+  cs: "Je k dispozici aktualizace: {version}"
+  de: "Update verfügbar: {version}"
+  el: "Διαθέσιμη ενημέρωση: {version}"
+  en: "Update available: {version}"
+  es: "Actualización disponible: {version}"
+  es-419: "Actualización disponible: {version}"
+  es-MX: "Actualización disponible: {version}"
+  fr: "Mise à jour disponible : {version}"
+  he: "יש עדכון זמין: {version}"
+  hi: "अपडेट उपलब्ध है: {version}"
+  id: "Pembaruan tersedia: {version}"
+  it: "Aggiornamento disponibile: {version}"
+  ja: "アップデートがあります: {version}"
+  ko: "업데이트 사용 가능: {version}"
+  nl: "Update beschikbaar: {version}"
+  pl: "Dostępna aktualizacja: {version}"
+  pt: "Atualização disponível: {version}"
+  pt-BR: "Atualização disponível: {version}"
+  pt-PT: "Atualização disponível: {version}"
+  ru: "Доступно обновление: {version}"
+  sv: "Uppdatering tillgänglig: {version}"
+  sw: "Sasisho linapatikana: {version}"
+  th: "มีอัปเดต: {version}"
+  uk: "Доступне оновлення: {version}"
+  vi: "Có bản cập nhật: {version}"
+  zh: "有可用更新：{version}"
+  zh-HK: "有可用更新：{version}"

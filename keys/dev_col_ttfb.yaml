@@ -1,4 +1,4 @@
-description: "Developer page: table column header for time to first byte."
+description: "Developer page: table column header for time to first byte. The metric's standard abbreviation; never translated."
 source: "TTFB"
 translatable: false
 platforms:

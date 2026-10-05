@@ -2,10 +2,35 @@ description: "Developer tools screen: section heading for the detection controls
 source: "Detection"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "الكشف"
+  cs: "Detekce"
   de: "Erkennung"
+  el: "Ανίχνευση"
   en: "Detection"
   es: "Detección"
+  es-419: "Detección"
+  es-MX: "Detección"
+  fr: "Détection"
+  he: "זיהוי"
+  hi: "पहचान"
+  id: "Deteksi"
+  it: "Rilevamento"
+  ja: "検出"
+  ko: "감지"
+  nl: "Detectie"
+  pl: "Wykrywanie"
+  pt: "Deteção"
+  pt-BR: "Detecção"
+  pt-PT: "Deteção"
   ru: "Обнаружение"
+  sv: "Upptäckt"
+  sw: "Ugunduzi"
+  th: "การตรวจจับ"
+  uk: "Виявлення"
+  vi: "Phát hiện"
   zh: "检测"
+  zh-HK: "偵測"

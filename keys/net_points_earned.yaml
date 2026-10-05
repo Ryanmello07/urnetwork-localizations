@@ -1,8 +1,9 @@
-description: "Call to action"
+description: "Earnings page: lowercase caption under the net points total."
 source: "net points earned"
 deprecated:
   - android
-platforms: []
+platforms:
+  - linux
 localizations:
   ar: "صافي النقاط المكتسبة"
   cs: "získané net body"
@@ -19,7 +20,7 @@ localizations:
   it: "punti netti guadagnati"
   ja: "純獲得ポイント"
   ko: "순 포인트 획득"
-  nl: "Totale punten verdiend"
+  nl: "netto verdiende punten"
   pl: "Zarobione punkty netto"
   pt: "Pontos líquidos ganhos"
   pt-BR: "Pontos líquidos ganhos"
@@ -27,7 +28,7 @@ localizations:
   ru: "заработано очков (нетто)"
   sv: "nettopoäng intjänade"
   sw: "Jumla ya pointi zilizopatikana"
-  th: "คะแนนที่ได้รับ"
+  th: "คะแนนสุทธิที่ได้รับ"
   uk: "чистих зароблених балів"
   vi: "điểm ròng đã kiếm được"
   zh: "净赚积分"

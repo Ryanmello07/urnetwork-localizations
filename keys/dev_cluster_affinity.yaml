@@ -2,10 +2,35 @@ description: "Developer tools screen (reliability surface): cluster affinity con
 source: "Group IPs by site"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "تجميع عناوين IP حسب الموقع"
+  cs: "Seskupit IP podle webu"
   de: "IPs nach Website gruppieren"
+  el: "Ομαδοποίηση IP ανά ιστότοπο"
   en: "Group IPs by site"
   es: "Agrupar IP por sitio"
+  es-419: "Agrupar IP por sitio"
+  es-MX: "Agrupar IP por sitio"
+  fr: "Regrouper les IP par site"
+  he: "קיבוץ כתובות IP לפי אתר"
+  hi: "IP को साइट के अनुसार समूहित करें"
+  id: "Kelompokkan IP per situs"
+  it: "Raggruppa IP per sito"
+  ja: "IP をサイトごとにまとめる"
+  ko: "사이트별로 IP 묶기"
+  nl: "IP's per site groeperen"
+  pl: "Grupuj adresy IP według witryny"
+  pt: "Agrupar IPs por site"
+  pt-BR: "Agrupar IPs por site"
+  pt-PT: "Agrupar IPs por site"
   ru: "Группировать IP по сайтам"
+  sv: "Gruppera IP-adresser per webbplats"
+  sw: "Panga IP kwa tovuti"
+  th: "จัดกลุ่ม IP ตามเว็บไซต์"
+  uk: "Групувати IP за сайтом"
+  vi: "Nhóm IP theo trang web"
   zh: "按站点分组 IP"
+  zh-HK: "按網站分組 IP"

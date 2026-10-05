@@ -1,4 +1,4 @@
-description: "Developer page: exit state, p2p."
+description: "Developer page: exit state of an exit that carries only the P2P transport. A transport name; never translated."
 source: "p2p"
 translatable: false
 platforms:

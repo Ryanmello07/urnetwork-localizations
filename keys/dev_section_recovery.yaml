@@ -2,10 +2,35 @@ description: "Developer tools screen: section heading for the recovery controls.
 source: "Recovery"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "الاستعادة"
+  cs: "Obnova"
   de: "Wiederherstellung"
+  el: "Ανάκαμψη"
   en: "Recovery"
   es: "Recuperación"
+  es-419: "Recuperación"
+  es-MX: "Recuperación"
+  fr: "Rétablissement"
+  he: "התאוששות"
+  hi: "रिकवरी"
+  id: "Pemulihan"
+  it: "Ripristino"
+  ja: "復旧"
+  ko: "복구"
+  nl: "Herstel"
+  pl: "Odzyskiwanie"
+  pt: "Recuperação"
+  pt-BR: "Recuperação"
+  pt-PT: "Recuperação"
   ru: "Восстановление"
+  sv: "Återhämtning"
+  sw: "Urejeshaji"
+  th: "การกู้คืน"
+  uk: "Відновлення"
+  vi: "Phục hồi"
   zh: "恢复"
+  zh-HK: "恢復"

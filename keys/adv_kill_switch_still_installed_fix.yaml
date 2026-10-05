@@ -12,6 +12,7 @@ localizations:
   el: "Η ενεργοποίηση και εκ νέου απενεργοποίηση του Kill switch ζητά από την υπηρεσία να τον καθαρίσει· αν αυτό δεν λειτουργήσει, αφαιρέστε τον με: {command}"
   en: "Turning the kill switch on and then off again asks the service to clear it; if that does not work, remove it with: {command}"
   es: "Activar el Kill switch y volver a desactivarlo pide al servicio que lo elimine; si eso no funciona, elimínalo con: {command}"
+  es-419: "Activar el Kill switch y volver a desactivarlo le pide al servicio que lo elimine; si eso no funciona, elimínalo con: {command}"
   es-MX: "Activar el Kill switch y volver a desactivarlo pide al servicio que lo elimine; si eso no funciona, elimínalo con: {command}"
   fr: "Activer puis désactiver de nouveau le Kill switch demande au service de le retirer ; si cela ne fonctionne pas, retirez-le avec : {command}"
   he: "הפעלת הקיל סוויץ' וכיבויו שוב מבקשים מהשירות להסיר אותה; אם זה לא עובד, הסירו אותה באמצעות: {command}"

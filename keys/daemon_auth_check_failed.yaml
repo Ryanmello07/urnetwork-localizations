@@ -9,6 +9,7 @@ localizations:
   el: "Η υπηρεσία συστήματος URnetwork δεν μπόρεσε να ελέγξει αν αυτός ο λογαριασμός επιτρέπεται να συνδεθεί, οπότε δεν συνδέθηκε. Δοκιμάστε ξανά."
   en: "The URnetwork system service could not check whether this account is allowed to connect, so it did not connect. Try again."
   es: "El servicio del sistema de URnetwork no pudo comprobar si esta cuenta puede conectarse, así que no se conectó. Inténtalo de nuevo."
+  es-419: "El servicio del sistema de URnetwork no pudo verificar si esta cuenta puede conectarse, así que no se conectó. Inténtalo de nuevo."
   es-MX: "El servicio del sistema de URnetwork no pudo comprobar si esta cuenta puede conectarse, así que no se conectó. Inténtalo de nuevo."
   fr: "Le service système URnetwork n’a pas pu vérifier si ce compte est autorisé à se connecter, il ne s’est donc pas connecté. Réessayez."
   he: "שירות המערכת של URnetwork לא הצליח לבדוק אם החשבון הזה רשאי להתחבר, ולכן לא התחבר. נסו שוב."

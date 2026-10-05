@@ -2,10 +2,35 @@ description: "Developer tools screen (reliability surface): standing reserve con
 source: "Keep a spare exit warm"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "إبقاء مخرج احتياطي جاهزًا"
+  cs: "Držet záložní výstup připravený"
   de: "Einen Ersatz-Exit bereithalten"
+  el: "Μια εφεδρική έξοδος σε ετοιμότητα"
   en: "Keep a spare exit warm"
   es: "Mantener una salida de reserva lista"
+  es-419: "Mantener lista una salida de reserva"
+  es-MX: "Mantener lista una salida de reserva"
+  fr: "Garder une sortie de réserve prête"
+  he: "שמירת יציאה רזרבית מוכנה"
+  hi: "एक अतिरिक्त एग्ज़िट तैयार रखें"
+  id: "Siagakan satu exit cadangan"
+  it: "Tieni pronta un’uscita di riserva"
+  ja: "予備の出口を待機させておく"
+  ko: "예비 출구 대기시켜 두기"
+  nl: "Een reserve-exit warm houden"
+  pl: "Trzymaj zapasowe wyjście w gotowości"
+  pt: "Manter uma saída de reserva pronta"
+  pt-BR: "Manter uma saída reserva pronta"
+  pt-PT: "Manter uma saída de reserva pronta"
   ru: "Держать запасной выход наготове"
+  sv: "Håll en reservutgång varm"
+  sw: "Weka njia ya akiba ya kutoka tayari"
+  th: "เตรียมทางออกสำรองไว้หนึ่งแห่ง"
+  uk: "Тримати резервний вихід напоготові"
+  vi: "Giữ sẵn một điểm thoát dự phòng"
   zh: "保持一个备用出口预热"
+  zh-HK: "保持一個後備出口預熱"

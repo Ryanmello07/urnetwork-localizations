@@ -18,19 +18,87 @@ localizations:
     few: "تم استيراد {count} موسّعات"
     many: "تم استيراد {count} موسّعًا"
     other: "تم استيراد {count} موسّع"
+  cs:
+    one: "Importován {count} extender"
+    few: "Importovány {count} extendery"
+    many: "Importováno {count} extenderu"
+    other: "Importováno {count} extenderů"
   de:
     one: "{count} Extender importiert"
     other: "{count} Extender importiert"
+  el:
+    one: "Εισήχθη {count} επεκτατής"
+    other: "Εισήχθησαν {count} επεκτατές"
   en:
     one: "Imported {count} extender"
     other: "Imported {count} extenders"
   es:
     one: "Se importó {count} extensor"
     other: "Se importaron {count} extensores"
+  es-419:
+    one: "Se importó {count} extensor"
+    other: "Se importaron {count} extensores"
+  es-MX:
+    one: "Se importó {count} extensor"
+    other: "Se importaron {count} extensores"
+  fr:
+    one: "{count} extendeur importé"
+    other: "{count} extendeurs importés"
+  he:
+    one: "יובא מרחיב אחד"
+    two: "יובאו {count} מרחיבים"
+    many: "יובאו {count} מרחיבים"
+    other: "יובאו {count} מרחיבים"
+  hi:
+    one: "{count} एक्सटेंडर इंपोर्ट किया गया"
+    other: "{count} एक्सटेंडर इंपोर्ट किए गए"
+  id:
+    other: "{count} extender diimpor"
+  it:
+    one: "{count} extender importato"
+    other: "{count} extender importati"
+  ja:
+    other: "{count} 件のエクステンダーをインポートしました"
+  ko:
+    other: "익스텐더 {count}개를 가져왔습니다"
+  nl:
+    one: "{count} extender geïmporteerd"
+    other: "{count} extenders geïmporteerd"
+  pl:
+    one: "Zaimportowano {count} extender"
+    few: "Zaimportowano {count} extendery"
+    many: "Zaimportowano {count} extenderów"
+    other: "Zaimportowano {count} extendera"
+  pt:
+    one: "{count} extensor importado"
+    other: "{count} extensores importados"
+  pt-BR:
+    one: "{count} extensor importado"
+    other: "{count} extensores importados"
+  pt-PT:
+    one: "{count} extensor importado"
+    other: "{count} extensores importados"
   ru:
     one: "Импортирован {count} экстендер"
     few: "Импортировано {count} экстендера"
     many: "Импортировано {count} экстендеров"
     other: "Импортировано {count} экстендера"
+  sv:
+    one: "Importerade {count} extender"
+    other: "Importerade {count} extendrar"
+  sw:
+    one: "Kipanuzi {count} kimeletwa"
+    other: "Vipanuzi {count} vimeletwa"
+  th:
+    other: "นำเข้าตัวขยาย {count} รายการแล้ว"
+  uk:
+    one: "Імпортовано {count} екстендер"
+    few: "Імпортовано {count} екстендери"
+    many: "Імпортовано {count} екстендерів"
+    other: "Імпортовано {count} екстендера"
+  vi:
+    other: "Đã nhập {count} bộ mở rộng"
   zh:
     other: "已导入 {count} 个扩展器"
+  zh-HK:
+    other: "已匯入 {count} 個擴展器"

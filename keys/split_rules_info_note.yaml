@@ -1,5 +1,7 @@
 description: "transfer stats and split rules"
 source: "Exclusions apply to the whole co-associated network cluster, so related traffic is caught together."
+deprecated:
+  - apple
 platforms:
   - android
   - apple

@@ -9,6 +9,7 @@ localizations:
   el: "Αυτή η συσκευή δεν έχει υπηρεσία εξουσιοδότησης polkit, οπότε η υπηρεσία συστήματος URnetwork χρησιμοποιεί την ομάδα 'urnetwork'. Προσθέστε τον χρήστη σας σε αυτήν και αποσυνδεθείτε και συνδεθείτε ξανά."
   en: "This device has no polkit authorization service, so the URnetwork system service falls back to the 'urnetwork' group. Add your user to it and sign out and back in."
   es: "Este dispositivo no tiene servicio de autorización polkit, así que el servicio del sistema de URnetwork recurre al grupo 'urnetwork'. Añade tu usuario a él y cierra y vuelve a iniciar sesión."
+  es-419: "Este dispositivo no tiene servicio de autorización polkit, así que el servicio del sistema de URnetwork recurre al grupo 'urnetwork'. Agrega tu usuario a ese grupo y cierra sesión y vuelve a iniciarla."
   es-MX: "Este dispositivo no tiene servicio de autorización polkit, así que el servicio del sistema de URnetwork recurre al grupo 'urnetwork'. Agrega tu usuario a él y cierra y vuelve a iniciar sesión."
   fr: "Cet appareil n’a pas de service d’autorisation polkit, le service système URnetwork se rabat donc sur le groupe 'urnetwork'. Ajoutez-y votre utilisateur, puis déconnectez-vous et reconnectez-vous."
   he: "למכשיר הזה אין שירות הרשאות polkit, ולכן שירות המערכת של URnetwork משתמש בקבוצה 'urnetwork'. הוסיפו אליה את המשתמש שלכם, התנתקו והתחברו מחדש."

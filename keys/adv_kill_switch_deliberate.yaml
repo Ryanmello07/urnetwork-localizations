@@ -9,6 +9,7 @@ localizations:
   el: "Το πάτημα της Αποσύνδεσης επαναφέρει πάντα αμέσως το διαδίκτυο. Το Kill switch ισχύει μόνο για διακοπές που δεν ζητήσατε - μια σήραγγα που σταματά να μεταφέρει κίνηση, μια αλλαγή δικτύου ή τη διακοπή της υπηρεσίας URnetwork."
   en: "Pressing Disconnect always restores your internet straight away. The kill switch only applies to drops you did not ask for - a tunnel that stops carrying traffic, a network change, or the URnetwork service stopping."
   es: "Pulsar Desconectar siempre restablece internet al instante. El Kill switch solo actúa ante caídas que no pediste - un túnel que deja de transportar tráfico, un cambio de red o la detención del servicio de URnetwork."
+  es-419: "Presionar Desconectar siempre restablece internet al instante. El Kill switch solo actúa ante caídas que no pediste - un túnel que deja de transportar tráfico, un cambio de red o la detención del servicio de URnetwork."
   es-MX: "Pulsar Desconectar siempre restablece internet al instante. El Kill switch solo actúa ante caídas que no pediste - un túnel que deja de transportar tráfico, un cambio de red o la detención del servicio de URnetwork."
   fr: "Appuyer sur Déconnecter rétablit toujours Internet immédiatement. Le Kill switch ne s’applique qu’aux coupures que vous n’avez pas demandées - un tunnel qui cesse d’acheminer le trafic, un changement de réseau ou l’arrêt du service URnetwork."
   he: "לחיצה על התנתק תמיד משחזרת את האינטרנט מיד. הקיל סוויץ' חל רק על ניתוקים שלא ביקשתם - מנהרה שהפסיקה להעביר תעבורה, שינוי רשת או עצירת שירות URnetwork."

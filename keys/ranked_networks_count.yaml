@@ -16,6 +16,7 @@ localizations:
   el: "{count} δίκτυα με κατάταξη"
   en: "{count} ranked networks"
   es: "{count} redes clasificadas"
+  es-419: "Redes clasificadas: {count}"
   es-MX: "{count} redes clasificadas"
   fr: "{count} réseaux classés"
   he: "{count} רשתות מדורגות"

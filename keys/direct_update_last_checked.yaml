@@ -1,0 +1,36 @@
+description: "macOS Settings > Software update: when updates were last checked. {when} is a relative date, for example \"5 minutes ago\" or \"yesterday\"."
+source: "Last checked %@"
+platforms:
+  - apple
+placeholders:
+  - name: when
+    type: string
+localizations:
+  ar: "آخر تحقق: {when}"
+  cs: "Naposledy zkontrolováno: {when}"
+  de: "Zuletzt geprüft: {when}"
+  el: "Τελευταίος έλεγχος: {when}"
+  en: "Last checked {when}"
+  es: "Última comprobación: {when}"
+  es-419: "Última verificación: {when}"
+  es-MX: "Última verificación: {when}"
+  fr: "Dernière vérification : {when}"
+  he: "בדיקה אחרונה: {when}"
+  hi: "पिछली जाँच: {when}"
+  id: "Terakhir diperiksa {when}"
+  it: "Ultimo controllo: {when}"
+  ja: "最終確認: {when}"
+  ko: "마지막 확인: {when}"
+  nl: "Laatst gecontroleerd: {when}"
+  pl: "Ostatnio sprawdzono: {when}"
+  pt: "Última verificação: {when}"
+  pt-BR: "Última verificação: {when}"
+  pt-PT: "Última verificação: {when}"
+  ru: "Последняя проверка: {when}"
+  sv: "Senast kontrollerad {when}"
+  sw: "Iliangaliwa mwisho {when}"
+  th: "ตรวจสอบล่าสุด {when}"
+  uk: "Остання перевірка: {when}"
+  vi: "Kiểm tra lần cuối {when}"
+  zh: "上次检查：{when}"
+  zh-HK: "上次檢查：{when}"

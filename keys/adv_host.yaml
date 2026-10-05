@@ -9,6 +9,7 @@ localizations:
   el: "Κεντρικός υπολογιστής"
   en: "Host"
   es: "Host"
+  es-419: "Host"
   es-MX: "Host"
   fr: "Hôte"
   he: "מארח"

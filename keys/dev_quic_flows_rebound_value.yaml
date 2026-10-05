@@ -1,6 +1,5 @@
 description: "Developer page: value of the QUIC flows that rebound: {count} total, {accepted} accepted, {redialed} re-dialed."
 source: "{count} ({accepted} accepted / {redialed} re-dialed)"
-translatable: false
 platforms:
   - linux
 placeholders:
@@ -11,4 +10,31 @@ placeholders:
   - name: redialed
     type: int
 localizations:
+  ar: "{count} ({accepted} مقبولة / {redialed} أُعيد الاتصال بها)"
+  cs: "{count} (přijato {accepted} / znovu připojeno {redialed})"
+  de: "{count} ({accepted} akzeptiert / {redialed} neu verbunden)"
+  el: "{count} ({accepted} αποδεκτές / {redialed} με νέα σύνδεση)"
   en: "{count} ({accepted} accepted / {redialed} re-dialed)"
+  es: "{count} ({accepted} aceptados / {redialed} reconectados)"
+  es-419: "{count} ({accepted} aceptados / {redialed} reconectados)"
+  es-MX: "{count} ({accepted} aceptados / {redialed} reconectados)"
+  fr: "{count} ({accepted} acceptés / {redialed} reconnectés)"
+  he: "{count} ({accepted} התקבלו / {redialed} חויגו מחדש)"
+  hi: "{count} ({accepted} स्वीकृत / {redialed} दोबारा डायल)"
+  id: "{count} ({accepted} diterima / {redialed} di-dial ulang)"
+  it: "{count} ({accepted} accettati / {redialed} riconnessi)"
+  ja: "{count}（受理 {accepted} / 再接続 {redialed}）"
+  ko: "{count}(수락 {accepted} / 재연결 {redialed})"
+  nl: "{count} ({accepted} geaccepteerd / {redialed} opnieuw verbonden)"
+  pl: "{count} (zaakceptowane: {accepted} / połączone ponownie: {redialed})"
+  pt: "{count} ({accepted} aceites / {redialed} religados)"
+  pt-BR: "{count} ({accepted} aceitos / {redialed} reconectados)"
+  pt-PT: "{count} ({accepted} aceites / {redialed} religados)"
+  ru: "{count} ({accepted} принято / {redialed} переподключено)"
+  sv: "{count} ({accepted} accepterade / {redialed} återuppringda)"
+  sw: "{count} (zilizokubaliwa {accepted} / zilizopigwa upya {redialed})"
+  th: "{count} (ยอมรับ {accepted} / เชื่อมต่อใหม่ {redialed})"
+  uk: "{count} (прийнято: {accepted} / перепідключено: {redialed})"
+  vi: "{count} ({accepted} được chấp nhận / {redialed} quay số lại)"
+  zh: "{count}（已接受 {accepted} / 重新拨号 {redialed}）"
+  zh-HK: "{count}（已接受 {accepted} / 重新撥號 {redialed}）"

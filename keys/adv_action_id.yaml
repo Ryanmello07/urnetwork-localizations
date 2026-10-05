@@ -9,6 +9,7 @@ localizations:
   el: "Αναγνωριστικό ενέργειας"
   en: "Action id"
   es: "ID de acción"
+  es-419: "ID de acción"
   es-MX: "ID de acción"
   fr: "ID d’action"
   he: "מזהה פעולה"

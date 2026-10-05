@@ -2,6 +2,7 @@ description: "Generic refresh action (a button that reloads the current list or 
 source: "Refresh"
 platforms:
   - site
+  - apple
 localizations:
   ar: "تحديث"
   cs: "Obnovit"

@@ -2,6 +2,7 @@ description: "Split rules: validation error for a host name with non-ASCII chara
 source: "Use the ASCII form of the name."
 platforms:
   - android
+  - apple
 localizations:
   ar: "استخدم صيغة ASCII للاسم."
   cs: "Použijte ASCII podobu názvu."

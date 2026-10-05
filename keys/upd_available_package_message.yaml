@@ -1,0 +1,36 @@
+description: "Linux Settings update notice, package installs (.deb, .rpm, tarball) that the app does not replace itself. {file} is the release file name, for example urnetwork_2026.10.5_amd64.deb. The shell command is shown in the row below."
+source: "Download {file} from the release page, then run the command below."
+platforms:
+  - linux
+placeholders:
+  - name: file
+    type: string
+localizations:
+  ar: "نزّل {file} من صفحة الإصدار، ثم شغّل الأمر أدناه."
+  cs: "Stáhněte {file} ze stránky vydání a potom spusťte příkaz níže."
+  de: "Lade {file} von der Release-Seite herunter und führe dann den Befehl unten aus."
+  el: "Κατεβάστε το {file} από τη σελίδα της έκδοσης και, στη συνέχεια, εκτελέστε την παρακάτω εντολή."
+  en: "Download {file} from the release page, then run the command below."
+  es: "Descarga {file} desde la página de la versión y luego ejecuta el comando de abajo."
+  es-419: "Descarga {file} desde la página de la versión y luego ejecuta el comando de abajo."
+  es-MX: "Descarga {file} desde la página de la versión y luego ejecuta el comando de abajo."
+  fr: "Téléchargez {file} depuis la page de la version, puis exécutez la commande ci-dessous."
+  he: "הורידו את {file} מדף הגרסה, ואז הריצו את הפקודה שלמטה."
+  hi: "रिलीज़ पेज से {file} डाउनलोड करें, फिर नीचे दिया गया कमांड चलाएँ।"
+  id: "Unduh {file} dari halaman rilis, lalu jalankan perintah di bawah."
+  it: "Scarica {file} dalla pagina della versione, poi esegui il comando qui sotto."
+  ja: "リリースページから {file} をダウンロードし、下のコマンドを実行してください。"
+  ko: "릴리스 페이지에서 {file}을(를) 다운로드한 다음 아래 명령을 실행하세요."
+  nl: "Download {file} van de releasepagina en voer daarna de opdracht hieronder uit."
+  pl: "Pobierz {file} ze strony wydania, a następnie uruchom poniższe polecenie."
+  pt: "Baixe {file} na página da versão e depois execute o comando abaixo."
+  pt-BR: "Baixe {file} na página da versão e depois execute o comando abaixo."
+  pt-PT: "Transfira {file} a partir da página da versão e depois execute o comando abaixo."
+  ru: "Загрузите {file} со страницы выпуска, затем выполните команду ниже."
+  sv: "Hämta {file} från versionssidan och kör sedan kommandot nedan."
+  sw: "Pakua {file} kutoka ukurasa wa toleo, kisha uendeshe amri iliyo hapa chini."
+  th: "ดาวน์โหลด {file} จากหน้ารุ่น แล้วเรียกใช้คำสั่งด้านล่าง"
+  uk: "Завантажте {file} зі сторінки випуску, а потім виконайте команду нижче."
+  vi: "Tải {file} từ trang bản phát hành, rồi chạy lệnh bên dưới."
+  zh: "从版本页面下载 {file}，然后运行下面的命令。"
+  zh-HK: "從版本頁面下載 {file}，然後執行下面的指令。"

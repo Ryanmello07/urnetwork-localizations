@@ -16,6 +16,7 @@ localizations:
   el: "Κορυφαίο {percent}%"
   en: "Top {percent}%"
   es: "Top {percent} %"
+  es-419: "Top {percent} %"
   es-MX: "Top {percent} %"
   fr: "Top {percent} %"
   he: "{percent}% העליונים"

@@ -2,6 +2,7 @@ description: "transfer stats and split rules"
 source: "Route through VPN"
 platforms:
   - android
+  - apple
 localizations:
   ar: "التوجيه عبر VPN"
   cs: "Směrovat přes VPN"

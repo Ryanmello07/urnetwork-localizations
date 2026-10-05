@@ -1,0 +1,36 @@
+description: "Developer page: update check result when a newer release exists; Settings shows the update. {version} is the release version."
+source: "Update available: v{version} — see Settings."
+platforms:
+  - linux
+placeholders:
+  - name: version
+    type: string
+localizations:
+  ar: "يتوفر تحديث: v{version} — راجع الإعدادات."
+  cs: "Je k dispozici aktualizace: v{version} — viz Nastavení."
+  de: "Update verfügbar: v{version} — siehe Einstellungen."
+  el: "Διαθέσιμη ενημέρωση: v{version} — δείτε τις Ρυθμίσεις."
+  en: "Update available: v{version} — see Settings."
+  es: "Actualización disponible: v{version} — consulta Ajustes."
+  es-419: "Actualización disponible: v{version} — consulta Configuración."
+  es-MX: "Actualización disponible: v{version} — consulta Configuración."
+  fr: "Mise à jour disponible : v{version} — voir Paramètres."
+  he: "יש עדכון זמין: v{version} — ראו בהגדרות."
+  hi: "अपडेट उपलब्ध है: v{version} — सेटिंग देखें।"
+  id: "Pembaruan tersedia: v{version} — lihat Pengaturan."
+  it: "Aggiornamento disponibile: v{version} — vedi Impostazioni."
+  ja: "アップデートがあります: v{version} — 設定を確認してください。"
+  ko: "업데이트 가능: v{version} — 설정을 확인하세요."
+  nl: "Update beschikbaar: v{version} — zie Instellingen."
+  pl: "Dostępna aktualizacja: v{version} — zobacz Ustawienia."
+  pt: "Atualização disponível: v{version} — veja as Definições."
+  pt-BR: "Atualização disponível: v{version} — veja Configurações."
+  pt-PT: "Atualização disponível: v{version} — veja as Definições."
+  ru: "Доступно обновление: v{version} — см. Настройки."
+  sv: "Uppdatering tillgänglig: v{version} — se Inställningar."
+  sw: "Sasisho linapatikana: v{version} — angalia Mipangilio."
+  th: "มีอัปเดต: v{version} — ดูที่การตั้งค่า"
+  uk: "Доступне оновлення: v{version} — див. Налаштування."
+  vi: "Có bản cập nhật: v{version} — xem Cài đặt."
+  zh: "有可用更新：v{version}——请查看“设置”。"
+  zh-HK: "有可用更新：v{version}——請查看「設定」。"

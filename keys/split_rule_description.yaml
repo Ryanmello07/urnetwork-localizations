@@ -1,6 +1,8 @@
 description: "A description of the functionality of the split rule editor."
 description_auto: true
 source: "Selected hosts are routed locally and bypass the tunnel."
+deprecated:
+  - apple
 platforms:
   - android
   - apple

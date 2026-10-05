@@ -4,6 +4,7 @@ deprecated:
   - apple
 platforms:
   - apple
+  - linux
 localizations:
   ar: "أدخل عنوان المحفظة"
   cs: "Vložte adresu peněženky"
