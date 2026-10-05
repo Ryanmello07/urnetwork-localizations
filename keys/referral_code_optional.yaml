@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - linux
+  - site
 localizations:
   ar: "رمز الإحالة (اختياري)"
   cs: "Doporučující kód (nepovinné)"
