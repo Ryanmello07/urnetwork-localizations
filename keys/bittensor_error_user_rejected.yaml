@@ -1,0 +1,36 @@
+description: "Bittensor wallet error in the apps, when the ur.io bridge page returns user_rejected: the user declined the connection or the signature request in the wallet (Talisman, or a WalletConnect wallet), so nothing was signed."
+source: "The request was declined in your wallet. Start again and approve it to continue."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "تم رفض الطلب في محفظتك. ابدأ من جديد ووافق عليه للمتابعة."
+  cs: "Požadavek byl ve vaší peněžence zamítnut. Začněte znovu a schvalte ho, abyste mohli pokračovat."
+  de: "Die Anfrage wurde in deiner Wallet abgelehnt. Starte erneut und bestätige sie, um fortzufahren."
+  el: "Το αίτημα απορρίφθηκε στο πορτοφόλι σας. Ξεκινήστε ξανά και εγκρίνετέ το για να συνεχίσετε."
+  en: "The request was declined in your wallet. Start again and approve it to continue."
+  es: "La solicitud se rechazó en tu billetera. Empieza de nuevo y apruébala para continuar."
+  es-419: "La solicitud se rechazó en tu billetera. Comienza de nuevo y apruébala para continuar."
+  es-MX: "La solicitud se rechazó en tu cartera. Comienza de nuevo y apruébala para continuar."
+  fr: "La demande a été refusée dans votre portefeuille. Recommencez et approuvez-la pour continuer."
+  he: "הבקשה נדחתה בארנק שלכם. התחילו מחדש ואשרו אותה כדי להמשיך."
+  hi: "आपके वॉलेट में अनुरोध अस्वीकार कर दिया गया। जारी रखने के लिए फिर से शुरू करें और अनुरोध को स्वीकृत करें।"
+  id: "Permintaan ditolak di dompet Anda. Mulai lagi dan setujui permintaan itu untuk melanjutkan."
+  it: "La richiesta è stata rifiutata nel tuo portafoglio. Ricomincia e approvala per continuare."
+  ja: "ウォレットでリクエストが拒否されました。最初からやり直し、リクエストを承認して続行してください。"
+  ko: "지갑에서 요청이 거부되었습니다. 다시 시작하고 요청을 승인하여 계속하세요."
+  nl: "Het verzoek is geweigerd in je wallet. Begin opnieuw en keur het goed om door te gaan."
+  pl: "Żądanie zostało odrzucone w Twoim portfelu. Zacznij od nowa i zatwierdź je, aby kontynuować."
+  pt: "O pedido foi recusado na sua carteira. Comece de novo e aprove-o para continuar."
+  pt-BR: "A solicitação foi recusada na sua carteira. Comece de novo e aprove-a para continuar."
+  pt-PT: "O pedido foi recusado na sua carteira. Comece de novo e aprove-o para continuar."
+  ru: "Запрос отклонен в вашем кошельке. Начните заново и подтвердите его, чтобы продолжить."
+  sv: "Begäran avvisades i din plånbok. Börja om och godkänn den för att fortsätta."
+  sw: "Ombi lilikataliwa kwenye pochi yako. Anza upya na uliidhinishe ili kuendelea."
+  th: "คำขอถูกปฏิเสธในกระเป๋าเงินของคุณ เริ่มใหม่และอนุมัติคำขอเพื่อดำเนินการต่อ"
+  uk: "Запит відхилено у вашому гаманці. Почніть знову й підтвердьте його, щоб продовжити."
+  vi: "Yêu cầu đã bị từ chối trong ví của bạn. Hãy bắt đầu lại và chấp thuận yêu cầu để tiếp tục."
+  zh: "该请求已在您的钱包中被拒绝。请重新开始并批准该请求以继续。"
+  zh-HK: "該請求已在你的錢包中被拒絕。請重新開始並批准該請求以繼續。"

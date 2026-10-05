@@ -1,0 +1,36 @@
+description: "Bittensor wallet error in the apps, when the ur.io bridge page returns walletconnect_unavailable: the page has no WalletConnect project id, so it cannot pair a wallet. Manual entry still works. WalletConnect is a product name."
+source: "WalletConnect is not available right now. Try again later, or enter your address manually."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "WalletConnect غير متاح حاليًا. حاول مرة أخرى لاحقًا، أو أدخل عنوانك يدويًا."
+  cs: "WalletConnect teď není k dispozici. Zkuste to později znovu, nebo zadejte adresu ručně."
+  de: "WalletConnect ist gerade nicht verfügbar. Versuche es später erneut oder gib deine Adresse manuell ein."
+  el: "Το WalletConnect δεν είναι διαθέσιμο αυτή τη στιγμή. Δοκιμάστε ξανά αργότερα ή εισαγάγετε τη διεύθυνσή σας χειροκίνητα."
+  en: "WalletConnect is not available right now. Try again later, or enter your address manually."
+  es: "WalletConnect no está disponible en este momento. Inténtalo de nuevo más tarde o introduce tu dirección manualmente."
+  es-419: "WalletConnect no está disponible en este momento. Inténtalo de nuevo más tarde o ingresa tu dirección manualmente."
+  es-MX: "WalletConnect no está disponible en este momento. Inténtalo de nuevo más tarde o ingresa tu dirección manualmente."
+  fr: "WalletConnect n'est pas disponible pour le moment. Réessayez plus tard ou saisissez votre adresse manuellement."
+  he: "WalletConnect אינו זמין כרגע. נסו שוב מאוחר יותר, או הזינו את הכתובת שלכם ידנית."
+  hi: "WalletConnect अभी उपलब्ध नहीं है। बाद में फिर से प्रयास करें, या अपना पता मैन्युअल रूप से दर्ज करें।"
+  id: "WalletConnect sedang tidak tersedia. Coba lagi nanti, atau masukkan alamat Anda secara manual."
+  it: "WalletConnect non è disponibile al momento. Riprova più tardi oppure inserisci il tuo indirizzo manualmente."
+  ja: "WalletConnect は現在利用できません。しばらくしてからもう一度お試しいただくか、アドレスを手動で入力してください。"
+  ko: "지금은 WalletConnect를 사용할 수 없습니다. 나중에 다시 시도하거나 주소를 직접 입력하세요."
+  nl: "WalletConnect is op dit moment niet beschikbaar. Probeer het later opnieuw of voer je adres handmatig in."
+  pl: "WalletConnect jest teraz niedostępny. Spróbuj ponownie później lub wprowadź adres ręcznie."
+  pt: "O WalletConnect não está disponível neste momento. Tente novamente mais tarde ou introduza o seu endereço manualmente."
+  pt-BR: "O WalletConnect não está disponível no momento. Tente novamente mais tarde ou digite seu endereço manualmente."
+  pt-PT: "O WalletConnect não está disponível neste momento. Tente novamente mais tarde ou introduza o seu endereço manualmente."
+  ru: "WalletConnect сейчас недоступен. Повторите попытку позже или введите адрес вручную."
+  sv: "WalletConnect är inte tillgängligt just nu. Försök igen senare eller ange din adress manuellt."
+  sw: "WalletConnect haipatikani kwa sasa. Jaribu tena baadaye, au weka anwani yako mwenyewe."
+  th: "WalletConnect ไม่พร้อมใช้งานในขณะนี้ ลองอีกครั้งในภายหลัง หรือป้อนที่อยู่ของคุณด้วยตนเอง"
+  uk: "WalletConnect зараз недоступний. Спробуйте пізніше або введіть адресу вручну."
+  vi: "WalletConnect hiện không khả dụng. Hãy thử lại sau hoặc nhập địa chỉ của bạn theo cách thủ công."
+  zh: "WalletConnect 目前不可用。请稍后重试，或手动输入您的地址。"
+  zh-HK: "WalletConnect 目前無法使用。請稍後再試，或手動輸入你的地址。"
