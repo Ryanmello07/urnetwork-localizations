@@ -2,6 +2,7 @@ description: "Settings, provide power choice under \"When on battery\": keep pro
 source: "Keep providing"
 platforms:
   - android
+  - apple
 localizations:
   ar: "متابعة التوفير"
   cs: "Pokračovat v poskytování"

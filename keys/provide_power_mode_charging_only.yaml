@@ -2,6 +2,7 @@ description: "Settings, provide power choice under \"When on battery\": provide 
 source: "Pause until charging"
 platforms:
   - android
+  - apple
 localizations:
   ar: "إيقاف مؤقت حتى الشحن"
   cs: "Pozastavit do nabíjení"

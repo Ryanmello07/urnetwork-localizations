@@ -2,6 +2,7 @@ description: "Provider card, under the provide mode row: providing is paused bec
 source: "Paused: this device isn't charging."
 platforms:
   - android
+  - apple
 localizations:
   ar: "متوقف مؤقتًا: هذا الجهاز لا يتم شحنه."
   cs: "Pozastaveno: toto zařízení se nenabíjí."
