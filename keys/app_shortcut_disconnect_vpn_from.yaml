@@ -1,0 +1,25 @@
+description: "A phrase Siri matches to disconnect URnetwork (App Shortcuts, Shortcuts.swift). People say it to Siri, so phrase it the way they talk to Siri (in most languages the informal imperative). Keep ${applicationName}, the app's name, exactly once, and keep the phrase distinct from the language's other connect and disconnect phrases."
+source: "Disconnect VPN from ${applicationName}"
+platforms:
+  - apple
+table: AppShortcuts
+localizations:
+  ar: "عطّل VPN في ${applicationName}"
+  de: "Trenne das VPN von ${applicationName}"
+  en: "Disconnect VPN from ${applicationName}"
+  es: "Desactiva la VPN de ${applicationName}"
+  es-419: "Desactiva la VPN de ${applicationName}"
+  es-MX: "Desactiva la VPN de ${applicationName}"
+  fr: "Déconnecte le VPN de ${applicationName}"
+  he: "כבה VPN ב-${applicationName}"
+  it: "Disconnetti la VPN da ${applicationName}"
+  ja: "${applicationName}でVPNをオフにして"
+  ko: "${applicationName} VPN 끄기"
+  nl: "Ontkoppel de VPN van ${applicationName}"
+  pt: "Desative a VPN do ${applicationName}"
+  pt-BR: "Desative a VPN do ${applicationName}"
+  ru: "Выключи VPN в ${applicationName}"
+  sv: "Stäng av VPN i ${applicationName}"
+  th: "ปิด VPN ของ ${applicationName}"
+  zh: "关闭 ${applicationName} VPN"
+  zh-HK: "關閉 ${applicationName} VPN"
