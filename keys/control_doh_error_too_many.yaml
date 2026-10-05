@@ -1,0 +1,36 @@
+description: "Bootstrap DNS-over-HTTPS server error: the list has more servers of one IP version than the app accepts."
+source: "Too many servers. Remove some and save again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "عدد الخوادم كبير جدًا. احذف بعضها واحفظ مرة أخرى."
+  cs: "Příliš mnoho serverů. Některé odeberte a uložte znovu."
+  de: "Zu viele Server. Entferne einige und speichere erneut."
+  el: "Πάρα πολλοί διακομιστές. Αφαιρέστε μερικούς και αποθηκεύστε ξανά."
+  en: "Too many servers. Remove some and save again."
+  es: "Demasiados servidores. Quita algunos y vuelve a guardar."
+  es-419: "Demasiados servidores. Quita algunos y vuelve a guardar."
+  es-MX: "Demasiados servidores. Quita algunos y vuelve a guardar."
+  fr: "Trop de serveurs. Supprimez-en quelques-uns et enregistrez à nouveau."
+  he: "יש יותר מדי שרתים. הסירו חלק מהם ושמרו שוב."
+  hi: "बहुत ज़्यादा सर्वर हैं। कुछ हटाएँ और फिर से सहेजें।"
+  id: "Terlalu banyak server. Hapus beberapa, lalu simpan lagi."
+  it: "Troppi server. Rimuovine alcuni e salva di nuovo."
+  ja: "サーバーが多すぎます。いくつか削除してから、もう一度保存してください。"
+  ko: "서버가 너무 많습니다. 일부를 삭제한 후 다시 저장하세요."
+  nl: "Te veel servers. Verwijder er een paar en sla opnieuw op."
+  pl: "Za dużo serwerów. Usuń niektóre i zapisz ponownie."
+  pt: "Demasiados servidores. Remova alguns e guarde novamente."
+  pt-BR: "Servidores demais. Remova alguns e salve novamente."
+  pt-PT: "Demasiados servidores. Remova alguns e guarde novamente."
+  ru: "Слишком много серверов. Удалите часть и сохраните снова."
+  sv: "För många servrar. Ta bort några och spara igen."
+  sw: "Seva ni nyingi mno. Ondoa baadhi kisha uhifadhi tena."
+  th: "เซิร์ฟเวอร์มากเกินไป ลบบางรายการออกแล้วบันทึกอีกครั้ง"
+  uk: "Забагато серверів. Видаліть частину й збережіть знову."
+  vi: "Quá nhiều máy chủ. Hãy xóa bớt rồi lưu lại."
+  zh: "服务器过多。请删除一些后再保存。"
+  zh-HK: "伺服器過多。請刪除一些後再儲存。"

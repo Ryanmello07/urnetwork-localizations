@@ -1,0 +1,36 @@
+description: "Extender settings: button that fills the bootstrap DNS-over-HTTPS server list with resolvers that are reachable in mainland China."
+source: "Use China resolvers"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "استخدام خوادم DNS الصينية"
+  cs: "Použít čínské servery DNS"
+  de: "Chinesische Resolver verwenden"
+  el: "Χρήση κινεζικών διακομιστών DNS"
+  en: "Use China resolvers"
+  es: "Usar resolutores de China"
+  es-419: "Usar resolutores de China"
+  es-MX: "Usar resolutores de China"
+  fr: "Utiliser les résolveurs chinois"
+  he: "שימוש בשרתי DNS של סין"
+  hi: "चीन के DNS रिज़ॉल्वर इस्तेमाल करें"
+  id: "Gunakan resolver Tiongkok"
+  it: "Usa i resolver cinesi"
+  ja: "中国のリゾルバーを使用"
+  ko: "중국 리졸버 사용"
+  nl: "Chinese resolvers gebruiken"
+  pl: "Użyj chińskich serwerów DNS"
+  pt: "Usar servidores DNS da China"
+  pt-BR: "Usar servidores DNS da China"
+  pt-PT: "Usar servidores DNS da China"
+  ru: "Использовать китайские DNS-серверы"
+  sv: "Använd kinesiska resolvrar"
+  sw: "Tumia seva za DNS za China"
+  th: "ใช้รีโซลเวอร์ของจีน"
+  uk: "Використовувати китайські DNS-сервери"
+  vi: "Dùng máy chủ DNS của Trung Quốc"
+  zh: "使用中国解析服务器"
+  zh-HK: "使用中國解析伺服器"
