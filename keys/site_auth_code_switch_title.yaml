@@ -1,0 +1,11 @@
+description: "ur.io: title of the prompt shown when a sign-in link (an app's one-time auth code, such as the iPhone app's Manage subscription) is for a different network than the one this browser is signed in to."
+source: "Switch accounts?"
+platforms:
+  - site
+localizations:
+  ar: "تبديل الحساب؟"
+  de: "Konto wechseln?"
+  en: "Switch accounts?"
+  es: "¿Cambiar de cuenta?"
+  ru: "Сменить аккаунт?"
+  zh: "切换帐户？"

@@ -1,0 +1,11 @@
+description: "ur.io: shown when a page opened with a sign-in link (an app's one-time auth code) could not sign in with it, because the code expired, was already used or could not be checked. Any session already in the browser is kept."
+source: "This sign-in link could not be used. It may have expired or already been used."
+platforms:
+  - site
+localizations:
+  ar: "تعذّر استخدام رابط تسجيل الدخول هذا. ربما انتهت صلاحيته أو استُخدم من قبل."
+  de: "Dieser Anmeldelink konnte nicht verwendet werden. Möglicherweise ist er abgelaufen oder wurde bereits verwendet."
+  en: "This sign-in link could not be used. It may have expired or already been used."
+  es: "No se pudo usar este enlace de inicio de sesión. Es posible que haya caducado o que ya se haya usado."
+  ru: "Не удалось использовать эту ссылку для входа. Возможно, срок её действия истёк или она уже была использована."
+  zh: "无法使用此登录链接。它可能已过期或已被使用。"

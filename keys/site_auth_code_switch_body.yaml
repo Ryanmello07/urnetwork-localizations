@@ -1,0 +1,16 @@
+description: "ur.io: body of the switch-accounts prompt for a sign-in link. {link_network} is the network the link signs in to; {current_network} is the network this browser is signed in to. Both are network names, shown as typed."
+source: "This link signs in to {link_network}. You are signed in to {current_network}."
+platforms:
+  - site
+placeholders:
+  - name: link_network
+    type: string
+  - name: current_network
+    type: string
+localizations:
+  ar: "هذا الرابط يسجّل دخولك إلى {link_network}. أنت مسجّل الدخول حاليًا إلى {current_network}."
+  de: "Dieser Link meldet dich bei {link_network} an. Du bist bei {current_network} angemeldet."
+  en: "This link signs in to {link_network}. You are signed in to {current_network}."
+  es: "Este enlace inicia sesión en {link_network}. Tienes la sesión iniciada en {current_network}."
+  ru: "Эта ссылка выполняет вход в сеть {link_network}. Сейчас вы вошли в сеть {current_network}."
+  zh: "此链接将登录到 {link_network}。您当前已登录 {current_network}。"
