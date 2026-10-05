@@ -1,0 +1,36 @@
+description: "VLESS settings: the REALITY short ID field label."
+source: "Short ID"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "المعرّف القصير"
+  cs: "Krátké ID"
+  de: "Kurz-ID"
+  el: "Σύντομο αναγνωριστικό"
+  en: "Short ID"
+  es: "ID corto"
+  es-419: "ID corto"
+  es-MX: "ID corto"
+  fr: "ID court"
+  he: "מזהה קצר"
+  hi: "शॉर्ट आईडी"
+  id: "ID pendek"
+  it: "ID breve"
+  ja: "ショート ID"
+  ko: "짧은 ID"
+  nl: "Korte ID"
+  pl: "Krótki identyfikator"
+  pt: "ID curto"
+  pt-BR: "ID curto"
+  pt-PT: "ID curto"
+  ru: "Короткий ID"
+  sv: "Kort-ID"
+  sw: "Kitambulisho kifupi"
+  th: "รหัสแบบสั้น"
+  uk: "Короткий ID"
+  vi: "ID ngắn"
+  zh: "短 ID"
+  zh-HK: "短 ID"

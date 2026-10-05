@@ -1,0 +1,36 @@
+description: "VLESS settings: the HTTP path field label of the WebSocket and HTTPUpgrade transports."
+source: "Path"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "المسار"
+  cs: "Cesta"
+  de: "Pfad"
+  el: "Διαδρομή"
+  en: "Path"
+  es: "Ruta"
+  es-419: "Ruta"
+  es-MX: "Ruta"
+  fr: "Chemin"
+  he: "נתיב"
+  hi: "पाथ"
+  id: "Jalur"
+  it: "Percorso"
+  ja: "パス"
+  ko: "경로"
+  nl: "Pad"
+  pl: "Ścieżka"
+  pt: "Caminho"
+  pt-BR: "Caminho"
+  pt-PT: "Caminho"
+  ru: "Путь"
+  sv: "Sökväg"
+  sw: "Njia"
+  th: "พาธ"
+  uk: "Шлях"
+  vi: "Đường dẫn"
+  zh: "路径"
+  zh-HK: "路徑"

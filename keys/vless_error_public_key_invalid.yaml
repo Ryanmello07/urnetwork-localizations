@@ -1,0 +1,36 @@
+description: "VLESS settings error: the REALITY public key is missing or is not 32 bytes of base64. REALITY is a protocol name."
+source: "Enter the REALITY public key."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "أدخل المفتاح العام لـ REALITY."
+  cs: "Zadejte veřejný klíč REALITY."
+  de: "Gib den öffentlichen REALITY-Schlüssel ein."
+  el: "Εισαγάγετε το δημόσιο κλειδί του REALITY."
+  en: "Enter the REALITY public key."
+  es: "Introduce la clave pública de REALITY."
+  es-419: "Ingresa la clave pública de REALITY."
+  es-MX: "Ingresa la clave pública de REALITY."
+  fr: "Saisissez la clé publique REALITY."
+  he: "הזינו את המפתח הציבורי של REALITY."
+  hi: "REALITY की पब्लिक की दर्ज करें।"
+  id: "Masukkan kunci publik REALITY."
+  it: "Inserisci la chiave pubblica REALITY."
+  ja: "REALITY の公開鍵を入力してください。"
+  ko: "REALITY 공개 키를 입력하세요."
+  nl: "Voer de openbare REALITY-sleutel in."
+  pl: "Wpisz klucz publiczny REALITY."
+  pt: "Introduza a chave pública do REALITY."
+  pt-BR: "Digite a chave pública do REALITY."
+  pt-PT: "Introduza a chave pública do REALITY."
+  ru: "Введите открытый ключ REALITY."
+  sv: "Ange den offentliga REALITY-nyckeln."
+  sw: "Weka ufunguo wa umma wa REALITY."
+  th: "ป้อนคีย์สาธารณะของ REALITY"
+  uk: "Введіть відкритий ключ REALITY."
+  vi: "Nhập khóa công khai REALITY."
+  zh: "请输入 REALITY 公钥。"
+  zh-HK: "請輸入 REALITY 公鑰。"

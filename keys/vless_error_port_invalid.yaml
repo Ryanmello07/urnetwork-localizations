@@ -1,0 +1,36 @@
+description: "VLESS settings error: the port is missing or outside 1 to 65535."
+source: "Enter a port from 1 to 65535."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "أدخل منفذًا من 1 إلى 65535."
+  cs: "Zadejte port od 1 do 65535."
+  de: "Gib einen Port von 1 bis 65535 ein."
+  el: "Εισαγάγετε μια θύρα από 1 έως 65535."
+  en: "Enter a port from 1 to 65535."
+  es: "Introduce un puerto del 1 al 65535."
+  es-419: "Ingresa un puerto del 1 al 65535."
+  es-MX: "Ingresa un puerto del 1 al 65535."
+  fr: "Saisissez un port de 1 à 65535."
+  he: "הזינו פורט בין 1 ל-65535."
+  hi: "1 से 65535 तक का पोर्ट दर्ज करें।"
+  id: "Masukkan port dari 1 sampai 65535."
+  it: "Inserisci una porta da 1 a 65535."
+  ja: "1～65535 のポートを入力してください。"
+  ko: "1에서 65535 사이의 포트를 입력하세요."
+  nl: "Voer een poort van 1 tot en met 65535 in."
+  pl: "Wpisz port od 1 do 65535."
+  pt: "Introduza uma porta de 1 a 65535."
+  pt-BR: "Digite uma porta de 1 a 65535."
+  pt-PT: "Introduza uma porta de 1 a 65535."
+  ru: "Введите порт от 1 до 65535."
+  sv: "Ange en port från 1 till 65535."
+  sw: "Weka lango kuanzia 1 hadi 65535."
+  th: "ป้อนพอร์ตตั้งแต่ 1 ถึง 65535"
+  uk: "Введіть порт від 1 до 65535."
+  vi: "Nhập cổng từ 1 đến 65535."
+  zh: "请输入 1 到 65535 之间的端口。"
+  zh-HK: "請輸入 1 至 65535 之間的連接埠。"

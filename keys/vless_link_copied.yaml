@@ -1,0 +1,36 @@
+description: "VLESS settings: confirmation after copying the share link."
+source: "VLESS link copied"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "تم نسخ رابط VLESS"
+  cs: "Odkaz VLESS byl zkopírován"
+  de: "VLESS-Link kopiert"
+  el: "Ο σύνδεσμος VLESS αντιγράφηκε"
+  en: "VLESS link copied"
+  es: "Enlace VLESS copiado"
+  es-419: "Enlace VLESS copiado"
+  es-MX: "Enlace VLESS copiado"
+  fr: "Lien VLESS copié"
+  he: "קישור ה-VLESS הועתק"
+  hi: "VLESS लिंक कॉपी हो गया"
+  id: "Tautan VLESS disalin"
+  it: "Link VLESS copiato"
+  ja: "VLESS リンクをコピーしました"
+  ko: "VLESS 링크가 복사되었습니다"
+  nl: "VLESS-link gekopieerd"
+  pl: "Skopiowano link VLESS"
+  pt: "Ligação VLESS copiada"
+  pt-BR: "Link VLESS copiado"
+  pt-PT: "Ligação VLESS copiada"
+  ru: "Ссылка VLESS скопирована"
+  sv: "VLESS-länken har kopierats"
+  sw: "Kiungo cha VLESS kimenakiliwa"
+  th: "คัดลอกลิงก์ VLESS แล้ว"
+  uk: "Посилання VLESS скопійовано"
+  vi: "Đã sao chép liên kết VLESS"
+  zh: "已复制 VLESS 链接"
+  zh-HK: "已複製 VLESS 連結"

@@ -1,0 +1,36 @@
+description: "VLESS settings: the picker of the browser TLS hello the connection imitates (chrome, firefox, ...)."
+source: "TLS fingerprint"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "بصمة TLS"
+  cs: "Otisk TLS"
+  de: "TLS-Fingerabdruck"
+  el: "Αποτύπωμα TLS"
+  en: "TLS fingerprint"
+  es: "Huella TLS"
+  es-419: "Huella TLS"
+  es-MX: "Huella TLS"
+  fr: "Empreinte TLS"
+  he: "טביעת אצבע TLS"
+  hi: "TLS फ़िंगरप्रिंट"
+  id: "Sidik jari TLS"
+  it: "Impronta TLS"
+  ja: "TLS フィンガープリント"
+  ko: "TLS 지문"
+  nl: "TLS-vingerafdruk"
+  pl: "Odcisk TLS"
+  pt: "Impressão digital TLS"
+  pt-BR: "Impressão digital TLS"
+  pt-PT: "Impressão digital TLS"
+  ru: "Отпечаток TLS"
+  sv: "TLS-fingeravtryck"
+  sw: "Alama ya TLS"
+  th: "ลายนิ้วมือ TLS"
+  uk: "Відбиток TLS"
+  vi: "Dấu vân tay TLS"
+  zh: "TLS 指纹"
+  zh-HK: "TLS 指紋"

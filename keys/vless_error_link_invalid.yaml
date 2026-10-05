@@ -1,0 +1,36 @@
+description: "VLESS settings error: the pasted text is not a vless:// share link."
+source: "This is not a valid VLESS link."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "هذا ليس رابط VLESS صالحًا."
+  cs: "Toto není platný odkaz VLESS."
+  de: "Das ist kein gültiger VLESS-Link."
+  el: "Αυτός δεν είναι έγκυρος σύνδεσμος VLESS."
+  en: "This is not a valid VLESS link."
+  es: "Este no es un enlace VLESS válido."
+  es-419: "Este no es un enlace VLESS válido."
+  es-MX: "Este no es un enlace VLESS válido."
+  fr: "Ce n'est pas un lien VLESS valide."
+  he: "זה אינו קישור VLESS תקין."
+  hi: "यह मान्य VLESS लिंक नहीं है।"
+  id: "Ini bukan tautan VLESS yang valid."
+  it: "Questo non è un link VLESS valido."
+  ja: "有効な VLESS リンクではありません。"
+  ko: "올바른 VLESS 링크가 아닙니다."
+  nl: "Dit is geen geldige VLESS-link."
+  pl: "To nie jest prawidłowy link VLESS."
+  pt: "Esta não é uma ligação VLESS válida."
+  pt-BR: "Este não é um link VLESS válido."
+  pt-PT: "Esta não é uma ligação VLESS válida."
+  ru: "Это недействительная ссылка VLESS."
+  sv: "Det här är ingen giltig VLESS-länk."
+  sw: "Hiki si kiungo halali cha VLESS."
+  th: "นี่ไม่ใช่ลิงก์ VLESS ที่ถูกต้อง"
+  uk: "Це недійсне посилання VLESS."
+  vi: "Đây không phải là liên kết VLESS hợp lệ."
+  zh: "这不是有效的 VLESS 链接。"
+  zh-HK: "這不是有效的 VLESS 連結。"

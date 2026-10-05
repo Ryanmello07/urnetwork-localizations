@@ -1,0 +1,36 @@
+description: "VLESS settings: note after saving where the VPN service runs separately from the app (the iOS tunnel extension, the desktop service). It reads the settings at its next start."
+source: "The VPN uses the new VLESS settings the next time it connects."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يستخدم VPN إعدادات VLESS الجديدة عند اتصاله في المرة القادمة."
+  cs: "VPN použije nové nastavení VLESS při příštím připojení."
+  de: "Das VPN verwendet die neuen VLESS-Einstellungen bei der nächsten Verbindung."
+  el: "Το VPN θα χρησιμοποιήσει τις νέες ρυθμίσεις VLESS την επόμενη φορά που θα συνδεθεί."
+  en: "The VPN uses the new VLESS settings the next time it connects."
+  es: "La VPN usará la nueva configuración de VLESS la próxima vez que se conecte."
+  es-419: "La VPN usará la nueva configuración de VLESS la próxima vez que se conecte."
+  es-MX: "La VPN usará la nueva configuración de VLESS la próxima vez que se conecte."
+  fr: "Le VPN utilisera les nouveaux paramètres VLESS lors de sa prochaine connexion."
+  he: "ה-VPN ישתמש בהגדרות ה-VLESS החדשות בפעם הבאה שיתחבר."
+  hi: "VPN अगली बार कनेक्ट होने पर नई VLESS सेटिंग्स का उपयोग करेगा।"
+  id: "VPN akan menggunakan pengaturan VLESS baru saat terhubung berikutnya."
+  it: "La VPN userà le nuove impostazioni VLESS alla prossima connessione."
+  ja: "VPN は次回の接続時に新しい VLESS 設定を使用します。"
+  ko: "VPN은 다음 연결 시 새 VLESS 설정을 사용합니다."
+  nl: "De VPN gebruikt de nieuwe VLESS-instellingen bij de volgende verbinding."
+  pl: "VPN użyje nowych ustawień VLESS przy następnym połączeniu."
+  pt: "A VPN utilizará as novas definições VLESS na próxima ligação."
+  pt-BR: "A VPN usará as novas configurações VLESS na próxima vez que se conectar."
+  pt-PT: "A VPN utilizará as novas definições VLESS na próxima ligação."
+  ru: "VPN будет использовать новые настройки VLESS при следующем подключении."
+  sv: "VPN:en använder de nya VLESS-inställningarna nästa gång den ansluter."
+  sw: "VPN itatumia mipangilio mipya ya VLESS itakapounganisha tena."
+  th: "VPN จะใช้การตั้งค่า VLESS ใหม่ในการเชื่อมต่อครั้งถัดไป"
+  uk: "VPN використає нові налаштування VLESS під час наступного підключення."
+  vi: "VPN sẽ dùng cài đặt VLESS mới trong lần kết nối tiếp theo."
+  zh: "VPN 将在下次连接时使用新的 VLESS 设置。"
+  zh-HK: "VPN 將在下次連線時使用新的 VLESS 設定。"

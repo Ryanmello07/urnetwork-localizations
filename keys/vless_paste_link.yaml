@@ -1,0 +1,36 @@
+description: "VLESS settings: the button that reads a vless:// link from the clipboard or the link field."
+source: "Paste link"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "لصق الرابط"
+  cs: "Vložit odkaz"
+  de: "Link einfügen"
+  el: "Επικόλληση συνδέσμου"
+  en: "Paste link"
+  es: "Pegar enlace"
+  es-419: "Pegar enlace"
+  es-MX: "Pegar enlace"
+  fr: "Coller le lien"
+  he: "הדבקת קישור"
+  hi: "लिंक पेस्ट करें"
+  id: "Tempel tautan"
+  it: "Incolla link"
+  ja: "リンクを貼り付け"
+  ko: "링크 붙여넣기"
+  nl: "Link plakken"
+  pl: "Wklej link"
+  pt: "Colar ligação"
+  pt-BR: "Colar link"
+  pt-PT: "Colar ligação"
+  ru: "Вставить ссылку"
+  sv: "Klistra in länk"
+  sw: "Bandika kiungo"
+  th: "วางลิงก์"
+  uk: "Вставити посилання"
+  vi: "Dán liên kết"
+  zh: "粘贴链接"
+  zh-HK: "貼上連結"

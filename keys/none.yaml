@@ -3,6 +3,8 @@ source: "None"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "لا يوجد"
   cs: "Žádné"

@@ -1,0 +1,36 @@
+description: "VLESS settings: the REALITY public key field label."
+source: "Public key"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "المفتاح العام"
+  cs: "Veřejný klíč"
+  de: "Öffentlicher Schlüssel"
+  el: "Δημόσιο κλειδί"
+  en: "Public key"
+  es: "Clave pública"
+  es-419: "Clave pública"
+  es-MX: "Clave pública"
+  fr: "Clé publique"
+  he: "מפתח ציבורי"
+  hi: "पब्लिक की"
+  id: "Kunci publik"
+  it: "Chiave pubblica"
+  ja: "公開鍵"
+  ko: "공개 키"
+  nl: "Openbare sleutel"
+  pl: "Klucz publiczny"
+  pt: "Chave pública"
+  pt-BR: "Chave pública"
+  pt-PT: "Chave pública"
+  ru: "Открытый ключ"
+  sv: "Offentlig nyckel"
+  sw: "Ufunguo wa umma"
+  th: "คีย์สาธารณะ"
+  uk: "Відкритий ключ"
+  vi: "Khóa công khai"
+  zh: "公钥"
+  zh-HK: "公鑰"

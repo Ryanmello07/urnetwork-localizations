@@ -1,0 +1,36 @@
+description: "VLESS settings: the label of the share link field (a vless:// link)."
+source: "VLESS link"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "رابط VLESS"
+  cs: "Odkaz VLESS"
+  de: "VLESS-Link"
+  el: "Σύνδεσμος VLESS"
+  en: "VLESS link"
+  es: "Enlace VLESS"
+  es-419: "Enlace VLESS"
+  es-MX: "Enlace VLESS"
+  fr: "Lien VLESS"
+  he: "קישור VLESS"
+  hi: "VLESS लिंक"
+  id: "Tautan VLESS"
+  it: "Link VLESS"
+  ja: "VLESS リンク"
+  ko: "VLESS 링크"
+  nl: "VLESS-link"
+  pl: "Link VLESS"
+  pt: "Ligação VLESS"
+  pt-BR: "Link VLESS"
+  pt-PT: "Ligação VLESS"
+  ru: "Ссылка VLESS"
+  sv: "VLESS-länk"
+  sw: "Kiungo cha VLESS"
+  th: "ลิงก์ VLESS"
+  uk: "Посилання VLESS"
+  vi: "Liên kết VLESS"
+  zh: "VLESS 链接"
+  zh-HK: "VLESS 連結"

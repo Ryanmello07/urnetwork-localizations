@@ -1,0 +1,36 @@
+description: "VLESS settings error: the security type is one this app does not implement. TLS and REALITY are protocol names."
+source: "This security type is not supported. Use TLS, REALITY or none."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "نوع الأمان هذا غير مدعوم. استخدم TLS أو REALITY أو بدون."
+  cs: "Tento typ zabezpečení není podporován. Použijte TLS, REALITY nebo žádné."
+  de: "Diese Sicherheitsart wird nicht unterstützt. Verwende TLS, REALITY oder keine."
+  el: "Αυτός ο τύπος ασφάλειας δεν υποστηρίζεται. Χρησιμοποιήστε TLS, REALITY ή κανέναν."
+  en: "This security type is not supported. Use TLS, REALITY or none."
+  es: "Este tipo de seguridad no es compatible. Usa TLS, REALITY o ninguna."
+  es-419: "Este tipo de seguridad no es compatible. Usa TLS, REALITY o ninguna."
+  es-MX: "Este tipo de seguridad no es compatible. Usa TLS, REALITY o ninguna."
+  fr: "Ce type de sécurité n'est pas pris en charge. Utilisez TLS, REALITY ou aucune."
+  he: "סוג האבטחה הזה אינו נתמך. השתמשו ב-TLS, ב-REALITY או ללא אבטחה."
+  hi: "यह सुरक्षा प्रकार सपोर्टेड नहीं है। TLS, REALITY या कोई नहीं चुनें।"
+  id: "Jenis keamanan ini tidak didukung. Gunakan TLS, REALITY, atau tanpa keamanan."
+  it: "Questo tipo di sicurezza non è supportato. Usa TLS, REALITY o nessuna."
+  ja: "このセキュリティの種類には対応していません。TLS、REALITY、またはなしを使用してください。"
+  ko: "이 보안 유형은 지원되지 않습니다. TLS, REALITY 또는 없음을 사용하세요."
+  nl: "Dit beveiligingstype wordt niet ondersteund. Gebruik TLS, REALITY of geen."
+  pl: "Ten typ zabezpieczeń nie jest obsługiwany. Użyj TLS, REALITY lub brak."
+  pt: "Este tipo de segurança não é suportado. Utilize TLS, REALITY ou nenhuma."
+  pt-BR: "Este tipo de segurança não é compatível. Use TLS, REALITY ou nenhuma."
+  pt-PT: "Este tipo de segurança não é suportado. Utilize TLS, REALITY ou nenhuma."
+  ru: "Этот тип безопасности не поддерживается. Используйте TLS, REALITY или без защиты."
+  sv: "Den här säkerhetstypen stöds inte. Använd TLS, REALITY eller ingen."
+  sw: "Aina hii ya usalama haitumiki. Tumia TLS, REALITY au bila usalama."
+  th: "ไม่รองรับประเภทความปลอดภัยนี้ ใช้ TLS, REALITY หรือไม่มี"
+  uk: "Цей тип безпеки не підтримується. Використовуйте TLS, REALITY або без захисту."
+  vi: "Không hỗ trợ loại bảo mật này. Hãy dùng TLS, REALITY hoặc không có."
+  zh: "不支持此安全类型。请使用 TLS、REALITY 或无。"
+  zh-HK: "不支援此安全類型。請使用 TLS、REALITY 或無。"

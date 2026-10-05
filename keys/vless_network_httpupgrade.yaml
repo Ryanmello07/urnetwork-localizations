@@ -1,0 +1,10 @@
+description: "VLESS settings: the HTTPUpgrade transport option. A protocol term."
+source: "HTTPUpgrade"
+translatable: false
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  en: "HTTPUpgrade"

@@ -1,0 +1,36 @@
+description: "VLESS settings: the hint under the share link field. vless:// is literal and must not be translated."
+source: "Paste a vless:// link to fill in the settings."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "الصق رابط vless:// لملء الإعدادات."
+  cs: "Vložte odkaz vless:// a nastavení se vyplní."
+  de: "Füge einen vless://-Link ein, um die Einstellungen auszufüllen."
+  el: "Επικολλήστε έναν σύνδεσμο vless:// για να συμπληρωθούν οι ρυθμίσεις."
+  en: "Paste a vless:// link to fill in the settings."
+  es: "Pega un enlace vless:// para completar la configuración."
+  es-419: "Pega un enlace vless:// para completar la configuración."
+  es-MX: "Pega un enlace vless:// para completar la configuración."
+  fr: "Collez un lien vless:// pour remplir les paramètres."
+  he: "הדביקו קישור vless:// כדי למלא את ההגדרות."
+  hi: "सेटिंग्स भरने के लिए vless:// लिंक पेस्ट करें।"
+  id: "Tempel tautan vless:// untuk mengisi pengaturan."
+  it: "Incolla un link vless:// per compilare le impostazioni."
+  ja: "vless:// リンクを貼り付けると設定が入力されます。"
+  ko: "vless:// 링크를 붙여 넣으면 설정이 채워집니다."
+  nl: "Plak een vless://-link om de instellingen in te vullen."
+  pl: "Wklej link vless://, aby wypełnić ustawienia."
+  pt: "Cole uma ligação vless:// para preencher as definições."
+  pt-BR: "Cole um link vless:// para preencher as configurações."
+  pt-PT: "Cole uma ligação vless:// para preencher as definições."
+  ru: "Вставьте ссылку vless://, чтобы заполнить настройки."
+  sv: "Klistra in en vless://-länk för att fylla i inställningarna."
+  sw: "Bandika kiungo cha vless:// ili kujaza mipangilio."
+  th: "วางลิงก์ vless:// เพื่อกรอกการตั้งค่า"
+  uk: "Вставте посилання vless://, щоб заповнити налаштування."
+  vi: "Dán liên kết vless:// để điền các cài đặt."
+  zh: "粘贴 vless:// 链接以填写设置。"
+  zh-HK: "貼上 vless:// 連結以填寫設定。"

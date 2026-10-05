@@ -1,0 +1,36 @@
+description: "VLESS settings error: the Vision flow needs the TCP transport and TLS or REALITY security, or the flow is unknown. Vision, TCP, TLS and REALITY are protocol names."
+source: "The Vision flow works only with the TCP transport and TLS or REALITY security."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يعمل تدفق Vision فقط مع وسيلة النقل TCP وأمان TLS أو REALITY."
+  cs: "Tok Vision funguje jen s přenosem TCP a zabezpečením TLS nebo REALITY."
+  de: "Der Vision-Flow funktioniert nur mit dem TCP-Transport und TLS- oder REALITY-Sicherheit."
+  el: "Η ροή Vision λειτουργεί μόνο με τη μεταφορά TCP και ασφάλεια TLS ή REALITY."
+  en: "The Vision flow works only with the TCP transport and TLS or REALITY security."
+  es: "El flujo Vision solo funciona con el transporte TCP y seguridad TLS o REALITY."
+  es-419: "El flujo Vision solo funciona con el transporte TCP y seguridad TLS o REALITY."
+  es-MX: "El flujo Vision solo funciona con el transporte TCP y seguridad TLS o REALITY."
+  fr: "Le flux Vision ne fonctionne qu'avec le transport TCP et la sécurité TLS ou REALITY."
+  he: "זרימת Vision פועלת רק עם תעבורת TCP ואבטחת TLS או REALITY."
+  hi: "Vision फ़्लो सिर्फ़ TCP ट्रांसपोर्ट और TLS या REALITY सुरक्षा के साथ काम करता है।"
+  id: "Flow Vision hanya berfungsi dengan transport TCP dan keamanan TLS atau REALITY."
+  it: "Il flusso Vision funziona solo con il trasporto TCP e la sicurezza TLS o REALITY."
+  ja: "Vision フローは TCP トランスポートと TLS または REALITY セキュリティでのみ動作します。"
+  ko: "Vision 플로우는 TCP 전송 방식과 TLS 또는 REALITY 보안에서만 작동합니다."
+  nl: "De Vision-flow werkt alleen met het TCP-transport en TLS- of REALITY-beveiliging."
+  pl: "Przepływ Vision działa tylko z transportem TCP i zabezpieczeniami TLS lub REALITY."
+  pt: "O fluxo Vision só funciona com o transporte TCP e segurança TLS ou REALITY."
+  pt-BR: "O fluxo Vision só funciona com o transporte TCP e segurança TLS ou REALITY."
+  pt-PT: "O fluxo Vision só funciona com o transporte TCP e segurança TLS ou REALITY."
+  ru: "Поток Vision работает только с транспортом TCP и защитой TLS или REALITY."
+  sv: "Vision-flödet fungerar bara med TCP-transport och TLS- eller REALITY-säkerhet."
+  sw: "Mtiririko wa Vision hufanya kazi tu na usafirishaji wa TCP na usalama wa TLS au REALITY."
+  th: "โฟลว์ Vision ใช้ได้เฉพาะกับการรับส่ง TCP และความปลอดภัยแบบ TLS หรือ REALITY"
+  uk: "Потік Vision працює лише з транспортом TCP і захистом TLS або REALITY."
+  vi: "Luồng Vision chỉ hoạt động với phương thức truyền TCP và bảo mật TLS hoặc REALITY."
+  zh: "Vision 流控只适用于 TCP 传输方式和 TLS 或 REALITY 安全。"
+  zh-HK: "Vision 流控只適用於 TCP 傳輸方式和 TLS 或 REALITY 安全。"

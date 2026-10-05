@@ -1,0 +1,36 @@
+description: "VLESS settings error: the server address is missing or malformed."
+source: "Enter the server address."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "أدخل عنوان الخادم."
+  cs: "Zadejte adresu serveru."
+  de: "Gib die Serveradresse ein."
+  el: "Εισαγάγετε τη διεύθυνση του διακομιστή."
+  en: "Enter the server address."
+  es: "Introduce la dirección del servidor."
+  es-419: "Ingresa la dirección del servidor."
+  es-MX: "Ingresa la dirección del servidor."
+  fr: "Saisissez l'adresse du serveur."
+  he: "הזינו את כתובת השרת."
+  hi: "सर्वर का पता दर्ज करें।"
+  id: "Masukkan alamat server."
+  it: "Inserisci l'indirizzo del server."
+  ja: "サーバーアドレスを入力してください。"
+  ko: "서버 주소를 입력하세요."
+  nl: "Voer het serveradres in."
+  pl: "Wpisz adres serwera."
+  pt: "Introduza o endereço do servidor."
+  pt-BR: "Digite o endereço do servidor."
+  pt-PT: "Introduza o endereço do servidor."
+  ru: "Введите адрес сервера."
+  sv: "Ange serveradressen."
+  sw: "Weka anwani ya seva."
+  th: "ป้อนที่อยู่เซิร์ฟเวอร์"
+  uk: "Введіть адресу сервера."
+  vi: "Nhập địa chỉ máy chủ."
+  zh: "请输入服务器地址。"
+  zh-HK: "請輸入伺服器位址。"

@@ -1,0 +1,36 @@
+description: "VLESS settings error: the user ID is missing or is not a UUID (or a custom ID of up to 30 bytes)."
+source: "Enter the user ID (a UUID)."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "أدخل معرّف المستخدم (UUID)."
+  cs: "Zadejte ID uživatele (UUID)."
+  de: "Gib die Benutzer-ID ein (eine UUID)."
+  el: "Εισαγάγετε το αναγνωριστικό χρήστη (UUID)."
+  en: "Enter the user ID (a UUID)."
+  es: "Introduce el ID de usuario (un UUID)."
+  es-419: "Ingresa el ID de usuario (un UUID)."
+  es-MX: "Ingresa el ID de usuario (un UUID)."
+  fr: "Saisissez l'ID utilisateur (un UUID)."
+  he: "הזינו את מזהה המשתמש (UUID)."
+  hi: "यूज़र आईडी (UUID) दर्ज करें।"
+  id: "Masukkan ID pengguna (UUID)."
+  it: "Inserisci l'ID utente (un UUID)."
+  ja: "ユーザー ID（UUID）を入力してください。"
+  ko: "사용자 ID(UUID)를 입력하세요."
+  nl: "Voer de gebruikers-ID in (een UUID)."
+  pl: "Wpisz identyfikator użytkownika (UUID)."
+  pt: "Introduza o ID de utilizador (um UUID)."
+  pt-BR: "Digite o ID de usuário (um UUID)."
+  pt-PT: "Introduza o ID de utilizador (um UUID)."
+  ru: "Введите ID пользователя (UUID)."
+  sv: "Ange användar-ID:t (ett UUID)."
+  sw: "Weka kitambulisho cha mtumiaji (UUID)."
+  th: "ป้อนรหัสผู้ใช้ (UUID)"
+  uk: "Введіть ідентифікатор користувача (UUID)."
+  vi: "Nhập ID người dùng (UUID)."
+  zh: "请输入用户 ID（UUID）。"
+  zh-HK: "請輸入用戶 ID（UUID）。"

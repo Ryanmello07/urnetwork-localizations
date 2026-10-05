@@ -1,0 +1,36 @@
+description: "VLESS settings error: REALITY needs the server name (SNI) of the site it borrows. REALITY and SNI are protocol names."
+source: "Enter the server name (SNI) for REALITY."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "أدخل اسم الخادم (SNI) لـ REALITY."
+  cs: "Zadejte název serveru (SNI) pro REALITY."
+  de: "Gib den Servernamen (SNI) für REALITY ein."
+  el: "Εισαγάγετε το όνομα διακομιστή (SNI) για το REALITY."
+  en: "Enter the server name (SNI) for REALITY."
+  es: "Introduce el nombre del servidor (SNI) para REALITY."
+  es-419: "Ingresa el nombre del servidor (SNI) para REALITY."
+  es-MX: "Ingresa el nombre del servidor (SNI) para REALITY."
+  fr: "Saisissez le nom du serveur (SNI) pour REALITY."
+  he: "הזינו את שם השרת (SNI) עבור REALITY."
+  hi: "REALITY के लिए सर्वर नाम (SNI) दर्ज करें।"
+  id: "Masukkan nama server (SNI) untuk REALITY."
+  it: "Inserisci il nome del server (SNI) per REALITY."
+  ja: "REALITY のサーバー名（SNI）を入力してください。"
+  ko: "REALITY용 서버 이름(SNI)을 입력하세요."
+  nl: "Voer de servernaam (SNI) voor REALITY in."
+  pl: "Wpisz nazwę serwera (SNI) dla REALITY."
+  pt: "Introduza o nome do servidor (SNI) para o REALITY."
+  pt-BR: "Digite o nome do servidor (SNI) para o REALITY."
+  pt-PT: "Introduza o nome do servidor (SNI) para o REALITY."
+  ru: "Введите имя сервера (SNI) для REALITY."
+  sv: "Ange servernamnet (SNI) för REALITY."
+  sw: "Weka jina la seva (SNI) kwa REALITY."
+  th: "ป้อนชื่อเซิร์ฟเวอร์ (SNI) สำหรับ REALITY"
+  uk: "Введіть ім’я сервера (SNI) для REALITY."
+  vi: "Nhập tên máy chủ (SNI) cho REALITY."
+  zh: "请输入 REALITY 的服务器名称（SNI）。"
+  zh-HK: "請輸入 REALITY 的伺服器名稱（SNI）。"

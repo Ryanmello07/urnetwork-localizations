@@ -1,0 +1,36 @@
+description: "VLESS settings: the server port field label."
+source: "Port"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "المنفذ"
+  cs: "Port"
+  de: "Port"
+  el: "Θύρα"
+  en: "Port"
+  es: "Puerto"
+  es-419: "Puerto"
+  es-MX: "Puerto"
+  fr: "Port"
+  he: "פורט"
+  hi: "पोर्ट"
+  id: "Port"
+  it: "Porta"
+  ja: "ポート"
+  ko: "포트"
+  nl: "Poort"
+  pl: "Port"
+  pt: "Porta"
+  pt-BR: "Porta"
+  pt-PT: "Porta"
+  ru: "Порт"
+  sv: "Port"
+  sw: "Lango"
+  th: "พอร์ต"
+  uk: "Порт"
+  vi: "Cổng"
+  zh: "端口"
+  zh-HK: "連接埠"

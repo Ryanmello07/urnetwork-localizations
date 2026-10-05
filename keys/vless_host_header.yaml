@@ -1,0 +1,36 @@
+description: "VLESS settings: the HTTP Host header field label of the WebSocket and HTTPUpgrade transports. Host is a protocol term."
+source: "Host header"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "ترويسة المضيف"
+  cs: "Hlavička Host"
+  de: "Host-Header"
+  el: "Κεφαλίδα Host"
+  en: "Host header"
+  es: "Encabezado Host"
+  es-419: "Encabezado Host"
+  es-MX: "Encabezado Host"
+  fr: "En-tête Host"
+  he: "כותרת Host"
+  hi: "Host हेडर"
+  id: "Header Host"
+  it: "Intestazione Host"
+  ja: "Host ヘッダー"
+  ko: "Host 헤더"
+  nl: "Host-header"
+  pl: "Nagłówek Host"
+  pt: "Cabeçalho Host"
+  pt-BR: "Cabeçalho Host"
+  pt-PT: "Cabeçalho Host"
+  ru: "Заголовок Host"
+  sv: "Host-huvud"
+  sw: "Kichwa cha Host"
+  th: "ส่วนหัว Host"
+  uk: "Заголовок Host"
+  vi: "Tiêu đề Host"
+  zh: "Host 请求头"
+  zh-HK: "Host 標頭"

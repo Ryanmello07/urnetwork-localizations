@@ -1,0 +1,36 @@
+description: "VLESS settings error: the link asks for a VLESS feature this app does not implement (for example VLESS encryption)."
+source: "This link uses a VLESS feature this app does not support."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يستخدم هذا الرابط ميزة VLESS لا يدعمها هذا التطبيق."
+  cs: "Tento odkaz používá funkci VLESS, kterou tato aplikace nepodporuje."
+  de: "Dieser Link nutzt eine VLESS-Funktion, die diese App nicht unterstützt."
+  el: "Αυτός ο σύνδεσμος χρησιμοποιεί μια λειτουργία VLESS που δεν υποστηρίζει αυτή η εφαρμογή."
+  en: "This link uses a VLESS feature this app does not support."
+  es: "Este enlace usa una función de VLESS que esta app no admite."
+  es-419: "Este enlace usa una función de VLESS que esta app no admite."
+  es-MX: "Este enlace usa una función de VLESS que esta app no admite."
+  fr: "Ce lien utilise une fonctionnalité VLESS que cette application ne prend pas en charge."
+  he: "קישור זה משתמש בתכונת VLESS שהאפליקציה אינה תומכת בה."
+  hi: "यह लिंक VLESS की ऐसी सुविधा का उपयोग करता है जिसे यह ऐप सपोर्ट नहीं करता।"
+  id: "Tautan ini menggunakan fitur VLESS yang tidak didukung aplikasi ini."
+  it: "Questo link usa una funzione VLESS che questa app non supporta."
+  ja: "このリンクは、このアプリが対応していない VLESS 機能を使用しています。"
+  ko: "이 링크는 이 앱에서 지원하지 않는 VLESS 기능을 사용합니다."
+  nl: "Deze link gebruikt een VLESS-functie die deze app niet ondersteunt."
+  pl: "Ten link używa funkcji VLESS, której ta aplikacja nie obsługuje."
+  pt: "Esta ligação utiliza uma funcionalidade VLESS que esta app não suporta."
+  pt-BR: "Este link usa um recurso do VLESS que este app não suporta."
+  pt-PT: "Esta ligação utiliza uma funcionalidade VLESS que esta app não suporta."
+  ru: "Эта ссылка использует функцию VLESS, которую приложение не поддерживает."
+  sv: "Den här länken använder en VLESS-funktion som appen inte stöder."
+  sw: "Kiungo hiki kinatumia kipengele cha VLESS ambacho programu hii haikitumii."
+  th: "ลิงก์นี้ใช้ฟีเจอร์ VLESS ที่แอปนี้ไม่รองรับ"
+  uk: "Це посилання використовує функцію VLESS, яку застосунок не підтримує."
+  vi: "Liên kết này dùng một tính năng VLESS mà ứng dụng này không hỗ trợ."
+  zh: "此链接使用了本应用不支持的 VLESS 功能。"
+  zh-HK: "此連結使用了本應用程式不支援的 VLESS 功能。"
