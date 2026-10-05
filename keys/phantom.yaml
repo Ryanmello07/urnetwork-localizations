@@ -3,5 +3,7 @@ source: "Phantom"
 translatable: false
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   en: "Phantom"

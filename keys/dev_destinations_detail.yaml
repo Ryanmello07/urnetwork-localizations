@@ -2,6 +2,7 @@ description: "Developer page: explanation under the destinations table."
 source: "Which exit each destination's flows are landing on. A site spread over several rows is a site that lost its single egress IP."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "على أي مخرج تصل تدفقات كل وجهة. الموقع الموزّع على عدة صفوف هو موقع فقد عنوان IP الخروج الوحيد الخاص به."
   cs: "Na který výstup přicházejí toky jednotlivých cílů. Web rozložený do několika řádků je web, který přišel o svou jedinou výstupní IP."

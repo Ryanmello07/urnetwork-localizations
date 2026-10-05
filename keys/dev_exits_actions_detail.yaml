@@ -2,6 +2,7 @@ description: "Developer page: explanation of the drop, stall and shuffle actions
 source: "Drop, Stall and Shuffle degrade the live connection on purpose, immediately. Nothing here is queued or retried — an action that misses is reported, not replayed."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "«إسقاط» و«إيقاف» و«الخلط» تُضعف الاتصال الحالي عمدًا وفورًا. لا شيء هنا يوضع في قائمة انتظار أو تُعاد محاولته: الإجراء الذي يفشل يُبلَّغ عنه ولا يُكرَّر."
   cs: "„Vyřadit“, „Zaseknout“ a „Zamíchat“ záměrně a okamžitě zhoršují aktivní připojení. Nic se tu neřadí do fronty ani neopakuje: akce, která se nepovede, se nahlásí, ne zopakuje."

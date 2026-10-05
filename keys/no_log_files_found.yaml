@@ -2,6 +2,8 @@ description: "Call to action"
 source: "No log file found"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "لم يتم العثور على ملف السجل"
   cs: "Soubor protokolu nebyl nalezen"

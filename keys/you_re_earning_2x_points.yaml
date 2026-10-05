@@ -2,6 +2,7 @@ description: "Used in Shared/Views/AccountPointsBreakdown.swift."
 source: "You're earning 2x points"
 platforms:
   - apple
+  - linux
 localizations:
   ar: "أنت تكسب نقاط مضاعفة 2x"
   cs: "Získáváte dvakrát více (2x) bodů"

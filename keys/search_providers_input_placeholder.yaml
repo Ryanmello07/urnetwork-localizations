@@ -2,6 +2,8 @@ description: "Search providers input placeholder text"
 source: "Search countries, states, cities..."
 platforms:
   - web
+  - linux
+  - windows
 localizations:
   ar: "ابحث عن دول أو ولايات أو مدن..."
   cs: "Hledat země, státy, města..."

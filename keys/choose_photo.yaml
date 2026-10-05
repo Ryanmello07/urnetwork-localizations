@@ -1,10 +1,11 @@
 description: "Button: pick a photo that contains a QR code."
 source: "Choose photo"
+deprecated:
+  - linux
+  - windows
 platforms:
   - android
   - apple
-  - linux
-  - windows
 localizations:
   ar: "اختيار صورة"
   cs: "Vybrat fotku"

@@ -3,6 +3,8 @@ source: "Verify"
 platforms:
   - apple
   - site
+  - linux
+  - windows
 localizations:
   ar: "تحقق"
   cs: "Ověřit"

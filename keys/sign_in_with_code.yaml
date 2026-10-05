@@ -1,7 +1,8 @@
 description: "Button that signs in with a pasted auth code instead of a password."
 source: "Sign in with code"
-platforms:
+deprecated:
   - linux
+platforms: []
 localizations:
   ar: "تسجيل الدخول باستخدام رمز"
   cs: "Přihlásit se pomocí kódu"

@@ -2,6 +2,7 @@ description: "Developer page: report line when the SDK refused an exit action."
 source: "No change: the SDK declined that exit"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لا تغيير: رفض SDK هذا المخرج"
   cs: "Beze změny: SDK tento výstup odmítlo"

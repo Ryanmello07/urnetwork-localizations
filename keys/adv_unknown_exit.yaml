@@ -2,6 +2,7 @@ description: "Connection inspector: exit value when the destination is not in th
 source: "Not in the routing table"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "غير موجود في جدول التوجيه"
   cs: "Není ve směrovací tabulce"

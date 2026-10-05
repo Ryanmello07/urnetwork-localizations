@@ -2,6 +2,7 @@ description: "Developer page: heading of the probed exits table."
 source: "Probed exits"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "المخارج المفحوصة"
   cs: "Otestované výstupy"

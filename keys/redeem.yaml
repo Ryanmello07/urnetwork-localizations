@@ -3,6 +3,8 @@ source: "Redeem"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "استرداد"
   cs: "Uplatnit"

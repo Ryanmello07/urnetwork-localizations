@@ -2,6 +2,7 @@ description: "Developer page: label before the requested value of an override."
 source: "Requested:"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "المطلوب:"
   cs: "Požadováno:"

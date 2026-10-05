@@ -3,6 +3,8 @@ source: "Send"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "أرسل"
   cs: "Odeslat"

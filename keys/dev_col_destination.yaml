@@ -2,6 +2,7 @@ description: "Developer page: table column header for a destination host."
 source: "Destination"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الوجهة"
   cs: "Cíl"

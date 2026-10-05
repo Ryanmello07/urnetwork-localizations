@@ -2,6 +2,7 @@ description: "Developer page: report line after the probe suite stopped."
 source: "Probe suite stopped"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "توقفت مجموعة الفحوص"
   cs: "Sada sond zastavena"

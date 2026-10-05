@@ -3,6 +3,8 @@ source: "%@/year"
 platforms:
   - apple
   - android
+  - linux
+  - windows
 placeholders:
   - name: price
     type: string

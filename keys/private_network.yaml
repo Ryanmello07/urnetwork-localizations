@@ -3,6 +3,8 @@ source: "Private Network"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "شبكة خاصة"
   cs: "Soukromá síť"

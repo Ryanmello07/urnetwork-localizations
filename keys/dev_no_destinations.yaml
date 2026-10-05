@@ -2,6 +2,7 @@ description: "Developer page: empty state of the destinations table."
 source: "No destinations yet."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لا توجد وجهات بعد."
   cs: "Zatím žádné cíle."

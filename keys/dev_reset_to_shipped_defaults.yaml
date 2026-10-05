@@ -2,6 +2,7 @@ description: "Developer page: button that resets the reliability settings."
 source: "Reset to shipped defaults"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "إعادة التعيين إلى الإعدادات الافتراضية الأصلية"
   cs: "Obnovit výchozí hodnoty"

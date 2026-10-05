@@ -3,6 +3,8 @@ source: "Use wss:// for secure custom connect servers."
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "استخدم wss:// لخوادم connect المخصصة الآمنة."
   cs: "Pro zabezpečené vlastní connect servery použijte wss://."

@@ -2,6 +2,7 @@ description: "Settings, kill switch: Disconnect always restores the internet; th
 source: "Pressing Disconnect always restores your internet straight away. The kill switch only applies to drops you did not ask for - a tunnel that stops carrying traffic, a network change, or the URnetwork service stopping."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الضغط على قطع الاتصال يعيد الإنترنت فورًا دائمًا. لا ينطبق مفتاح القتل إلا على الانقطاعات التي لم تطلبها - نفق توقف عن نقل البيانات، أو تغيّر في الشبكة، أو توقف خدمة URnetwork."
   cs: "Stisknutí Odpojit vždy okamžitě obnoví internet. Kill switch se týká jen výpadků, o které jste nepožádali - tunelu, který přestal přenášet provoz, změny sítě nebo zastavení služby URnetwork."

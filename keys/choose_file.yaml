@@ -1,10 +1,11 @@
 description: "Button on desktop: pick a file that contains a QR code image."
 source: "Choose file"
+deprecated:
+  - linux
+  - windows
 platforms:
   - android
   - apple
-  - linux
-  - windows
 localizations:
   ar: "اختيار ملف"
   cs: "Vybrat soubor"

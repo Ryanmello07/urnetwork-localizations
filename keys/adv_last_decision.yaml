@@ -2,6 +2,7 @@ description: "Connection inspector: label of the last routing decision row."
 source: "Last decision"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "آخر قرار"
   cs: "Poslední rozhodnutí"

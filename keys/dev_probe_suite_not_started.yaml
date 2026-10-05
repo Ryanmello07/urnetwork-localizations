@@ -2,6 +2,7 @@ description: "Developer page: report line when the probe suite could not start."
 source: "Probe suite did not start: no live session, or one is already running."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لم تبدأ مجموعة الفحوص: لا توجد جلسة حيّة، أو هناك مجموعة قيد التشغيل بالفعل."
   cs: "Sada sond se nespustila: žádná aktivní relace, nebo už jedna běží."

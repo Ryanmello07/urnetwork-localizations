@@ -3,6 +3,8 @@ description_auto: true
 source: "Copy to Clipboard"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "انسخ إلى الحافظة"
   cs: "Kopírovat do schránky"

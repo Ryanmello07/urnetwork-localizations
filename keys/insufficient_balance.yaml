@@ -3,6 +3,8 @@ source: "Insufficient balance"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "رصيد غير كافٍ"
   cs: "Nedostatečný zůstatek"

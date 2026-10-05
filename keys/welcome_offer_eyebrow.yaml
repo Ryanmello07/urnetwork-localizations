@@ -1,10 +1,11 @@
 description: "Onboarding offer screen: the small uppercase eyebrow above the headline."
 source: "Welcome offer"
+deprecated:
+  - linux
+  - windows
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 localizations:
   en: "Welcome offer"

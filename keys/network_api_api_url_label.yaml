@@ -3,6 +3,8 @@ source: "API URL (optional)"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "عنوان URL لواجهة API (اختياري)"
   cs: "URL API (volitelné)"

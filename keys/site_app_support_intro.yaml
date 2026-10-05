@@ -2,6 +2,8 @@ description: "App support: intro line"
 source: "Send us your feedback directly, or join the community for direct support."
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "أرسل لنا ملاحظاتك مباشرةً، أو انضم إلى المجتمع للحصول على دعم مباشر."
   cs: "Pošlete nám svůj názor přímo, nebo se připojte ke komunitě a získejte přímou podporu."

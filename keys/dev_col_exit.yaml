@@ -2,6 +2,7 @@ description: "Developer page: table column header for the exit a flow uses."
 source: "Exit"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "المخرج"
   cs: "Výstup"

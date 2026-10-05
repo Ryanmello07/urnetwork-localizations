@@ -2,6 +2,7 @@ description: "Developer page: probe suite status while it runs."
 source: "Running."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "قيد التشغيل."
   cs: "Běží."

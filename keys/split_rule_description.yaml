@@ -7,6 +7,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "يتم توجيه المضيفين المحددين محليًا لتجاوز النفق."
   cs: "Vybraní hostitelé jsou směrováni lokálně a obcházejí tunel."

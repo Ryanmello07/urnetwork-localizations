@@ -1,9 +1,10 @@
 description: "History row: the network's share of the block."
 source: "%@ of block"
+deprecated:
+  - windows
 platforms:
   - android
   - apple
-  - windows
   - linux
   - site
 placeholders:

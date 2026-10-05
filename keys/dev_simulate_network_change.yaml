@@ -3,6 +3,8 @@ source: "Simulate network change"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "محاكاة تغيّر الشبكة"
   cs: "Simulovat změnu sítě"

@@ -2,6 +2,7 @@ description: "Developer page: suffix after a count of affected flows."
 source: "affected"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "المتأثرة"
   cs: "dotčeno"

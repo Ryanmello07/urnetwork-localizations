@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "تعديل قاعدة التقسيم"
   cs: "Upravit pravidlo rozdělení"

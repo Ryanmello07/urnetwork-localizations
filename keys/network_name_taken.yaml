@@ -3,6 +3,8 @@ source: "This network name is already taken"
 platforms:
   - apple
   - web
+  - linux
+  - windows
 localizations:
   ar: "اسم الشبكة مستخدم بالفعل"
   cs: "Tento název sítě je již obsazen"

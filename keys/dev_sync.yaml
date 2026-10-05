@@ -2,6 +2,7 @@ description: "Developer page: button that syncs the reliability settings."
 source: "Sync"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "مزامنة"
   cs: "Synchronizovat"

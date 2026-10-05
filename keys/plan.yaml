@@ -3,6 +3,8 @@ source: "Plan"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "خطة"
   cs: "Plán"

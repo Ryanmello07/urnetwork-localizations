@@ -3,6 +3,8 @@ source: "Current Ranking"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "الترتيب الحالي"
   cs: "Aktuální pořadí"

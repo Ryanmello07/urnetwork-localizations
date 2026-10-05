@@ -3,6 +3,7 @@ source: "No provider failures yet."
 platforms:
   - linux
   - apple
+  - windows
 localizations:
   ar: "لا توجد إخفاقات لدى المزوّدين بعد."
   cs: "Zatím žádná selhání poskytovatelů."

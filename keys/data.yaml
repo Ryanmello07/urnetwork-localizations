@@ -5,6 +5,7 @@ platforms:
   - apple
   - linux
   - site
+  - windows
 localizations:
   ar: "البيانات"
   cs: "Data"

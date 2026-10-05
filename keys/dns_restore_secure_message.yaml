@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "استعادة أكثر الإعدادات أمانًا: DNS مشفر عبر HTTPS من خلال النفق."
   cs: "Obnovte nejbezpečnější nastavení: šifrovaný DNS přes HTTPS v tunelu."

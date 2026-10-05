@@ -2,6 +2,7 @@ description: "Developer page: button that stops the probe suite."
 source: "Stop"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "إيقاف التشغيل"
   cs: "Zastavit"

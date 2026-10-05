@@ -3,6 +3,8 @@ source: "Removals deferred"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "عمليات الإزالة المؤجلة"
   cs: "Odložená odstranění"

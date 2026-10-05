@@ -1,10 +1,11 @@
 description: "Plan picker on the regional price tier: the line under the yearly price instead of a per-month equivalent; the placeholder is the storefront country's name."
 source: "Billed once a year · price for %@"
+deprecated:
+  - linux
+  - windows
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 placeholders:
   - name: country

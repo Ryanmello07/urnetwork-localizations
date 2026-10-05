@@ -3,6 +3,8 @@ source: "Devices"
 platforms:
   - android
   - web
+  - linux
+  - windows
 localizations:
   ar: "الأجهزة"
   cs: "Zařízení"

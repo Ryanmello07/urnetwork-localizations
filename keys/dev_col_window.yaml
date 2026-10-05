@@ -2,6 +2,7 @@ description: "Developer page: table column header for the measurement window."
 source: "Window"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "النافذة"
   cs: "Okno"

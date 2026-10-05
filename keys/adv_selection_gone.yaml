@@ -2,6 +2,7 @@ description: "Connection inspector: shown when the selected connection is no lon
 source: "That connection is no longer listed"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "هذا الاتصال لم يعد مدرجًا"
   cs: "Toto připojení už není v seznamu"

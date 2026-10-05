@@ -1,12 +1,13 @@
 description: "Button text for adding a sign-in method."
 description_auto: true
 source: "Add Sign-In Method"
+deprecated:
+  - linux
+  - windows
 platforms:
   - android
   - apple
   - site
-  - windows
-  - linux
 localizations:
   ar: "إضافة طريقة تسجيل الدخول"
   cs: "Přidat způsob přihlášení"

@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - web
+  - linux
+  - windows
 localizations:
   ar: "انضم إلى URnetwork"
   cs: "Připojte se k URnetwork"

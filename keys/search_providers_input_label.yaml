@@ -3,6 +3,8 @@ source: "Search providers"
 platforms:
   - apple
   - web
+  - linux
+  - windows
 localizations:
   ar: "البحث عن مزودي الخدمة"
   cs: "Vyhledání poskytovatelů"

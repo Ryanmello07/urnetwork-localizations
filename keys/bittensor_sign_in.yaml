@@ -1,9 +1,11 @@
 description: "Call to action"
 source: "Sign in with Bittensor"
+deprecated:
+  - linux
 platforms:
   - android
   - apple
-  - linux
+  - windows
 localizations:
   ar: "تسجيل الدخول باستخدام Bittensor"
   cs: "Přihlásit se přes Bittensor"

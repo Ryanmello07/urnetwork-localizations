@@ -3,6 +3,8 @@ source: "Probes"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "الفحوصات"
   cs: "Sondy"

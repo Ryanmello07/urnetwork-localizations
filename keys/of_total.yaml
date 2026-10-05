@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 placeholders:
   - name: total
     type: string

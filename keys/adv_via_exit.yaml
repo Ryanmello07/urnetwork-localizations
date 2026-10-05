@@ -2,6 +2,7 @@ description: "Connection inspector: label of the via-exit row."
 source: "Via exit"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "عبر المخرج"
   cs: "Přes výstup"

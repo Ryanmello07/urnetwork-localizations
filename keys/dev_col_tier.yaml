@@ -2,6 +2,7 @@ description: "Developer page: table column header for an exit tier."
 source: "Tier"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الفئة"
   cs: "Úroveň"

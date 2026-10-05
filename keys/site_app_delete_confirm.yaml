@@ -2,6 +2,8 @@ description: "App settings: delete confirm prompt"
 source: "Type your network name to confirm"
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "اكتب اسم شبكتك للتأكيد"
   cs: "Pro potvrzení napište název své sítě"

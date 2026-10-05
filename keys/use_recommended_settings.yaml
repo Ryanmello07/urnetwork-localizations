@@ -3,6 +3,8 @@ source: "Use recommended settings"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "استخدام الإعدادات الموصى بها"
   cs: "Použít doporučené nastavení"

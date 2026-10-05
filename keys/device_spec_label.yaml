@@ -3,6 +3,8 @@ source: "Spec"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "المواصفات"
   cs: "Specifikace"

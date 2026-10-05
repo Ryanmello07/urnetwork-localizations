@@ -2,6 +2,8 @@ description: "App sidebar and account panel: opens Manage Subscription (every bi
 source: "Manage Subscription"
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "إدارة الاشتراك"
   cs: "Správa předplatného"

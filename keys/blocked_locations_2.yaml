@@ -2,6 +2,8 @@ description: "Used in Main/Account/Settings/SettingsForm-iOS.swift."
 source: "Blocked locations"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "المواقع المحظورة"
   cs: "Blokované lokality"

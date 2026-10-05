@@ -3,6 +3,7 @@ source: "Check for updates automatically"
 platforms:
   - linux
   - apple
+  - windows
 localizations:
   ar: "التحقق من التحديثات تلقائيًا"
   cs: "Kontrolovat aktualizace automaticky"

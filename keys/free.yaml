@@ -3,6 +3,8 @@ source: "Free"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "مجاني"
   cs: "Zdarma"

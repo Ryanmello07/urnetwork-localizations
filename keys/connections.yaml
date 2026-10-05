@@ -3,6 +3,8 @@ source: "Connections"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "الاتصالات"
   cs: "Připojení"

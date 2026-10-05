@@ -3,6 +3,7 @@ source: "More connections help our community stay anonymous (and help you earn!)
 platforms:
   - android
   - apple
+  - linux
 localizations:
   ar: "المزيد من الاتصالات يساعد مجتمعنا على البقاء مجهول الهوية (ويساعدك على كسب المال!)"
   cs: "Více připojení pomáhá naší komunitě zůstat anonymní (a pomáhá vám vydělávat!)"

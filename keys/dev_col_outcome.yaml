@@ -2,6 +2,7 @@ description: "Developer page: table column header for a probe outcome."
 source: "Outcome"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "النتيجة"
   cs: "Výsledek"

@@ -2,6 +2,7 @@ description: "Developer page: probe outcome, failed."
 source: "failed"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "فشل"
   cs: "selhalo"

@@ -2,6 +2,7 @@ description: "Snackbar shown when creating the user's network fails. Used in Con
 source: "There was an error creating your network. Please try again later."
 platforms:
   - apple
+  - linux
 localizations:
   ar: "حدث خطأ أثناء إنشاء شبكتك. يرجى المحاولة مرة أخرى لاحقًا."
   cs: "Při vytváření sítě došlo k chybě. Zkuste to prosím později."

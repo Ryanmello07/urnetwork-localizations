@@ -1,10 +1,11 @@
 description: "Shown when the camera permission was denied on the scan screen."
 source: "Camera access is needed to scan a code."
+deprecated:
+  - linux
+  - windows
 platforms:
   - android
   - apple
-  - linux
-  - windows
 localizations:
   ar: "يلزم الوصول إلى الكاميرا لمسح الرمز."
   cs: "Ke skenování kódu je potřeba přístup ke kameře."

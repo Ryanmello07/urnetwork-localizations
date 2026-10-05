@@ -2,6 +2,8 @@ description: "App provider: reliability section"
 source: "Network reliability"
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "موثوقية الشبكة"
   cs: "Spolehlivost sítě"

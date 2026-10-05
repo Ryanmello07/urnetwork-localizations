@@ -2,6 +2,7 @@ description: "Developer page: table column header for a probe target."
 source: "Target"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الهدف"
   cs: "Cíl sondy"

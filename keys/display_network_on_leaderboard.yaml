@@ -3,6 +3,8 @@ source: "Display network on leaderboard"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "عرض الشبكة على لوحة الصدارة"
   cs: "Zobrazení sítě na žebříčku"

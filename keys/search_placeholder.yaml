@@ -2,6 +2,8 @@ description: "Locations List"
 source: "Search for all locations"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "البحث في جميع المواقع"
   cs: "Hledat všechna místa"

@@ -2,6 +2,7 @@ description: "Connection inspector: label of the exit flows row."
 source: "Exit flows"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تدفقات المخرج"
   cs: "Toky výstupu"

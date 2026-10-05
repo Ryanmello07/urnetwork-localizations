@@ -3,6 +3,7 @@ source: "Actions are requests: confirm them in the measurements and exit rows, w
 platforms:
   - linux
   - apple
+  - windows
 localizations:
   ar: "الإجراءات طلبات: تحقّق من أثرها في القياسات وصفوف المخارج، التي تتحدّث في الأسفل."
   cs: "Akce jsou požadavky: ověřte jejich účinek v měřeních a řádcích výstupů, které se níže obnovují."

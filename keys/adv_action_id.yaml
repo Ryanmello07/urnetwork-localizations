@@ -2,6 +2,7 @@ description: "Connection inspector: label of the action id row."
 source: "Action id"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "معرّف الإجراء"
   cs: "ID akce"

@@ -2,6 +2,7 @@ description: "Developer page: button that starts the probe suite."
 source: "Start probe suite"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "بدء مجموعة الفحوص"
   cs: "Spustit sadu sond"

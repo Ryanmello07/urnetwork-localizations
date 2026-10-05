@@ -3,6 +3,7 @@ source: "Developer"
 platforms:
   - android
   - apple
+  - linux
 localizations:
   ar: "المطوّر"
   cs: "Vývojář"

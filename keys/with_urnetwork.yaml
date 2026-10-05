@@ -2,6 +2,8 @@ description: "Onboarding Carousel"
 source: "with URnetwork"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "مع URnetwork"
   cs: "se sítí URnetwork"

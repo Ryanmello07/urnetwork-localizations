@@ -2,6 +2,7 @@ description: "Developer page: table column header for the per-row action buttons
 source: "Actions"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الإجراءات"
   cs: "Akce"

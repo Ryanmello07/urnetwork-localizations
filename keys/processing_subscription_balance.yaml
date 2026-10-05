@@ -2,6 +2,7 @@ description: "Used in Main/Connect/ConnectButton/StatusIndicator/ConnectStatusIn
 source: "Processing subscription balance..."
 platforms:
   - apple
+  - linux
 localizations:
   ar: "جارٍ معالجة رصيد الاشتراك..."
   cs: "Zpracování zůstatku předplatného..."

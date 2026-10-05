@@ -2,6 +2,7 @@ description: "Developer page: table column header for an exit state."
 source: "State"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الحالة"
   cs: "Stav"

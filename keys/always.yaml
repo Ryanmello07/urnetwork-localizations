@@ -3,6 +3,8 @@ source: "Always"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "دائمًا"
   cs: "Vždy"

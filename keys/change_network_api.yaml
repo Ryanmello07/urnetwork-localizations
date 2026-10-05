@@ -3,6 +3,8 @@ source: "Change Network API"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تغيير API الشبكة"
   cs: "Změnit síťové API"

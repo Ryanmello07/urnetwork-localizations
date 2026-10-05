@@ -2,6 +2,7 @@ description: "Connection inspector: label of the total bytes row."
 source: "Bytes (total)"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "البايتات (الإجمالي)"
   cs: "Bajty (celkem)"

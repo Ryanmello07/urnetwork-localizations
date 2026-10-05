@@ -231,6 +231,10 @@ export const requiredLocales = (k) => {
 	return live.length > 0 && live.every((p) => p === "site") ? SITE_LOCALES : LOCALES;
 };
 
+// A key the platform references today: tagged for it and not deprecated by it.
+export const isTaggedFor = (k, platform) =>
+	k.platforms.includes(platform) && !k.deprecated.includes(platform);
+
 // -------------------------------------------------------------- ICU lowering
 // The canonical text carries named ICU placeholders: "{count} hosts".
 // Each platform gets its own specifier dialect.

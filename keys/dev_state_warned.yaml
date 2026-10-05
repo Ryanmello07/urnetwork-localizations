@@ -2,6 +2,7 @@ description: "Developer page: exit state, warned."
 source: "warned"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "مُنذَر"
   cs: "varovaný"

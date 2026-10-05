@@ -3,6 +3,8 @@ source: "Never"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "أبدًا"
   cs: "Nikdy"

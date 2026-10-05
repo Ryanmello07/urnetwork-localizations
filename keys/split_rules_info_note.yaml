@@ -6,6 +6,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "تنطبق الاستثناءات على مجموعة الشبكة المرتبطة بالكامل، لذا يتم استثناء حركة المرور ذات الصلة معًا."
   cs: "Výjimky platí pro celý propojený síťový cluster, takže související provoz je zachycen společně."

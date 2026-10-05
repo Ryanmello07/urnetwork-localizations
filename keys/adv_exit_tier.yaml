@@ -2,6 +2,7 @@ description: "Connection inspector: label of the exit tier row."
 source: "Exit tier"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "فئة المخرج"
   cs: "Úroveň výstupu"

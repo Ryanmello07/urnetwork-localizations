@@ -3,6 +3,8 @@ source: "Average reliability"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "متوسط الموثوقية"
   cs: "Průměrná spolehlivost"

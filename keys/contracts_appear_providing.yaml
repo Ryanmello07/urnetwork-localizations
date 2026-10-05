@@ -4,6 +4,8 @@ source: "Contracts appear here while providing."
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تظهر العقود هنا أثناء التوفير."
   cs: "Kontrakty se zde zobrazí během poskytování."

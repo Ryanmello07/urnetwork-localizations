@@ -2,6 +2,7 @@ description: "Developer page: report line when no reliability override is in for
 source: "Not applied: there is no reliability override in force to change."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لم يُطبَّق: لا يوجد تجاوز موثوقية ساري المفعول لتغييره."
   cs: "Nepoužito: neplatí žádné přepsání spolehlivosti, které by šlo změnit."

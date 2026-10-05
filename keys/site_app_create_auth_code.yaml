@@ -2,6 +2,8 @@ description: "App settings: create auth code button"
 source: "Create auth code"
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "إنشاء رمز مصادقة"
   cs: "Vytvořit ověřovací kód"

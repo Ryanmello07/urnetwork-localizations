@@ -1,8 +1,9 @@
 description: "Line under the yearly plan's price: the saving against paying monthly."
 source: "Save 33%"
-platforms:
+deprecated:
   - linux
   - windows
+platforms: []
 localizations:
   ar: "وفّر 33%"
   cs: "Ušetříte 33 %"

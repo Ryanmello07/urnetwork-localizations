@@ -1,10 +1,11 @@
 description: "A label displayed next to a companion contract."
 description_auto: true
 source: "Companion"
+deprecated:
+  - linux
 platforms:
   - android
   - apple
-  - linux
 localizations:
   ar: "الطرف المقابل"
   cs: "Protějšek"

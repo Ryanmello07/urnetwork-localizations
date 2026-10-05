@@ -3,6 +3,8 @@ source: "Busy probes"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "فحوصات الانشغال"
   cs: "Sondy obsazenosti"

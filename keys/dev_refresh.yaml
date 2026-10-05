@@ -2,6 +2,8 @@ description: "Developer tools screen (reliability surface): refresh control labe
 source: "Refresh"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "تحديث"
   cs: "Obnovit"

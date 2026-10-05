@@ -2,6 +2,7 @@ description: "Developer page: button that checks for a new release now."
 source: "Check for updates"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "التحقق من التحديثات"
   cs: "Vyhledat aktualizace"

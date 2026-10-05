@@ -3,6 +3,7 @@ source: "UDP idle timeout"
 platforms:
   - android
   - apple
+  - windows
 localizations:
   ar: "مهلة خمول UDP"
   cs: "Časový limit nečinnosti UDP"

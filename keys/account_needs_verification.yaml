@@ -1,7 +1,8 @@
 description: "Sign-in error shown when the account exists but has not been verified yet."
 source: "This account needs verification. Check your email."
-platforms:
+deprecated:
   - linux
+platforms: []
 localizations:
   ar: "يحتاج هذا الحساب إلى التحقق. تحقق من بريدك الإلكتروني."
   cs: "Tento účet vyžaduje ověření. Zkontrolujte svůj e-mail."

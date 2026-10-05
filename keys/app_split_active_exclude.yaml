@@ -2,6 +2,7 @@ description: "transfer stats and split rules"
 source: "Exclude active — excluded apps bypass the VPN"
 platforms:
   - android
+  - windows
 localizations:
   ar: "الاستثناء نشط — التطبيقات المستثناة تتجاوز VPN"
   cs: "Vyloučení aktivní — vyloučené aplikace obcházejí VPN"

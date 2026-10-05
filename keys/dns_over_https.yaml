@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "DNS عبر HTTPS"
   cs: "DNS přes HTTPS"

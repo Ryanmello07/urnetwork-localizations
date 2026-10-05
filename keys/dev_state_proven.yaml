@@ -2,6 +2,7 @@ description: "Developer page: exit state, proven."
 source: "proven"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "مُثبت"
   cs: "ověřený"

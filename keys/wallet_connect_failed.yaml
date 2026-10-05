@@ -2,6 +2,7 @@ description: "Error shown when connecting an external wallet to the account fail
 source: "Failed to connect the wallet."
 platforms:
   - windows
+  - linux
 localizations:
   ar: "تعذر ربط المحفظة."
   cs: "Nepodařilo se připojit peněženku."

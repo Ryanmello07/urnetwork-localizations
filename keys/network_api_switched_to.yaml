@@ -2,6 +2,8 @@ description: "Confirmation after switching the network API. The argument is the 
 source: "Switched to {domain}"
 platforms:
   - android
+  - linux
+  - windows
 placeholders:
   - name: domain
     type: string

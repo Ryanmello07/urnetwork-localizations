@@ -2,6 +2,7 @@ description: "Developer tools screen: formatted value readout for 'verdicts held
 source: "{held} / {total}"
 platforms:
   - android
+  - linux
 placeholders:
   - name: held
     type: int

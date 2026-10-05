@@ -2,6 +2,7 @@ description: "Connection inspector: label of the warning cause row."
 source: "Warning cause"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "سبب التحذير"
   cs: "Příčina varování"

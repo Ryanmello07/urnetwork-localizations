@@ -2,6 +2,7 @@ description: "Developer page: exit state, done."
 source: "done"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "منتهٍ"
   cs: "hotovo"

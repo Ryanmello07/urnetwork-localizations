@@ -3,6 +3,8 @@ source: "Enter network referral code"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "أدخل رمز الإحالة للشبكة"
   cs: "Zadejte síťový referenční kód"

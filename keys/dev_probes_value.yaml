@@ -2,6 +2,7 @@ description: "Developer tools screen: formatted value readout for 'probes'."
 source: "{sent} sent / {answered} answered"
 platforms:
   - android
+  - linux
 placeholders:
   - name: sent
     type: int

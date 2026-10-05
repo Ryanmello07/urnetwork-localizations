@@ -3,6 +3,7 @@ source: "Sign out"
 platforms:
   - apple
   - linux
+  - windows
 localizations:
   ar: "تسجيل الخروج"
   cs: "Odhlásit se"

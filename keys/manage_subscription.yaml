@@ -1,8 +1,9 @@
 description: "Call to action"
 source: "Manage subscription"
+deprecated:
+  - windows
 platforms:
   - android
-  - windows
   - apple
 localizations:
   ar: "إدارة الاشتراك"

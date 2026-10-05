@@ -2,6 +2,8 @@ description: "Error message shown when the verification code input is invalid."
 source: "There was a problem authenticating your verification code."
 platforms:
   - web
+  - linux
+  - windows
 localizations:
   ar: "حدثت مشكلة في التحقق من رمز التحقق الخاص بك."
   cs: "Vyskytl se problém s ověřením vašeho ověřovacího kódu."

@@ -3,6 +3,8 @@ source: "Reliability Weight"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "وزن الموثوقية"
   cs: "Váha spolehlivosti"

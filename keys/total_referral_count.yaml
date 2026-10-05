@@ -3,6 +3,7 @@ source: "Total referrals: %lld"
 platforms:
   - android
   - apple
+  - linux
 placeholders:
   - name: count
     type: int

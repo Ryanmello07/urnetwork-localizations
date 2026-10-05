@@ -2,6 +2,7 @@ description: "Developer page: note shown when no reliability override is in forc
 source: "No reliability override is in force, so the settings sections are hidden rather than shown at zero. The measurements and exit readout below are live."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لا يوجد تجاوز موثوقية ساري المفعول، لذا تُخفى أقسام الإعدادات بدل عرضها بقيمة صفر. القياسات وقراءة المخارج أدناه حيّة."
   cs: "Neplatí žádné přepsání spolehlivosti, takže sekce nastavení jsou skryté místo toho, aby ukazovaly nuly. Měření a přehled výstupů níže jsou živé."

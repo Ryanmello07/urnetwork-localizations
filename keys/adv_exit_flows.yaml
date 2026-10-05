@@ -2,6 +2,7 @@ description: "Connection inspector: label of the flows to the selected destinati
 source: "Flows to this destination"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "التدفقات إلى هذه الوجهة"
   cs: "Toky do tohoto cíle"

@@ -6,6 +6,7 @@ platforms:
   - apple
   - site
   - windows
+  - linux
 localizations:
   ar: "حفظت عبارة الاسترداد"
   cs: "Seed frázi mám uloženou"

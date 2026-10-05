@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "إعدادات DNS غير متاحة"
   cs: "Nastavení DNS není k dispozici"

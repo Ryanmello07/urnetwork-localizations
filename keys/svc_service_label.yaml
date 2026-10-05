@@ -2,6 +2,7 @@ description: "Settings: label of the VPN service row."
 source: "VPN service"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "خدمة VPN"
   cs: "Služba VPN"

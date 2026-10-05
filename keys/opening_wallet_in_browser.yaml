@@ -2,6 +2,7 @@ description: "Status shown while the wallet-connect bridge opens the user's wall
 source: "Opening your wallet in the browser…"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "جارٍ فتح محفظتك في المتصفح…"
   cs: "Otevírání peněženky v prohlížeči…"

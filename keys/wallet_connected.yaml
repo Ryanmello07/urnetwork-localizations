@@ -2,6 +2,7 @@ description: "Confirmation shown after an external wallet is connected to the ac
 source: "Wallet connected."
 platforms:
   - windows
+  - linux
 localizations:
   ar: "تم ربط المحفظة."
   cs: "Peněženka připojena."

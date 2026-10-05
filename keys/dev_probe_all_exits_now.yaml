@@ -2,6 +2,7 @@ description: "Developer page: button that probes every exit now."
 source: "Probe all exits now"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "فحص كل المخارج الآن"
   cs: "Otestovat teď všechny výstupy"

@@ -3,6 +3,7 @@ source: "Share URnetwork"
 platforms:
   - apple
   - site
+  - windows
 localizations:
   ar: "مشاركة URnetwork"
   cs: "Sdílet URnetwork"

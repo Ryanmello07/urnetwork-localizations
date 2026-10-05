@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "حظر الإعلانات والمتعقبات"
   cs: "Blokovat reklamy a trackery"

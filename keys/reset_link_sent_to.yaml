@@ -2,6 +2,8 @@ description: "Reset link sent"
 source: "Reset link sent to"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "تم إرسال رابط إعادة التعيين إلى"
   cs: "Odkaz pro obnovení zaslán na"

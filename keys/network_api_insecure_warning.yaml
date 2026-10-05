@@ -3,6 +3,8 @@ source: "Warning: one or more custom endpoints are not using HTTPS/WSS. Traffic 
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تحذير: نقطة نهاية مخصصة واحدة أو أكثر لا تستخدم HTTPS/WSS. قد تكون حركة المرور غير مشفرة."
   cs: "Upozornění: jeden nebo více vlastních koncových bodů nepoužívá HTTPS/WSS. Provoz může být nešifrovaný."

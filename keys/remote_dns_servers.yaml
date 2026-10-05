@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "خوادم DNS البعيدة"
   cs: "Vzdálené servery DNS"

@@ -2,6 +2,8 @@ description: "Used in Main/Account/Settings/SettingsForm-iOS.swift."
 source: "Client ID"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "معرّف العميل"
   cs: "ID klienta"

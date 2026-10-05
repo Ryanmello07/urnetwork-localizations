@@ -2,6 +2,7 @@ description: "Connection inspector: exit state, warning."
 source: "Warning"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تحذير"
   cs: "Varování"

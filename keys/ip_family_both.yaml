@@ -1,9 +1,10 @@
 description: "Row label of the IP version histogram, and the provider row tag, for a provider that carries both IPv4 and IPv6."
 source: "Both"
+deprecated:
+  - linux
 platforms:
   - android
   - apple
-  - linux
   - windows
 localizations:
   ar: "كلاهما"

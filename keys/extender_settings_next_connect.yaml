@@ -1,9 +1,10 @@
 description: "Note on iOS after saving extender settings: the packet tunnel extension reads them at its next start."
 source: "The tunnel uses new extender settings the next time it connects."
+deprecated:
+  - linux
 platforms:
   - android
   - apple
-  - linux
   - windows
 localizations:
   ar: "يستخدم النفق إعدادات الموسّع الجديدة في المرة التالية التي يتصل فيها."

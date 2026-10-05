@@ -3,6 +3,8 @@ source: "Stay in touch"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "البقاء على اتصال"
   cs: "Zůstaňte v kontaktu"

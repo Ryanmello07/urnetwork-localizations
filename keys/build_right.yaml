@@ -2,6 +2,8 @@ description: "Onboarding Carousel"
 source: "Build the\ninternet the\nright way"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "ابنِ\nالإنترنت\nبالطريقة الصحيحة"
   cs: "Vytváření internetu\nsprávným způsobem"

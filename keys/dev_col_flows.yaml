@@ -2,6 +2,7 @@ description: "Developer page: table column header for the number of flows."
 source: "Flows"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "التدفقات"
   cs: "Toky"

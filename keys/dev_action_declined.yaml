@@ -2,6 +2,7 @@ description: "Developer page: report line when the SDK refused a requested actio
 source: "No change: the SDK declined that action."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لا تغيير: رفض SDK هذا الإجراء."
   cs: "Beze změny: SDK tuto akci odmítlo."

@@ -2,6 +2,7 @@ description: "Developer page: report line after the probe suite started."
 source: "Probe suite started"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "بدأت مجموعة الفحوص"
   cs: "Sada sond spuštěna"

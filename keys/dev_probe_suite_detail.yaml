@@ -2,6 +2,7 @@ description: "Developer page: explanation of the probe suite."
 source: "Dials real targets through the live connection and times each stage. Runs with the SDK's own default configuration."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تتصل بأهداف حقيقية عبر الاتصال الحالي وتقيس زمن كل مرحلة. تعمل بإعدادات SDK الافتراضية الخاصة به."
   cs: "Kontaktuje skutečné cíle přes aktivní připojení a měří čas každé fáze. Běží s vlastní výchozí konfigurací SDK."

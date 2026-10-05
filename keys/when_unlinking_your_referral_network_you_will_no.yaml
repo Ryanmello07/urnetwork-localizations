@@ -2,6 +2,8 @@ description: "Used in Main/Account/Settings/UpdateReferralNetworkSheet/UpdateRef
 source: "When unlinking your referral network, you will no longer be able to earn points from %@."
 platforms:
   - apple
+  - linux
+  - windows
 placeholders:
   - name: network_name
     type: string

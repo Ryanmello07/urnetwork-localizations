@@ -2,6 +2,7 @@ description: "Settings: explanation under the automatic update check switch."
 source: "Look for new releases shortly after launch and every six hours. Nothing is ever installed without a click."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "البحث عن إصدارات جديدة بعد التشغيل بقليل وكل ست ساعات. لا يُثبّت أي شيء أبدًا دون نقرة."
   cs: "Hledat nová vydání krátce po spuštění a každých šest hodin. Nic se nikdy nenainstaluje bez kliknutí."

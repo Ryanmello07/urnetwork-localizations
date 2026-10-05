@@ -51,6 +51,18 @@ test("no translation invents a placeholder or a printf conversion", () => {
 	assert.deepEqual(wrong, []);
 });
 
+test("a translation keeps VPN wherever the English says VPN", () => {
+	// every language the store carries writes the term as is, so anything else
+	// is a typo (the Dutch disconnect title said "URnetwork VPM")
+	const wrong = [];
+	for (const k of keys) {
+		if (!texts(k.localizations.en).some((s) => /\bVPN\b/.test(s))) continue;
+		for (const [loc, v] of Object.entries(k.localizations))
+			for (const s of texts(v)) if (!s.includes("VPN")) wrong.push(`${k.id}[${loc}]: ${s}`);
+	}
+	assert.deepEqual(wrong, []);
+});
+
 // ------------------------------------------------------------------ Russian
 
 const russian = keys.filter((k) => k.localizations.ru != null);

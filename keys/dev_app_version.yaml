@@ -2,6 +2,7 @@ description: "Developer page: label of the app version row."
 source: "App version"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "إصدار التطبيق"
   cs: "Verze aplikace"

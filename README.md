@@ -10,8 +10,8 @@ resource files are build artifacts and must never be hand-edited:
 | --- | --- |
 | android | `android/app/app/src/main/res/values*/strings.xml` |
 | apple   | `apple/app/network/Shared/Resources/Localizable.xcstrings` |
-| windows | `windows/app/src/App/Strings/<locale>/Resources.resw` |
-| linux   | `linux/app/po/*.po`, `linux/app/po/urnetwork.pot` |
+| windows | `windows/app/src/App/Strings/<locale>/Resources.resw`, `windows/app/src/App/Strings/windows-keys.txt` |
+| linux   | `linux/app/po/*.po`, `linux/app/po/urnetwork.pot`, `linux/app/po/linux-keys.txt` |
 | web     | consumed directly from `keys/` by `index.js` (no codegen) |
 
 ```sh
@@ -137,6 +137,18 @@ once `platforms` is empty and `deprecated` is not (android retires a key by
 dropping itself from `platforms`, since its generator has no stale state). Dead
 keys are left out of the Windows and Linux outputs, which otherwise carry every
 key in the store.
+
+That is why a desktop app's tag matters even though its catalog carries keys it
+is not tagged for: a key the Linux app looks up but only android is tagged for
+dies the day android retires it, and the Linux page reads English again (the
+Earnings page lost `net_points_earned` that way). So the Windows and Linux
+outputs also include the ids of the keys tagged for the app and not deprecated
+by it (`windows-keys.txt`, `linux-keys.txt`), and each app's catalog test fails
+on a lookup whose key is not on its list: tag the key with the platform that
+looks it up, in the same change as the lookup. It also fails on a key on its
+list that nothing looks up: when an app stops looking a key up, move its
+platform from `platforms` to `deprecated` (as android does), so the tag does
+not keep the key alive in the desktop catalogs for nothing.
 
 ### `email`
 

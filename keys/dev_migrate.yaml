@@ -2,6 +2,7 @@ description: "Developer page: button that migrates the live connection."
 source: "Migrate"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "ترحيل"
   cs: "Přesunout"

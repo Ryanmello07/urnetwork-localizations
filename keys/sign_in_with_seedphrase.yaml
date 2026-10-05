@@ -3,6 +3,8 @@ source: "Sign in with Seedphrase"
 platforms:
   - apple
   - android
+  - linux
+  - windows
 localizations:
   ar: "تسجيل الدخول بعبارة الاسترداد"
   cs: "Přihlásit se pomocí seed fráze"

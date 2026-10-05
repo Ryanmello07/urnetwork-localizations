@@ -2,6 +2,8 @@ description: "Used in Authenticate/ResetPassword/ResetPasswordView.swift."
 source: "Send reset link"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "إرسال رابط إعادة التعيين"
   cs: "Odeslat odkaz na obnovení"

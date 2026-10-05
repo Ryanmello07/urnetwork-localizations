@@ -3,6 +3,8 @@ source: "General"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "عام"
   cs: "Obecné"

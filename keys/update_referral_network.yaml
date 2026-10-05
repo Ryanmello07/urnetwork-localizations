@@ -3,6 +3,8 @@ source: "Update referral network"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تحديث شبكة الإحالة"
   cs: "Aktualizace referenční sítě"

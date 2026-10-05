@@ -2,6 +2,7 @@ description: "Call to action"
 source: "Contribute bandwidth"
 platforms:
   - android
+  - windows
 localizations:
   ar: "المساهمة بعرض النطاق الترددي"
   cs: "Přispět šířkou pásma"

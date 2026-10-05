@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "عناوين URL لـ DoH المحلي"
   cs: "Místní adresy URL DoH"

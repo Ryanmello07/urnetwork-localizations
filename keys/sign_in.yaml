@@ -4,6 +4,7 @@ platforms:
   - apple
   - linux
   - android
+  - windows
 localizations:
   ar: "تسجيل الدخول"
   cs: "Přihlásit se"

@@ -2,6 +2,8 @@ description: "Used in Main/Connect/ConnectView-iOS.swift."
 source: "Available providers"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "مزودي الخدمة المتاحين"
   cs: "Dostupní poskytovatelé"

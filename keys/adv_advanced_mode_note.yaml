@@ -2,6 +2,7 @@ description: "Settings: explanation under the advanced mode switch."
 source: "Show raw values, identifiers, the connection inspector and the reliability tuning surface across the app."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "يعرض القيم الخام والمعرّفات وفاحص الاتصال وأدوات ضبط الموثوقية في كل أنحاء التطبيق."
   cs: "Zobrazí surové hodnoty, identifikátory, inspektor připojení a ladění spolehlivosti v celé aplikaci."

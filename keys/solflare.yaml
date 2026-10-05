@@ -3,5 +3,7 @@ source: "Solflare"
 translatable: false
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   en: "Solflare"

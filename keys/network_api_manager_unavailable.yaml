@@ -3,6 +3,8 @@ source: "Network manager unavailable"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "مدير الشبكة غير متاح"
   cs: "Správce sítě není dostupný"

@@ -2,6 +2,7 @@ description: "Connection inspector: label of the protected row."
 source: "Protected"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "محمي"
   cs: "Chráněno"

@@ -2,6 +2,7 @@ description: "Connection inspector: label of the total packets row."
 source: "Packets (total)"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الحزم (الإجمالي)"
   cs: "Pakety (celkem)"

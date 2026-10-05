@@ -3,6 +3,8 @@ source: "Example: bringyour.com or your custom domain."
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "مثال: bringyour.com أو نطاقك المخصص."
   cs: "Příklad: bringyour.com nebo vaše vlastní doména."

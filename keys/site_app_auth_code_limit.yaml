@@ -2,6 +2,8 @@ description: "App settings: auth code limit error"
 source: "Auth code limit reached. Try again later."
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "تم بلوغ حد رموز المصادقة. حاول مرة أخرى لاحقاً."
   cs: "Byl dosažen limit ověřovacích kódů. Zkuste to později."

@@ -3,6 +3,8 @@ source: "Network domain"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "نطاق الشبكة"
   cs: "Síťová doména"

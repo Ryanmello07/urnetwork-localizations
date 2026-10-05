@@ -2,6 +2,8 @@ description: "Used in Shared/Views/ExportLogsButton/ExportLogsButton.swift."
 source: "Export Logs"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تصدير السجلات"
   cs: "Exportovat logy"

@@ -2,6 +2,7 @@ description: "Developer page: report line after a stall was cleared on an exit."
 source: "Cleared stall on exit"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تم إلغاء إيقاف المخرج"
   cs: "Uvolněn výstup"

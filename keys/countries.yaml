@@ -3,6 +3,8 @@ source: "Countries"
 platforms:
   - android
   - web
+  - linux
+  - windows
 localizations:
   ar: "الدول"
   cs: "Země"

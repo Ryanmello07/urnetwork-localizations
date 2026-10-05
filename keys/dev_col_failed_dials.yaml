@@ -2,6 +2,7 @@ description: "Developer page: table column header for the number of failed dials
 source: "Failed dials"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "إخفاقات الاتصال"
   cs: "Neúspěšná vytáčení"

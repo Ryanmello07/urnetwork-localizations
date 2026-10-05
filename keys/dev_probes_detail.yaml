@@ -3,6 +3,7 @@ source: "Qualification probes this session"
 platforms:
   - android
   - apple
+  - linux
 localizations:
   ar: "فحوصات التأهيل في هذه الجلسة"
   cs: "Kvalifikační sondy v této relaci"

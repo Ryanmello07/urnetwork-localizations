@@ -4,6 +4,8 @@ source: "Secure Your Account"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "أمّن حسابك"
   cs: "Zabezpečte svůj účet"

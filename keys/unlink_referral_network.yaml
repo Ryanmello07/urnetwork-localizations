@@ -3,6 +3,8 @@ source: "Unlink referral network"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "فك ارتباط شبكة الإحالة"
   cs: "Odpojení od referenční sítě"

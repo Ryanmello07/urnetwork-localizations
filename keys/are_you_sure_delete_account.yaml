@@ -3,6 +3,8 @@ source: "Are you sure you want to delete your account?"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "هل أنت متأكد أنك تريد حذف حسابك؟"
   cs: "Opravdu chcete svůj účet odstranit?"

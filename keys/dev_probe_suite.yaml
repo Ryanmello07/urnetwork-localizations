@@ -2,6 +2,7 @@ description: "Developer page: heading of the probe suite section."
 source: "Probe suite"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "مجموعة الفحوص"
   cs: "Sada sond"

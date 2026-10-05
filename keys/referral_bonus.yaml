@@ -2,6 +2,8 @@ description: "Referral earn rate shown next to the referral count (usage bar). T
 source: "+%lld GiB/Day"
 platforms:
   - android
+  - linux
+  - windows
 deprecated:
   - apple
 placeholders:

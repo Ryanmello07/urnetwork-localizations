@@ -2,6 +2,7 @@ description: "Snackbar shown after copying the bonus referral code. Used in Shar
 source: "Bonus referral code copied to clipboard"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "تم نسخ رمز الإحالة المكافأة إلى الحافظة"
   cs: "Bonusový referální kód zkopírován do schránky"

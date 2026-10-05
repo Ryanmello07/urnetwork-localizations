@@ -2,6 +2,7 @@ description: "Developer page: report line when there is no live session to act o
 source: "Not issued: there is no live session to act on."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لم يُرسَل: لا توجد جلسة حيّة للتأثير فيها."
   cs: "Neodesláno: není žádná aktivní relace, na kterou by šlo působit."

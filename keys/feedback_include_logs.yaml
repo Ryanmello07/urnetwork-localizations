@@ -3,6 +3,8 @@ source: "Attach logs to feedback (optional)"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "إرفاق السجلات مع الملاحظات (اختياري)"
   cs: "Přiložit protokoly k zpětné vazbě (volitelné)"

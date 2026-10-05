@@ -2,6 +2,7 @@ description: "Connection inspector: label of the exit state row."
 source: "Exit state"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "حالة المخرج"
   cs: "Stav výstupu"

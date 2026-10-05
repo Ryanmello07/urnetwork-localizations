@@ -2,6 +2,7 @@ description: "Developer page: table column header for the total timing."
 source: "Total"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الإجمالي"
   cs: "Celkem"

@@ -3,6 +3,7 @@ source: "Complete your purchase in the browser. Your plan updates here automatic
 platforms:
   - windows
   - apple
+  - linux
 localizations:
   ar: "أكمل عملية الشراء في المتصفح. سيتم تحديث خطتك هنا تلقائيًا بمجرد تأكيد الدفع."
   cs: "Dokončete nákup v prohlížeči. Jakmile bude platba potvrzena, váš tarif se zde automaticky aktualizuje."

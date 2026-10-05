@@ -3,6 +3,8 @@ source: "Net Provided"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "البيانات المقدمة"
   cs: "Poskytnutá čistá hodnota"

@@ -2,6 +2,8 @@ description: "Used in Shared/Intents/ConnectIntent.swift."
 source: "Please login to URnetwork"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "يرجى تسجيل الدخول إلى URnetwork"
   cs: "Prosím přihlašte se do URnetwork"

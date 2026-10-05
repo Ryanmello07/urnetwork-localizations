@@ -2,6 +2,8 @@ description: "Call to action"
 source: "Save logs"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "حفظ السجلات"
   cs: "Uložit protokoly"

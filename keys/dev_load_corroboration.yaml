@@ -3,6 +3,8 @@ source: "Load corroboration"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "التحقق حسب الحمل"
   cs: "Potvrzení podle zátěže"

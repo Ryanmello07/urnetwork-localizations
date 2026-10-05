@@ -3,6 +3,7 @@ source: "Removals the storm breaker held back after a correlated burst"
 platforms:
   - android
   - apple
+  - linux
 localizations:
   ar: "عمليات الإزالة التي أوقفها قاطع العاصفة بعد موجة مترابطة"
   cs: "Odstranění, která jistič bouře zadržel po souvisejícím návalu"

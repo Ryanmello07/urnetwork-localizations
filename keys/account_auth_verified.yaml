@@ -2,6 +2,7 @@ description: "The account's email or phone, marked as verified. The argument is 
 source: "%@ (verified)"
 platforms:
   - windows
+  - linux
 placeholders:
   - name: auth
     type: string

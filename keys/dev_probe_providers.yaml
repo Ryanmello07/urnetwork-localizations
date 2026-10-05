@@ -3,6 +3,8 @@ source: "Probe providers"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "فحص المزودين"
   cs: "Testovat poskytovatele"

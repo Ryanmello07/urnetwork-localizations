@@ -4,6 +4,8 @@ source: "Provider contracts"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "عقود المزود"
   cs: "Kontrakty poskytovatele"

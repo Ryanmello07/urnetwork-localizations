@@ -2,6 +2,7 @@ description: "Developer page: probe suite status when it is not running."
 source: "Not running."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لا تعمل."
   cs: "Neběží."

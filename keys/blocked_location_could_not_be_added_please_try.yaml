@@ -2,6 +2,8 @@ description: "Used in Main/Account/BlockedLocations/BlockedLocationsViewModel.sw
 source: "Blocked location could not be added. Please try again later."
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تعذّر إضافة الموقع المحظور. يرجى المحاولة مرة أخرى لاحقًا."
   cs: "Blokovanou lokalitu se nepodařilo přidat. Zkuste to prosím později."

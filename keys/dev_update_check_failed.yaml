@@ -2,6 +2,7 @@ description: "Developer page: report line when the update check failed."
 source: "The update check failed — see the app log."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "فشل التحقق من التحديثات — راجع سجلات التطبيق."
   cs: "Vyhledání aktualizací selhalo — podrobnosti najdete v protokolu aplikace."

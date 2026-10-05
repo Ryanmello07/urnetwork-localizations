@@ -2,6 +2,8 @@ description: "Used in Main/Account/Settings/SettingsForm-iOS.swift."
 source: "Client ID copied to clipboard"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تم نسخ معرّف العميل إلى الحافظة"
   cs: "ID klienta zkopírováno do schránky"

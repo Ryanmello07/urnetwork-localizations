@@ -2,6 +2,8 @@ description: "Monthly plan card label: the store-formatted price per month."
 source: "%@/month"
 platforms:
   - android
+  - linux
+  - windows
 placeholders:
   - name: price
     type: string

@@ -2,6 +2,8 @@ description: "Accessibility label for a provider that carries both IPv4 and IPv6
 source: "IPv4 and IPv6"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "IPv4 و IPv6"
   cs: "IPv4 a IPv6"

@@ -3,6 +3,8 @@ source: "+%@"
 translatable: false
 platforms:
   - apple
+  - linux
+  - windows
 placeholders:
   - name: amount
     type: string

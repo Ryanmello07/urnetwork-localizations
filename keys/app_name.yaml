@@ -4,5 +4,6 @@ translatable: false
 platforms:
   - android
   - apple
+  - windows
 localizations:
   en: "URnetwork"

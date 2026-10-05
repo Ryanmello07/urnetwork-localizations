@@ -2,6 +2,7 @@ description: "Developer page: page title."
 source: "Developer"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "المطوّر"
   cs: "Vývojář"

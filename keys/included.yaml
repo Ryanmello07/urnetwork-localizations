@@ -3,6 +3,7 @@ source: "Included"
 platforms:
   - android
   - apple
+  - windows
 localizations:
   ar: "مشمول"
   cs: "Zahrnuto"

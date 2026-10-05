@@ -1,10 +1,11 @@
 description: "Plan picker: the terms line under the button for the yearly plan with its trial."
 source: "%lld days free, then %@/year. Cancel anytime."
+deprecated:
+  - linux
+  - windows
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 placeholders:
   - name: days

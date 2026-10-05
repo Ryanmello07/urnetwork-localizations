@@ -3,6 +3,8 @@ source: "Redeem Balance Code"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "استرداد رمز الرصيد"
   cs: "Uplatnit kód zůstatku"

@@ -2,6 +2,7 @@ description: "Developer page: exit state, benched."
 source: "benched"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "محجور"
   cs: "na lavičce"

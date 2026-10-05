@@ -2,6 +2,7 @@ description: "Developer page: table column header for the connect timing."
 source: "Connect"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الاتصال"
   cs: "Připojení"

@@ -2,6 +2,7 @@ description: "Developer page: intro line under the title."
 source: "Tools for diagnosing connection freezes. These act on the live connection."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "أدوات لتشخيص تجمّد الاتصال. تعمل هذه الأدوات على الاتصال الحالي."
   cs: "Nástroje pro diagnostiku zamrzání připojení. Působí na aktivní připojení."

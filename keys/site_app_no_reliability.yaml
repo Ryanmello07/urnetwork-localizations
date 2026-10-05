@@ -2,6 +2,8 @@ description: "App provider: no reliability data"
 source: "No reliability data yet."
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "لا توجد بيانات موثوقية بعد."
   cs: "Zatím nejsou k dispozici žádná data o spolehlivosti."

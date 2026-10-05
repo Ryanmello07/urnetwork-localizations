@@ -2,6 +2,8 @@ description: "Snackbar shown after the device name is saved. Used in Main/Accoun
 source: "Device name updated"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تم تحديث اسم الجهاز"
   cs: "Název zařízení byl aktualizován"

@@ -2,6 +2,7 @@ description: "Connection inspector: label of the host row."
 source: "Host"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "المضيف"
   cs: "Hostitel"

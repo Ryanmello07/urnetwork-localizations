@@ -2,6 +2,7 @@ description: "Developer page: shown when there is no session to act on."
 source: "No session. Sign in and connect to use these tools."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لا توجد جلسة. سجّل الدخول واتصل لاستخدام هذه الأدوات."
   cs: "Žádná relace. Pro použití těchto nástrojů se přihlaste a připojte."

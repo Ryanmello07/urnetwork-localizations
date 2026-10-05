@@ -2,6 +2,7 @@ description: "Connection inspector: label of the addresses row."
 source: "Addresses"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "العناوين"
   cs: "Adresy"

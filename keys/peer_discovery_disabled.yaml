@@ -4,6 +4,7 @@ platforms:
   - apple
   - windows
   - site
+  - linux
 localizations:
   ar: "اكتشاف الأقران معطّل حتى الاتصال"
   cs: "Zjišťování uzlů je vypnuté, dokud se nepřipojíte"

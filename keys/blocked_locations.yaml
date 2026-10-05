@@ -3,6 +3,8 @@ source: "Blocked Locations"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "المواقع المحجوبة"
   cs: "Blokované lokality"

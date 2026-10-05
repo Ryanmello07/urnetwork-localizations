@@ -2,6 +2,7 @@ description: "Developer page: empty state of the probe results table."
 source: "No probe results yet. Start the suite."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لا توجد نتائج فحص بعد. ابدأ المجموعة."
   cs: "Zatím žádné výsledky sond. Spusťte sadu."

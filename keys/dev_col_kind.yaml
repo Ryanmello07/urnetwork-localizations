@@ -2,6 +2,7 @@ description: "Developer page: table column header for the probe kind."
 source: "Kind"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "النوع"
   cs: "Druh"

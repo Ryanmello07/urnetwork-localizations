@@ -3,6 +3,8 @@ source: "Enter balance code"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "أدخل رمز الرصيد"
   cs: "Zadejte kód zůstatku"

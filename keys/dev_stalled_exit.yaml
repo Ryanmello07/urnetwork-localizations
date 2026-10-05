@@ -2,6 +2,7 @@ description: "Developer page: report line after an exit was stalled."
 source: "Stalled exit"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تم إيقاف المخرج"
   cs: "Zaseknut výstup"

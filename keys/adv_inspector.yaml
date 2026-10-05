@@ -2,6 +2,7 @@ description: "Connection inspector: heading of the inspector pane."
 source: "Inspector"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الفاحص"
   cs: "Inspektor"

@@ -2,6 +2,8 @@ description: "Used in Main/Account/Settings/SettingsForm-iOS.swift."
 source: "Delete account"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "حذف الحساب"
   cs: "Vymazat účet"

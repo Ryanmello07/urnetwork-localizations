@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - web
+  - linux
+  - windows
 localizations:
   ar: "إعادة تعيينها"
   cs: "Resetujte si ho"

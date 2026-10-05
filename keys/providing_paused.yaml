@@ -2,6 +2,7 @@ description: "Provide status shown while providing is enabled but currently paus
 source: "Providing (paused)"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "التوفير (متوقف مؤقتًا)"
   cs: "Poskytování (pozastaveno)"

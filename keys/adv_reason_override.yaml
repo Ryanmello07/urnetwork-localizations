@@ -2,6 +2,7 @@ description: "Connection inspector: decision reason, an override applied."
 source: "Override"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تجاوز"
   cs: "Přepsání"

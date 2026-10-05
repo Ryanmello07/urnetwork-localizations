@@ -2,6 +2,7 @@ description: "transfer stats and split rules"
 source: "Included apps take precedence: when any app is included, only included apps use the VPN and exclusions have no effect."
 platforms:
   - android
+  - windows
 localizations:
   ar: "التطبيقات المشمولة لها الأولوية: عند تضمين أي تطبيق، تستخدم التطبيقات المشمولة فقط VPN ولا يكون للاستثناءات أي تأثير."
   cs: "Zahrnuté aplikace mají přednost: pokud je zahrnutá jakákoli aplikace, VPN používají jen zahrnuté aplikace a vyloučení nemá žádný účinek."

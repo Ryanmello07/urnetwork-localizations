@@ -2,6 +2,7 @@ description: "Developer page: shown when the system service is not attached."
 source: "The URnetwork service is not attached, so the live connection cannot be read."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "خدمة URnetwork غير مرتبطة، لذا لا يمكن قراءة الاتصال الحالي."
   cs: "Služba URnetwork není připojena, takže aktivní připojení nelze přečíst."

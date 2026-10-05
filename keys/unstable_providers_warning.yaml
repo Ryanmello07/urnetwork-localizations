@@ -2,6 +2,8 @@ description: "Call to action"
 source: "* (may be unstable)"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "* (قد يكون غير مستقر)"
   cs: "* (může být nestabilní)"

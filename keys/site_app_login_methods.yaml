@@ -2,6 +2,8 @@ description: "App profile: login methods section"
 source: "Login methods"
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "طرق تسجيل الدخول"
   cs: "Způsoby přihlášení"
