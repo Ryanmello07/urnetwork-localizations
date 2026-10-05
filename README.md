@@ -9,7 +9,7 @@ resource files are build artifacts and must never be hand-edited:
 | platform | generated file(s) |
 | --- | --- |
 | android | `android/app/app/src/main/res/values*/strings.xml` |
-| apple   | `apple/app/network/Shared/Resources/Localizable.xcstrings` |
+| apple   | `apple/app/network/Shared/Resources/Localizable.xcstrings`, `apple/app/network/Shared/Resources/<locale>.lproj/AppShortcuts.strings` |
 | windows | `windows/app/src/App/Strings/<locale>/Resources.resw` |
 | linux   | `linux/app/po/*.po`, `linux/app/po/urnetwork.pot` |
 | web     | consumed directly from `keys/` by `index.js` (no codegen) |
@@ -39,6 +39,7 @@ deprecated:                     # optional: platforms that no longer reference t
 platforms:                      # which platforms reference the key today
   - android
   - apple
+table: AppShortcuts             # optional, apple only: its string table (default Localizable)
 aliases:                        # optional: legacy ids that must keep resolving
   - host_count_old
 placeholders:                   # optional, ordered
@@ -143,6 +144,27 @@ The onboarding emails (`mmm/onboarding/templates`) are store-keyed too, tagged
 placeholders to Brevo's `{{ params.name }}`. Keys that only `email` references
 are left out of the Windows and Linux catalogs as well.
 
+### `table`
+
+Apple reads a string from a named table, `Localizable` unless the key says
+otherwise. The one other table is `AppShortcuts`: the phrases Siri matches to
+run an App Shortcut (`Shortcuts.swift`'s `AppShortcutsProvider`), which Apple
+reads only from a table of that name. It is generated as one
+`AppShortcuts.strings` per language (`<locale>.lproj/`, next to
+`Localizable.xcstrings`): its String Catalog form, `AppShortcuts.xcstrings`,
+needs an iOS 17 deployment target, and the app deploys to iOS 16.
+
+An App Shortcuts key is tagged `apple` only, and the Windows and Linux outputs
+leave it out (it means nothing outside Siri). Its `source` is the phrase as
+xcode extracts it, with the app's name as `${applicationName}`, which every
+translation keeps exactly once (the build rejects a phrase without it; Siri
+fills in the app's name and its synonyms). Siri speaks only some of the store's
+languages, so the phrases are translated into exactly `SIRI_LOCALES` (in
+`gen/store.mjs`), and no two phrases of a language may read alike, or Siri has
+two intents to choose from. `gen/app-shortcuts.test.mjs` holds the store to
+that, and the apple app's `AppShortcutsCatalogTests` holds the generated
+tables to `Shortcuts.swift`.
+
 ## Locales
 
 28: `en ar cs de el es es-419 es-MX fr he hi id it ja ko nl pl pt pt-BR pt-PT ru
@@ -159,6 +181,8 @@ Each platform emits the locales it actually supports; the maps live in
 * **apple** — the 27 in the catalog (`zh`→`zh-Hans`). `sw` is absent from the
   xcode project's `knownRegions`, so it is not emitted; adding it means adding it
   to `APPLE_LOCALE` *and* `knownRegions`.
+  App Shortcuts phrases are translated into the 19 that Siri speaks
+  (`SIRI_LOCALES`).
 * **windows / linux** — all 28.
 
 Adding a locale to a platform = adding it to that map. The translations are

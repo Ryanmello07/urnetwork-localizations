@@ -1,0 +1,25 @@
+description: "A phrase Siri matches to connect URnetwork (App Shortcuts, Shortcuts.swift). People say it to Siri, so phrase it the way they talk to Siri (in most languages the informal imperative). Keep ${applicationName}, the app's name, exactly once, and keep the phrase distinct from the language's other connect and disconnect phrases."
+source: "Start ${applicationName}"
+platforms:
+  - apple
+table: AppShortcuts
+localizations:
+  ar: "شغّل ${applicationName}"
+  de: "Starte ${applicationName}"
+  en: "Start ${applicationName}"
+  es: "Inicia ${applicationName}"
+  es-419: "Inicia ${applicationName}"
+  es-MX: "Inicia ${applicationName}"
+  fr: "Démarre ${applicationName}"
+  he: "הפעל את ${applicationName}"
+  it: "Avvia ${applicationName}"
+  ja: "${applicationName}を起動して"
+  ko: "${applicationName} 시작"
+  nl: "Start ${applicationName}"
+  pt: "Inicie o ${applicationName}"
+  pt-BR: "Inicie o ${applicationName}"
+  ru: "Запусти ${applicationName}"
+  sv: "Starta ${applicationName}"
+  th: "เริ่ม ${applicationName}"
+  zh: "启动 ${applicationName}"
+  zh-HK: "啟動 ${applicationName}"

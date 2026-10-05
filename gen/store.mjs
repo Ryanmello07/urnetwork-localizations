@@ -47,6 +47,29 @@ export const APPLE_LOCALE = {
 	uk: "uk", vi: "vi", zh: "zh-Hans", "zh-HK": "zh-HK",
 };
 
+// apple: the string tables. A key names its table with `table:` (default
+// Localizable). AppShortcuts holds the App Shortcuts phrases Siri matches
+// (Shortcuts.swift's AppShortcutsProvider): Apple reads them only from a table
+// of that name, generated as one AppShortcuts.strings per language next to
+// Localizable.xcstrings.
+export const APPLE_TABLES = ["Localizable", "AppShortcuts"];
+export const appleTable = (k) => k.table ?? "Localizable";
+
+// The store locales Siri speaks, which App Shortcuts phrases are translated
+// into: the store's languages among Apple's Siri languages. es-419 serves
+// Siri's Spanish (Chile, United States), zh Mandarin (China mainland), zh-HK
+// Cantonese (Hong Kong), and pt with pt-BR Portuguese (Brazil). Siri has no
+// cs, el, hi, id, pl, pt-PT, sw, uk or vi voice to match a phrase in.
+export const SIRI_LOCALES = [
+	"en", "ar", "de", "es", "es-419", "es-MX", "fr", "he", "it", "ja", "ko",
+	"nl", "pt", "pt-BR", "ru", "sv", "th", "zh", "zh-HK",
+];
+
+// The app's name in an App Shortcuts phrase, which Siri fills in (with the
+// name's synonyms too). Xcode extracts \(.applicationName) as this, and the
+// build rejects a phrase that does not carry it exactly once.
+export const APPLICATION_NAME = "${applicationName}";
+
 // windows MRT resource folders (BCP-47)
 export const WINDOWS_LOCALE = Object.fromEntries(
 	LOCALES.map((l) => [l, l === "zh" ? "zh-Hans" : l]),
@@ -140,11 +163,24 @@ export function validate(keys) {
 		for (const a of k.aliases) if (ids.has(a)) errs.push(`${k.id}: alias ${a} collides with a key`);
 		for (const l of Object.keys(k.localizations || {}))
 			if (!LOCALES.includes(l)) errs.push(`${k.id}: unknown locale ${l}`);
-		// one xcstrings key per source text
+		// one xcstrings key per source text, in each table
 		if (k.platforms.includes("apple")) {
-			if (bySource.has(k.source))
-				errs.push(`${k.id}: source collides with ${bySource.get(k.source)} on apple: ${JSON.stringify(k.source)}`);
-			bySource.set(k.source, k.id);
+			const tableSource = `${appleTable(k)}\n${k.source}`;
+			if (bySource.has(tableSource))
+				errs.push(`${k.id}: source collides with ${bySource.get(tableSource)} on apple: ${JSON.stringify(k.source)}`);
+			bySource.set(tableSource, k.id);
+		}
+		if (k.table !== undefined) {
+			if (!APPLE_TABLES.includes(k.table)) errs.push(`${k.id}: unknown apple table ${k.table}`);
+			// another table's catalog is apple's alone
+			if (k.platforms.join() !== "apple") errs.push(`${k.id}: a key of the ${k.table} table is tagged apple only`);
+		}
+		if (k.table === "AppShortcuts") {
+			const count = (t) => t.split(APPLICATION_NAME).length - 1;
+			if (count(k.source) !== 1) errs.push(`${k.id}: an App Shortcuts phrase carries ${APPLICATION_NAME} once`);
+			for (const [loc, v] of Object.entries(k.localizations || {}))
+				if (typeof v !== "string" || count(v) !== 1)
+					errs.push(`${k.id}[${loc}]: an App Shortcuts phrase carries ${APPLICATION_NAME} once: ${JSON.stringify(v)}`);
 		}
 		// every declared placeholder must appear in every localization. plural
 		// categories other than `other` may omit it -- several languages spell the
@@ -212,6 +248,11 @@ export const isDead = (k) =>
 export const CATALOG_FREE_PLATFORMS = ["email"];
 export const isCatalogFreeOnly = (k) =>
 	k.platforms.length > 0 && k.platforms.every((p) => CATALOG_FREE_PLATFORMS.includes(p));
+
+// A key of an apple table other than Localizable: only that table reads it (an
+// App Shortcuts phrase means nothing outside Siri), so the Windows and Linux
+// outputs, which otherwise carry every live key, leave it out.
+export const isAppleTableOnly = (k) => appleTable(k) !== "Localizable";
 
 // -------------------------------------------------------------- ICU lowering
 // The canonical text carries named ICU placeholders: "{count} hosts".

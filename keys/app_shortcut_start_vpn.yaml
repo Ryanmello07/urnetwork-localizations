@@ -1,0 +1,25 @@
+description: "A phrase Siri matches to connect URnetwork (App Shortcuts, Shortcuts.swift). People say it to Siri, so phrase it the way they talk to Siri (in most languages the informal imperative). Keep ${applicationName}, the app's name, exactly once, and keep the phrase distinct from the language's other connect and disconnect phrases."
+source: "Start ${applicationName} VPN"
+platforms:
+  - apple
+table: AppShortcuts
+localizations:
+  ar: "شغّل ${applicationName} VPN"
+  de: "Starte ${applicationName} VPN"
+  en: "Start ${applicationName} VPN"
+  es: "Inicia la VPN de ${applicationName}"
+  es-419: "Inicia la VPN de ${applicationName}"
+  es-MX: "Inicia la VPN de ${applicationName}"
+  fr: "Démarre ${applicationName} VPN"
+  he: "הפעל את ${applicationName} VPN"
+  it: "Avvia ${applicationName} VPN"
+  ja: "${applicationName} VPNを起動して"
+  ko: "${applicationName} VPN 시작"
+  nl: "Start ${applicationName} VPN"
+  pt: "Inicie a VPN do ${applicationName}"
+  pt-BR: "Inicie a VPN do ${applicationName}"
+  ru: "Запусти ${applicationName} VPN"
+  sv: "Starta ${applicationName} VPN"
+  th: "เริ่ม ${applicationName} VPN"
+  zh: "启动 ${applicationName} VPN"
+  zh-HK: "啟動 ${applicationName} VPN"

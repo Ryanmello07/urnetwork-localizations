@@ -1,0 +1,25 @@
+description: "A phrase Siri matches to disconnect URnetwork (App Shortcuts, Shortcuts.swift). People say it to Siri, so phrase it the way they talk to Siri (in most languages the informal imperative). Keep ${applicationName}, the app's name, exactly once, and keep the phrase distinct from the language's other connect and disconnect phrases."
+source: "Disconnect from ${applicationName}"
+platforms:
+  - apple
+table: AppShortcuts
+localizations:
+  ar: "اقطع الاتصال بـ ${applicationName}"
+  de: "Trenne die Verbindung zu ${applicationName}"
+  en: "Disconnect from ${applicationName}"
+  es: "Desconéctate de ${applicationName}"
+  es-419: "Desconéctate de ${applicationName}"
+  es-MX: "Desconéctate de ${applicationName}"
+  fr: "Déconnecte-toi de ${applicationName}"
+  he: "התנתק מ-${applicationName}"
+  it: "Disconnettiti da ${applicationName}"
+  ja: "${applicationName}から切断して"
+  ko: "${applicationName}에서 연결 해제"
+  nl: "Verbreek de verbinding met ${applicationName}"
+  pt: "Desconecte-se do ${applicationName}"
+  pt-BR: "Desconecte-se do ${applicationName}"
+  ru: "Отключись от ${applicationName}"
+  sv: "Avsluta anslutningen till ${applicationName}"
+  th: "ตัดการเชื่อมต่อจาก ${applicationName}"
+  zh: "断开与 ${applicationName} 的连接"
+  zh-HK: "斷開與 ${applicationName} 的連接"

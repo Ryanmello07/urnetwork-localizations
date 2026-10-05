@@ -1,0 +1,25 @@
+description: "A phrase Siri matches to connect URnetwork (App Shortcuts, Shortcuts.swift). People say it to Siri, so phrase it the way they talk to Siri (in most languages the informal imperative). Keep ${applicationName}, the app's name, exactly once, and keep the phrase distinct from the language's other connect and disconnect phrases."
+source: "Connect to ${applicationName}"
+platforms:
+  - apple
+table: AppShortcuts
+localizations:
+  ar: "اربطني بـ ${applicationName}"
+  de: "Verbinde mit ${applicationName}"
+  en: "Connect to ${applicationName}"
+  es: "Conéctate a ${applicationName}"
+  es-419: "Conéctate a ${applicationName}"
+  es-MX: "Conéctate a ${applicationName}"
+  fr: "Connecte-toi à ${applicationName}"
+  he: "התחבר ל-${applicationName}"
+  it: "Connettiti a ${applicationName}"
+  ja: "${applicationName}に接続して"
+  ko: "${applicationName}에 연결"
+  nl: "Maak verbinding met ${applicationName}"
+  pt: "Conecte-se ao ${applicationName}"
+  pt-BR: "Conecte-se ao ${applicationName}"
+  ru: "Подключись к ${applicationName}"
+  sv: "Anslut till ${applicationName}"
+  th: "เชื่อมต่อกับ ${applicationName}"
+  zh: "连接到 ${applicationName}"
+  zh-HK: "連接到 ${applicationName}"
