@@ -1,0 +1,39 @@
+description: "Out-of-balance notice (and the Upgrade screen when a blocked connect opened it), shown when most of what is missing is held by open connections rather than used up. {amount} is the reserved (Pending) data as a size, e.g. 1.4 GB. The unused part is returned as those connections close. Do not add a time promise."
+source: "%@ is reserved for your open connections. What they don't use is returned as they close."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  ar: "{amount} محجوزة لاتصالاتك المفتوحة. ما لا تستخدمه منها يُعاد عند إغلاقها."
+  cs: "{amount} je rezervováno pro vaše otevřená připojení. Co nevyužijí, se vrátí, až se ukončí."
+  de: "{amount} sind für deine offenen Verbindungen reserviert. Was sie nicht verbrauchen, wird zurückgegeben, sobald sie geschlossen werden."
+  el: "{amount} είναι δεσμευμένα για τις ανοιχτές συνδέσεις σας. Ό,τι δεν χρησιμοποιήσουν επιστρέφεται καθώς κλείνουν."
+  en: "{amount} is reserved for your open connections. What they don't use is returned as they close."
+  es: "{amount} están reservados para tus conexiones abiertas. Lo que no usen se devuelve a medida que se cierran."
+  es-419: "{amount} están reservados para tus conexiones abiertas. Lo que no usen se devuelve a medida que se cierran."
+  es-MX: "{amount} están reservados para tus conexiones abiertas. Lo que no usen se devuelve a medida que se cierran."
+  fr: "{amount} sont réservés à vos connexions ouvertes. Ce qu’elles n’utilisent pas vous est rendu à mesure qu’elles se ferment."
+  he: "{amount} שמורים לחיבורים הפתוחים שלך. מה שהם לא מנצלים מוחזר כשהם נסגרים."
+  hi: "{amount} आपके खुले कनेक्शनों के लिए आरक्षित है। वे जो उपयोग नहीं करते, वह उनके बंद होने पर वापस मिल जाता है।"
+  id: "{amount} dicadangkan untuk koneksi Anda yang sedang terbuka. Data yang tidak terpakai dikembalikan saat koneksi ditutup."
+  it: "{amount} sono riservati alle tue connessioni aperte. Quello che non usano ti viene restituito man mano che si chiudono."
+  ja: "{amount} が開いている接続のために予約されています。使われなかった分は、接続が閉じるにつれて戻ります。"
+  ko: "{amount}이(가) 열려 있는 연결을 위해 예약되어 있습니다. 사용하지 않은 만큼은 연결이 닫히는 대로 돌아옵니다."
+  nl: "{amount} is gereserveerd voor je open verbindingen. Wat ze niet gebruiken, krijg je terug zodra ze worden gesloten."
+  pl: "{amount} jest zarezerwowane dla Twoich otwartych połączeń. To, czego nie wykorzystają, wraca w miarę ich zamykania."
+  pt: "{amount} estão reservados para suas conexões abertas. O que elas não usarem é devolvido à medida que forem fechadas."
+  pt-BR: "{amount} estão reservados para suas conexões abertas. O que elas não usarem é devolvido à medida que forem fechadas."
+  pt-PT: "{amount} estão reservados para as suas ligações abertas. O que não utilizarem é devolvido à medida que forem fechadas."
+  ru: "{amount} зарезервировано для ваших открытых подключений. То, что они не используют, возвращается по мере их закрытия."
+  sv: "{amount} är reserverat för dina öppna anslutningar. Det som inte används återförs när de stängs."
+  sw: "{amount} imehifadhiwa kwa ajili ya miunganisho yako iliyo wazi. Isiyotumika hurejeshwa miunganisho hiyo inapofungwa."
+  th: "{amount} ถูกจองไว้สำหรับการเชื่อมต่อที่เปิดอยู่ของคุณ ส่วนที่ไม่ได้ใช้จะได้รับคืนเมื่อการเชื่อมต่อปิดลง"
+  uk: "{amount} зарезервовано для ваших відкритих підключень. Те, що вони не використають, повертається в міру їх закриття."
+  vi: "{amount} đang được giữ trước cho các kết nối đang mở của bạn. Phần không dùng đến sẽ được trả lại khi các kết nối đóng."
+  zh: "{amount} 已为你当前打开的连接预留。未使用的部分会在连接关闭时退回。"
+  zh-HK: "{amount} 已為你目前開啟的連線預留。未使用的部分會在連線關閉時退回。"
