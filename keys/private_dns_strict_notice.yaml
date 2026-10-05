@@ -1,0 +1,36 @@
+description: "Muted notice on the connect screen shown while connected when Android Private DNS is set to a strict hostname, which sends DoT lookups outside the tunnel. %1$s is the configured DNS provider host."
+source: "Private DNS is set to %1$s. Android sends lookups there directly instead of through URnetwork. If sites stop loading, set Private DNS to Automatic."
+platforms:
+  - android
+placeholders:
+  - name: host
+    type: string
+localizations:
+  ar: "تم ضبط DNS الخاص على {host}. يرسل Android طلبات الأسماء إليه مباشرةً بدلاً من المرور عبر URnetwork. إذا توقفت المواقع عن التحميل، فاضبط DNS الخاص على «تلقائي»."
+  cs: "Soukromé DNS je nastaveno na {host}. Android posílá dotazy přímo tam místo přes URnetwork. Pokud se weby přestanou načítat, nastavte Soukromé DNS na Automaticky."
+  de: "Privates DNS ist auf {host} eingestellt. Android sendet Anfragen direkt dorthin statt über URnetwork. Wenn Seiten nicht mehr laden, stelle Privates DNS auf Automatisch."
+  el: "Το Ιδιωτικό DNS έχει οριστεί σε {host}. Το Android στέλνει τα ερωτήματα απευθείας εκεί αντί μέσω του URnetwork. Αν οι ιστότοποι σταματήσουν να φορτώνουν, ορίστε το Ιδιωτικό DNS σε Αυτόματο."
+  en: "Private DNS is set to {host}. Android sends lookups there directly instead of through URnetwork. If sites stop loading, set Private DNS to Automatic."
+  es: "El DNS privado está configurado en {host}. Android envía las consultas directamente allí en lugar de pasar por URnetwork. Si los sitios dejan de cargar, configura el DNS privado en Automático."
+  es-419: "El DNS privado está configurado en {host}. Android envía las consultas directamente allí en lugar de pasar por URnetwork. Si los sitios dejan de cargar, configura el DNS privado en Automático."
+  es-MX: "El DNS privado está configurado en {host}. Android envía las consultas directamente ahí en lugar de pasar por URnetwork. Si los sitios dejan de cargar, configura el DNS privado en Automático."
+  fr: "Le DNS privé est réglé sur {host}. Android y envoie les requêtes directement au lieu de passer par URnetwork. Si les sites ne se chargent plus, réglez le DNS privé sur Automatique."
+  he: "DNS פרטי מוגדר ל-{host}. Android שולח את הבקשות ישירות לשם במקום דרך URnetwork. אם אתרים מפסיקים להיטען, הגדירו את ה-DNS הפרטי לאוטומטי."
+  hi: "निजी DNS {host} पर सेट है. Android, URnetwork के बजाय सीधे वहीं लुकअप भेजता है. अगर साइटें लोड होना बंद हो जाएं, तो निजी DNS को Automatic पर सेट करें."
+  id: "DNS Pribadi disetel ke {host}. Android mengirim pencarian langsung ke sana, bukan melalui URnetwork. Jika situs berhenti dimuat, setel DNS Pribadi ke Otomatis."
+  it: "Il DNS privato è impostato su {host}. Android invia le richieste direttamente lì invece che tramite URnetwork. Se i siti smettono di caricarsi, imposta il DNS privato su Automatico."
+  ja: "プライベートDNSが{host}に設定されています。AndroidはURnetworkを経由せず、そこへ直接名前解決を送信します。サイトが読み込めなくなった場合は、プライベートDNSを「自動」に設定してください。"
+  ko: "비공개 DNS가 {host}(으)로 설정되어 있습니다. Android는 URnetwork를 거치지 않고 그곳으로 직접 조회를 보냅니다. 사이트가 로드되지 않으면 비공개 DNS를 자동으로 설정하세요."
+  nl: "Privé-DNS is ingesteld op {host}. Android stuurt aanvragen rechtstreeks daarheen in plaats van via URnetwork. Als sites niet meer laden, stel Privé-DNS dan in op Automatisch."
+  pl: "Prywatny DNS jest ustawiony na {host}. Android wysyła zapytania bezpośrednio tam, zamiast przez URnetwork. Jeśli strony przestaną się ładować, ustaw Prywatny DNS na Automatyczny."
+  pt: "O DNS privado está definido como {host}. O Android envia as consultas diretamente para lá em vez de passar pela URnetwork. Se os sites deixarem de carregar, defina o DNS privado como Automático."
+  pt-BR: "O DNS privado está definido como {host}. O Android envia as consultas diretamente para lá em vez de passar pela URnetwork. Se os sites pararem de carregar, defina o DNS privado como Automático."
+  pt-PT: "O DNS privado está definido como {host}. O Android envia as consultas diretamente para lá em vez de passar pela URnetwork. Se os sites deixarem de carregar, defina o DNS privado como Automático."
+  ru: "Частный DNS задан как {host}. Android отправляет запросы напрямую туда, а не через URnetwork. Если сайты перестают загружаться, установите для частного DNS значение «Автоматически»."
+  sv: "Privat DNS är inställt på {host}. Android skickar uppslagningar direkt dit i stället för via URnetwork. Om webbplatser slutar laddas, ställ in Privat DNS på Automatiskt."
+  sw: "DNS ya Faragha imewekwa kuwa {host}. Android hutuma hoja moja kwa moja huko badala ya kupitia URnetwork. Tovuti zikiacha kupakia, weka DNS ya Faragha kuwa Otomatiki."
+  th: "DNS ส่วนตัวตั้งค่าเป็น {host} แล้ว Android จะส่งการค้นหาไปที่นั่นโดยตรงแทนที่จะผ่าน URnetwork หากเว็บไซต์โหลดไม่ได้ ให้ตั้งค่า DNS ส่วนตัวเป็นอัตโนมัติ"
+  uk: "Приватний DNS встановлено на {host}. Android надсилає запити безпосередньо туди, а не через URnetwork. Якщо сайти перестають завантажуватися, установіть для приватного DNS значення «Автоматично»."
+  vi: "DNS riêng tư được đặt thành {host}. Android gửi truy vấn trực tiếp đến đó thay vì qua URnetwork. Nếu các trang web ngừng tải, hãy đặt DNS riêng tư thành Tự động."
+  zh: "私人 DNS 已设置为 {host}。Android 会直接向其发送查询，而不经过 URnetwork。如果网站无法加载，请将私人 DNS 设置为“自动”。"
+  zh-HK: "私人 DNS 已設定為 {host}。Android 會直接向其傳送查詢，而不經過 URnetwork。如果網站無法載入，請將私人 DNS 設定為「自動」。"
