@@ -3,6 +3,8 @@ source: "Name"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "الاسم"
   cs: "Jméno"

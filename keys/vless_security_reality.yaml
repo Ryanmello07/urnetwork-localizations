@@ -1,0 +1,10 @@
+description: "VLESS settings: the REALITY security option. A protocol term."
+source: "REALITY"
+translatable: false
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  en: "REALITY"

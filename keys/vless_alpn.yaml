@@ -1,0 +1,10 @@
+description: "VLESS settings: the TLS ALPN list field label. A protocol term."
+source: "ALPN"
+translatable: false
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  en: "ALPN"

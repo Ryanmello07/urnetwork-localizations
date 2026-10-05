@@ -1,0 +1,10 @@
+description: "VLESS settings: the Vision flow option (xtls-rprx-vision). A protocol term."
+source: "Vision"
+translatable: false
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  en: "Vision"

@@ -1,0 +1,36 @@
+description: "VLESS settings: the user ID field label. The ID is a UUID the server issued."
+source: "User ID (UUID)"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "معرّف المستخدم (UUID)"
+  cs: "ID uživatele (UUID)"
+  de: "Benutzer-ID (UUID)"
+  el: "Αναγνωριστικό χρήστη (UUID)"
+  en: "User ID (UUID)"
+  es: "ID de usuario (UUID)"
+  es-419: "ID de usuario (UUID)"
+  es-MX: "ID de usuario (UUID)"
+  fr: "ID utilisateur (UUID)"
+  he: "מזהה משתמש (UUID)"
+  hi: "यूज़र आईडी (UUID)"
+  id: "ID pengguna (UUID)"
+  it: "ID utente (UUID)"
+  ja: "ユーザー ID（UUID）"
+  ko: "사용자 ID(UUID)"
+  nl: "Gebruikers-ID (UUID)"
+  pl: "Identyfikator użytkownika (UUID)"
+  pt: "ID de utilizador (UUID)"
+  pt-BR: "ID de usuário (UUID)"
+  pt-PT: "ID de utilizador (UUID)"
+  ru: "ID пользователя (UUID)"
+  sv: "Användar-ID (UUID)"
+  sw: "Kitambulisho cha mtumiaji (UUID)"
+  th: "รหัสผู้ใช้ (UUID)"
+  uk: "Ідентифікатор користувача (UUID)"
+  vi: "ID người dùng (UUID)"
+  zh: "用户 ID（UUID）"
+  zh-HK: "用戶 ID（UUID）"

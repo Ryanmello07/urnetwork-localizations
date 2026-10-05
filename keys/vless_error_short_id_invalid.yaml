@@ -1,0 +1,36 @@
+description: "VLESS settings error: the REALITY short ID is longer than 16 hexadecimal characters or is not hexadecimal. REALITY is a protocol name."
+source: "The REALITY short ID must be up to 16 hexadecimal characters."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يجب ألا يتجاوز المعرّف القصير لـ REALITY ستة عشر حرفًا ست عشريًا."
+  cs: "Krátké ID REALITY může mít nejvýše 16 šestnáctkových znaků."
+  de: "Die REALITY-Kurz-ID darf höchstens 16 Hexadezimalzeichen lang sein."
+  el: "Το σύντομο αναγνωριστικό REALITY πρέπει να έχει έως 16 δεκαεξαδικούς χαρακτήρες."
+  en: "The REALITY short ID must be up to 16 hexadecimal characters."
+  es: "El ID corto de REALITY debe tener hasta 16 caracteres hexadecimales."
+  es-419: "El ID corto de REALITY debe tener hasta 16 caracteres hexadecimales."
+  es-MX: "El ID corto de REALITY debe tener hasta 16 caracteres hexadecimales."
+  fr: "L'ID court REALITY doit comporter au plus 16 caractères hexadécimaux."
+  he: "המזהה הקצר של REALITY חייב להכיל עד 16 תווים הקסדצימליים."
+  hi: "REALITY शॉर्ट आईडी में अधिकतम 16 हेक्साडेसिमल अक्षर हो सकते हैं।"
+  id: "ID pendek REALITY harus berisi paling banyak 16 karakter heksadesimal."
+  it: "L'ID breve REALITY deve avere al massimo 16 caratteri esadecimali."
+  ja: "REALITY のショート ID は 16 文字以内の 16 進数にしてください。"
+  ko: "REALITY 짧은 ID는 최대 16자리 16진수여야 합니다."
+  nl: "De korte REALITY-ID mag maximaal 16 hexadecimale tekens bevatten."
+  pl: "Krótki identyfikator REALITY może mieć maksymalnie 16 znaków szesnastkowych."
+  pt: "O ID curto do REALITY deve ter até 16 caracteres hexadecimais."
+  pt-BR: "O ID curto do REALITY deve ter até 16 caracteres hexadecimais."
+  pt-PT: "O ID curto do REALITY deve ter até 16 caracteres hexadecimais."
+  ru: "Короткий ID REALITY должен содержать не более 16 шестнадцатеричных символов."
+  sv: "REALITY-kort-ID:t får ha högst 16 hexadecimala tecken."
+  sw: "Kitambulisho kifupi cha REALITY lazima kiwe na hadi herufi 16 za heksadesimali."
+  th: "รหัสแบบสั้นของ REALITY ต้องเป็นอักขระฐานสิบหกไม่เกิน 16 ตัว"
+  uk: "Короткий ID REALITY має містити не більше 16 шістнадцяткових символів."
+  vi: "ID ngắn REALITY chỉ được có tối đa 16 ký tự thập lục phân."
+  zh: "REALITY 短 ID 最多只能包含 16 个十六进制字符。"
+  zh-HK: "REALITY 短 ID 最多只能包含 16 個十六進位字元。"

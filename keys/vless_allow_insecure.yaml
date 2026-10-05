@@ -1,0 +1,36 @@
+description: "VLESS settings: the switch that skips the VLESS server's certificate check (TLS only). The app's own traffic stays encrypted."
+source: "Allow an insecure certificate"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "السماح بشهادة غير آمنة"
+  cs: "Povolit nezabezpečený certifikát"
+  de: "Unsicheres Zertifikat erlauben"
+  el: "Να επιτρέπεται μη ασφαλές πιστοποιητικό"
+  en: "Allow an insecure certificate"
+  es: "Permitir un certificado no seguro"
+  es-419: "Permitir un certificado no seguro"
+  es-MX: "Permitir un certificado no seguro"
+  fr: "Autoriser un certificat non sécurisé"
+  he: "לאפשר אישור לא מאובטח"
+  hi: "असुरक्षित प्रमाणपत्र की अनुमति दें"
+  id: "Izinkan sertifikat tidak aman"
+  it: "Consenti un certificato non sicuro"
+  ja: "安全でない証明書を許可"
+  ko: "안전하지 않은 인증서 허용"
+  nl: "Onveilig certificaat toestaan"
+  pl: "Zezwalaj na niezabezpieczony certyfikat"
+  pt: "Permitir um certificado não seguro"
+  pt-BR: "Permitir um certificado inseguro"
+  pt-PT: "Permitir um certificado não seguro"
+  ru: "Разрешить небезопасный сертификат"
+  sv: "Tillåt ett osäkert certifikat"
+  sw: "Ruhusu cheti kisicho salama"
+  th: "อนุญาตใบรับรองที่ไม่ปลอดภัย"
+  uk: "Дозволити незахищений сертифікат"
+  vi: "Cho phép chứng chỉ không an toàn"
+  zh: "允许不安全的证书"
+  zh-HK: "允許不安全的憑證"

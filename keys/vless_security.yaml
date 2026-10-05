@@ -1,0 +1,36 @@
+description: "VLESS settings: the security picker label (none, TLS or REALITY)."
+source: "Security"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "الأمان"
+  cs: "Zabezpečení"
+  de: "Sicherheit"
+  el: "Ασφάλεια"
+  en: "Security"
+  es: "Seguridad"
+  es-419: "Seguridad"
+  es-MX: "Seguridad"
+  fr: "Sécurité"
+  he: "אבטחה"
+  hi: "सुरक्षा"
+  id: "Keamanan"
+  it: "Sicurezza"
+  ja: "セキュリティ"
+  ko: "보안"
+  nl: "Beveiliging"
+  pl: "Zabezpieczenia"
+  pt: "Segurança"
+  pt-BR: "Segurança"
+  pt-PT: "Segurança"
+  ru: "Безопасность"
+  sv: "Säkerhet"
+  sw: "Usalama"
+  th: "ความปลอดภัย"
+  uk: "Безпека"
+  vi: "Bảo mật"
+  zh: "安全"
+  zh-HK: "安全"

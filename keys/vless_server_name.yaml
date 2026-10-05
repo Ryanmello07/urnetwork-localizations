@@ -1,0 +1,36 @@
+description: "VLESS settings: the TLS server name field label. SNI is a protocol term."
+source: "Server name (SNI)"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "اسم الخادم (SNI)"
+  cs: "Název serveru (SNI)"
+  de: "Servername (SNI)"
+  el: "Όνομα διακομιστή (SNI)"
+  en: "Server name (SNI)"
+  es: "Nombre del servidor (SNI)"
+  es-419: "Nombre del servidor (SNI)"
+  es-MX: "Nombre del servidor (SNI)"
+  fr: "Nom du serveur (SNI)"
+  he: "שם השרת (SNI)"
+  hi: "सर्वर नाम (SNI)"
+  id: "Nama server (SNI)"
+  it: "Nome del server (SNI)"
+  ja: "サーバー名（SNI）"
+  ko: "서버 이름(SNI)"
+  nl: "Servernaam (SNI)"
+  pl: "Nazwa serwera (SNI)"
+  pt: "Nome do servidor (SNI)"
+  pt-BR: "Nome do servidor (SNI)"
+  pt-PT: "Nome do servidor (SNI)"
+  ru: "Имя сервера (SNI)"
+  sv: "Servernamn (SNI)"
+  sw: "Jina la seva (SNI)"
+  th: "ชื่อเซิร์ฟเวอร์ (SNI)"
+  uk: "Ім’я сервера (SNI)"
+  vi: "Tên máy chủ (SNI)"
+  zh: "服务器名称（SNI）"
+  zh-HK: "伺服器名稱（SNI）"

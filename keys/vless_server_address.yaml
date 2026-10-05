@@ -1,0 +1,36 @@
+description: "VLESS settings: the server host name or IP address field label."
+source: "Server address"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "عنوان الخادم"
+  cs: "Adresa serveru"
+  de: "Serveradresse"
+  el: "Διεύθυνση διακομιστή"
+  en: "Server address"
+  es: "Dirección del servidor"
+  es-419: "Dirección del servidor"
+  es-MX: "Dirección del servidor"
+  fr: "Adresse du serveur"
+  he: "כתובת השרת"
+  hi: "सर्वर पता"
+  id: "Alamat server"
+  it: "Indirizzo del server"
+  ja: "サーバーアドレス"
+  ko: "서버 주소"
+  nl: "Serveradres"
+  pl: "Adres serwera"
+  pt: "Endereço do servidor"
+  pt-BR: "Endereço do servidor"
+  pt-PT: "Endereço do servidor"
+  ru: "Адрес сервера"
+  sv: "Serveradress"
+  sw: "Anwani ya seva"
+  th: "ที่อยู่เซิร์ฟเวอร์"
+  uk: "Адреса сервера"
+  vi: "Địa chỉ máy chủ"
+  zh: "服务器地址"
+  zh-HK: "伺服器位址"

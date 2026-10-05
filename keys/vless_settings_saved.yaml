@@ -1,0 +1,36 @@
+description: "VLESS settings: confirmation after saving."
+source: "VLESS settings saved"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "تم حفظ إعدادات VLESS"
+  cs: "Nastavení VLESS bylo uloženo"
+  de: "VLESS-Einstellungen gespeichert"
+  el: "Οι ρυθμίσεις VLESS αποθηκεύτηκαν"
+  en: "VLESS settings saved"
+  es: "Configuración de VLESS guardada"
+  es-419: "Configuración de VLESS guardada"
+  es-MX: "Configuración de VLESS guardada"
+  fr: "Paramètres VLESS enregistrés"
+  he: "הגדרות VLESS נשמרו"
+  hi: "VLESS सेटिंग्स सेव हो गईं"
+  id: "Pengaturan VLESS disimpan"
+  it: "Impostazioni VLESS salvate"
+  ja: "VLESS 設定を保存しました"
+  ko: "VLESS 설정이 저장되었습니다"
+  nl: "VLESS-instellingen opgeslagen"
+  pl: "Zapisano ustawienia VLESS"
+  pt: "Definições VLESS guardadas"
+  pt-BR: "Configurações VLESS salvas"
+  pt-PT: "Definições VLESS guardadas"
+  ru: "Настройки VLESS сохранены"
+  sv: "VLESS-inställningarna har sparats"
+  sw: "Mipangilio ya VLESS imehifadhiwa"
+  th: "บันทึกการตั้งค่า VLESS แล้ว"
+  uk: "Налаштування VLESS збережено"
+  vi: "Đã lưu cài đặt VLESS"
+  zh: "已保存 VLESS 设置"
+  zh-HK: "已儲存 VLESS 設定"

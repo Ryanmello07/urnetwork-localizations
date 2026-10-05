@@ -1,0 +1,36 @@
+description: "VLESS settings: the button that copies the settings as a vless:// share link."
+source: "Copy link"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "نسخ الرابط"
+  cs: "Kopírovat odkaz"
+  de: "Link kopieren"
+  el: "Αντιγραφή συνδέσμου"
+  en: "Copy link"
+  es: "Copiar enlace"
+  es-419: "Copiar enlace"
+  es-MX: "Copiar enlace"
+  fr: "Copier le lien"
+  he: "העתקת קישור"
+  hi: "लिंक कॉपी करें"
+  id: "Salin tautan"
+  it: "Copia link"
+  ja: "リンクをコピー"
+  ko: "링크 복사"
+  nl: "Link kopiëren"
+  pl: "Kopiuj link"
+  pt: "Copiar ligação"
+  pt-BR: "Copiar link"
+  pt-PT: "Copiar ligação"
+  ru: "Копировать ссылку"
+  sv: "Kopiera länk"
+  sw: "Nakili kiungo"
+  th: "คัดลอกลิงก์"
+  uk: "Копіювати посилання"
+  vi: "Sao chép liên kết"
+  zh: "复制链接"
+  zh-HK: "複製連結"

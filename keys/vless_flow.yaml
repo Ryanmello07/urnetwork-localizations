@@ -1,0 +1,36 @@
+description: "VLESS settings: the flow picker label (none or Vision). A VLESS protocol term."
+source: "Flow"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "التدفق"
+  cs: "Tok"
+  de: "Flow"
+  el: "Ροή"
+  en: "Flow"
+  es: "Flujo"
+  es-419: "Flujo"
+  es-MX: "Flujo"
+  fr: "Flux"
+  he: "זרימה"
+  hi: "फ़्लो"
+  id: "Flow"
+  it: "Flusso"
+  ja: "フロー"
+  ko: "플로우"
+  nl: "Flow"
+  pl: "Przepływ"
+  pt: "Fluxo"
+  pt-BR: "Fluxo"
+  pt-PT: "Fluxo"
+  ru: "Поток"
+  sv: "Flöde"
+  sw: "Mtiririko"
+  th: "โฟลว์"
+  uk: "Потік"
+  vi: "Luồng"
+  zh: "流控"
+  zh-HK: "流控"

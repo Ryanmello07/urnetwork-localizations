@@ -1,0 +1,36 @@
+description: "VLESS settings error: the transport is one this app does not implement (for example gRPC or XHTTP). TCP, WebSocket and HTTPUpgrade are protocol names."
+source: "This transport is not supported. Use TCP, WebSocket or HTTPUpgrade."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "وسيلة النقل هذه غير مدعومة. استخدم TCP أو WebSocket أو HTTPUpgrade."
+  cs: "Tento přenos není podporován. Použijte TCP, WebSocket nebo HTTPUpgrade."
+  de: "Dieser Transport wird nicht unterstützt. Verwende TCP, WebSocket oder HTTPUpgrade."
+  el: "Αυτή η μεταφορά δεν υποστηρίζεται. Χρησιμοποιήστε TCP, WebSocket ή HTTPUpgrade."
+  en: "This transport is not supported. Use TCP, WebSocket or HTTPUpgrade."
+  es: "Este transporte no es compatible. Usa TCP, WebSocket o HTTPUpgrade."
+  es-419: "Este transporte no es compatible. Usa TCP, WebSocket o HTTPUpgrade."
+  es-MX: "Este transporte no es compatible. Usa TCP, WebSocket o HTTPUpgrade."
+  fr: "Ce transport n'est pas pris en charge. Utilisez TCP, WebSocket ou HTTPUpgrade."
+  he: "שיטת התעבורה הזו אינה נתמכת. השתמשו ב-TCP, ב-WebSocket או ב-HTTPUpgrade."
+  hi: "यह ट्रांसपोर्ट सपोर्टेड नहीं है। TCP, WebSocket या HTTPUpgrade का उपयोग करें।"
+  id: "Transport ini tidak didukung. Gunakan TCP, WebSocket, atau HTTPUpgrade."
+  it: "Questo trasporto non è supportato. Usa TCP, WebSocket o HTTPUpgrade."
+  ja: "このトランスポートには対応していません。TCP、WebSocket、HTTPUpgrade のいずれかを使用してください。"
+  ko: "이 전송 방식은 지원되지 않습니다. TCP, WebSocket 또는 HTTPUpgrade를 사용하세요."
+  nl: "Dit transport wordt niet ondersteund. Gebruik TCP, WebSocket of HTTPUpgrade."
+  pl: "Ten transport nie jest obsługiwany. Użyj TCP, WebSocket lub HTTPUpgrade."
+  pt: "Este transporte não é suportado. Utilize TCP, WebSocket ou HTTPUpgrade."
+  pt-BR: "Este transporte não é compatível. Use TCP, WebSocket ou HTTPUpgrade."
+  pt-PT: "Este transporte não é suportado. Utilize TCP, WebSocket ou HTTPUpgrade."
+  ru: "Этот транспорт не поддерживается. Используйте TCP, WebSocket или HTTPUpgrade."
+  sv: "Den här transporten stöds inte. Använd TCP, WebSocket eller HTTPUpgrade."
+  sw: "Usafirishaji huu hautumiki. Tumia TCP, WebSocket au HTTPUpgrade."
+  th: "ไม่รองรับการรับส่งนี้ ใช้ TCP, WebSocket หรือ HTTPUpgrade"
+  uk: "Цей транспорт не підтримується. Використовуйте TCP, WebSocket або HTTPUpgrade."
+  vi: "Không hỗ trợ phương thức truyền này. Hãy dùng TCP, WebSocket hoặc HTTPUpgrade."
+  zh: "不支持此传输方式。请使用 TCP、WebSocket 或 HTTPUpgrade。"
+  zh-HK: "不支援此傳輸方式。請使用 TCP、WebSocket 或 HTTPUpgrade。"

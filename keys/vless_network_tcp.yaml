@@ -1,0 +1,10 @@
+description: "VLESS settings: the TCP transport option. A protocol term."
+source: "TCP"
+translatable: false
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  en: "TCP"

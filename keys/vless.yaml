@@ -1,0 +1,10 @@
+description: "The VLESS settings: the Settings row and screen title, and the row on the login screen's network settings. VLESS is a proxy protocol name."
+source: "VLESS"
+translatable: false
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  en: "VLESS"
