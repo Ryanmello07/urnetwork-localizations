@@ -2,6 +2,7 @@ description: "App split rules: placeholder in the search field that filters the 
 source: "Search apps"
 platforms:
   - android
+  - apple
 localizations:
   ar: "البحث في التطبيقات"
   cs: "Hledat aplikace"
