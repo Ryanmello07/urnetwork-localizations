@@ -1,0 +1,39 @@
+description: "Bittensor wallet error in the apps, when the ur.io bridge page returns no_account: the chosen wallet shared no account it can sign with (none is connected to the site, or it holds only accounts of another chain), so nothing was signed. The argument is the wallet product name (Talisman or WalletConnect)."
+source: "Your %@ wallet has no account to sign with. Add or connect an account in the wallet, then try again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: wallet
+    type: string
+localizations:
+  ar: "لا تحتوي محفظة {wallet} لديك على حساب للتوقيع به. أضف حسابًا أو اربطه في المحفظة، ثم حاول مرة أخرى."
+  cs: "Vaše peněženka {wallet} nemá účet, kterým by mohla podepsat. Přidejte nebo připojte účet v peněžence a zkuste to znovu."
+  de: "Deine {wallet}-Wallet hat kein Konto zum Signieren. Füge in der Wallet ein Konto hinzu oder verbinde eins und versuche es dann erneut."
+  el: "Το πορτοφόλι {wallet} σας δεν έχει λογαριασμό για υπογραφή. Προσθέστε ή συνδέστε έναν λογαριασμό στο πορτοφόλι και δοκιμάστε ξανά."
+  en: "Your {wallet} wallet has no account to sign with. Add or connect an account in the wallet, then try again."
+  es: "Tu billetera {wallet} no tiene ninguna cuenta con la que firmar. Añade o conecta una cuenta en la billetera y vuelve a intentarlo."
+  es-419: "Tu billetera {wallet} no tiene ninguna cuenta con la que firmar. Agrega o conecta una cuenta en la billetera y vuelve a intentarlo."
+  es-MX: "Tu cartera {wallet} no tiene ninguna cuenta con la que firmar. Agrega o conecta una cuenta en la cartera y vuelve a intentarlo."
+  fr: "Votre portefeuille {wallet} n'a aucun compte avec lequel signer. Ajoutez ou connectez un compte dans le portefeuille, puis réessayez."
+  he: "בארנק {wallet} שלכם אין חשבון לחתימה. הוסיפו או חברו חשבון בארנק ונסו שוב."
+  hi: "आपके {wallet} वॉलेट में हस्ताक्षर करने के लिए कोई खाता नहीं है। वॉलेट में कोई खाता जोड़ें या कनेक्ट करें, फिर दोबारा प्रयास करें।"
+  id: "Dompet {wallet} Anda tidak memiliki akun untuk menandatangani. Tambahkan atau hubungkan akun di dompet, lalu coba lagi."
+  it: "Il tuo portafoglio {wallet} non ha un account con cui firmare. Aggiungi o collega un account nel portafoglio, poi riprova."
+  ja: "お使いの{wallet}ウォレットに、署名に使えるアカウントがありません。ウォレットでアカウントを追加または接続してから、もう一度お試しください。"
+  ko: "{wallet} 지갑에 서명할 계정이 없습니다. 지갑에서 계정을 추가하거나 연결한 후 다시 시도하세요."
+  nl: "Je {wallet}-wallet heeft geen account om mee te ondertekenen. Voeg in de wallet een account toe of koppel er een, en probeer het opnieuw."
+  pl: "Twój portfel {wallet} nie ma konta, którym można podpisać. Dodaj lub połącz konto w portfelu, a potem spróbuj ponownie."
+  pt: "A sua carteira {wallet} não tem nenhuma conta para assinar. Adicione ou ligue uma conta na carteira e tente novamente."
+  pt-BR: "Sua carteira {wallet} não tem nenhuma conta para assinar. Adicione ou conecte uma conta na carteira e tente novamente."
+  pt-PT: "A sua carteira {wallet} não tem nenhuma conta para assinar. Adicione ou ligue uma conta na carteira e tente novamente."
+  ru: "В вашем кошельке {wallet} нет аккаунта для подписи. Добавьте или подключите аккаунт в кошельке и попробуйте еще раз."
+  sv: "Din {wallet}-plånbok har inget konto att signera med. Lägg till eller anslut ett konto i plånboken och försök sedan igen."
+  sw: "Pochi yako ya {wallet} haina akaunti ya kutia sahihi. Ongeza au unganisha akaunti kwenye pochi, kisha ujaribu tena."
+  th: "กระเป๋าเงิน {wallet} ของคุณไม่มีบัญชีสำหรับลงนาม เพิ่มหรือเชื่อมต่อบัญชีในกระเป๋าเงิน แล้วลองอีกครั้ง"
+  uk: "У вашому гаманці {wallet} немає облікового запису для підпису. Додайте або підключіть обліковий запис у гаманці й спробуйте ще раз."
+  vi: "Ví {wallet} của bạn không có tài khoản nào để ký. Hãy thêm hoặc kết nối một tài khoản trong ví rồi thử lại."
+  zh: "您的 {wallet} 钱包中没有可用于签名的账户。请在钱包中添加或连接一个账户，然后重试。"
+  zh-HK: "你的 {wallet} 錢包中沒有可用於簽名的帳戶。請在錢包中新增或連接一個帳戶，然後再試一次。"
