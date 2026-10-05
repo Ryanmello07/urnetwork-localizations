@@ -1,6 +1,5 @@
 description: "Developer page: value of the flows that never came back, {done} of {total}."
 source: "{done} of {total}"
-translatable: false
 platforms:
   - linux
 placeholders:
@@ -9,4 +8,31 @@ placeholders:
   - name: total
     type: int
 localizations:
+  ar: "{done} من {total}"
+  cs: "{done} z {total}"
+  de: "{done} von {total}"
+  el: "{done} από {total}"
   en: "{done} of {total}"
+  es: "{done} de {total}"
+  es-419: "{done} de {total}"
+  es-MX: "{done} de {total}"
+  fr: "{done} sur {total}"
+  he: "{done} מתוך {total}"
+  hi: "{total} में से {done}"
+  id: "{done} dari {total}"
+  it: "{done} su {total}"
+  ja: "{done} / {total}"
+  ko: "{total}개 중 {done}개"
+  nl: "{done} van {total}"
+  pl: "{done} z {total}"
+  pt: "{done} de {total}"
+  pt-BR: "{done} de {total}"
+  pt-PT: "{done} de {total}"
+  ru: "{done} из {total}"
+  sv: "{done} av {total}"
+  sw: "{done} kati ya {total}"
+  th: "{done} จาก {total}"
+  uk: "{done} з {total}"
+  vi: "{done}/{total}"
+  zh: "{done} / {total}"
+  zh-HK: "{done} / {total}"

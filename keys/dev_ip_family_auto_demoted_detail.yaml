@@ -1,10 +1,36 @@
 description: "Developer screen: the automatic option's detail when one family was demoted; {reason} is the demotion reason."
 source: "Automatic. %1$s."
-translatable: false
 platforms:
   - android
 placeholders:
   - name: reason
     type: string
 localizations:
+  ar: "تلقائي. {reason}."
+  cs: "Automaticky. {reason}."
+  de: "Automatisch. {reason}."
+  el: "Αυτόματα. {reason}."
   en: "Automatic. {reason}."
+  es: "Automático. {reason}."
+  es-419: "Automático. {reason}."
+  es-MX: "Automático. {reason}."
+  fr: "Automatique. {reason}."
+  he: "אוטומטי. {reason}."
+  hi: "स्वचालित। {reason}।"
+  id: "Otomatis. {reason}."
+  it: "Automatico. {reason}."
+  ja: "自動。{reason}。"
+  ko: "자동. {reason}."
+  nl: "Automatisch. {reason}."
+  pl: "Automatycznie. {reason}."
+  pt: "Automático. {reason}."
+  pt-BR: "Automático. {reason}."
+  pt-PT: "Automático. {reason}."
+  ru: "Автоматически. {reason}."
+  sv: "Automatiskt. {reason}."
+  sw: "Kiotomatiki. {reason}."
+  th: "อัตโนมัติ {reason}"
+  uk: "Автоматично. {reason}."
+  vi: "Tự động. {reason}."
+  zh: "自动。{reason}。"
+  zh-HK: "自動。{reason}。"

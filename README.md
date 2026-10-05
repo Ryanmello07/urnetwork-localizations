@@ -177,8 +177,9 @@ The developer and diagnostics pages follow the same rule as every other screen:
 their labels, values and help text are translated, so a page never mixes the
 reader's language with English. Only a literal a user must see verbatim stays
 English everywhere, as `translatable: false`: a product name, a transport name
-(`H1`, `H3`, `whodis`, `whodis pump`, `P2P`) or a protocol token such as `DNS`.
-The coverage test asks those keys for `en` alone.
+(`H1`, `H3`, `whodis`, `whodis pump`, `P2P`, and `p2p` as an exit state) or a
+protocol or metric token such as `DNS` or `TTFB`. The coverage test asks those
+keys for `en` alone.
 
 ## Web
 

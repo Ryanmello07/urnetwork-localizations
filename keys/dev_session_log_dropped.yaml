@@ -1,10 +1,36 @@
 description: "Developer page: line in the session log when {count} earlier lines were dropped."
 source: "{count} lines were dropped before this point"
-translatable: false
 platforms:
   - linux
 placeholders:
   - name: count
     type: int
 localizations:
+  ar: "أسطر أُسقطت قبل هذه النقطة: {count}"
+  cs: "Řádků zahozených před tímto místem: {count}"
+  de: "Vor dieser Stelle verworfene Zeilen: {count}"
+  el: "Γραμμές που απορρίφθηκαν πριν από αυτό το σημείο: {count}"
   en: "{count} lines were dropped before this point"
+  es: "Líneas descartadas antes de este punto: {count}"
+  es-419: "Líneas descartadas antes de este punto: {count}"
+  es-MX: "Líneas descartadas antes de este punto: {count}"
+  fr: "Lignes supprimées avant ce point : {count}"
+  he: "שורות שהושמטו לפני נקודה זו: {count}"
+  hi: "इस बिंदु से पहले हटाई गई पंक्तियाँ: {count}"
+  id: "{count} baris dibuang sebelum titik ini"
+  it: "Righe scartate prima di questo punto: {count}"
+  ja: "この位置より前の {count} 行は破棄されました"
+  ko: "이 지점 이전에 {count}줄이 삭제되었습니다"
+  nl: "Regels verwijderd vóór dit punt: {count}"
+  pl: "Wierszy pominiętych przed tym miejscem: {count}"
+  pt: "Linhas descartadas antes deste ponto: {count}"
+  pt-BR: "Linhas descartadas antes deste ponto: {count}"
+  pt-PT: "Linhas descartadas antes deste ponto: {count}"
+  ru: "Строк отброшено до этого места: {count}"
+  sv: "Rader som kastades före denna punkt: {count}"
+  sw: "Mistari iliyotupwa kabla ya hapa: {count}"
+  th: "ทิ้งไป {count} บรรทัดก่อนจุดนี้"
+  uk: "Рядків відкинуто до цього місця: {count}"
+  vi: "Đã bỏ {count} dòng trước điểm này"
+  zh: "此处之前丢弃了 {count} 行"
+  zh-HK: "此處之前已捨棄 {count} 行"
