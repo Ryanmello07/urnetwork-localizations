@@ -1,0 +1,36 @@
+description: "Short note shown when the balance comes back (reserved data returned, the free refresh or an upgrade) and the app retries, by itself, the connect that insufficient balance had blocked."
+source: "Data is available again. Reconnecting…"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "البيانات متاحة مجددًا. جارٍ إعادة الاتصال…"
+  cs: "Data jsou opět k dispozici. Znovu se připojuje…"
+  de: "Daten sind wieder verfügbar. Verbindung wird wiederhergestellt…"
+  el: "Τα δεδομένα είναι ξανά διαθέσιμα. Επανασύνδεση…"
+  en: "Data is available again. Reconnecting…"
+  es: "Vuelve a haber datos disponibles. Reconectando…"
+  es-419: "Vuelve a haber datos disponibles. Reconectando…"
+  es-MX: "Vuelve a haber datos disponibles. Reconectando…"
+  fr: "Des données sont de nouveau disponibles. Reconnexion…"
+  he: "יש שוב נתונים זמינים. מתחבר מחדש…"
+  hi: "डेटा फिर से उपलब्ध है। दोबारा कनेक्ट हो रहा है…"
+  id: "Data tersedia lagi. Menyambungkan kembali…"
+  it: "I dati sono di nuovo disponibili. Riconnessione in corso…"
+  ja: "データが再び利用可能になりました。再接続しています…"
+  ko: "데이터를 다시 사용할 수 있습니다. 다시 연결하는 중…"
+  nl: "Er is weer data beschikbaar. Opnieuw verbinden…"
+  pl: "Dane są znów dostępne. Ponowne łączenie…"
+  pt: "Há dados disponíveis novamente. Reconectando…"
+  pt-BR: "Há dados disponíveis novamente. Reconectando…"
+  pt-PT: "Voltou a haver dados disponíveis. A ligar novamente…"
+  ru: "Данные снова доступны. Переподключение…"
+  sv: "Data finns tillgänglig igen. Återansluter…"
+  sw: "Data inapatikana tena. Inaunganisha upya…"
+  th: "มีข้อมูลใช้งานได้อีกครั้ง กำลังเชื่อมต่อใหม่…"
+  uk: "Дані знову доступні. Повторне підключення…"
+  vi: "Đã có dữ liệu trở lại. Đang kết nối lại…"
+  zh: "数据已再次可用。正在重新连接…"
+  zh-HK: "數據已再次可用。正在重新連線…"

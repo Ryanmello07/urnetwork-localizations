@@ -1,0 +1,36 @@
+description: "Out-of-balance notice, while a connect the user asked for is waiting on the balance: the app retries that connect by itself once data is available again (reserved data returned, the free refresh or an upgrade). Shown with a Cancel action when the connect has not started yet."
+source: "You'll be reconnected when data is available again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "ستتم إعادة توصيلك عندما تتوفر البيانات مجددًا."
+  cs: "Až budou data znovu k dispozici, znovu vás připojíme."
+  de: "Du wirst wieder verbunden, sobald wieder Daten verfügbar sind."
+  el: "Θα επανασυνδεθείτε όταν υπάρξουν ξανά διαθέσιμα δεδομένα."
+  en: "You'll be reconnected when data is available again."
+  es: "Te volveremos a conectar cuando vuelva a haber datos disponibles."
+  es-419: "Te volveremos a conectar cuando vuelva a haber datos disponibles."
+  es-MX: "Te volveremos a conectar cuando vuelva a haber datos disponibles."
+  fr: "Vous serez reconnecté dès que des données seront de nouveau disponibles."
+  he: "החיבור יחודש כשיהיו שוב נתונים זמינים."
+  hi: "डेटा फिर से उपलब्ध होने पर आपको दोबारा कनेक्ट कर दिया जाएगा।"
+  id: "Anda akan tersambung kembali saat data tersedia lagi."
+  it: "Verrai ricollegato quando i dati saranno di nuovo disponibili."
+  ja: "データが再び利用可能になると、再接続されます。"
+  ko: "데이터를 다시 사용할 수 있게 되면 다시 연결됩니다."
+  nl: "Je wordt opnieuw verbonden zodra er weer data beschikbaar is."
+  pl: "Połączymy Cię ponownie, gdy dane znów będą dostępne."
+  pt: "Você será reconectado quando houver dados disponíveis novamente."
+  pt-BR: "Você será reconectado quando houver dados disponíveis novamente."
+  pt-PT: "Será novamente ligado quando voltar a haver dados disponíveis."
+  ru: "Вы будете переподключены, когда данные снова станут доступны."
+  sv: "Du återansluts när data finns tillgänglig igen."
+  sw: "Utaunganishwa tena data itakapopatikana tena."
+  th: "คุณจะได้รับการเชื่อมต่อใหม่เมื่อมีข้อมูลใช้งานได้อีกครั้ง"
+  uk: "Вас буде повторно підключено, коли дані знову стануть доступними."
+  vi: "Bạn sẽ được kết nối lại khi có dữ liệu trở lại."
+  zh: "数据再次可用时，将为你重新连接。"
+  zh-HK: "數據再次可用時，將為你重新連線。"
