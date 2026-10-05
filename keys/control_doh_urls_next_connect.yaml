@@ -1,0 +1,36 @@
+description: "Bootstrap DNS-over-HTTPS servers: note after saving where the VPN runs separately from the app (the iOS tunnel extension, the desktop service). It reads the servers at its next start."
+source: "The VPN uses the new bootstrap servers the next time it connects."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يستخدم VPN خوادم التمهيد الجديدة عند اتصاله في المرة القادمة."
+  cs: "VPN použije nové zaváděcí servery při příštím připojení."
+  de: "Das VPN verwendet die neuen Bootstrap-Server bei der nächsten Verbindung."
+  el: "Το VPN θα χρησιμοποιήσει τους νέους διακομιστές εκκίνησης την επόμενη φορά που θα συνδεθεί."
+  en: "The VPN uses the new bootstrap servers the next time it connects."
+  es: "La VPN usará los nuevos servidores de arranque la próxima vez que se conecte."
+  es-419: "La VPN usará los nuevos servidores de arranque la próxima vez que se conecte."
+  es-MX: "La VPN usará los nuevos servidores de arranque la próxima vez que se conecte."
+  fr: "Le VPN utilisera les nouveaux serveurs d'amorçage lors de sa prochaine connexion."
+  he: "ה-VPN ישתמש בשרתי האתחול החדשים בפעם הבאה שיתחבר."
+  hi: "VPN अगली बार कनेक्ट होने पर नए बूटस्ट्रैप सर्वर का उपयोग करेगा।"
+  id: "VPN akan menggunakan server bootstrap baru saat terhubung berikutnya."
+  it: "La VPN userà i nuovi server di bootstrap alla prossima connessione."
+  ja: "VPN は次回の接続時に新しいブートストラップサーバーを使用します。"
+  ko: "VPN은 다음 연결 시 새 부트스트랩 서버를 사용합니다."
+  nl: "De VPN gebruikt de nieuwe bootstrap-servers bij de volgende verbinding."
+  pl: "VPN użyje nowych serwerów startowych przy następnym połączeniu."
+  pt: "A VPN utilizará os novos servidores de arranque na próxima ligação."
+  pt-BR: "A VPN usará os novos servidores de inicialização na próxima vez que se conectar."
+  pt-PT: "A VPN utilizará os novos servidores de arranque na próxima ligação."
+  ru: "VPN будет использовать новые bootstrap-серверы при следующем подключении."
+  sv: "VPN:en använder de nya bootstrap-servrarna nästa gång den ansluter."
+  sw: "VPN itatumia seva mpya za kuanzisha itakapounganisha tena."
+  th: "VPN จะใช้เซิร์ฟเวอร์บูตสแตรปใหม่ในการเชื่อมต่อครั้งถัดไป"
+  uk: "VPN використає нові bootstrap-сервери під час наступного підключення."
+  vi: "VPN sẽ dùng các máy chủ khởi động mới trong lần kết nối tiếp theo."
+  zh: "VPN 将在下次连接时使用新的引导服务器。"
+  zh-HK: "VPN 將在下次連線時使用新的引導伺服器。"

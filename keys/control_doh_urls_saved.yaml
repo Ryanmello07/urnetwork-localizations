@@ -1,0 +1,36 @@
+description: "Confirmation after the bootstrap DNS-over-HTTPS servers are saved."
+source: "Bootstrap DNS-over-HTTPS servers saved"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "تم حفظ خوادم DNS-over-HTTPS للتمهيد"
+  cs: "Zaváděcí servery DNS-over-HTTPS byly uloženy"
+  de: "Bootstrap-Server für DNS-over-HTTPS gespeichert"
+  el: "Οι διακομιστές εκκίνησης DNS-over-HTTPS αποθηκεύτηκαν"
+  en: "Bootstrap DNS-over-HTTPS servers saved"
+  es: "Servidores DNS-over-HTTPS de arranque guardados"
+  es-419: "Servidores DNS-over-HTTPS de arranque guardados"
+  es-MX: "Servidores DNS-over-HTTPS de arranque guardados"
+  fr: "Serveurs DNS-over-HTTPS d'amorçage enregistrés"
+  he: "שרתי DNS-over-HTTPS לאתחול נשמרו"
+  hi: "बूटस्ट्रैप DNS-over-HTTPS सर्वर सहेजे गए"
+  id: "Server DNS-over-HTTPS bootstrap disimpan"
+  it: "Server DNS-over-HTTPS di bootstrap salvati"
+  ja: "ブートストラップ DNS-over-HTTPS サーバーを保存しました"
+  ko: "부트스트랩 DNS-over-HTTPS 서버를 저장했습니다"
+  nl: "Bootstrap-servers voor DNS-over-HTTPS opgeslagen"
+  pl: "Zapisano serwery startowe DNS-over-HTTPS"
+  pt: "Servidores DNS-over-HTTPS de arranque guardados"
+  pt-BR: "Servidores DNS-over-HTTPS de inicialização salvos"
+  pt-PT: "Servidores DNS-over-HTTPS de arranque guardados"
+  ru: "Bootstrap-серверы DNS-over-HTTPS сохранены"
+  sv: "Bootstrap-servrar för DNS-over-HTTPS har sparats"
+  sw: "Seva za DNS-over-HTTPS za kuanzisha zimehifadhiwa"
+  th: "บันทึกเซิร์ฟเวอร์ DNS-over-HTTPS สำหรับบูตสแตรปแล้ว"
+  uk: "Bootstrap-сервери DNS-over-HTTPS збережено"
+  vi: "Đã lưu máy chủ DNS-over-HTTPS khởi động"
+  zh: "引导 DNS-over-HTTPS 服务器已保存"
+  zh-HK: "引導 DNS-over-HTTPS 伺服器已儲存"

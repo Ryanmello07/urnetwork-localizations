@@ -1,0 +1,36 @@
+description: "Bootstrap DNS-over-HTTPS server error: the URL names a host name where an IP address is needed. The example URL is literal and is not translated."
+source: "Use an IP address, not a host name, such as https://223.5.5.5/dns-query."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "استخدم عنوان IP بدلًا من اسم المضيف، مثل https://223.5.5.5/dns-query."
+  cs: "Použijte IP adresu, ne název hostitele, například https://223.5.5.5/dns-query."
+  de: "Verwende eine IP-Adresse statt eines Hostnamens, zum Beispiel https://223.5.5.5/dns-query."
+  el: "Χρησιμοποιήστε διεύθυνση IP αντί για όνομα κεντρικού υπολογιστή, όπως https://223.5.5.5/dns-query."
+  en: "Use an IP address, not a host name, such as https://223.5.5.5/dns-query."
+  es: "Usa una dirección IP en lugar de un nombre de host, como https://223.5.5.5/dns-query."
+  es-419: "Usa una dirección IP en lugar de un nombre de host, como https://223.5.5.5/dns-query."
+  es-MX: "Usa una dirección IP en lugar de un nombre de host, como https://223.5.5.5/dns-query."
+  fr: "Utilisez une adresse IP plutôt qu'un nom d'hôte, par exemple https://223.5.5.5/dns-query."
+  he: "השתמשו בכתובת IP במקום בשם מארח, למשל https://223.5.5.5/dns-query."
+  hi: "होस्ट नाम के बजाय IP पता इस्तेमाल करें, जैसे https://223.5.5.5/dns-query।"
+  id: "Gunakan alamat IP, bukan nama host, misalnya https://223.5.5.5/dns-query."
+  it: "Usa un indirizzo IP anziché un nome host, ad esempio https://223.5.5.5/dns-query."
+  ja: "ホスト名ではなく IP アドレスを使用してください（例: https://223.5.5.5/dns-query）。"
+  ko: "호스트 이름 대신 IP 주소를 사용하세요(예: https://223.5.5.5/dns-query)."
+  nl: "Gebruik een IP-adres in plaats van een hostnaam, zoals https://223.5.5.5/dns-query."
+  pl: "Użyj adresu IP zamiast nazwy hosta, np. https://223.5.5.5/dns-query."
+  pt: "Utilize um endereço IP em vez de um nome de anfitrião, por exemplo https://223.5.5.5/dns-query."
+  pt-BR: "Use um endereço IP em vez de um nome de host, por exemplo https://223.5.5.5/dns-query."
+  pt-PT: "Utilize um endereço IP em vez de um nome de anfitrião, por exemplo https://223.5.5.5/dns-query."
+  ru: "Укажите IP-адрес вместо имени хоста, например https://223.5.5.5/dns-query."
+  sv: "Använd en IP-adress i stället för ett värdnamn, till exempel https://223.5.5.5/dns-query."
+  sw: "Tumia anwani ya IP badala ya jina la mwenyeji, kwa mfano https://223.5.5.5/dns-query."
+  th: "ใช้ที่อยู่ IP แทนชื่อโฮสต์ เช่น https://223.5.5.5/dns-query"
+  uk: "Вкажіть IP-адресу замість імені хоста, наприклад https://223.5.5.5/dns-query."
+  vi: "Dùng địa chỉ IP thay vì tên máy chủ, ví dụ https://223.5.5.5/dns-query."
+  zh: "请使用 IP 地址而不是主机名，例如 https://223.5.5.5/dns-query。"
+  zh-HK: "請使用 IP 位址而不是主機名稱，例如 https://223.5.5.5/dns-query。"

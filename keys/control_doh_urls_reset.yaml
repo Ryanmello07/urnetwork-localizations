@@ -1,0 +1,36 @@
+description: "Extender settings: button that clears the bootstrap DNS-over-HTTPS server list, so only the built-in servers are used."
+source: "Use built-in servers only"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "استخدام الخوادم المضمّنة فقط"
+  cs: "Používat jen vestavěné servery"
+  de: "Nur integrierte Server verwenden"
+  el: "Χρήση μόνο ενσωματωμένων διακομιστών"
+  en: "Use built-in servers only"
+  es: "Usar solo los servidores integrados"
+  es-419: "Usar solo los servidores integrados"
+  es-MX: "Usar solo los servidores integrados"
+  fr: "Utiliser uniquement les serveurs intégrés"
+  he: "שימוש בשרתים המובנים בלבד"
+  hi: "केवल बिल्ट-इन सर्वर इस्तेमाल करें"
+  id: "Gunakan server bawaan saja"
+  it: "Usa solo i server integrati"
+  ja: "内蔵サーバーのみを使用"
+  ko: "기본 서버만 사용"
+  nl: "Alleen ingebouwde servers gebruiken"
+  pl: "Używaj tylko wbudowanych serwerów"
+  pt: "Usar apenas os servidores integrados"
+  pt-BR: "Usar apenas os servidores integrados"
+  pt-PT: "Usar apenas os servidores integrados"
+  ru: "Только встроенные серверы"
+  sv: "Använd bara inbyggda servrar"
+  sw: "Tumia seva zilizojengewa ndani pekee"
+  th: "ใช้เฉพาะเซิร์ฟเวอร์ในตัว"
+  uk: "Лише вбудовані сервери"
+  vi: "Chỉ dùng máy chủ tích hợp"
+  zh: "仅使用内置服务器"
+  zh-HK: "只使用內建伺服器"

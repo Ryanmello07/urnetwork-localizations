@@ -1,0 +1,36 @@
+description: "Extender settings: note under the Use China resolvers button naming the operators it fills in. AliDNS and DNSPod are product names and are not translated."
+source: "Fills in the AliDNS and DNSPod servers, which are reachable in mainland China."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يملأ خوادم AliDNS وDNSPod، التي يمكن الوصول إليها في البر الرئيسي للصين."
+  cs: "Vyplní servery AliDNS a DNSPod, které jsou dostupné v pevninské Číně."
+  de: "Trägt die Server von AliDNS und DNSPod ein, die in Festlandchina erreichbar sind."
+  el: "Συμπληρώνει τους διακομιστές AliDNS και DNSPod, που είναι προσβάσιμοι στην ηπειρωτική Κίνα."
+  en: "Fills in the AliDNS and DNSPod servers, which are reachable in mainland China."
+  es: "Rellena los servidores de AliDNS y DNSPod, que son accesibles en China continental."
+  es-419: "Completa los servidores de AliDNS y DNSPod, que son accesibles en China continental."
+  es-MX: "Completa los servidores de AliDNS y DNSPod, que son accesibles en China continental."
+  fr: "Remplit les serveurs AliDNS et DNSPod, accessibles en Chine continentale."
+  he: "ממלא את השרתים של AliDNS ו-DNSPod, שזמינים בסין היבשתית."
+  hi: "AliDNS और DNSPod के सर्वर भर देता है, जो मुख्यभूमि चीन में उपलब्ध हैं।"
+  id: "Mengisi server AliDNS dan DNSPod, yang dapat dijangkau di Tiongkok daratan."
+  it: "Inserisce i server AliDNS e DNSPod, raggiungibili nella Cina continentale."
+  ja: "中国本土からアクセスできる AliDNS と DNSPod のサーバーを入力します。"
+  ko: "중국 본토에서 접속할 수 있는 AliDNS 및 DNSPod 서버를 입력합니다."
+  nl: "Vult de servers van AliDNS en DNSPod in, die bereikbaar zijn op het Chinese vasteland."
+  pl: "Wpisuje serwery AliDNS i DNSPod, które są dostępne w Chinach kontynentalnych."
+  pt: "Preenche os servidores AliDNS e DNSPod, que estão acessíveis na China continental."
+  pt-BR: "Preenche os servidores AliDNS e DNSPod, que podem ser acessados na China continental."
+  pt-PT: "Preenche os servidores AliDNS e DNSPod, que estão acessíveis na China continental."
+  ru: "Подставляет серверы AliDNS и DNSPod, доступные в материковом Китае."
+  sv: "Fyller i servrarna från AliDNS och DNSPod, som går att nå i Fastlandskina."
+  sw: "Hujaza seva za AliDNS na DNSPod, zinazofikika katika China bara."
+  th: "กรอกเซิร์ฟเวอร์ของ AliDNS และ DNSPod ซึ่งเข้าถึงได้ในจีนแผ่นดินใหญ่"
+  uk: "Підставляє сервери AliDNS і DNSPod, доступні в материковому Китаї."
+  vi: "Điền các máy chủ AliDNS và DNSPod, có thể truy cập được ở Trung Quốc đại lục."
+  zh: "填入在中国大陆可访问的 AliDNS 和 DNSPod 服务器。"
+  zh-HK: "填入在中國內地可連線的 AliDNS 和 DNSPod 伺服器。"

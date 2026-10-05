@@ -1,0 +1,36 @@
+description: "Bootstrap DNS-over-HTTPS server error: the line is not a complete URL the app can query (no path, a query or fragment, user info or a bad port). The example URL is literal and is not translated."
+source: "Enter a full URL, such as https://223.5.5.5/dns-query."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "أدخل عنوان URL كاملًا، مثل https://223.5.5.5/dns-query."
+  cs: "Zadejte úplnou adresu URL, například https://223.5.5.5/dns-query."
+  de: "Gib eine vollständige URL ein, zum Beispiel https://223.5.5.5/dns-query."
+  el: "Εισαγάγετε ένα πλήρες URL, όπως https://223.5.5.5/dns-query."
+  en: "Enter a full URL, such as https://223.5.5.5/dns-query."
+  es: "Introduce una URL completa, como https://223.5.5.5/dns-query."
+  es-419: "Ingresa una URL completa, como https://223.5.5.5/dns-query."
+  es-MX: "Ingresa una URL completa, como https://223.5.5.5/dns-query."
+  fr: "Saisissez une URL complète, par exemple https://223.5.5.5/dns-query."
+  he: "הזינו כתובת URL מלאה, למשל https://223.5.5.5/dns-query."
+  hi: "पूरा URL दर्ज करें, जैसे https://223.5.5.5/dns-query।"
+  id: "Masukkan URL lengkap, misalnya https://223.5.5.5/dns-query."
+  it: "Inserisci un URL completo, ad esempio https://223.5.5.5/dns-query."
+  ja: "完全な URL を入力してください（例: https://223.5.5.5/dns-query）。"
+  ko: "전체 URL을 입력하세요(예: https://223.5.5.5/dns-query)."
+  nl: "Voer een volledige URL in, zoals https://223.5.5.5/dns-query."
+  pl: "Wpisz pełny adres URL, np. https://223.5.5.5/dns-query."
+  pt: "Introduza um URL completo, por exemplo https://223.5.5.5/dns-query."
+  pt-BR: "Digite uma URL completa, por exemplo https://223.5.5.5/dns-query."
+  pt-PT: "Introduza um URL completo, por exemplo https://223.5.5.5/dns-query."
+  ru: "Введите полный URL, например https://223.5.5.5/dns-query."
+  sv: "Ange en fullständig URL, till exempel https://223.5.5.5/dns-query."
+  sw: "Weka URL kamili, kwa mfano https://223.5.5.5/dns-query."
+  th: "ป้อน URL แบบเต็ม เช่น https://223.5.5.5/dns-query"
+  uk: "Введіть повну URL-адресу, наприклад https://223.5.5.5/dns-query."
+  vi: "Nhập URL đầy đủ, ví dụ https://223.5.5.5/dns-query."
+  zh: "请输入完整的 URL，例如 https://223.5.5.5/dns-query。"
+  zh-HK: "請輸入完整的 URL，例如 https://223.5.5.5/dns-query。"

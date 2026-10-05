@@ -1,0 +1,39 @@
+description: "Extender import: shown before the user takes the settings of a share code that also sets bootstrap DNS-over-HTTPS servers. The argument is the list of server URLs, comma separated."
+source: "This code also sets bootstrap DNS-over-HTTPS servers. They will see URnetwork's server lookups: %@"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: servers
+    type: string
+localizations:
+  ar: "يضبط هذا الرمز أيضًا خوادم DNS-over-HTTPS للتمهيد. سترى هذه الخوادم عمليات بحث URnetwork عن خوادمه: {servers}"
+  cs: "Tento kód také nastaví zaváděcí servery DNS-over-HTTPS. Uvidí vyhledávání serverů URnetwork: {servers}"
+  de: "Dieser Code legt auch Bootstrap-Server für DNS-over-HTTPS fest. Sie sehen die Serveranfragen von URnetwork: {servers}"
+  el: "Αυτός ο κωδικός ορίζει επίσης διακομιστές εκκίνησης DNS-over-HTTPS. Θα βλέπουν τις αναζητήσεις διακομιστών του URnetwork: {servers}"
+  en: "This code also sets bootstrap DNS-over-HTTPS servers. They will see URnetwork's server lookups: {servers}"
+  es: "Este código también configura servidores DNS-over-HTTPS de arranque. Verán las búsquedas de servidores de URnetwork: {servers}"
+  es-419: "Este código también configura servidores DNS-over-HTTPS de arranque. Verán las búsquedas de servidores de URnetwork: {servers}"
+  es-MX: "Este código también configura servidores DNS-over-HTTPS de arranque. Verán las búsquedas de servidores de URnetwork: {servers}"
+  fr: "Ce code définit aussi des serveurs DNS-over-HTTPS d'amorçage. Ils verront les recherches de serveurs d'URnetwork : {servers}"
+  he: "הקוד הזה מגדיר גם שרתי DNS-over-HTTPS לאתחול. הם יראו את חיפושי השרתים של URnetwork: {servers}"
+  hi: "यह कोड बूटस्ट्रैप DNS-over-HTTPS सर्वर भी सेट करता है। वे URnetwork के सर्वर लुकअप देख पाएँगे: {servers}"
+  id: "Kode ini juga mengatur server DNS-over-HTTPS bootstrap. Server tersebut akan melihat pencarian server URnetwork: {servers}"
+  it: "Questo codice imposta anche i server DNS-over-HTTPS di bootstrap. Vedranno le ricerche dei server di URnetwork: {servers}"
+  ja: "このコードはブートストラップ DNS-over-HTTPS サーバーも設定します。これらのサーバーは URnetwork のサーバー検索を見ることができます: {servers}"
+  ko: "이 코드는 부트스트랩 DNS-over-HTTPS 서버도 설정합니다. 이 서버는 URnetwork의 서버 조회를 볼 수 있습니다: {servers}"
+  nl: "Deze code stelt ook bootstrap-servers voor DNS-over-HTTPS in. Ze zien de serveropzoekingen van URnetwork: {servers}"
+  pl: "Ten kod ustawia też serwery startowe DNS-over-HTTPS. Będą widzieć zapytania URnetwork o jego serwery: {servers}"
+  pt: "Este código também define servidores DNS-over-HTTPS de arranque. Estes verão as pesquisas de servidores do URnetwork: {servers}"
+  pt-BR: "Este código também define servidores DNS-over-HTTPS de inicialização. Eles verão as consultas de servidores do URnetwork: {servers}"
+  pt-PT: "Este código também define servidores DNS-over-HTTPS de arranque. Estes verão as pesquisas de servidores do URnetwork: {servers}"
+  ru: "Этот код также задаёт bootstrap-серверы DNS-over-HTTPS. Они будут видеть запросы URnetwork к его серверам: {servers}"
+  sv: "Den här koden anger även bootstrap-servrar för DNS-over-HTTPS. De ser URnetworks serveruppslagningar: {servers}"
+  sw: "Msimbo huu pia huweka seva za DNS-over-HTTPS za kuanzisha. Seva hizo zitaona utafutaji wa seva wa URnetwork: {servers}"
+  th: "โค้ดนี้ยังตั้งค่าเซิร์ฟเวอร์ DNS-over-HTTPS สำหรับบูตสแตรปด้วย เซิร์ฟเวอร์เหล่านี้จะเห็นการค้นหาเซิร์ฟเวอร์ของ URnetwork: {servers}"
+  uk: "Цей код також задає bootstrap-сервери DNS-over-HTTPS. Вони бачитимуть запити URnetwork до його серверів: {servers}"
+  vi: "Mã này cũng đặt các máy chủ DNS-over-HTTPS khởi động. Các máy chủ đó sẽ thấy các lượt tra cứu máy chủ của URnetwork: {servers}"
+  zh: "此代码还会设置引导 DNS-over-HTTPS 服务器。它们将能看到 URnetwork 对其服务器的查询：{servers}"
+  zh-HK: "此代碼亦會設定引導 DNS-over-HTTPS 伺服器。它們將能看到 URnetwork 對其伺服器的查詢：{servers}"

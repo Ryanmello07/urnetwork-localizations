@@ -1,0 +1,36 @@
+description: "Extender settings: the title of the list of bootstrap DNS-over-HTTPS servers a user can add for the lookups of URnetwork's own server names. DNS-over-HTTPS is a protocol name and is not translated."
+source: "Bootstrap DNS-over-HTTPS servers"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "خوادم DNS-over-HTTPS للتمهيد"
+  cs: "Zaváděcí servery DNS-over-HTTPS"
+  de: "Bootstrap-Server für DNS-over-HTTPS"
+  el: "Διακομιστές εκκίνησης DNS-over-HTTPS"
+  en: "Bootstrap DNS-over-HTTPS servers"
+  es: "Servidores DNS-over-HTTPS de arranque"
+  es-419: "Servidores DNS-over-HTTPS de arranque"
+  es-MX: "Servidores DNS-over-HTTPS de arranque"
+  fr: "Serveurs DNS-over-HTTPS d'amorçage"
+  he: "שרתי DNS-over-HTTPS לאתחול"
+  hi: "बूटस्ट्रैप DNS-over-HTTPS सर्वर"
+  id: "Server DNS-over-HTTPS bootstrap"
+  it: "Server DNS-over-HTTPS di bootstrap"
+  ja: "ブートストラップ DNS-over-HTTPS サーバー"
+  ko: "부트스트랩 DNS-over-HTTPS 서버"
+  nl: "Bootstrap-servers voor DNS-over-HTTPS"
+  pl: "Serwery startowe DNS-over-HTTPS"
+  pt: "Servidores DNS-over-HTTPS de arranque"
+  pt-BR: "Servidores DNS-over-HTTPS de inicialização"
+  pt-PT: "Servidores DNS-over-HTTPS de arranque"
+  ru: "Bootstrap-серверы DNS-over-HTTPS"
+  sv: "Bootstrap-servrar för DNS-over-HTTPS"
+  sw: "Seva za DNS-over-HTTPS za kuanzisha"
+  th: "เซิร์ฟเวอร์ DNS-over-HTTPS สำหรับบูตสแตรป"
+  uk: "Bootstrap-сервери DNS-over-HTTPS"
+  vi: "Máy chủ DNS-over-HTTPS khởi động"
+  zh: "引导 DNS-over-HTTPS 服务器"
+  zh-HK: "引導 DNS-over-HTTPS 伺服器"

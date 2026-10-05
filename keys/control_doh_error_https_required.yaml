@@ -1,0 +1,36 @@
+description: "Bootstrap DNS-over-HTTPS server error: the URL does not start with https://. https:// is literal and is not translated."
+source: "The URL must start with https://."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يجب أن يبدأ عنوان URL بـ https://."
+  cs: "Adresa URL musí začínat https://."
+  de: "Die URL muss mit https:// beginnen."
+  el: "Το URL πρέπει να ξεκινά με https://."
+  en: "The URL must start with https://."
+  es: "La URL debe empezar por https://."
+  es-419: "La URL debe empezar con https://."
+  es-MX: "La URL debe empezar con https://."
+  fr: "L'URL doit commencer par https://."
+  he: "כתובת ה-URL חייבת להתחיל ב-https://."
+  hi: "URL https:// से शुरू होना चाहिए।"
+  id: "URL harus diawali dengan https://."
+  it: "L'URL deve iniziare con https://."
+  ja: "URL は https:// で始める必要があります。"
+  ko: "URL은 https://로 시작해야 합니다."
+  nl: "De URL moet beginnen met https://."
+  pl: "Adres URL musi zaczynać się od https://."
+  pt: "O URL tem de começar por https://."
+  pt-BR: "A URL precisa começar com https://."
+  pt-PT: "O URL tem de começar por https://."
+  ru: "URL должен начинаться с https://."
+  sv: "URL:en måste börja med https://."
+  sw: "URL lazima ianze na https://."
+  th: "URL ต้องขึ้นต้นด้วย https://"
+  uk: "URL-адреса має починатися з https://."
+  vi: "URL phải bắt đầu bằng https://."
+  zh: "URL 必须以 https:// 开头。"
+  zh-HK: "URL 必須以 https:// 開頭。"
