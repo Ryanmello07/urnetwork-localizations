@@ -2,6 +2,7 @@ description: "Settings, under the cellular provide toggle: the label of the choi
 source: "When on battery"
 platforms:
   - android
+  - apple
 localizations:
   ar: "عند العمل على البطارية"
   cs: "Při napájení z baterie"
