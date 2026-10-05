@@ -2,6 +2,8 @@ description: "App settings: connections section"
 source: "Connections"
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "الاتصالات"
   de: "Verbindungen"

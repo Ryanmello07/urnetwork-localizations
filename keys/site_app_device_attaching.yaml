@@ -2,6 +2,8 @@ description: "App connect screen: device rpc attaching hint"
 source: "Attaching device controls…"
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "جارٍ إرفاق عناصر التحكم بالجهاز…"
   de: "Gerätesteuerung wird verbunden…"

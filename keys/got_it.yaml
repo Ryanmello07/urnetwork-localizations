@@ -2,6 +2,8 @@ description: "Used in Shared/Views/UpgradeSubscriptionSheet.swift."
 source: "Got it"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "فهمت"
   cs: "Rozumím"

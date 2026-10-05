@@ -3,5 +3,6 @@ source: "Probe suite stopped"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Probe suite stopped"

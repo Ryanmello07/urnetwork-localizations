@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "IPv4"
   cs: "IPv4"

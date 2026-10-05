@@ -2,6 +2,7 @@ description: "Network page: error when the provider list could not be loaded."
 source: "Could not load the provider list."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تعذّر تحميل قائمة المزوّدين."
   cs: "Seznam poskytovatelů se nepodařilo načíst."

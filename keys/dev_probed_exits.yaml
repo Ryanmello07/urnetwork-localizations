@@ -3,5 +3,6 @@ source: "Probed exits"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Probed exits"

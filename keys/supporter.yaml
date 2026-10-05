@@ -3,6 +3,8 @@ source: "Pro"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "Pro"
   cs: "Pro"

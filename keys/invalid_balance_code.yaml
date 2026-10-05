@@ -3,6 +3,7 @@ source: "Invalid balance code"
 platforms:
   - apple
   - linux
+  - windows
 localizations:
   ar: "رمز الرصيد غير صالح"
   cs: "Neplatný kód na zůstatek"

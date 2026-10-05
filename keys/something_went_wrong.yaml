@@ -3,6 +3,8 @@ source: "Something went wrong."
 platforms:
   - android
   - web
+  - linux
+  - windows
 localizations:
   ar: "حدث خطأ ما."
   cs: "Něco se pokazilo."

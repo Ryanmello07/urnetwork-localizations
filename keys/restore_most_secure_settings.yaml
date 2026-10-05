@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "استعادة أكثر الإعدادات أمانًا"
   cs: "Obnovit nejbezpečnější nastavení"

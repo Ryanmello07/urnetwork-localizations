@@ -5,6 +5,8 @@ platforms:
   - apple
   - web
   - site
+  - linux
+  - windows
 aliases:
   - verify_screen_header
 localizations:

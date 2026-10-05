@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "DNS مخصص"
   cs: "Vlastní DNS"

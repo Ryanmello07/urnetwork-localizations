@@ -2,6 +2,8 @@ description: "Used in Main/Account/Settings/SettingsView.swift."
 source: "Device name"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "اسم الجهاز"
   cs: "Název zařízení"

@@ -3,5 +3,6 @@ source: "failed"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "failed"

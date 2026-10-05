@@ -2,6 +2,8 @@ description: "Used in Shared/Views/RedeemBalanceCodeSheet/RedeemBalanceCodeSheet
 source: "Redeem Code"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "استرداد الرمز"
   cs: "Uplatnit kód"

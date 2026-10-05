@@ -3,5 +3,6 @@ source: "Which exit each destination's flows are landing on. A site spread over 
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Which exit each destination's flows are landing on. A site spread over several rows is a site that lost its single egress IP."

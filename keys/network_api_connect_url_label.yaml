@@ -3,6 +3,8 @@ source: "Connect URL (optional)"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "Connect URL (اختياري)"
   cs: "Connect URL (volitelné)"

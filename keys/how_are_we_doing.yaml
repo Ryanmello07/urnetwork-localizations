@@ -3,6 +3,8 @@ source: "How are we doing?"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "كيف حالنا؟"
   cs: "Jak se nám daří?"

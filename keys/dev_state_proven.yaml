@@ -3,5 +3,6 @@ source: "proven"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "proven"

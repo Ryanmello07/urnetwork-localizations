@@ -2,6 +2,7 @@ description: "Connection inspector: placeholder dash for a value that is not ava
 source: "—"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "—"
   cs: "—"

@@ -2,6 +2,7 @@ description: "Login: warning when the pasted seedphrase has {count} words instea
 source: "That's {count} words — a seedphrase is 12 or 24 words"
 platforms:
   - linux
+  - windows
 placeholders:
   - name: count
     type: int

@@ -2,6 +2,8 @@ description: "Used in Main/Account/Settings/UpdateReferralNetworkSheet/UpdateRef
 source: "Current referral network"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "شبكة الإحالة الحالية"
   cs: "Aktuální referální sít"

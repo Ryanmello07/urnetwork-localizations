@@ -2,6 +2,8 @@ description: "Used in Main/Feedback/FeedbackView.swift."
 source: "Feedback"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "ملاحظات"
   cs: "Odezva"

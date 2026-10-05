@@ -4,5 +4,6 @@ translatable: false
 platforms:
   - linux
   - apple
+  - windows
 localizations:
   en: "Actions are requests: confirm them in the measurements and exit rows, which refresh underneath."

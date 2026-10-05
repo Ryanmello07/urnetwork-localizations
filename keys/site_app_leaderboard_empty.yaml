@@ -2,6 +2,8 @@ description: "App leaderboard: empty state"
 source: "No networks on the leaderboard yet."
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "لا توجد شبكات في لوحة المتصدرين بعد."
   de: "Noch keine Netzwerke in der Bestenliste."

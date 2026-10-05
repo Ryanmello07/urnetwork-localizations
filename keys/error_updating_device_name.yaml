@@ -2,6 +2,8 @@ description: "Snackbar shown when saving the device name fails. Used in Main/Acc
 source: "There was an error updating the device name."
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "حدث خطأ أثناء تحديث اسم الجهاز."
   cs: "Při aktualizaci názvu zařízení došlo k chybě."

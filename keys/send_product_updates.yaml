@@ -3,6 +3,8 @@ source: "Send me product updates"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "إرسال تحديثات المنتج لي"
   cs: "Zasílání aktualizací produktů"

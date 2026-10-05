@@ -3,5 +3,6 @@ source: "The URnetwork service is not attached, so the live connection cannot be
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "The URnetwork service is not attached, so the live connection cannot be read."

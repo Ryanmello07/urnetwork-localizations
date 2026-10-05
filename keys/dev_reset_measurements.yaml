@@ -3,6 +3,8 @@ source: "Reset measurements"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "إعادة تعيين القياسات"
   de: "Messungen zurücksetzen"

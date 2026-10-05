@@ -4,6 +4,7 @@ platforms:
   - apple
   - linux
   - web
+  - windows
 localizations:
   ar: "من الجميل رؤيتك مرة أخرى"
   cs: "Rád vás opět vidím"

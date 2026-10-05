@@ -2,6 +2,7 @@ description: "Description of the split-tunneling app list: the listed apps do no
 source: "Apps listed here bypass the VPN."
 platforms:
   - windows
+  - linux
 localizations:
   ar: "التطبيقات المدرجة هنا تتجاوز شبكة VPN."
   cs: "Aplikace uvedené zde obcházejí VPN."

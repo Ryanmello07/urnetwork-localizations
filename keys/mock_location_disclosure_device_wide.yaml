@@ -2,6 +2,7 @@ description: "Disclosure shown with the mock location toggle: the simulated loca
 source: "This changes the location reported to every app on your device, not just URnetwork."
 platforms:
   - android
+  - linux
 localizations:
   ar: "يؤدي هذا إلى تغيير الموقع الذي يظهر لجميع التطبيقات على جهازك، وليس URnetwork فقط."
   cs: "Tím se změní poloha hlášená všem aplikacím ve vašem zařízení, nejen aplikaci URnetwork."

@@ -3,6 +3,8 @@ source: "Balance code"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "رمز الرصيد"
   cs: "Kód zůstatku"

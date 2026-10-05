@@ -2,6 +2,8 @@ description: "device"
 source: "Edit device name"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "تعديل اسم الجهاز"
   cs: "Upravit název zařízení"

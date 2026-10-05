@@ -2,6 +2,7 @@ description: "Provide status showing how many clients the device is currently pr
 source: "Providing to %lld clients"
 platforms:
   - windows
+  - linux
 placeholders:
   - name: count
     type: int

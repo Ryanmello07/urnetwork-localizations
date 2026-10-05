@@ -3,6 +3,8 @@ source: "This code is not valid"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "هذا الرمز غير صالح"
   cs: "Tento kód není platný"

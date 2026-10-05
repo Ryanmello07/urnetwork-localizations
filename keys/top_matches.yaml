@@ -2,6 +2,8 @@ description: "Locations List"
 source: "Top Matches"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "أفضل التطابقات"
   cs: "Nejlepší shody"

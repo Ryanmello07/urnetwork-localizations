@@ -2,6 +2,7 @@ description: "Header of the free-text box on the feedback form."
 source: "Anything else?"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "أي شيء آخر؟"
   cs: "Něco dalšího?"

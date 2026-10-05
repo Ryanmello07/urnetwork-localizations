@@ -2,6 +2,7 @@ description: "Used in Authenticate/CreateNetwork/CreateNetworkView.swift."
 source: "I agree to URnetwork's [Terms and Services](https://ur.io/terms) and [Privacy Policy](https://ur.io/privacy)"
 platforms:
   - apple
+  - linux
 localizations:
   ar: "أوافق على [شروط خدمة] URnetwork (https://ur.io/terms) و [سياسة الخصوصية] (https://ur.io/privacy)"
   cs: "Souhlasím s [Podmínkami a službami](https://ur.io/terms) a [Zásadami ochrany osobních údajů](https://ur.io/privacy) společnosti URnetwork."

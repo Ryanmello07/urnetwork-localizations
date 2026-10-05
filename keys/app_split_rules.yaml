@@ -2,6 +2,8 @@ description: "transfer stats and split rules"
 source: "App split rules"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "قواعد تقسيم التطبيقات"
   cs: "Pravidla rozdělení aplikací"

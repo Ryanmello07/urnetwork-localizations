@@ -3,6 +3,8 @@ description_auto: true
 source: "Your email"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "بريدك الإلكتروني"
   cs: "Váš e-mail"

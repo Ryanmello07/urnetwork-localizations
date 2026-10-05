@@ -3,6 +3,8 @@ source: "Network"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "الشبكة"
   cs: "Síť"

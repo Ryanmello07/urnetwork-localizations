@@ -3,5 +3,6 @@ source: "Connect"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Connect"

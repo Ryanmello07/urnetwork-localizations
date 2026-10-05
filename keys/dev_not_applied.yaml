@@ -3,5 +3,6 @@ source: "Not applied: there is no reliability override in force to change."
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Not applied: there is no reliability override in force to change."

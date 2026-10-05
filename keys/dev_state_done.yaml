@@ -3,5 +3,6 @@ source: "done"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "done"

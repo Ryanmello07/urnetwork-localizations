@@ -3,5 +3,6 @@ source: "Tools for diagnosing connection freezes. These act on the live connecti
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Tools for diagnosing connection freezes. These act on the live connection."

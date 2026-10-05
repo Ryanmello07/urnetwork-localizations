@@ -3,6 +3,7 @@ source: "Copied"
 platforms:
   - site
   - linux
+  - windows
 localizations:
   ar: "تم النسخ"
   de: "Kopiert"

@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "يظهر نشاط التوجيه هنا أثناء الاتصال."
   cs: "Aktivita směrování se zde zobrazí po připojení."

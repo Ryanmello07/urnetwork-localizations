@@ -3,6 +3,7 @@ source: "Verdicts held"
 platforms:
   - android
   - apple
+  - windows
 localizations:
   ar: "الأحكام المعلّقة"
   de: "Zurückgehaltene Urteile"

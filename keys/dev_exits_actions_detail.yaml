@@ -3,5 +3,6 @@ source: "Drop, Stall and Shuffle degrade the live connection on purpose, immedia
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Drop, Stall and Shuffle degrade the live connection on purpose, immediately. Nothing here is queued or retried — an action that misses is reported, not replayed."

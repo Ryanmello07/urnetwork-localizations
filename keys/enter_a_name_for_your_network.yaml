@@ -2,6 +2,8 @@ description: "Used in Authenticate/CreateNetwork/CreateNetworkView.swift."
 source: "Enter a name for your network"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "أدخل اسمًا لشبكتك"
   cs: "Vložte jméno pro vaší sít"

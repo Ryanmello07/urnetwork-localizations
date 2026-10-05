@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "استخدام الإعدادات الافتراضية الأكثر أمانًا"
   cs: "Používáte nejbezpečnější výchozí nastavení"

@@ -3,5 +3,6 @@ source: "Total"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Total"

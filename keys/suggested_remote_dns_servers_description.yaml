@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "الاقتراحات الخاصة بالدولة المتصل بها مميّزة بلونها. تشغيل أحدها يضيفه إلى خوادم DNS البعيدة."
   cs: "Návrhy pro připojenou zemi jsou označeny její barvou. Zapnutím se server přidá mezi vzdálené servery DNS."

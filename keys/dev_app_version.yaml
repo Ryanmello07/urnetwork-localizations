@@ -3,5 +3,6 @@ source: "App version"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "App version"

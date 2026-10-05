@@ -4,6 +4,8 @@ source: "Network peers"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "أقران الشبكة"
   cs: "Síťové uzly"

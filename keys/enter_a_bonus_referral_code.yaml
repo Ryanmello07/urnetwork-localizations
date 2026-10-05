@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "أدخل رمز الإحالة المكافأة"
   cs: "Vložte bonusový referální kód"

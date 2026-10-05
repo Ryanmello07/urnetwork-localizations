@@ -3,5 +3,6 @@ source: "No change: the SDK declined that exit"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "No change: the SDK declined that exit"

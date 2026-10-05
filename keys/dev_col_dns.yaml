@@ -3,5 +3,6 @@ source: "DNS"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "DNS"

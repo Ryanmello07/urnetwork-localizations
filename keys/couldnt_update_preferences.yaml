@@ -2,6 +2,8 @@ description: "Snackbar shown when saving account preferences fails and the toggl
 source: "Couldn't update your preferences. Please try again."
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تعذّر تحديث تفضيلاتك. يرجى المحاولة مرة أخرى."
   cs: "Předvolby se nepodařilo aktualizovat. Zkuste to prosím znovu."

@@ -3,6 +3,7 @@ source: "Code"
 platforms:
   - apple
   - linux
+  - windows
 localizations:
   ar: "الرمز"
   cs: "Kód"

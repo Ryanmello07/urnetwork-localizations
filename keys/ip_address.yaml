@@ -3,6 +3,7 @@ source: "IP address"
 platforms:
   - android
   - linux
+  - windows
 localizations:
   ar: "عنوان IP"
   cs: "IP adresa"

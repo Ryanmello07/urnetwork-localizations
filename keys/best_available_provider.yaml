@@ -5,6 +5,7 @@ platforms:
   - apple
   - linux
   - web
+  - windows
 localizations:
   ar: "أفضل مزود متاح"
   cs: "Nejlepší dostupný poskytovatel"

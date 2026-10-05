@@ -3,5 +3,6 @@ source: "State"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "State"

@@ -3,6 +3,8 @@ source: "Cities"
 platforms:
   - android
   - web
+  - linux
+  - windows
 localizations:
   ar: "المدن"
   cs: "Města"

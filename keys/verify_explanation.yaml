@@ -4,6 +4,8 @@ platforms:
   - apple
   - web
   - site
+  - linux
+  - windows
 localizations:
   ar: "أخبرنا من أنت حقاً. أدخل الرمز الذي أرسلناه إليك للتحقق من هويتك."
   cs: "Řekněte nám, kdo skutečně jste. Zadejte kód, který jsme vám zaslali k ověření vaší totožnosti."

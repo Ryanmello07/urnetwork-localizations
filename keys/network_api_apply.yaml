@@ -3,6 +3,8 @@ source: "Apply Network API"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تطبيق API الشبكة"
   cs: "Použít síťové API"

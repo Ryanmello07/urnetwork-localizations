@@ -3,6 +3,8 @@ source: "Current API: {url}"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 placeholders:
   - name: url
     type: string

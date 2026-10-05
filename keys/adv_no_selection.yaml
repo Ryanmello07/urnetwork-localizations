@@ -2,6 +2,7 @@ description: "Connection inspector: shown when no connection is selected."
 source: "No connection selected"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لم يتم تحديد اتصال"
   cs: "Není vybráno žádné připojení"

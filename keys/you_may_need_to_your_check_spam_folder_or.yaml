@@ -2,6 +2,8 @@ description: "Used in Authenticate/ResetPassword/ResetPasswordView.swift."
 source: "You may need to your check spam folder or unblock no-reply@ur.io"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "قد تحتاج إلى التحقق من مجلد البريد المزعج أو إلغاء حظر no-reply@ur.io"
   cs: "Možná budete muset zkontrolovat složku spamu nebo odblokovat no-reply@ur.io."

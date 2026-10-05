@@ -3,5 +3,6 @@ source: "Stop"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Stop"

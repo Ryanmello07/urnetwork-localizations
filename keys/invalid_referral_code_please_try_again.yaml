@@ -2,6 +2,8 @@ description: "Used in Main/Account/Settings/UpdateReferralNetworkSheet/UpdateRef
 source: "Invalid referral code. Please try again."
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "رمز الإحالة غير صالح. يرجى المحاولة مرة أخرى."
   cs: "Neplatný referální kód. Prosím, zkuste to znovu."

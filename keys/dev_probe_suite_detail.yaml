@@ -3,5 +3,6 @@ source: "Dials real targets through the live connection and times each stage. Ru
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Dials real targets through the live connection and times each stage. Runs with the SDK's own default configuration."

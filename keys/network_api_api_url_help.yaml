@@ -3,6 +3,8 @@ source: "Leave blank to derive from the network domain."
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "اتركه فارغًا ليتم اشتقاقه من نطاق الشبكة."
   cs: "Ponechte prázdné pro odvození ze síťové domény."

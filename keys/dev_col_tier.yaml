@@ -3,5 +3,6 @@ source: "Tier"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Tier"

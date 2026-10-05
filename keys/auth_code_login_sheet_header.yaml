@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - site
+  - linux
+  - windows
 localizations:
   ar: "تسجيل الدخول برمز المصادقة"
   cs: "Přihlášení ověřovacím kódem"

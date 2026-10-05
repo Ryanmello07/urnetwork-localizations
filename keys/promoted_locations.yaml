@@ -4,6 +4,8 @@ source: "Promoted Locations"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "المواقع المميزة"
   cs: "Propagované lokace"

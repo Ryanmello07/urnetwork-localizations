@@ -2,6 +2,8 @@ description: "Connect drawer: throughput empty state"
 source: "No traffic yet"
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "لا توجد حركة مرور بعد"
   cs: "Zatím žádný provoz"

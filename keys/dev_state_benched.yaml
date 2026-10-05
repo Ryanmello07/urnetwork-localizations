@@ -3,5 +3,6 @@ source: "benched"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "benched"

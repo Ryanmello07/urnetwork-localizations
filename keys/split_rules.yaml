@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "قواعد التقسيم"
   cs: "Pravidla rozdělení"

@@ -3,6 +3,8 @@ source: "Multiplier"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "المضاعف"
   cs: "Násobitel"

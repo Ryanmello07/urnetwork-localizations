@@ -3,5 +3,6 @@ source: "Not issued: there is no live session to act on."
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Not issued: there is no live session to act on."

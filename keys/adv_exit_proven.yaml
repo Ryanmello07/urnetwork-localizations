@@ -2,6 +2,7 @@ description: "Connection inspector: exit state, proven."
 source: "Proven"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "مُثبت"
   cs: "Ověřený"

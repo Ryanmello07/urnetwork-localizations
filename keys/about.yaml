@@ -2,6 +2,7 @@ description: "Settings: heading of the about section."
 source: "About"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "حول"
   cs: "O aplikaci"

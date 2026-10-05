@@ -3,6 +3,8 @@ source: "Regions"
 platforms:
   - android
   - web
+  - linux
+  - windows
 localizations:
   ar: "المناطق"
   cs: "Regiony"

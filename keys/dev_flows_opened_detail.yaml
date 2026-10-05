@@ -3,6 +3,7 @@ source: "Total since reset, so runs of different lengths compare"
 platforms:
   - android
   - apple
+  - linux
 localizations:
   ar: "الإجمالي منذ إعادة التعيين، لتسهيل مقارنة التشغيلات مختلفة المدة"
   de: "Summe seit dem Zurücksetzen, damit Läufe unterschiedlicher Länge vergleichbar sind"

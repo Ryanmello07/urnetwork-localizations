@@ -3,5 +3,6 @@ source: "Failed dials"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Failed dials"

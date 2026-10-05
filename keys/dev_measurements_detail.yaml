@@ -3,6 +3,8 @@ source: "What a provider failure costs. Reset, run a test, read back."
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "ما يكلّفه عطل المزود. أعد التعيين، وشغّل اختبارًا، واقرأ النتيجة."
   de: "Was ein Anbieterausfall kostet. Zurücksetzen, Test ausführen, Ergebnis ablesen."

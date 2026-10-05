@@ -2,6 +2,7 @@ description: "Settings: explanation under the kill switch switch."
 source: "If the tunnel drops unexpectedly, block this device's traffic instead of letting it out unprotected."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "إذا انقطع النفق فجأة، فاحجب حركة هذا الجهاز بدلًا من تركها تخرج دون حماية."
   cs: "Pokud tunel nečekaně spadne, zablokovat provoz tohoto zařízení místo toho, aby odcházel nechráněný."

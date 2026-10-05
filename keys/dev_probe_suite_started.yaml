@@ -3,5 +3,6 @@ source: "Probe suite started"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Probe suite started"

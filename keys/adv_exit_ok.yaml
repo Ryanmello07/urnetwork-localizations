@@ -2,6 +2,7 @@ description: "Connection inspector: exit state, OK."
 source: "OK"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "حسنًا"
   cs: "OK"

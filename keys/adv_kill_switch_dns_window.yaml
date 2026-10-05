@@ -2,6 +2,7 @@ description: "Settings, kill switch: what may leave the device while the switch 
 source: "While it is on and nothing is connecting, nothing leaves this device - name lookups included. During a connection attempt, name lookups from any app on this device can leave in the clear so URnetwork can reach its servers; everything else stays blocked."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "عندما يكون مفعّلًا ولا يوجد اتصال جارٍ، لا يغادر أي شيء هذا الجهاز - بما في ذلك استعلامات الأسماء. أثناء محاولة الاتصال، يمكن لاستعلامات الأسماء من أي تطبيق على هذا الجهاز الخروج دون تشفير ليتمكن URnetwork من الوصول إلى خوادمه؛ ويبقى كل شيء آخر محجوبًا."
   cs: "Když je zapnutý a nic se nepřipojuje, ze zařízení neodejde nic - včetně překladu názvů. Během pokusu o připojení mohou dotazy na názvy z jakékoli aplikace na tomto zařízení odejít nešifrovaně, aby se URnetwork dostal ke svým serverům; vše ostatní zůstává blokované."

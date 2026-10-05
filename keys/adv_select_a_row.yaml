@@ -2,6 +2,7 @@ description: "Connection inspector: hint to select a row in the Activity list."
 source: "Select a row in Activity to inspect it"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "حدد صفًا في النشاط لفحصه"
   cs: "Vyberte řádek v Aktivitě, který chcete prozkoumat"

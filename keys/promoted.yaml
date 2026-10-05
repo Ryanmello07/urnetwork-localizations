@@ -2,6 +2,8 @@ description: "VPN providers list option for promoted providers"
 source: "Promoted"
 platforms:
   - web
+  - linux
+  - windows
 localizations:
   ar: "مُروَّج"
   cs: "Propagováno"

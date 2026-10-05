@@ -2,6 +2,8 @@ description: "Used in Main/MainView.swift."
 source: "If the problem persists, contact us at [support@ur.io](mailto:support@ur.io) or [join our Discord](https://discord.com/invite/RUNZXMwPRK) for direct support."
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "إذا استمرت المشكلة، تواصل معنا عبر [support@ur.io](mailto:support@ur.io) أو [انضم إلى Discord الخاص بنا](https://discord.com/invite/RUNZXMwPRK) للحصول على دعم مباشر."
   cs: "Pokud problém přetrvává, kontaktujte nás na [support@ur.io](mailto:support@ur.io) nebo [přidejte se na náš Discord](https://discord.com/invite/RUNZXMwPRK) pro přímou podporu."

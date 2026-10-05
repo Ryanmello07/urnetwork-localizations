@@ -2,6 +2,7 @@ description: "transfer stats and split rules"
 source: "Apps"
 platforms:
   - android
+  - windows
 localizations:
   ar: "التطبيقات"
   cs: "Aplikace"

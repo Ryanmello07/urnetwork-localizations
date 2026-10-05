@@ -2,6 +2,7 @@ description: "Fallback name for the connect location when the selected location 
 source: "Selected location"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الموقع المحدد"
   cs: "Vybrané umístění"

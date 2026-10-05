@@ -3,6 +3,8 @@ source: "or"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "أو"
   cs: "nebo"

@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "انقر على حركة المرور أدناه لتوجيهها محليًا وتجاوز النفق."
   cs: "Klepnutím na provoz níže jej nasměrujete lokálně, mimo tunel."

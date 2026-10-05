@@ -3,6 +3,8 @@ description_auto: true
 source: "Connecting to wallet..."
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "جارٍ الاتصال بالمحفظة..."
   cs: "Připojování k peněžence..."

@@ -3,6 +3,8 @@ source: "When you refer a friend:"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "عندما تقوم بإحالة صديق:"
   cs: "Když doporučíte přítele:"

@@ -3,6 +3,8 @@ source: "No exits. Connect first."
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "لا توجد مخارج. اتصل أولًا."
   de: "Keine Exits. Verbinde dich zuerst."

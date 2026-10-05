@@ -2,6 +2,8 @@ description: "Used in Shared/Views/PurchaseSuccessView.swift."
 source: "Thanks for building the new internet with us"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "شكراً لمساعدتك في بناء الإنترنت الجديد معنا"
   cs: "Děkujeme, že s námi budujete nový internet"

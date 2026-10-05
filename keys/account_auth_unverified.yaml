@@ -2,6 +2,7 @@ description: "The account's email or phone, marked as not yet verified. The argu
 source: "%@ (unverified)"
 platforms:
   - windows
+  - linux
 placeholders:
   - name: auth
     type: string

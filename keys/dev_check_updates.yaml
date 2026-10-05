@@ -3,5 +3,6 @@ source: "Check for updates"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Check for updates"

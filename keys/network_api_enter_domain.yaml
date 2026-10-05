@@ -3,6 +3,8 @@ source: "Enter a network domain"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "أدخل نطاق شبكة"
   cs: "Zadejte síťovou doménu"

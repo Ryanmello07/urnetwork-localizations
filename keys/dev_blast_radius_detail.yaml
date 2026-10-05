@@ -3,6 +3,7 @@ source: "Connections lost per provider failure. Lower is better"
 platforms:
   - android
   - apple
+  - linux
 localizations:
   ar: "الاتصالات المفقودة لكل عطل في المزود. الأقل أفضل"
   de: "Verlorene Verbindungen pro Anbieterausfall. Niedriger ist besser"

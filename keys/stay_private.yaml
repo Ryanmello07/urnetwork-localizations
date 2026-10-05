@@ -2,6 +2,8 @@ description: "Onboarding Carousel"
 source: "Stay\ncompletely\nprivate and\nanonymous"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "ابق\nخاصًا\nومجهول الهو\nتمامًا"
   cs: "Zůstaňte\nkompletně\nprivátní a\nanonymní"

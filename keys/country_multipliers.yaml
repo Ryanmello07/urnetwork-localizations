@@ -3,6 +3,8 @@ source: "Country multipliers"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "مضاعفات الدول"
   cs: "Násobitele podle zemí"

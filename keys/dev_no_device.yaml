@@ -3,5 +3,6 @@ source: "No session. Sign in and connect to use these tools."
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "No session. Sign in and connect to use these tools."

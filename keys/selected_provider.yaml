@@ -2,6 +2,7 @@ description: "Label above the provider the connection will use."
 source: "Selected provider"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "المزود المحدد"
   cs: "Vybraný poskytovatel"

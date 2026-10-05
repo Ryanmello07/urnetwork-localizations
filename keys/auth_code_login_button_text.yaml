@@ -3,6 +3,8 @@ source: "Log in with Auth Code"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تسجيل الدخول برمز المصادقة"
   cs: "Přihlásit se ověřovacím kódem"

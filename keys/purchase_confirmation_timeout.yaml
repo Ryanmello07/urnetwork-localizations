@@ -3,6 +3,7 @@ source: "We couldn't confirm your purchase yet. If you completed checkout, your 
 platforms:
   - windows
   - apple
+  - linux
 localizations:
   ar: "لم نتمكن من تأكيد عملية الشراء بعد. إذا أكملت الدفع، فسيتم تحديث خطتك تلقائيًا خلال دقائق قليلة — لا حاجة للشراء مرة أخرى."
   cs: "Zatím se nám nepodařilo potvrdit váš nákup. Pokud jste platbu dokončili, váš tarif se během několika minut aktualizuje automaticky — není třeba nakupovat znovu."

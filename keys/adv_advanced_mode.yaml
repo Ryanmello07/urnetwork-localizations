@@ -2,6 +2,7 @@ description: "Settings: switch that turns advanced mode on."
 source: "Advanced mode"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الوضع المتقدم"
   cs: "Pokročilý režim"

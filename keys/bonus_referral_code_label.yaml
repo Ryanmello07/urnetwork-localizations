@@ -5,6 +5,7 @@ deprecated:
 platforms:
   - android
   - apple
+  - windows
 localizations:
   ar: "رمز إحالة إضافي"
   cs: "Bonusový doporučovací kód"

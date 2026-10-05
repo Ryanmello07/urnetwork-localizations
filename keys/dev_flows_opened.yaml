@@ -3,6 +3,8 @@ source: "Flows opened"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "التدفقات المفتوحة"
   de: "Geöffnete Flows"

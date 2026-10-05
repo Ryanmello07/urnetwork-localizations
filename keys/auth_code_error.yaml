@@ -2,6 +2,8 @@ description: "Guidance for someone who has no code yet. Deliberately PLAIN TEXT 
 source: "Error authenticating code. Please try again or generate a new code."
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "حدث خطأ أثناء التحقق من الرمز. يرجى المحاولة مرة أخرى أو إنشاء رمز جديد."
   cs: "Chyba při ověřování kódu. Zkuste to prosím znovu nebo vygenerujte nový kód."

@@ -2,6 +2,8 @@ description: "Used in Main/Account/AccountRootView.swift."
 source: "You're premium."
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "أنت مشترك مميز."
   cs: "Jste prémium."

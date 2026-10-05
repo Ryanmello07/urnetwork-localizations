@@ -4,6 +4,8 @@ source: "Remove"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "أزل"
   cs: "Odstranit"

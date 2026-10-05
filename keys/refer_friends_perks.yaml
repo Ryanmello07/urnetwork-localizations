@@ -3,6 +3,8 @@ source: "You get +%lld GiB/day for life"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 placeholders:
   - name: amount
     type: string

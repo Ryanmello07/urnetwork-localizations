@@ -3,6 +3,8 @@ source: "Settings"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "الإعدادات"
   cs: "Nastavení"

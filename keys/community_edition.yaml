@@ -3,6 +3,8 @@ source: "Community Edition"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "إصدار المجتمع"
   cs: "Komunitní edice"

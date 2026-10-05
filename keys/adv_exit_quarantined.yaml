@@ -2,6 +2,7 @@ description: "Connection inspector: exit state, quarantined."
 source: "Quarantined"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "في الحجر"
   cs: "V karanténě"

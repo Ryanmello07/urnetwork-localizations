@@ -3,6 +3,8 @@ source: "Copy Auth Code"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "نسخ رمز المصادقة"
   cs: "Kopírovat ověřovací kód"

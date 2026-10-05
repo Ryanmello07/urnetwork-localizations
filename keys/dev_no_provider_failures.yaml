@@ -4,5 +4,6 @@ translatable: false
 platforms:
   - linux
   - apple
+  - windows
 localizations:
   en: "No provider failures yet."

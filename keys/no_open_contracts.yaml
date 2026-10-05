@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "لا توجد عقود مفتوحة"
   cs: "Žádné otevřené kontrakty"

@@ -2,6 +2,8 @@ description: "Used in Main/Account/Settings/SettingsForm-iOS.swift."
 source: "Join the community on [Discord](https://discord.com/invite/RUNZXMwPRK)"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "انضم إلى المجتمع على [Discord](https://discord.com/invite/RUNZXMwPRK)"
   cs: "Připojte se ke komunitě na [Discord](https://discord.com/invite/RUNZXMwPRK)"

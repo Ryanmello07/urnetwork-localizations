@@ -2,6 +2,8 @@ description: "Used in Shared/Views/UpgradeSubscriptionSheet.swift."
 source: "Waiting for approval"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "في انتظار الموافقة"
   cs: "Čeká se na schválení"

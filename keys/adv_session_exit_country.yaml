@@ -2,6 +2,7 @@ description: "Connection inspector: label of the session exit country row."
 source: "Session exit country"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "بلد مخرج الجلسة"
   cs: "Země výstupu relace"

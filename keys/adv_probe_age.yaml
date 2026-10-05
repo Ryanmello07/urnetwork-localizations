@@ -2,6 +2,7 @@ description: "Connection inspector: label of the probe age row."
 source: "Probe age"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "عمر الفحص"
   cs: "Stáří sondy"

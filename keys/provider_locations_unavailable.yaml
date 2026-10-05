@@ -4,6 +4,7 @@ platforms:
   - apple
   - windows
   - android
+  - linux
 localizations:
   ar: "تفاصيل المزود غير متاحة حتى الاتصال"
   cs: "Údaje o poskytovateli nejsou k dispozici, dokud se nepřipojíte"

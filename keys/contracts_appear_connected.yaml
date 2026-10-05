@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "تظهر العقود هنا أثناء الاتصال."
   cs: "Kontrakty se zde zobrazí po připojení."

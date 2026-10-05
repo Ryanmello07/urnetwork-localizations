@@ -2,6 +2,7 @@ description: "Connection inspector: button that clears the selected connection."
 source: "Clear selection"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "مسح التحديد"
   cs: "Zrušit výběr"

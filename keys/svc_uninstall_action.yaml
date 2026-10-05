@@ -2,6 +2,7 @@ description: "Settings: button that uninstalls the VPN service."
 source: "Uninstall"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "إلغاء التثبيت"
   cs: "Odinstalovat"

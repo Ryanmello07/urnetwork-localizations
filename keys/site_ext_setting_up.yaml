@@ -2,6 +2,7 @@ description: "Extension status: setup in flight"
 source: "Setting up…"
 platforms:
   - site
+  - windows
 localizations:
   ar: "جارٍ الإعداد…"
   de: "Wird eingerichtet…"

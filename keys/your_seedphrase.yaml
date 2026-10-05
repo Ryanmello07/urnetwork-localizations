@@ -4,6 +4,8 @@ source: "Your Seedphrase"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "عبارة الاسترداد الخاصة بك"
   cs: "Vaše seed fráze"

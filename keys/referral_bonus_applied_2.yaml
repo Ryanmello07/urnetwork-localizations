@@ -2,6 +2,8 @@ description: "Used in Authenticate/CreateNetwork/CreateNetworkView.swift."
 source: "Referral Bonus applied"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تم تطبيق مكافأة الإحالة"
   cs: "Uplatnění bonusu za doporučení"

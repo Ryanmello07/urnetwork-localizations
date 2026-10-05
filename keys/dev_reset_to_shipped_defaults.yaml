@@ -3,5 +3,6 @@ source: "Reset to shipped defaults"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Reset to shipped defaults"

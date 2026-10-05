@@ -2,6 +2,7 @@ description: "Notice shown after a sign-in attempt that needs a verification cod
 source: "Check your email/phone for a verification code."
 platforms:
   - windows
+  - linux
 localizations:
   ar: "تحقق من بريدك الإلكتروني أو هاتفك للحصول على رمز التحقق."
   cs: "Zkontrolujte e-mail nebo telefon a najděte ověřovací kód."

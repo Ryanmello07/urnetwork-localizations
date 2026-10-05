@@ -2,6 +2,8 @@ description: "Used in Main/Account/Settings/SettingsForm-iOS.swift."
 source: "Created auth codes expire after 5 minutes"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "تنتهي صلاحية رموز المصادقة التي تم إنشاؤها بعد 5 دقائق"
   cs: "Vytvořené autorizační kódy vyprší po 5 minutách"

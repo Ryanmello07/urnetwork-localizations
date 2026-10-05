@@ -2,6 +2,7 @@ description: "Connection inspector: decision reason, the default policy applied.
 source: "Default policy"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "السياسة الافتراضية"
   cs: "Výchozí zásada"

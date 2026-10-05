@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 placeholders:
   - name: count
     type: int

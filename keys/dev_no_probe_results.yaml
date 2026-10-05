@@ -3,5 +3,6 @@ source: "No probe results yet. Start the suite."
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "No probe results yet. Start the suite."

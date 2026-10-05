@@ -2,6 +2,8 @@ description: "App settings: delete warning"
 source: "This permanently deletes your network, its data, and its earnings. This cannot be undone."
 platforms:
   - site
+  - linux
+  - windows
 localizations:
   ar: "سيؤدي هذا إلى حذف شبكتك وبياناتها وأرباحها نهائياً. لا يمكن التراجع عن هذا الإجراء."
   de: "Dadurch werden dein Netzwerk, seine Daten und seine Einnahmen dauerhaft gelöscht. Dies kann nicht rückgängig gemacht werden."

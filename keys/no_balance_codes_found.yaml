@@ -3,6 +3,7 @@ source: "No balance codes found"
 platforms:
   - apple
   - linux
+  - windows
 localizations:
   ar: "لم يتم العثور على رموز رصيد"
   cs: "Nebyly nalezeny žádné kódy na zůstatek"

@@ -3,5 +3,6 @@ source: "warned"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "warned"

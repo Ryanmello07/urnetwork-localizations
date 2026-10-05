@@ -3,6 +3,8 @@ source: "Create account"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "إنشاء حساب"
   cs: "Vytvořit účet"

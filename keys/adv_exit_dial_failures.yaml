@@ -2,6 +2,7 @@ description: "Connection inspector: label of the exit dial failures row."
 source: "Dial failures"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "إخفاقات الاتصال"
   cs: "Neúspěšná vytáčení"

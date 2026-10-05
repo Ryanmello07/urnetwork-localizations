@@ -2,6 +2,8 @@ description: "Used in Main/Account/Settings/DePinHubSettingsLinkRow.swift."
 source: "Verified project on [DePIN Hub](https://depinhub.io/projects/urnetwork)"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "مشروع موثق على [DePIN Hub](https://depinhub.io/projects/urnetwork)"
   cs: "Ověřený projekt na [DePIN Hub](https://depinhub.io/projects/urnetwork)"

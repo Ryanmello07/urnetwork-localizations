@@ -2,6 +2,8 @@ description: "Used in Main/Account/Wallets/NetworkReliability/NetworkReliability
 source: "Average Reliability"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "متوسط الموثوقية"
   cs: "Průměrná spolehlivost"

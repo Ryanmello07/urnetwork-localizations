@@ -2,6 +2,7 @@ description: "Connection inspector: verdict, the connection went through the URn
 source: "Tunnelled through URnetwork"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "مُمرَّر عبر URnetwork"
   cs: "Tunelováno přes URnetwork"

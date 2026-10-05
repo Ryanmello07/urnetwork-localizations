@@ -3,5 +3,6 @@ source: "Kind"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Kind"

@@ -3,6 +3,8 @@ source: "%1$lld friends just joined URnetwork with your code. Each one earns you
 platforms:
   - android
   - apple
+  - linux
+  - windows
 placeholders:
   - name: count
     type: int

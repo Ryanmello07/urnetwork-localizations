@@ -3,5 +3,6 @@ source: "Not running."
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Not running."

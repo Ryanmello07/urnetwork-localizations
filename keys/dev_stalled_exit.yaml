@@ -3,5 +3,6 @@ source: "Stalled exit"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Stalled exit"

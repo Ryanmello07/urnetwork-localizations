@@ -3,6 +3,8 @@ source: "Get connected"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "اتصل الآن"
   cs: "Připojit se"

@@ -3,6 +3,8 @@ source: "Use default network"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "استخدام الشبكة الافتراضية"
   cs: "Použít výchozí síť"

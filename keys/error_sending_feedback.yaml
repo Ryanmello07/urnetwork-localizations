@@ -2,6 +2,8 @@ description: "Snackbar shown when sending feedback fails. Used in Main/Feedback/
 source: "There was an error sending your feedback. Please try again later."
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "حدث خطأ أثناء إرسال ملاحظاتك. يرجى المحاولة مرة أخرى لاحقًا."
   cs: "Při odesílání zpětné vazby došlo k chybě. Zkuste to prosím později."

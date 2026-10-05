@@ -6,6 +6,7 @@ platforms:
   - linux
   - web
   - email
+  - windows
 localizations:
   ar: "اربط"
   cs: "Připojit"

@@ -2,6 +2,7 @@ description: "Toast shown after the seedphrase is copied to the clipboard."
 source: "Seedphrase copied to clipboard"
 platforms:
   - android
+  - windows
 localizations:
   en: "Seedphrase copied to clipboard"
   ar: "تم نسخ عبارة الاسترداد إلى الحافظة"

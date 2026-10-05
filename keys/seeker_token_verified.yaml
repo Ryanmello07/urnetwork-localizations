@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - windows
+  - linux
 localizations:
   ar: "تم التحقق من رمز Seeker!"
   cs: "Token Seeker ověřen!"

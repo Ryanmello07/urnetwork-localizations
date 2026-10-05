@@ -3,5 +3,6 @@ source: "The update check failed — see the app log."
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "The update check failed — see the app log."

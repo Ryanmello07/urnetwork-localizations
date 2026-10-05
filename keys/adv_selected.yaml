@@ -2,6 +2,7 @@ description: "Connection inspector: suffix after the count of selected rows."
 source: "selected"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "محدد"
   cs: "vybráno"

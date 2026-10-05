@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - web
+  - linux
+  - windows
 aliases:
   - resend_code
 localizations:

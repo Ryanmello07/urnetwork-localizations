@@ -3,6 +3,8 @@ source: "Choose the network domain used by the app. Leave the API and connect UR
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "اختر نطاق الشبكة الذي يستخدمه التطبيق. اترك عنواني API و connect فارغين ليتم اشتقاقهما من النطاق."
   cs: "Zvolte síťovou doménu, kterou aplikace používá. Ponechte URL API a connect prázdné, aby se odvodily z domény."

@@ -2,6 +2,8 @@ description: "Used in Main/Account/BlockedLocations/BlockedLocationsView.swift."
 source: "Select country to block"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "حدد الدولة للحظر"
   cs: "Vyberte zemi k blokování"

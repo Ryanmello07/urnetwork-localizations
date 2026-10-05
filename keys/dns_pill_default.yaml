@@ -2,6 +2,7 @@ description: "dns settings"
 source: "The default safe settings are not applied"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "الإعدادات الآمنة الافتراضية غير مطبقة"
   cs: "Výchozí bezpečná nastavení nejsou použita"

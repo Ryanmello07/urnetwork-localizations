@@ -2,6 +2,7 @@ description: "Connection inspector: decision reason, a route override applied."
 source: "Route override"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تجاوز المسار"
   cs: "Přepsání trasy"

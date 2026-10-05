@@ -3,6 +3,8 @@ source: "Verification code"
 platforms:
   - web
   - site
+  - linux
+  - windows
 localizations:
   ar: "رمز التحقق"
   cs: "Ověřovací kód"

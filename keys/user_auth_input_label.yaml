@@ -3,6 +3,7 @@ source: "Email or phone number"
 platforms:
   - apple
   - web
+  - linux
 localizations:
   ar: "البريد الإلكتروني أو رقم الهاتف"
   cs: "Email nebo telefonní číslo"

@@ -2,6 +2,7 @@ description: "Reset link sent"
 source: "Reset link sent"
 platforms:
   - android
+  - linux
 localizations:
   ar: "تم إرسال رابط إعادة التعيين"
   cs: "Odkaz pro obnovení hesla odeslán"

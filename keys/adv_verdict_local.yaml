@@ -2,6 +2,7 @@ description: "Connection inspector: verdict, the connection bypassed the tunnel 
 source: "Bypassed the tunnel — not protected"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تجاوز النفق — غير محمي"
   cs: "Obešlo tunel — nechráněno"

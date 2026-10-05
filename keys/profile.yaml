@@ -3,6 +3,8 @@ source: "Profile"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "الملف الشخصي"
   cs: "Profil"

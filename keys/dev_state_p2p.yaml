@@ -3,5 +3,6 @@ source: "p2p"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "p2p"

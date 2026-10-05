@@ -2,6 +2,7 @@ description: "Connection inspector: verdict, the connection was blocked and no p
 source: "Blocked — no packets sent"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "محجوب — لم تُرسل أي حزم"
   cs: "Zablokováno — nebyly odeslány žádné pakety"

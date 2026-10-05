@@ -3,6 +3,8 @@ source: "Don't have a code? Data codes can be purchased at ur.io and emailed to 
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "ليس لديك رمز؟ يمكن شراء رموز البيانات من ur.io وإرسالها إلى بريدك الإلكتروني."
   cs: "Nemáte kód? Datové kódy si můžete koupit na ur.io a přijdou vám e-mailem."

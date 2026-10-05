@@ -2,6 +2,7 @@ description: "Connection inspector: label of the matched rule row."
 source: "Matched"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "مطابق"
   cs: "Shoda"

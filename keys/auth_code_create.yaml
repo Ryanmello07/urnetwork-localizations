@@ -2,6 +2,8 @@ description: "Used in Main/Account/Settings/AuthCodeCreate/AuthCodeCreate.swift.
 source: "Auth Code Create"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "إنشاء رمز المصادقة"
   cs: "Vytvořit autorizační kód"

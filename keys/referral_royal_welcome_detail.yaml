@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - site
+  - linux
+  - windows
 placeholders:
   - name: data
     type: int

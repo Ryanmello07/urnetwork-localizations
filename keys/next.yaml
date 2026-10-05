@@ -3,6 +3,8 @@ source: "Next"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "التالي"
   cs: "Další"

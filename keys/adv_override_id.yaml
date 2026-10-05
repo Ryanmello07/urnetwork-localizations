@@ -2,6 +2,7 @@ description: "Connection inspector: label of the override id row."
 source: "Override"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "التجاوز"
   cs: "Přepsání"

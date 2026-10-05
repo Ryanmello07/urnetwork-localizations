@@ -3,6 +3,8 @@ source: "The leaderboard is the sum of the last 4 payments. It is updated each p
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "لوحة الصدارة هي مجموع آخر 4 دفعات. يتم تحديثها كل دورة دفع."
   cs: "Žebříček je součtem posledních 4 plateb. Je aktualizován každý platební cyklus."

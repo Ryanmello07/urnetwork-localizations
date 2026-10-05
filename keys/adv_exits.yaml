@@ -3,6 +3,7 @@ source: "Exits"
 platforms:
   - linux
   - apple
+  - windows
 localizations:
   ar: "المخارج"
   cs: "Výstupy"

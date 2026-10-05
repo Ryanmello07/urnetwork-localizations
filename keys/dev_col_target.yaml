@@ -3,5 +3,6 @@ source: "Target"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Target"

@@ -3,5 +3,6 @@ source: "No destinations yet."
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "No destinations yet."

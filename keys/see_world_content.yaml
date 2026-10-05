@@ -2,6 +2,8 @@ description: "Onboarding Carousel"
 source: "See all the\nworld's content"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "شاهد كل\nمحتوى\nالعالم"
   cs: "Zobrazit veškerý\nkontent světa"

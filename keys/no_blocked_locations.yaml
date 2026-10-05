@@ -3,6 +3,8 @@ source: "No blocked locations"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "لا توجد مواقع محجوبة"
   cs: "Žádné blokované lokality"

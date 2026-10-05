@@ -3,5 +3,6 @@ source: "Cleared stall on exit"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Cleared stall on exit"

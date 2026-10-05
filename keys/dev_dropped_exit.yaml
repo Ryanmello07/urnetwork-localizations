@@ -3,5 +3,6 @@ source: "Dropped exit"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Dropped exit"

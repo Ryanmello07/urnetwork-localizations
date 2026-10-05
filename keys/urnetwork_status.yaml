@@ -2,6 +2,7 @@ description: "Used in NetworkApp.swift."
 source: "URnetwork Status"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "حالة URnetwork"
   cs: "Status URnetwork"

@@ -2,6 +2,8 @@ description: "Placeholder text for the user authentication input field."
 source: "Enter your email or phone number"
 platforms:
   - web
+  - linux
+  - windows
 localizations:
   ar: "أدخل بريدك الإلكتروني أو رقم هاتفك"
   cs: "Zadejte svůj e-mail nebo telefonní číslo"

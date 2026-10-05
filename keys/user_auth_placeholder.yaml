@@ -3,6 +3,7 @@ source: "Enter your phone number or email"
 platforms:
   - android
   - apple
+  - linux
 localizations:
   ar: "أدخل رقم هاتفك أو بريدك الإلكتروني"
   cs: "Zadejte své telefonní číslo nebo e-mail"

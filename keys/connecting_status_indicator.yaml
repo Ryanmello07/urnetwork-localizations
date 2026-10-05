@@ -3,6 +3,8 @@ source: "Connecting to providers"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "جاري الاتصال بمزودي الخدمة"
   cs: "Připojení k poskytovatelům"

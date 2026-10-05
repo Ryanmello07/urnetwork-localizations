@@ -3,6 +3,8 @@ source: "Blast radius"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "نطاق الضرر"
   de: "Schadensradius"

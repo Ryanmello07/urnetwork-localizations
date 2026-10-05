@@ -2,6 +2,8 @@ description: "Used in Shared/Views/UpgradeSubscriptionSheet.swift."
 source: "By subscribing, you agree to URnetwork's [Terms and Services](https://ur.io/terms) and [Privacy Policy](https://ur.io/privacy)"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "بالاشتراك ، أنت توافق على [شروط خدمة] URnetwork (https://ur.io/terms) و [سياسة الخصوصية] (https://ur.io/privacy)"
   cs: "Přihlášením k odběru souhlasíte s [Podmínkami a službami](https://ur.io/terms) a [Zásadami ochrany osobních údajů](https://ur.io/privacy) společnosti URnetwork."

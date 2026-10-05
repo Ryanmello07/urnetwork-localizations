@@ -2,6 +2,7 @@ description: "Used in NetworkApp.swift."
 source: "Quit URnetwork"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "إغلاق URnetwork"
   cs: "Opustit URnetwork"

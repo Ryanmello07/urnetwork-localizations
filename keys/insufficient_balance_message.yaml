@@ -2,6 +2,7 @@ description: "Body of the warning shown when the balance runs out and no session
 source: "Add balance or a plan to keep connecting."
 platforms:
   - windows
+  - linux
 localizations:
   ar: "أضف رصيدًا أو اشترك في خطة لمواصلة الاتصال."
   cs: "Přidejte zůstatek nebo tarif, abyste se mohli dále připojovat."

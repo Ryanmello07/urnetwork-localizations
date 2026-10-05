@@ -2,6 +2,8 @@ description: "Call to action"
 source: "Learn more at the protocol page"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "معرفة المزيد في صفحة البروتوكول"
   cs: "Další informace najdete na stránce protokolu"

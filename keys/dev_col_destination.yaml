@@ -3,5 +3,6 @@ source: "Destination"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Destination"

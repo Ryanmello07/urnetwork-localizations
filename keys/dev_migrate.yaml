@@ -3,5 +3,6 @@ source: "Migrate"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "Migrate"
