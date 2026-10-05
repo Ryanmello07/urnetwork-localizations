@@ -1,5 +1,7 @@
 description: "Used in Authenticate/CreateNetwork/CreateNetworkViewModel.swift."
 source: "There was an error checking the network name"
+deprecated:
+  - apple
 platforms:
   - apple
   - windows
