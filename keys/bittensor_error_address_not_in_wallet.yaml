@@ -1,0 +1,36 @@
+description: "ur.io Bittensor wallet card and sign-in: the chosen wallet does not offer the account of the address the user typed (Talisman does not hold it or has not connected it to the site; a WalletConnect wallet connected another account), so nothing was signed. The argument is the wallet product name (Talisman or WalletConnect)."
+source: "Your {wallet} wallet doesn't have the address you entered. Add or connect that account in the wallet, or enter an address it has."
+platforms:
+  - site
+placeholders:
+  - name: wallet
+    type: string
+localizations:
+  ar: "محفظة {wallet} لديك لا تحتوي على العنوان الذي أدخلته. أضف هذا الحساب أو اربطه في المحفظة، أو أدخل عنوانًا موجودًا فيها."
+  cs: "Vaše peněženka {wallet} neobsahuje adresu, kterou jste zadali. Přidejte nebo připojte tento účet v peněžence, nebo zadejte adresu, kterou obsahuje."
+  de: "Deine {wallet}-Wallet enthält die eingegebene Adresse nicht. Füge das Konto in der Wallet hinzu oder verbinde es dort. Oder gib eine Adresse ein, die sie enthält."
+  el: "Το πορτοφόλι {wallet} σας δεν περιέχει τη διεύθυνση που εισαγάγατε. Προσθέστε ή συνδέστε αυτόν τον λογαριασμό στο πορτοφόλι ή εισαγάγετε μια διεύθυνση που περιέχει."
+  en: "Your {wallet} wallet doesn't have the address you entered. Add or connect that account in the wallet, or enter an address it has."
+  es: "Tu billetera {wallet} no tiene la dirección que introdujiste. Añade o conecta esa cuenta en la billetera, o introduce una dirección que tenga."
+  es-419: "Tu billetera {wallet} no tiene la dirección que ingresaste. Agrega o conecta esa cuenta en la billetera, o ingresa una dirección que tenga."
+  es-MX: "Tu cartera {wallet} no tiene la dirección que ingresaste. Agrega o conecta esa cuenta en la cartera, o ingresa una dirección que tenga."
+  fr: "Votre portefeuille {wallet} ne contient pas l'adresse que vous avez saisie. Ajoutez ou connectez ce compte dans le portefeuille, ou saisissez une adresse qu'il contient."
+  he: "בארנק {wallet} שלכם אין את הכתובת שהזנתם. הוסיפו או חברו את החשבון הזה בארנק, או הזינו כתובת שקיימת בו."
+  hi: "आपके {wallet} वॉलेट में वह पता नहीं है जो आपने दर्ज किया है। उस खाते को वॉलेट में जोड़ें या कनेक्ट करें, या ऐसा पता दर्ज करें जो वॉलेट में हो।"
+  id: "Dompet {wallet} Anda tidak memiliki alamat yang Anda masukkan. Tambahkan atau hubungkan akun tersebut di dompet, atau masukkan alamat yang ada di dompet itu."
+  it: "Il tuo portafoglio {wallet} non contiene l'indirizzo che hai inserito. Aggiungi o collega quell'account nel portafoglio, oppure inserisci un indirizzo che contiene."
+  ja: "お使いの{wallet}ウォレットに、入力したアドレスがありません。ウォレットでそのアカウントを追加または接続するか、ウォレットにあるアドレスを入力してください。"
+  ko: "{wallet} 지갑에 입력한 주소가 없습니다. 지갑에서 해당 계정을 추가 또는 연결하거나, 지갑에 있는 주소를 입력하세요."
+  nl: "Je {wallet}-wallet bevat het ingevoerde adres niet. Voeg dat account in de wallet toe of koppel het, of voer een adres in dat de wallet wel bevat."
+  pl: "Twój portfel {wallet} nie zawiera wprowadzonego adresu. Dodaj lub połącz to konto w portfelu albo wprowadź adres, który się w nim znajduje."
+  pt: "A sua carteira {wallet} não tem o endereço que introduziu. Adicione ou ligue essa conta na carteira, ou introduza um endereço que ela tenha."
+  pt-BR: "Sua carteira {wallet} não tem o endereço que você digitou. Adicione ou conecte essa conta na carteira, ou digite um endereço que ela tenha."
+  pt-PT: "A sua carteira {wallet} não tem o endereço que introduziu. Adicione ou ligue essa conta na carteira, ou introduza um endereço que ela tenha."
+  ru: "В вашем кошельке {wallet} нет адреса, который вы ввели. Добавьте или подключите этот аккаунт в кошельке либо введите адрес, который в нём есть."
+  sv: "Din {wallet}-plånbok har inte adressen du angav. Lägg till eller anslut det kontot i plånboken, eller ange en adress som finns i den."
+  sw: "Pochi yako ya {wallet} haina anwani uliyoweka. Ongeza au unganisha akaunti hiyo kwenye pochi, au weka anwani iliyomo kwenye pochi hiyo."
+  th: "กระเป๋าเงิน {wallet} ของคุณไม่มีที่อยู่ที่คุณป้อน เพิ่มหรือเชื่อมต่อบัญชีนั้นในกระเป๋าเงิน หรือป้อนที่อยู่ที่มีอยู่ในกระเป๋าเงิน"
+  uk: "У вашому гаманці {wallet} немає адреси, яку ви ввели. Додайте або підключіть цей обліковий запис у гаманці чи введіть адресу, яка в ньому є."
+  vi: "Ví {wallet} của bạn không có địa chỉ bạn đã nhập. Hãy thêm hoặc kết nối tài khoản đó trong ví, hoặc nhập một địa chỉ có trong ví."
+  zh: "您的 {wallet} 钱包中没有您输入的地址。请在钱包中添加或连接该账户，或输入钱包中已有的地址。"
+  zh-HK: "你的 {wallet} 錢包中沒有你輸入的地址。請在錢包中新增或連接該帳戶，或輸入錢包中已有的地址。"
