@@ -213,6 +213,10 @@ export const CATALOG_FREE_PLATFORMS = ["email"];
 export const isCatalogFreeOnly = (k) =>
 	k.platforms.length > 0 && k.platforms.every((p) => CATALOG_FREE_PLATFORMS.includes(p));
 
+// A key the platform references today: tagged for it and not deprecated by it.
+export const isTaggedFor = (k, platform) =>
+	k.platforms.includes(platform) && !k.deprecated.includes(platform);
+
 // -------------------------------------------------------------- ICU lowering
 // The canonical text carries named ICU placeholders: "{count} hosts".
 // Each platform gets its own specifier dialect.
