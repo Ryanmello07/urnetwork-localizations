@@ -10,6 +10,7 @@ localizations:
   el: "Η σύνδεση με φράση ανάκτησης απέτυχε"
   en: "Seedphrase sign-in failed"
   es: "Error al iniciar sesión con la frase semilla"
+  es-419: "Error al iniciar sesión con la frase semilla"
   es-MX: "Error al iniciar sesión con la frase semilla"
   fr: "Échec de la connexion par phrase de récupération"
   he: "הכניסה עם ביטוי סיד נכשלה"

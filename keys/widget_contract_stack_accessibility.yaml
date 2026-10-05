@@ -18,13 +18,64 @@ localizations:
     few: "{count} عقود، {bytes}"
     many: "{count} عقدًا، {bytes}"
     other: "{count} عقد، {bytes}"
+  cs:
+    one: "{count} kontrakt, {bytes}"
+    few: "{count} kontrakty, {bytes}"
+    many: "{count} kontraktu, {bytes}"
+    other: "{count} kontraktů, {bytes}"
   de:
     one: "{count} Vertrag, {bytes}"
     other: "{count} Verträge, {bytes}"
+  el:
+    one: "{count} συμβόλαιο, {bytes}"
+    other: "{count} συμβόλαια, {bytes}"
   en:
     one: "{count} contract, {bytes}"
     other: "{count} contracts, {bytes}"
   es:
+    one: "{count} contrato, {bytes}"
+    other: "{count} contratos, {bytes}"
+  es-419:
+    one: "{count} contrato, {bytes}"
+    other: "{count} contratos, {bytes}"
+  es-MX:
+    one: "{count} contrato, {bytes}"
+    other: "{count} contratos, {bytes}"
+  fr:
+    one: "{count} contrat, {bytes}"
+    other: "{count} contrats, {bytes}"
+  he:
+    one: "חוזה אחד, {bytes}"
+    two: "{count} חוזים, {bytes}"
+    many: "{count} חוזים, {bytes}"
+    other: "{count} חוזים, {bytes}"
+  hi:
+    one: "{count} कॉन्ट्रैक्ट, {bytes}"
+    other: "{count} कॉन्ट्रैक्ट, {bytes}"
+  id:
+    other: "{count} kontrak, {bytes}"
+  it:
+    one: "{count} contratto, {bytes}"
+    other: "{count} contratti, {bytes}"
+  ja:
+    other: "{count} 件の契約、{bytes}"
+  ko:
+    other: "계약 {count}개, {bytes}"
+  nl:
+    one: "{count} contract, {bytes}"
+    other: "{count} contracten, {bytes}"
+  pl:
+    one: "{count} kontrakt, {bytes}"
+    few: "{count} kontrakty, {bytes}"
+    many: "{count} kontraktów, {bytes}"
+    other: "{count} kontraktu, {bytes}"
+  pt:
+    one: "{count} contrato, {bytes}"
+    other: "{count} contratos, {bytes}"
+  pt-BR:
+    one: "{count} contrato, {bytes}"
+    other: "{count} contratos, {bytes}"
+  pt-PT:
     one: "{count} contrato, {bytes}"
     other: "{count} contratos, {bytes}"
   ru:
@@ -32,5 +83,22 @@ localizations:
     few: "{count} контракта, {bytes}"
     many: "{count} контрактов, {bytes}"
     other: "{count} контракта, {bytes}"
+  sv:
+    one: "{count} kontrakt, {bytes}"
+    other: "{count} kontrakt, {bytes}"
+  sw:
+    one: "Mkataba {count}, {bytes}"
+    other: "Mikataba {count}, {bytes}"
+  th:
+    other: "สัญญา {count} รายการ, {bytes}"
+  uk:
+    one: "{count} контракт, {bytes}"
+    few: "{count} контракти, {bytes}"
+    many: "{count} контрактів, {bytes}"
+    other: "{count} контракту, {bytes}"
+  vi:
+    other: "{count} hợp đồng, {bytes}"
   zh:
     other: "{count} 个合约，{bytes}"
+  zh-HK:
+    other: "{count} 個合約，{bytes}"

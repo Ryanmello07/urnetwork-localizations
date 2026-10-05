@@ -213,6 +213,24 @@ export const CATALOG_FREE_PLATFORMS = ["email"];
 export const isCatalogFreeOnly = (k) =>
 	k.platforms.length > 0 && k.platforms.every((p) => CATALOG_FREE_PLATFORMS.includes(p));
 
+// The locales the ur.io account panel ships (SITE_LOCALES in
+// mmm/ur.io/react/scripts/build-locales.mjs).
+export const SITE_LOCALES = ["en", "de", "es", "ru", "zh", "ar"];
+
+// The locales a key must carry. A missing one fails no build: every platform
+// shows the English text for that string instead, in an otherwise translated
+// screen. So a live key needs all of LOCALES, even on android and apple, which
+// emit fewer today: windows and linux carry every live key, keys move between
+// platforms, and adding a locale to a platform should need only its map above.
+// A key that only the ur.io site uses needs the site's six. A dead key needs
+// nothing, and an untranslatable one only English.
+export const requiredLocales = (k) => {
+	if (isDead(k)) return [];
+	if (!k.translatable) return ["en"];
+	const live = k.platforms.filter((p) => !k.deprecated.includes(p));
+	return live.length > 0 && live.every((p) => p === "site") ? SITE_LOCALES : LOCALES;
+};
+
 // -------------------------------------------------------------- ICU lowering
 // The canonical text carries named ICU placeholders: "{count} hosts".
 // Each platform gets its own specifier dialect.

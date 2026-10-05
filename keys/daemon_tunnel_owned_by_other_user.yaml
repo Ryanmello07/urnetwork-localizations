@@ -9,6 +9,7 @@ localizations:
   el: "Ένας άλλος χρήστης σε αυτήν τη συσκευή είναι συνδεδεμένος μέσω URnetwork. Αποσυνδέστε το από τη συνεδρία του, ή αναλάβετέ το με άδεια διαχειριστή."
   en: "Another user on this device is connected through URnetwork. Disconnect it from their session, or take it over with administrator permission."
   es: "Otro usuario de este dispositivo está conectado a través de URnetwork. Desconéctalo desde su sesión, o tómalo con permiso de administrador."
+  es-419: "Otro usuario de este dispositivo está conectado a través de URnetwork. Desconéctalo desde su sesión, o toma el control con permiso de administrador."
   es-MX: "Otro usuario de este dispositivo está conectado a través de URnetwork. Desconéctalo desde su sesión, o tómalo con permiso de administrador."
   fr: "Un autre utilisateur de cet appareil est connecté via URnetwork. Déconnectez-le depuis sa session, ou reprenez la connexion avec une autorisation d’administrateur."
   he: "משתמש אחר במכשיר הזה מחובר דרך URnetwork. נתקו אותו מההפעלה שלו, או השתלטו עליו בהרשאת מנהל."

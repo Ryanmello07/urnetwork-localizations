@@ -9,6 +9,7 @@ localizations:
   el: "Αφαίρεση της υπηρεσίας systemd που χρησιμοποιεί το URnetwork για τη μεταφορά κίνησης."
   en: "Remove the systemd service URnetwork uses to carry traffic."
   es: "Eliminar el servicio de systemd que URnetwork usa para transportar el tráfico."
+  es-419: "Eliminar el servicio de systemd que URnetwork usa para transportar el tráfico."
   es-MX: "Eliminar el servicio de systemd que URnetwork usa para transportar el tráfico."
   fr: "Supprimer le service systemd qu’URnetwork utilise pour acheminer le trafic."
   he: "הסרת שירות ה-systemd שבו URnetwork משתמש להעברת תעבורה."

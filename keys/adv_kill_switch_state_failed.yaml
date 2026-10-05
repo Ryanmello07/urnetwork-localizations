@@ -9,6 +9,7 @@ localizations:
   el: "Η υπηρεσία συστήματος URnetwork δεν μπόρεσε να εγκαταστήσει το Kill switch, οπότε η κίνηση δεν αποκλείεται."
   en: "The URnetwork system service could not install the kill switch, so your traffic is NOT being blocked."
   es: "El servicio del sistema de URnetwork no pudo instalar el Kill switch, así que el tráfico no se bloquea."
+  es-419: "El servicio del sistema de URnetwork no pudo instalar el Kill switch, así que tu tráfico NO se está bloqueando."
   es-MX: "El servicio del sistema de URnetwork no pudo instalar el Kill switch, así que el tráfico no se bloquea."
   fr: "Le service système URnetwork n’a pas pu installer le Kill switch, le trafic n’est donc pas bloqué."
   he: "שירות המערכת של URnetwork לא הצליח להתקין את הקיל סוויץ', ולכן התעבורה לא נחסמת."

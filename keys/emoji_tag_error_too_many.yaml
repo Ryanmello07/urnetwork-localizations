@@ -16,6 +16,7 @@ localizations:
   el: "Χρησιμοποιήστε το πολύ {max} emoji."
   en: "Use at most {max} emoji."
   es: "Usa como máximo {max} emojis."
+  es-419: "Usa como máximo {max} emojis."
   es-MX: "Usa como máximo {max} emojis."
   fr: "Utilisez au plus {max} emojis."
   he: "השתמש לכל היותר ב-{max} אימוג'י."

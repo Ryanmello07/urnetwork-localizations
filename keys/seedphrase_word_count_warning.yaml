@@ -32,6 +32,9 @@ localizations:
   es:
     one: "Es {count} palabra — una frase semilla tiene 12 o 24 palabras"
     other: "Son {count} palabras — una frase semilla tiene 12 o 24 palabras"
+  es-419:
+    one: "Es {count} palabra — una frase semilla tiene 12 o 24 palabras"
+    other: "Son {count} palabras — una frase semilla tiene 12 o 24 palabras"
   es-MX:
     one: "Es {count} palabra — una frase semilla tiene 12 o 24 palabras"
     other: "Son {count} palabras — una frase semilla tiene 12 o 24 palabras"

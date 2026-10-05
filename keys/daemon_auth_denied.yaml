@@ -9,6 +9,7 @@ localizations:
   el: "Η πολιτική αυτής της συσκευής δεν επιτρέπει σε αυτόν τον λογαριασμό να συνδεθεί μέσω URnetwork. Ένας διαχειριστής μπορεί να το αλλάξει."
   en: "This device's policy does not allow this account to connect through URnetwork. An administrator can change that."
   es: "La política de este dispositivo no permite que esta cuenta se conecte a través de URnetwork. Un administrador puede cambiarlo."
+  es-419: "La política de este dispositivo no permite que esta cuenta se conecte a través de URnetwork. Un administrador puede cambiarlo."
   es-MX: "La política de este dispositivo no permite que esta cuenta se conecte a través de URnetwork. Un administrador puede cambiarlo."
   fr: "La politique de cet appareil n’autorise pas ce compte à se connecter via URnetwork. Un administrateur peut changer cela."
   he: "מדיניות המכשיר הזה לא מאפשרת לחשבון הזה להתחבר דרך URnetwork. מנהל מערכת יכול לשנות זאת."

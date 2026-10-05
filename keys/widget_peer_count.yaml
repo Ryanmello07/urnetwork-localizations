@@ -16,13 +16,64 @@ localizations:
     few: "{count} أقران"
     many: "{count} قرينًا"
     other: "{count} قرين"
+  cs:
+    one: "{count} peer"
+    few: "{count} peery"
+    many: "{count} peeru"
+    other: "{count} peerů"
   de:
     one: "{count} Peer"
     other: "{count} Peers"
+  el:
+    one: "{count} ομότιμος"
+    other: "{count} ομότιμοι"
   en:
     one: "{count} peer"
     other: "{count} peers"
   es:
+    one: "{count} par"
+    other: "{count} pares"
+  es-419:
+    one: "{count} par"
+    other: "{count} pares"
+  es-MX:
+    one: "{count} par"
+    other: "{count} pares"
+  fr:
+    one: "{count} pair"
+    other: "{count} pairs"
+  he:
+    one: "עמית אחד"
+    two: "{count} עמיתים"
+    many: "{count} עמיתים"
+    other: "{count} עמיתים"
+  hi:
+    one: "{count} पीयर"
+    other: "{count} पीयर"
+  id:
+    other: "{count} peer"
+  it:
+    one: "{count} peer"
+    other: "{count} peer"
+  ja:
+    other: "{count} ピア"
+  ko:
+    other: "피어 {count}개"
+  nl:
+    one: "{count} peer"
+    other: "{count} peers"
+  pl:
+    one: "{count} peer"
+    few: "{count} peery"
+    many: "{count} peerów"
+    other: "{count} peera"
+  pt:
+    one: "{count} par"
+    other: "{count} pares"
+  pt-BR:
+    one: "{count} par"
+    other: "{count} pares"
+  pt-PT:
     one: "{count} par"
     other: "{count} pares"
   ru:
@@ -30,5 +81,22 @@ localizations:
     few: "{count} узла"
     many: "{count} узлов"
     other: "{count} узла"
+  sv:
+    one: "{count} peer"
+    other: "{count} peers"
+  sw:
+    one: "Peer {count}"
+    other: "Peers {count}"
+  th:
+    other: "เพียร์ {count} ราย"
+  uk:
+    one: "{count} пір"
+    few: "{count} піри"
+    many: "{count} пірів"
+    other: "{count} піра"
+  vi:
+    other: "{count} peer"
   zh:
     other: "{count} 个对等节点"
+  zh-HK:
+    other: "{count} 個對等節點"

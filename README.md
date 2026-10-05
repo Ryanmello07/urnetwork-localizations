@@ -164,6 +164,12 @@ Each platform emits the locales it actually supports; the maps live in
 Adding a locale to a platform = adding it to that map. The translations are
 already in the store.
 
+That holds because every live key carries all 28, whatever its platforms emit
+today; a key that only the ur.io site uses carries the site's six (`en de es ru
+zh ar`). A missing locale fails no build, it just shows that one string in
+English, so `gen/locale-coverage.test.mjs` checks it (`requiredLocales` in
+`gen/store.mjs`). Translate a new key into every locale it needs.
+
 ## Web
 
 `index.js` reads `keys/` directly. `loadAllKeys()` returns the keys that opt into

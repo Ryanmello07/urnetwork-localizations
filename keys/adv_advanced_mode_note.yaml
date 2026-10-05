@@ -9,6 +9,7 @@ localizations:
   el: "Εμφανίζει ακατέργαστες τιμές, αναγνωριστικά, τον επιθεωρητή σύνδεσης και τις ρυθμίσεις αξιοπιστίας σε όλη την εφαρμογή."
   en: "Show raw values, identifiers, the connection inspector and the reliability tuning surface across the app."
   es: "Muestra valores sin procesar, identificadores, el inspector de conexión y los ajustes de fiabilidad en toda la app."
+  es-419: "Muestra valores sin procesar, identificadores, el inspector de conexión y los ajustes de confiabilidad en toda la app."
   es-MX: "Muestra valores sin procesar, identificadores, el inspector de conexión y los ajustes de confiabilidad en toda la app."
   fr: "Affiche les valeurs brutes, les identifiants, l’inspecteur de connexion et les réglages de fiabilité dans toute l’application."
   he: "מציג ערכים גולמיים, מזהים, את בודק החיבור ואת כוונון האמינות בכל האפליקציה."

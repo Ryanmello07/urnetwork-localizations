@@ -9,6 +9,7 @@ localizations:
   el: "Αποκλείστηκε — δεν στάλθηκαν πακέτα"
   en: "Blocked — no packets sent"
   es: "Bloqueada — no se enviaron paquetes"
+  es-419: "Bloqueada — no se enviaron paquetes"
   es-MX: "Bloqueada — no se enviaron paquetes"
   fr: "Bloquée — aucun paquet envoyé"
   he: "נחסם — לא נשלחו חבילות"

@@ -16,6 +16,7 @@ localizations:
   el: "Επιλέξτε 1 έως {max} emoji που θα εμφανίζονται δίπλα στο δίκτυό σας."
   en: "Pick 1 to {max} emoji to show next to your network."
   es: "Elige de 1 a {max} emojis para mostrar junto a tu red."
+  es-419: "Elige de 1 a {max} emojis para mostrar junto a tu red."
   es-MX: "Elige de 1 a {max} emojis para mostrar junto a tu red."
   fr: "Choisissez 1 à {max} emojis à afficher à côté de votre réseau."
   he: "בחר 1 עד {max} אימוג'י שיוצגו ליד הרשת שלך."

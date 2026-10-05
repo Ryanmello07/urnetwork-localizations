@@ -13,6 +13,7 @@ localizations:
   el: "Εμφάνιση του ονόματος του δικτύου μου"
   en: "Show my network name"
   es: "Mostrar el nombre de mi red"
+  es-419: "Mostrar el nombre de mi red"
   es-MX: "Mostrar el nombre de mi red"
   fr: "Afficher le nom de mon réseau"
   he: "הצג את שם הרשת שלי"

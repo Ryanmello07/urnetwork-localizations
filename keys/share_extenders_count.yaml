@@ -18,13 +18,64 @@ localizations:
     few: "{count} موسّعات"
     many: "{count} موسّعًا"
     other: "{count} موسّع"
+  cs:
+    one: "{count} extender"
+    few: "{count} extendery"
+    many: "{count} extenderu"
+    other: "{count} extenderů"
   de:
     one: "{count} Extender"
     other: "{count} Extender"
+  el:
+    one: "{count} επεκτατής"
+    other: "{count} επεκτατές"
   en:
     one: "{count} extender"
     other: "{count} extenders"
   es:
+    one: "{count} extensor"
+    other: "{count} extensores"
+  es-419:
+    one: "{count} extensor"
+    other: "{count} extensores"
+  es-MX:
+    one: "{count} extensor"
+    other: "{count} extensores"
+  fr:
+    one: "{count} extendeur"
+    other: "{count} extendeurs"
+  he:
+    one: "מרחיב אחד"
+    two: "{count} מרחיבים"
+    many: "{count} מרחיבים"
+    other: "{count} מרחיבים"
+  hi:
+    one: "{count} एक्सटेंडर"
+    other: "{count} एक्सटेंडर"
+  id:
+    other: "{count} extender"
+  it:
+    one: "{count} extender"
+    other: "{count} extender"
+  ja:
+    other: "{count} 件のエクステンダー"
+  ko:
+    other: "익스텐더 {count}개"
+  nl:
+    one: "{count} extender"
+    other: "{count} extenders"
+  pl:
+    one: "{count} extender"
+    few: "{count} extendery"
+    many: "{count} extenderów"
+    other: "{count} extendera"
+  pt:
+    one: "{count} extensor"
+    other: "{count} extensores"
+  pt-BR:
+    one: "{count} extensor"
+    other: "{count} extensores"
+  pt-PT:
     one: "{count} extensor"
     other: "{count} extensores"
   ru:
@@ -32,5 +83,22 @@ localizations:
     few: "{count} экстендера"
     many: "{count} экстендеров"
     other: "{count} экстендера"
+  sv:
+    one: "{count} extender"
+    other: "{count} extendrar"
+  sw:
+    one: "Kipanuzi {count}"
+    other: "Vipanuzi {count}"
+  th:
+    other: "ตัวขยาย {count} รายการ"
+  uk:
+    one: "{count} екстендер"
+    few: "{count} екстендери"
+    many: "{count} екстендерів"
+    other: "{count} екстендера"
+  vi:
+    other: "{count} bộ mở rộng"
   zh:
     other: "{count} 个扩展器"
+  zh-HK:
+    other: "{count} 個擴展器"

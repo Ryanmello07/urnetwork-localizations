@@ -13,6 +13,7 @@ localizations:
   el: "Πόντοι όλων των εποχών. Ένα μπλοκ είναι μία οριστικοποιημένη εποχή· το σερί μετρά διαδοχικά μπλοκ με πόντους έως το τελευταίο."
   en: "All-time points. A block is one finalized epoch; the streak counts consecutive blocks with points, ending at the latest one."
   es: "Puntos históricos. Un bloque es una época finalizada; la racha cuenta bloques consecutivos con puntos hasta el último."
+  es-419: "Puntos históricos. Un bloque es una época finalizada; la racha cuenta bloques consecutivos con puntos hasta el último."
   es-MX: "Puntos históricos. Un bloque es una época finalizada; la racha cuenta bloques consecutivos con puntos hasta el último."
   fr: "Points cumulés. Un bloc est une époque finalisée ; la série compte les blocs consécutifs avec des points jusqu'au dernier."
   he: "נקודות מאז ומעולם. בלוק הוא תקופה שהושלמה; הרצף סופר בלוקים רצופים עם נקודות עד האחרון."

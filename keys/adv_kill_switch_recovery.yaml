@@ -12,6 +12,7 @@ localizations:
   el: "Αν αυτή η συσκευή δεν μπορεί να συνδεθεί στο δίκτυο, ίσως ισχύει ακόμη ένας αποκλεισμός που εγκαταστάθηκε νωρίτερα· αφαιρέστε τον με: {command}"
   en: "If this device cannot reach the network, a block installed earlier may still be in place; remove it with: {command}"
   es: "Si este dispositivo no puede acceder a la red, puede que siga vigente un bloqueo instalado antes; elimínalo con: {command}"
+  es-419: "Si este dispositivo no puede acceder a la red, es posible que siga vigente un bloqueo instalado antes; elimínalo con: {command}"
   es-MX: "Si este dispositivo no puede acceder a la red, puede que siga vigente un bloqueo instalado antes; elimínalo con: {command}"
   fr: "Si cet appareil ne parvient pas à joindre le réseau, un blocage installé plus tôt est peut-être encore en place ; retirez-le avec : {command}"
   he: "אם המכשיר הזה לא מצליח להגיע לרשת, ייתכן שחסימה שהותקנה קודם עדיין בתוקף; הסירו אותה באמצעות: {command}"

@@ -9,6 +9,7 @@ localizations:
   el: "Αυτόματη σύνδεση κατά την εκκίνηση της εφαρμογής"
   en: "Connect automatically when the app starts"
   es: "Conectar automáticamente al iniciar la app"
+  es-419: "Conectar automáticamente al iniciar la app"
   es-MX: "Conectar automáticamente al iniciar la app"
   fr: "Se connecter automatiquement au lancement de l’application"
   he: "התחבר אוטומטית כשהאפליקציה נפתחת"

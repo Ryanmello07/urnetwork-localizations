@@ -9,6 +9,7 @@ localizations:
   el: "Το Kill switch ΔΕΝ είναι σε ισχύ: η κίνησή σας δεν αποκλείεται."
   en: "The kill switch is NOT in force: your traffic is not being blocked."
   es: "El Kill switch NO está en vigor: tu tráfico no se está bloqueando."
+  es-419: "El Kill switch NO está en vigor: tu tráfico no se está bloqueando."
   es-MX: "El Kill switch NO está en vigor: tu tráfico no se está bloqueando."
   fr: "Le Kill switch n’est PAS en vigueur : votre trafic n’est pas bloqué."
   he: "הקיל סוויץ' אינו בתוקף: התעבורה שלכם לא נחסמת."

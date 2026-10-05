@@ -9,6 +9,7 @@ localizations:
   el: "Απενεργοποιημένο από προεπιλογή. Όταν είναι ενεργό, το URnetwork συνδέεται στον επιλεγμένο πάροχο μόλις ανοίξετε την εφαρμογή. Αυτό αλλάζει την επόμενη εκκίνηση - δεν συνδέεται τώρα."
   en: "Off by default. When on, URnetwork connects to your selected provider as soon as you open the app. This changes the next launch - it does not connect now."
   es: "Desactivado por defecto. Cuando está activado, URnetwork se conecta a tu proveedor seleccionado en cuanto abres la app. Esto cambia el próximo inicio - no conecta ahora."
+  es-419: "Desactivado de forma predeterminada. Cuando está activado, URnetwork se conecta a tu proveedor seleccionado en cuanto abres la app. Esto cambia el próximo inicio - no conecta ahora."
   es-MX: "Desactivado por defecto. Cuando está activado, URnetwork se conecta a tu proveedor seleccionado en cuanto abres la app. Esto cambia el próximo inicio - no conecta ahora."
   fr: "Désactivé par défaut. Une fois activé, URnetwork se connecte à votre fournisseur sélectionné dès que vous ouvrez l’application. Cela s’applique au prochain lancement - rien ne se connecte maintenant."
   he: "כבוי כברירת מחדל. כשמופעל, URnetwork מתחבר לספק שבחרתם ברגע שתפתחו את האפליקציה. זה משנה את ההפעלה הבאה - לא מתחבר עכשיו."

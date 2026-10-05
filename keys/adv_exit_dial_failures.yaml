@@ -9,6 +9,7 @@ localizations:
   el: "Αποτυχίες κλήσης"
   en: "Dial failures"
   es: "Fallos de conexión"
+  es-419: "Fallas de conexión"
   es-MX: "Fallos de conexión"
   fr: "Échecs de connexion"
   he: "כשלי חיוג"
