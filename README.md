@@ -108,9 +108,12 @@ and is untranslatable in every other language. Use a plural key.
 ### `translatable: false`
 
 Product names and non-UI literals: **URnetwork, UR, Bittensor, Solana, USDC,
-TAO, Polygon, Stripe** and the like. They are emitted only into the base
-(English) file — android gets `translatable="false"`, apple gets
-`"shouldTranslate": false` — and never reach a translator.
+TAO, Polygon, Stripe** and the like, and the technical identifiers a user must
+see verbatim, such as the transport names `H1`, `H3`, `whodis`, `whodis pump`
+and `P2P`. They are emitted only into the base (English) file — android gets
+`translatable="false"`, apple gets `"shouldTranslate": false` — and never reach
+a translator. A label or a line of help text is UI on whatever page it sits,
+the developer pages included; see [Locales](#locales).
 
 `npm run check` also enforces the weaker rule for prose: if the English contains
 a product name, every translation must contain it too, unchanged. (`values-fr`
@@ -169,6 +172,13 @@ today; a key that only the ur.io site uses carries the site's six (`en de es ru
 zh ar`). A missing locale fails no build, it just shows that one string in
 English, so `gen/locale-coverage.test.mjs` checks it (`requiredLocales` in
 `gen/store.mjs`). Translate a new key into every locale it needs.
+
+The developer and diagnostics pages follow the same rule as every other screen:
+their labels, values and help text are translated, so a page never mixes the
+reader's language with English. Only a literal a user must see verbatim stays
+English everywhere, as `translatable: false`: a product name, a transport name
+(`H1`, `H3`, `whodis`, `whodis pump`, `P2P`) or a protocol token such as `DNS`.
+The coverage test asks those keys for `en` alone.
 
 ## Web
 

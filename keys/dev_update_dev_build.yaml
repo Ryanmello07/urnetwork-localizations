@@ -1,10 +1,36 @@
 description: "Developer page: update check result on a development build. {version} is the newest release version."
 source: "Development build: the newest release is v{version}, and a development build is never updated automatically."
-translatable: false
 platforms:
   - linux
 placeholders:
   - name: version
     type: string
 localizations:
+  ar: "إصدار تطوير: أحدث إصدار هو v{version}، وإصدار التطوير لا يُحدَّث تلقائيًا أبدًا."
+  cs: "Vývojové sestavení: nejnovější vydání je v{version} a vývojové sestavení se nikdy neaktualizuje automaticky."
+  de: "Entwicklungs-Build: Die neueste Version ist v{version}, und ein Entwicklungs-Build wird nie automatisch aktualisiert."
+  el: "Έκδοση ανάπτυξης: η νεότερη έκδοση είναι η v{version}, και μια έκδοση ανάπτυξης δεν ενημερώνεται ποτέ αυτόματα."
   en: "Development build: the newest release is v{version}, and a development build is never updated automatically."
+  es: "Compilación de desarrollo: la versión más reciente es la v{version}, y una compilación de desarrollo nunca se actualiza automáticamente."
+  es-419: "Compilación de desarrollo: la versión más reciente es la v{version}, y una compilación de desarrollo nunca se actualiza automáticamente."
+  es-MX: "Compilación de desarrollo: la versión más reciente es la v{version}, y una compilación de desarrollo nunca se actualiza automáticamente."
+  fr: "Version de développement : la dernière version publiée est la v{version}, et une version de développement n’est jamais mise à jour automatiquement."
+  he: "גרסת פיתוח: הגרסה האחרונה שפורסמה היא v{version}, וגרסת פיתוח אף פעם לא מתעדכנת אוטומטית."
+  hi: "डेवलपमेंट बिल्ड: नवीनतम रिलीज़ v{version} है, और डेवलपमेंट बिल्ड कभी अपने-आप अपडेट नहीं होता।"
+  id: "Build pengembangan: rilis terbaru adalah v{version}, dan build pengembangan tidak pernah diperbarui otomatis."
+  it: "Build di sviluppo: l’ultima versione è la v{version}, e una build di sviluppo non viene mai aggiornata automaticamente."
+  ja: "開発ビルド: 最新リリースは v{version} です。開発ビルドは自動ではアップデートされません。"
+  ko: "개발 빌드: 최신 릴리스는 v{version}입니다. 개발 빌드는 자동으로 업데이트되지 않습니다."
+  nl: "Ontwikkelversie: de nieuwste release is v{version}, en een ontwikkelversie wordt nooit automatisch bijgewerkt."
+  pl: "Wersja deweloperska: najnowsze wydanie to v{version}, a wersja deweloperska nigdy nie aktualizuje się automatycznie."
+  pt: "Versão de desenvolvimento: a versão mais recente é a v{version}, e uma versão de desenvolvimento nunca é atualizada automaticamente."
+  pt-BR: "Versão de desenvolvimento: a versão mais recente é a v{version}, e uma versão de desenvolvimento nunca é atualizada automaticamente."
+  pt-PT: "Versão de desenvolvimento: a versão mais recente é a v{version}, e uma versão de desenvolvimento nunca é atualizada automaticamente."
+  ru: "Сборка для разработки: новейший выпуск — v{version}, а сборка для разработки никогда не обновляется автоматически."
+  sv: "Utvecklingsversion: den senaste versionen är v{version}, och en utvecklingsversion uppdateras aldrig automatiskt."
+  sw: "Toleo la uundaji: toleo jipya zaidi ni v{version}, na toleo la uundaji halisasishwi kiotomatiki kamwe."
+  th: "บิลด์สำหรับพัฒนา: รุ่นล่าสุดคือ v{version} และบิลด์สำหรับพัฒนาจะไม่อัปเดตอัตโนมัติ"
+  uk: "Збірка для розробки: найновіший випуск — v{version}, а збірка для розробки ніколи не оновлюється автоматично."
+  vi: "Bản phát triển: bản phát hành mới nhất là v{version}, và bản phát triển không bao giờ tự động cập nhật."
+  zh: "开发版本：最新版本为 v{version}，开发版本永远不会自动更新。"
+  zh-HK: "開發版本：最新版本為 v{version}，開發版本永遠不會自動更新。"
