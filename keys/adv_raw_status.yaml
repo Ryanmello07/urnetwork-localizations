@@ -10,6 +10,7 @@ localizations:
   el: "Ακατέργαστη κατάσταση"
   en: "Raw status"
   es: "Estado sin procesar"
+  es-419: "Estado sin procesar"
   es-MX: "Estado sin procesar"
   fr: "État brut"
   he: "מצב גולמי"

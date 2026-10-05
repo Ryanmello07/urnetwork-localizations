@@ -16,19 +16,87 @@ localizations:
     few: "{count} مزودين · جارٍ التوفير"
     many: "{count} مزودًا · جارٍ التوفير"
     other: "{count} مزود · جارٍ التوفير"
+  cs:
+    one: "{count} poskytovatel · poskytuje"
+    few: "{count} poskytovatelé · poskytuje"
+    many: "{count} poskytovatele · poskytuje"
+    other: "{count} poskytovatelů · poskytuje"
   de:
     one: "{count} Anbieter · stellt bereit"
     other: "{count} Anbieter · stellt bereit"
+  el:
+    one: "{count} πάροχος · παροχή"
+    other: "{count} πάροχοι · παροχή"
   en:
     one: "{count} provider · providing"
     other: "{count} providers · providing"
   es:
     one: "{count} proveedor · proporcionando"
     other: "{count} proveedores · proporcionando"
+  es-419:
+    one: "{count} proveedor · proporcionando"
+    other: "{count} proveedores · proporcionando"
+  es-MX:
+    one: "{count} proveedor · proporcionando"
+    other: "{count} proveedores · proporcionando"
+  fr:
+    one: "{count} fournisseur · fourniture en cours"
+    other: "{count} fournisseurs · fourniture en cours"
+  he:
+    one: "ספק אחד · מספק"
+    two: "{count} ספקים · מספק"
+    many: "{count} ספקים · מספק"
+    other: "{count} ספקים · מספק"
+  hi:
+    one: "{count} प्रदाता · प्रदान कर रहा है"
+    other: "{count} प्रदाता · प्रदान कर रहा है"
+  id:
+    other: "{count} penyedia · menyediakan"
+  it:
+    one: "{count} provider · in fornitura"
+    other: "{count} provider · in fornitura"
+  ja:
+    other: "{count} プロバイダー · 提供中"
+  ko:
+    other: "제공자 {count}개 · 제공 중"
+  nl:
+    one: "{count} provider · aan het leveren"
+    other: "{count} providers · aan het leveren"
+  pl:
+    one: "{count} dostawca · udostępnia"
+    few: "{count} dostawcy · udostępnia"
+    many: "{count} dostawców · udostępnia"
+    other: "{count} dostawcy · udostępnia"
+  pt:
+    one: "{count} fornecedor · a fornecer"
+    other: "{count} fornecedores · a fornecer"
+  pt-BR:
+    one: "{count} provedor · fornecendo"
+    other: "{count} provedores · fornecendo"
+  pt-PT:
+    one: "{count} fornecedor · a fornecer"
+    other: "{count} fornecedores · a fornecer"
   ru:
     one: "{count} провайдер · предоставление"
     few: "{count} провайдера · предоставление"
     many: "{count} провайдеров · предоставление"
     other: "{count} провайдеров · предоставление"
+  sv:
+    one: "{count} leverantör · tillhandahåller"
+    other: "{count} leverantörer · tillhandahåller"
+  sw:
+    one: "Mtoa huduma {count} · inatoa huduma"
+    other: "Watoa huduma {count} · inatoa huduma"
+  th:
+    other: "ผู้ให้บริการ {count} ราย · กำลังให้บริการ"
+  uk:
+    one: "{count} провайдер · надає"
+    few: "{count} провайдери · надає"
+    many: "{count} провайдерів · надає"
+    other: "{count} провайдера · надає"
+  vi:
+    other: "{count} nhà cung cấp · đang cung cấp"
   zh:
     other: "{count} 个提供商 · 提供中"
+  zh-HK:
+    other: "{count} 個供應商 · 提供中"

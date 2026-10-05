@@ -10,6 +10,7 @@ localizations:
   el: "Δεν χρειάζεται email, τηλέφωνο ή κωδικός πρόσβασης. Ο λογαριασμός σας προστατεύεται από μια φράση ανάκτησης."
   en: "No email, phone, or password needed. Your account is secured by a seedphrase."
   es: "No necesitas correo, teléfono ni contraseña. Tu cuenta está protegida por una frase semilla."
+  es-419: "No necesitas correo, teléfono ni contraseña. Tu cuenta está protegida por una frase semilla."
   es-MX: "No necesitas correo, teléfono ni contraseña. Tu cuenta está protegida por una frase semilla."
   fr: "Ni e-mail, ni téléphone, ni mot de passe. Votre compte est protégé par une phrase de récupération."
   he: "לא צריך אימייל, טלפון או סיסמה. החשבון שלכם מאובטח בביטוי סיד."

@@ -9,6 +9,7 @@ localizations:
   el: "Σε ισχύ: αν η σήραγγα πέσει, η κίνηση αυτής της συσκευής αποκλείεται αντί να βγει απροστάτευτη."
   en: "In force: if the tunnel drops, this device's traffic is blocked instead of going out unprotected."
   es: "En vigor: si el túnel se cae, el tráfico de este dispositivo se bloquea en vez de salir sin protección."
+  es-419: "En vigor: si el túnel se cae, el tráfico de este dispositivo se bloquea en vez de salir sin protección."
   es-MX: "En vigor: si el túnel se cae, el tráfico de este dispositivo se bloquea en vez de salir sin protección."
   fr: "En vigueur : si le tunnel tombe, le trafic de cet appareil est bloqué au lieu de sortir sans protection."
   he: "בתוקף: אם המנהרה תיפול, התעבורה של המכשיר הזה תיחסם במקום לצאת ללא הגנה."

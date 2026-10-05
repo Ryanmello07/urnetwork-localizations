@@ -9,6 +9,7 @@ localizations:
   el: "Το DNS ΔΕΝ περνά από τη σήραγγα — τα ονόματα που αναζητάτε επιλύονται εκτός αυτής."
   en: "DNS is NOT going through the tunnel — names you look up are resolving outside it."
   es: "El DNS NO pasa por el túnel — los nombres que consultas se resuelven fuera de él."
+  es-419: "El DNS NO pasa por el túnel — los nombres que consultas se resuelven fuera de él."
   es-MX: "El DNS NO pasa por el túnel — los nombres que consultas se resuelven fuera de él."
   fr: "Le DNS ne passe PAS par le tunnel — les noms que vous consultez sont résolus en dehors."
   he: "ה-DNS לא עובר במנהרה — השמות שאתם מחפשים נפתרים מחוץ לה."

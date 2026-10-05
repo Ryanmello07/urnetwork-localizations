@@ -9,6 +9,7 @@ localizations:
   el: "Η φράση ανάκτησης πρέπει να έχει 12 ή 24 λέξεις"
   en: "Seedphrase must be 12 or 24 words"
   es: "La frase semilla debe tener 12 o 24 palabras"
+  es-419: "La frase semilla debe tener 12 o 24 palabras"
   es-MX: "La frase semilla debe tener 12 o 24 palabras"
   fr: "La phrase de récupération doit contenir 12 ou 24 mots"
   he: "ביטוי הסיד חייב להכיל 12 או 24 מילים"

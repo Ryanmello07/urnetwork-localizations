@@ -9,6 +9,7 @@ localizations:
   el: "Δεν υπάρχει στον πίνακα δρομολόγησης"
   en: "Not in the routing table"
   es: "No está en la tabla de rutas"
+  es-419: "No está en la tabla de rutas"
   es-MX: "No está en la tabla de rutas"
   fr: "Absent de la table de routage"
   he: "לא בטבלת הניתוב"

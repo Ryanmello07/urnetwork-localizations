@@ -18,19 +18,87 @@ localizations:
     few: "{count} قيد الاتصال"
     many: "{count} قيد الاتصال"
     other: "{count} قيد الاتصال"
+  cs:
+    one: "Připojuje se: {count}"
+    few: "Připojuje se: {count}"
+    many: "Připojuje se: {count}"
+    other: "Připojuje se: {count}"
   de:
     one: "{count} im Aufbau"
     other: "{count} im Aufbau"
+  el:
+    one: "{count} συνδέεται"
+    other: "{count} συνδέονται"
   en:
     one: "{count} connecting"
     other: "{count} connecting"
   es:
     one: "{count} conectándose"
     other: "{count} conectándose"
+  es-419:
+    one: "{count} conectándose"
+    other: "{count} conectándose"
+  es-MX:
+    one: "{count} conectándose"
+    other: "{count} conectándose"
+  fr:
+    one: "{count} en connexion"
+    other: "{count} en connexion"
+  he:
+    one: "אחד מתחבר"
+    two: "{count} מתחברים"
+    many: "{count} מתחברים"
+    other: "{count} מתחברים"
+  hi:
+    one: "{count} कनेक्ट हो रहा है"
+    other: "{count} कनेक्ट हो रहे हैं"
+  id:
+    other: "{count} menghubungkan"
+  it:
+    one: "{count} in connessione"
+    other: "{count} in connessione"
+  ja:
+    other: "{count} 件接続中"
+  ko:
+    other: "{count}개 연결 중"
+  nl:
+    one: "{count} verbinden"
+    other: "{count} verbinden"
+  pl:
+    one: "Łączenie: {count}"
+    few: "Łączenie: {count}"
+    many: "Łączenie: {count}"
+    other: "Łączenie: {count}"
+  pt:
+    one: "{count} a ligar"
+    other: "{count} a ligar"
+  pt-BR:
+    one: "{count} conectando"
+    other: "{count} conectando"
+  pt-PT:
+    one: "{count} a ligar"
+    other: "{count} a ligar"
   ru:
     one: "{count} подключается"
     few: "{count} подключаются"
     many: "{count} подключаются"
     other: "{count} подключаются"
+  sv:
+    one: "{count} ansluter"
+    other: "{count} ansluter"
+  sw:
+    one: "{count} inaunganisha"
+    other: "{count} zinaunganisha"
+  th:
+    other: "กำลังเชื่อมต่อ {count}"
+  uk:
+    one: "Підключаються: {count}"
+    few: "Підключаються: {count}"
+    many: "Підключаються: {count}"
+    other: "Підключаються: {count}"
+  vi:
+    other: "{count} đang kết nối"
   zh:
     other: "正在连接 {count} 个"
+  zh-HK:
+    other: "正在連接 {count} 個"

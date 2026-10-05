@@ -17,19 +17,87 @@ localizations:
     few: "تم تصدير {count} ملفات سجل ({size})"
     many: "تم تصدير {count} ملف سجل ({size})"
     other: "تم تصدير {count} ملف سجل ({size})"
+  cs:
+    one: "Exportován {count} soubor logu ({size})"
+    few: "Exportovány {count} soubory logů ({size})"
+    many: "Exportováno {count} souboru logů ({size})"
+    other: "Exportováno {count} souborů logů ({size})"
   de:
     one: "{count} Logdatei exportiert ({size})"
     other: "{count} Logdateien exportiert ({size})"
+  el:
+    one: "Εξήχθη {count} αρχείο καταγραφής ({size})"
+    other: "Εξήχθησαν {count} αρχεία καταγραφής ({size})"
   en:
     one: "Exported {count} log file ({size})"
     other: "Exported {count} log files ({size})"
   es:
     one: "Se exportó {count} archivo de registro ({size})"
     other: "Se exportaron {count} archivos de registro ({size})"
+  es-419:
+    one: "Se exportó {count} archivo de registro ({size})"
+    other: "Se exportaron {count} archivos de registro ({size})"
+  es-MX:
+    one: "Se exportó {count} archivo de registro ({size})"
+    other: "Se exportaron {count} archivos de registro ({size})"
+  fr:
+    one: "{count} fichier journal exporté ({size})"
+    other: "{count} fichiers journaux exportés ({size})"
+  he:
+    one: "יוצא קובץ לוג אחד ({size})"
+    two: "יוצאו {count} קובצי לוג ({size})"
+    many: "יוצאו {count} קובצי לוג ({size})"
+    other: "יוצאו {count} קובצי לוג ({size})"
+  hi:
+    one: "{count} लॉग फ़ाइल एक्सपोर्ट की गई ({size})"
+    other: "{count} लॉग फ़ाइलें एक्सपोर्ट की गईं ({size})"
+  id:
+    other: "{count} file log diekspor ({size})"
+  it:
+    one: "{count} file di log esportato ({size})"
+    other: "{count} file di log esportati ({size})"
+  ja:
+    other: "{count} 件のログファイルをエクスポートしました（{size}）"
+  ko:
+    other: "로그 파일 {count}개를 내보냈습니다({size})"
+  nl:
+    one: "{count} logbestand geëxporteerd ({size})"
+    other: "{count} logbestanden geëxporteerd ({size})"
+  pl:
+    one: "Wyeksportowano {count} plik logu ({size})"
+    few: "Wyeksportowano {count} pliki logów ({size})"
+    many: "Wyeksportowano {count} plików logów ({size})"
+    other: "Wyeksportowano {count} pliku logów ({size})"
+  pt:
+    one: "{count} ficheiro de log exportado ({size})"
+    other: "{count} ficheiros de log exportados ({size})"
+  pt-BR:
+    one: "{count} arquivo de log exportado ({size})"
+    other: "{count} arquivos de log exportados ({size})"
+  pt-PT:
+    one: "{count} ficheiro de log exportado ({size})"
+    other: "{count} ficheiros de log exportados ({size})"
   ru:
     one: "Экспортирован {count} файл логов ({size})"
     few: "Экспортировано {count} файла логов ({size})"
     many: "Экспортировано {count} файлов логов ({size})"
     other: "Экспортировано {count} файла логов ({size})"
+  sv:
+    one: "Exporterade {count} loggfil ({size})"
+    other: "Exporterade {count} loggfiler ({size})"
+  sw:
+    one: "Faili {count} ya kumbukumbu imehamishwa ({size})"
+    other: "Faili {count} za kumbukumbu zimehamishwa ({size})"
+  th:
+    other: "ส่งออกไฟล์ล็อก {count} ไฟล์ ({size})"
+  uk:
+    one: "Експортовано {count} файл логів ({size})"
+    few: "Експортовано {count} файли логів ({size})"
+    many: "Експортовано {count} файлів логів ({size})"
+    other: "Експортовано {count} файлу логів ({size})"
+  vi:
+    other: "Đã xuất {count} tệp nhật ký ({size})"
   zh:
     other: "已导出 {count} 个日志文件（{size}）"
+  zh-HK:
+    other: "已匯出 {count} 個日誌檔案（{size}）"

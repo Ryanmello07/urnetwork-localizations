@@ -9,6 +9,7 @@ localizations:
   el: "Αναζήτηση νέων εκδόσεων λίγο μετά την εκκίνηση και κάθε έξι ώρες. Τίποτα δεν εγκαθίσταται ποτέ χωρίς κλικ."
   en: "Look for new releases shortly after launch and every six hours. Nothing is ever installed without a click."
   es: "Buscar nuevas versiones poco después de iniciar y cada seis horas. Nunca se instala nada sin un clic."
+  es-419: "Buscar nuevas versiones poco después de iniciar y cada seis horas. Nunca se instala nada sin un clic."
   es-MX: "Buscar nuevas versiones poco después de iniciar y cada seis horas. Nunca se instala nada sin un clic."
   fr: "Rechercher de nouvelles versions peu après le lancement et toutes les six heures. Rien n’est jamais installé sans un clic."
   he: "חיפוש גרסאות חדשות זמן קצר אחרי ההפעלה ובכל שש שעות. שום דבר לא מותקן בלי לחיצה."

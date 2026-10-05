@@ -9,6 +9,7 @@ localizations:
   el: "Το αίτημα άδειας δεν απαντήθηκε, οπότε δεν έγινε σύνδεση. Πατήστε Σύνδεση για να δοκιμάσετε ξανά."
   en: "The permission request was not answered, so nothing was connected. Press Connect to try again."
   es: "La solicitud de permiso no recibió respuesta, así que no se conectó nada. Pulsa Conectar para intentarlo de nuevo."
+  es-419: "La solicitud de permiso no recibió respuesta, así que no se conectó nada. Presiona Conectar para intentarlo de nuevo."
   es-MX: "La solicitud de permiso no recibió respuesta, así que no se conectó nada. Pulsa Conectar para intentarlo de nuevo."
   fr: "La demande d’autorisation est restée sans réponse, rien n’a donc été connecté. Appuyez sur Connecter pour réessayer."
   he: "בקשת ההרשאה לא נענתה, ולכן שום דבר לא התחבר. לחצו על התחבר כדי לנסות שוב."

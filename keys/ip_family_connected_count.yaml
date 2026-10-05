@@ -18,19 +18,87 @@ localizations:
     few: "{count} متصلين"
     many: "{count} متصلًا"
     other: "{count} متصل"
+  cs:
+    one: "Připojeno: {count}"
+    few: "Připojeno: {count}"
+    many: "Připojeno: {count}"
+    other: "Připojeno: {count}"
   de:
     one: "{count} verbunden"
     other: "{count} verbunden"
+  el:
+    one: "{count} συνδεδεμένος"
+    other: "{count} συνδεδεμένοι"
   en:
     one: "{count} connected"
     other: "{count} connected"
   es:
     one: "{count} conectado"
     other: "{count} conectados"
+  es-419:
+    one: "{count} conectado"
+    other: "{count} conectados"
+  es-MX:
+    one: "{count} conectado"
+    other: "{count} conectados"
+  fr:
+    one: "{count} connecté"
+    other: "{count} connectés"
+  he:
+    one: "מחובר אחד"
+    two: "{count} מחוברים"
+    many: "{count} מחוברים"
+    other: "{count} מחוברים"
+  hi:
+    one: "{count} कनेक्टेड"
+    other: "{count} कनेक्टेड"
+  id:
+    other: "{count} terhubung"
+  it:
+    one: "{count} connesso"
+    other: "{count} connessi"
+  ja:
+    other: "{count} 件接続済み"
+  ko:
+    other: "{count}개 연결됨"
+  nl:
+    one: "{count} verbonden"
+    other: "{count} verbonden"
+  pl:
+    one: "Połączone: {count}"
+    few: "Połączone: {count}"
+    many: "Połączone: {count}"
+    other: "Połączone: {count}"
+  pt:
+    one: "{count} ligado"
+    other: "{count} ligados"
+  pt-BR:
+    one: "{count} conectado"
+    other: "{count} conectados"
+  pt-PT:
+    one: "{count} ligado"
+    other: "{count} ligados"
   ru:
     one: "{count} подключён"
     few: "{count} подключено"
     many: "{count} подключено"
     other: "{count} подключено"
+  sv:
+    one: "{count} ansluten"
+    other: "{count} anslutna"
+  sw:
+    one: "{count} imeunganishwa"
+    other: "{count} zimeunganishwa"
+  th:
+    other: "เชื่อมต่อแล้ว {count}"
+  uk:
+    one: "Підключено: {count}"
+    few: "Підключено: {count}"
+    many: "Підключено: {count}"
+    other: "Підключено: {count}"
+  vi:
+    other: "{count} đã kết nối"
   zh:
     other: "已连接 {count} 个"
+  zh-HK:
+    other: "已連接 {count} 個"

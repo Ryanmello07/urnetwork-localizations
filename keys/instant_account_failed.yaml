@@ -10,6 +10,7 @@ localizations:
   el: "Δεν ήταν δυνατή η δημιουργία του λογαριασμού. Δοκιμάστε ξανά."
   en: "Could not create the account. Please try again."
   es: "No se pudo crear la cuenta. Inténtalo de nuevo."
+  es-419: "No se pudo crear la cuenta. Inténtalo de nuevo."
   es-MX: "No se pudo crear la cuenta. Inténtalo de nuevo."
   fr: "Impossible de créer le compte. Veuillez réessayer."
   he: "לא ניתן ליצור את החשבון. נסו שוב."

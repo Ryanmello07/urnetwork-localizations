@@ -9,6 +9,7 @@ localizations:
   el: "Το Kill switch είναι απενεργοποιημένο, αλλά η υπηρεσία συστήματος URnetwork έχει ακόμη έναν εγκατεστημένο αποκλεισμό, οπότε η κίνηση αυτής της συσκευής αποκλείεται."
   en: "The kill switch is off, but the URnetwork system service still has a block installed, so this device's traffic is being blocked."
   es: "El Kill switch está desactivado, pero el servicio del sistema de URnetwork aún tiene un bloqueo instalado, así que el tráfico de este dispositivo se está bloqueando."
+  es-419: "El Kill switch está desactivado, pero el servicio del sistema de URnetwork todavía tiene un bloqueo instalado, así que el tráfico de este dispositivo se está bloqueando."
   es-MX: "El Kill switch está desactivado, pero el servicio del sistema de URnetwork aún tiene un bloqueo instalado, así que el tráfico de este dispositivo se está bloqueando."
   fr: "Le Kill switch est désactivé, mais le service système URnetwork a encore un blocage installé, le trafic de cet appareil est donc bloqué."
   he: "הקיל סוויץ' כבוי, אבל לשירות המערכת של URnetwork עדיין מותקנת חסימה, ולכן התעבורה של המכשיר הזה נחסמת."

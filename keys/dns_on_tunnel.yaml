@@ -9,6 +9,7 @@ localizations:
   el: "Το DNS περνά από τη σήραγγα"
   en: "DNS is going through the tunnel"
   es: "El DNS pasa por el túnel"
+  es-419: "El DNS pasa por el túnel"
   es-MX: "El DNS pasa por el túnel"
   fr: "Le DNS passe par le tunnel"
   he: "ה-DNS עובר במנהרה"
