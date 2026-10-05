@@ -1,0 +1,36 @@
+description: "Button under the selected provider in the Provider Locations sheet. Reconnects to that one provider (the exit), so the connection keeps its IP address."
+source: "Stay on this exit"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "البقاء على هذا المخرج"
+  cs: "Zůstat na tomto výstupu"
+  de: "Bei diesem Exit bleiben"
+  el: "Παραμονή σε αυτή την έξοδο"
+  en: "Stay on this exit"
+  es: "Quedarse en esta salida"
+  es-419: "Quedarse en esta salida"
+  es-MX: "Quedarse en esta salida"
+  fr: "Rester sur cette sortie"
+  he: "להישאר ביציאה הזו"
+  hi: "इसी एग्ज़िट पर रहें"
+  id: "Tetap di titik keluar ini"
+  it: "Resta su questa uscita"
+  ja: "この出口を使い続ける"
+  ko: "이 출구 유지"
+  nl: "Bij deze exit blijven"
+  pl: "Zostań przy tym wyjściu"
+  pt: "Ficar nesta saída"
+  pt-BR: "Ficar nesta saída"
+  pt-PT: "Ficar nesta saída"
+  ru: "Остаться на этом выходе"
+  sv: "Stanna på den här utgången"
+  sw: "Baki kwenye njia hii ya kutoka"
+  th: "ใช้ทางออกนี้ต่อไป"
+  uk: "Залишитися на цьому виході"
+  vi: "Giữ điểm thoát này"
+  zh: "固定使用此出口"
+  zh-HK: "固定使用此出口"

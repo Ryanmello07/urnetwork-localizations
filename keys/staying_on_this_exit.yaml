@@ -1,0 +1,36 @@
+description: "Muted line on the provider the connection already stays on (after Stay on this exit), in the Provider Locations sheet. Says how to leave it."
+source: "Staying on this exit. If it goes offline, choose another location."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "أنت باقٍ على هذا المخرج. إذا أصبح غير متصل، فاختر موقعًا آخر."
+  cs: "Zůstáváte na tomto výstupu. Pokud přejde do režimu offline, vyberte jinou lokalitu."
+  de: "Du bleibst bei diesem Exit. Wenn er offline geht, wähle einen anderen Standort."
+  el: "Παραμένετε σε αυτή την έξοδο. Αν αποσυνδεθεί, επιλέξτε άλλη τοποθεσία."
+  en: "Staying on this exit. If it goes offline, choose another location."
+  es: "Te quedas en esta salida. Si se desconecta, elige otra ubicación."
+  es-419: "Te quedas en esta salida. Si se desconecta, elige otra ubicación."
+  es-MX: "Te quedas en esta salida. Si se desconecta, elige otra ubicación."
+  fr: "Vous restez sur cette sortie. Si elle se déconnecte, choisissez un autre emplacement."
+  he: "אתה נשאר ביציאה הזו. אם היא תתנתק, בחר מיקום אחר."
+  hi: "आप इसी एग्ज़िट पर बने हुए हैं। अगर यह ऑफ़लाइन हो जाए, तो कोई दूसरी लोकेशन चुनें।"
+  id: "Tetap di titik keluar ini. Jika titik ini offline, pilih lokasi lain."
+  it: "Resti su questa uscita. Se va offline, scegli un'altra posizione."
+  ja: "この出口を使い続けています。オフラインになった場合は、別の場所を選択してください。"
+  ko: "이 출구를 유지하는 중입니다. 오프라인이 되면 다른 위치를 선택하세요."
+  nl: "Je blijft bij deze exit. Als die offline gaat, kies dan een andere locatie."
+  pl: "Pozostajesz przy tym wyjściu. Jeśli przejdzie w tryb offline, wybierz inną lokalizację."
+  pt: "Está a ficar nesta saída. Se ficar offline, escolha outra localização."
+  pt-BR: "Você está ficando nesta saída. Se ela ficar offline, escolha outro local."
+  pt-PT: "Está a ficar nesta saída. Se ficar offline, escolha outra localização."
+  ru: "Вы остаётесь на этом выходе. Если он отключится, выберите другую локацию."
+  sv: "Du stannar på den här utgången. Om den går offline väljer du en annan plats."
+  sw: "Unabaki kwenye njia hii ya kutoka. Ikiwa itakuwa nje ya mtandao, chagua eneo lingine."
+  th: "กำลังใช้ทางออกนี้ต่อไป หากออฟไลน์ ให้เลือกตำแหน่งอื่น"
+  uk: "Ви залишаєтеся на цьому виході. Якщо він вимкнеться, виберіть іншу локацію."
+  vi: "Đang giữ điểm thoát này. Nếu điểm thoát ngoại tuyến, hãy chọn vị trí khác."
+  zh: "正在固定使用此出口。如果它离线，请选择其他位置。"
+  zh-HK: "正在固定使用此出口。如果它離線，請選擇其他位置。"
