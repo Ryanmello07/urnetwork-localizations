@@ -1,0 +1,36 @@
+description: "Muted line under the Stay on this exit button in the Provider Locations sheet: what staying on one provider does."
+source: "Keeps this provider's IP address until it goes offline."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "يحتفظ بعنوان IP لهذا المزوّد حتى يصبح غير متصل."
+  cs: "Ponechá IP adresu tohoto poskytovatele, dokud nepřejde do režimu offline."
+  de: "Behält die IP-Adresse dieses Anbieters, bis er offline geht."
+  el: "Διατηρεί τη διεύθυνση IP αυτού του παρόχου μέχρι να αποσυνδεθεί."
+  en: "Keeps this provider's IP address until it goes offline."
+  es: "Mantiene la dirección IP de este proveedor hasta que se desconecte."
+  es-419: "Mantiene la dirección IP de este proveedor hasta que se desconecte."
+  es-MX: "Mantiene la dirección IP de este proveedor hasta que se desconecte."
+  fr: "Conserve l'adresse IP de ce fournisseur jusqu'à ce qu'il se déconnecte."
+  he: "שומר על כתובת ה-IP של הספק הזה עד שהוא מתנתק."
+  hi: "इस प्रदाता का IP पता तब तक बना रहता है जब तक वह ऑफ़लाइन न हो जाए।"
+  id: "Mempertahankan alamat IP penyedia ini sampai penyedia tersebut offline."
+  it: "Mantiene l'indirizzo IP di questo provider finché non va offline."
+  ja: "このプロバイダーがオフラインになるまで、そのIPアドレスを使い続けます。"
+  ko: "이 제공업체가 오프라인이 될 때까지 해당 IP 주소를 유지합니다."
+  nl: "Houdt het IP-adres van deze provider aan totdat die offline gaat."
+  pl: "Zachowuje adres IP tego dostawcy, dopóki nie przejdzie w tryb offline."
+  pt: "Mantém o endereço IP deste fornecedor até ficar offline."
+  pt-BR: "Mantém o endereço IP deste provedor até ele ficar offline."
+  pt-PT: "Mantém o endereço IP deste fornecedor até ficar offline."
+  ru: "Сохраняет IP-адрес этого провайдера, пока он не отключится."
+  sv: "Behåller den här leverantörens IP-adress tills den går offline."
+  sw: "Huhifadhi anwani ya IP ya mtoa huduma huyu hadi atakapokuwa nje ya mtandao."
+  th: "คงที่อยู่ IP ของผู้ให้บริการนี้ไว้จนกว่าจะออฟไลน์"
+  uk: "Зберігає IP-адресу цього провайдера, доки він не вимкнеться."
+  vi: "Giữ địa chỉ IP của nhà cung cấp này cho đến khi nhà cung cấp ngoại tuyến."
+  zh: "保持使用此提供商的 IP 地址，直到它离线。"
+  zh-HK: "保持使用此供應商的 IP 位址，直到它離線。"
