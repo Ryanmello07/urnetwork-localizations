@@ -2,6 +2,7 @@ description: "Connect screen status when the connect attempt failed: no provider
 source: "Couldn't connect"
 platforms:
   - android
+  - apple
   - linux
   - windows
 localizations:
