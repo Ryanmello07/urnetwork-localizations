@@ -1,5 +1,8 @@
 description: "Note on the Seeker verification action."
 source: "The Seeker multiplier applies to points only."
+deprecated:
+  - apple
+  - site
 platforms:
   - apple
   - site
