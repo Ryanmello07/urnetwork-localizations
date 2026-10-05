@@ -1,0 +1,39 @@
+description: "\"About your data\" sheet: when the free daily data is granted again. {time} is the time left until the next 00:00 UTC as a compact duration (e.g. 5h 12m). Keep 00:00 UTC as is. Shown only to accounts without Pro (Pro does not get the free grant)."
+source: "Free data refreshes daily at 00:00 UTC (in %@)."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: time
+    type: string
+localizations:
+  ar: "تتجدد البيانات المجانية يوميًا عند الساعة 00:00 UTC (بعد {time})."
+  cs: "Data zdarma se obnovují každý den v 00:00 UTC (za {time})."
+  de: "Kostenlose Daten werden täglich um 00:00 UTC erneuert (in {time})."
+  el: "Τα δωρεάν δεδομένα ανανεώνονται καθημερινά στις 00:00 UTC (σε {time})."
+  en: "Free data refreshes daily at 00:00 UTC (in {time})."
+  es: "Los datos gratis se renuevan cada día a las 00:00 UTC (en {time})."
+  es-419: "Los datos gratis se renuevan cada día a las 00:00 UTC (en {time})."
+  es-MX: "Los datos gratis se renuevan cada día a las 00:00 UTC (en {time})."
+  fr: "Les données gratuites sont renouvelées chaque jour à 00:00 UTC (dans {time})."
+  he: "הנתונים החינמיים מתחדשים כל יום ב-00:00 UTC (בעוד {time})."
+  hi: "निःशुल्क डेटा हर दिन 00:00 UTC पर रीफ़्रेश होता है ({time} में)।"
+  id: "Data gratis diperbarui setiap hari pukul 00:00 UTC (dalam {time})."
+  it: "I dati gratuiti si rinnovano ogni giorno alle 00:00 UTC (tra {time})."
+  ja: "無料データは毎日 00:00 UTC に更新されます（あと {time}）。"
+  ko: "무료 데이터는 매일 00:00 UTC에 갱신됩니다({time} 후)."
+  nl: "Gratis data wordt elke dag om 00:00 UTC vernieuwd (over {time})."
+  pl: "Darmowe dane odnawiają się codziennie o 00:00 UTC (za {time})."
+  pt: "Os dados grátis são renovados diariamente às 00:00 UTC (em {time})."
+  pt-BR: "Os dados grátis são renovados diariamente às 00:00 UTC (em {time})."
+  pt-PT: "Os dados gratuitos são renovados diariamente às 00:00 UTC (dentro de {time})."
+  ru: "Бесплатные данные обновляются ежедневно в 00:00 UTC (через {time})."
+  sv: "Gratis data förnyas varje dag kl. 00:00 UTC (om {time})."
+  sw: "Data ya bure husasishwa kila siku saa 00:00 UTC (baada ya {time})."
+  th: "ข้อมูลฟรีจะรีเฟรชทุกวันเวลา 00:00 UTC (อีก {time})"
+  uk: "Безкоштовні дані оновлюються щодня о 00:00 UTC (через {time})."
+  vi: "Dữ liệu miễn phí được làm mới hằng ngày lúc 00:00 UTC (sau {time})."
+  zh: "免费数据每天 00:00 UTC 更新（还有 {time}）。"
+  zh-HK: "免費數據每天 00:00 UTC 更新（尚餘 {time}）。"

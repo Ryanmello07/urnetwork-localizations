@@ -1,0 +1,36 @@
+description: "Upgrade screen, when a connect blocked by insufficient balance opened it: closes the screen to wait for the free daily data instead of upgrading."
+source: "Wait for refresh"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "انتظر التجديد"
+  cs: "Počkat na obnovení"
+  de: "Auf Erneuerung warten"
+  el: "Αναμονή για ανανέωση"
+  en: "Wait for refresh"
+  es: "Esperar la renovación"
+  es-419: "Esperar la renovación"
+  es-MX: "Esperar la renovación"
+  fr: "Attendre le renouvellement"
+  he: "להמתין לחידוש"
+  hi: "रीफ़्रेश की प्रतीक्षा करें"
+  id: "Tunggu pembaruan"
+  it: "Attendi il rinnovo"
+  ja: "更新を待つ"
+  ko: "갱신 기다리기"
+  nl: "Wachten op vernieuwing"
+  pl: "Poczekaj na odnowienie"
+  pt: "Aguardar a renovação"
+  pt-BR: "Aguardar a renovação"
+  pt-PT: "Aguardar a renovação"
+  ru: "Дождаться обновления"
+  sv: "Vänta på förnyelse"
+  sw: "Subiri usasishaji"
+  th: "รอการรีเฟรช"
+  uk: "Дочекатися оновлення"
+  vi: "Chờ làm mới"
+  zh: "等待更新"
+  zh-HK: "等待更新"

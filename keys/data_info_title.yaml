@@ -1,0 +1,36 @@
+description: "Title of the \"About your data\" sheet, opened from the info button next to the daily data balance in the usage bar and from the Why? link under an out-of-balance notice. Also the info button's accessibility label."
+source: "About your data"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "حول بياناتك"
+  cs: "O vašich datech"
+  de: "Über deine Daten"
+  el: "Σχετικά με τα δεδομένα σας"
+  en: "About your data"
+  es: "Acerca de tus datos"
+  es-419: "Acerca de tus datos"
+  es-MX: "Acerca de tus datos"
+  fr: "À propos de vos données"
+  he: "על הנתונים שלך"
+  hi: "आपके डेटा के बारे में"
+  id: "Tentang data Anda"
+  it: "Informazioni sui tuoi dati"
+  ja: "データについて"
+  ko: "내 데이터 안내"
+  nl: "Over je data"
+  pl: "O Twoich danych"
+  pt: "Sobre seus dados"
+  pt-BR: "Sobre seus dados"
+  pt-PT: "Sobre os seus dados"
+  ru: "О ваших данных"
+  sv: "Om din data"
+  sw: "Kuhusu data yako"
+  th: "เกี่ยวกับข้อมูลของคุณ"
+  uk: "Про ваші дані"
+  vi: "Về dữ liệu của bạn"
+  zh: "关于你的数据"
+  zh-HK: "關於你的數據"

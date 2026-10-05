@@ -1,0 +1,36 @@
+description: "\"About your data\" sheet: explains the Available part of the usage bar, shown under the Available amount."
+source: "Data you can still use."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "البيانات التي لا يزال بإمكانك استخدامها."
+  cs: "Data, která ještě můžete využít."
+  de: "Daten, die du noch nutzen kannst."
+  el: "Δεδομένα που μπορείτε ακόμα να χρησιμοποιήσετε."
+  en: "Data you can still use."
+  es: "Datos que todavía puedes usar."
+  es-419: "Datos que todavía puedes usar."
+  es-MX: "Datos que todavía puedes usar."
+  fr: "Données que vous pouvez encore utiliser."
+  he: "נתונים שעדיין אפשר להשתמש בהם."
+  hi: "वह डेटा जिसे आप अभी भी उपयोग कर सकते हैं।"
+  id: "Data yang masih bisa Anda gunakan."
+  it: "Dati che puoi ancora usare."
+  ja: "まだ使用できるデータです。"
+  ko: "아직 사용할 수 있는 데이터입니다."
+  nl: "Data die je nog kunt gebruiken."
+  pl: "Dane, które nadal możesz wykorzystać."
+  pt: "Dados que você ainda pode usar."
+  pt-BR: "Dados que você ainda pode usar."
+  pt-PT: "Dados que ainda pode utilizar."
+  ru: "Данные, которые вы ещё можете использовать."
+  sv: "Data som du fortfarande kan använda."
+  sw: "Data ambayo bado unaweza kutumia."
+  th: "ข้อมูลที่คุณยังใช้ได้"
+  uk: "Дані, які ви ще можете використати."
+  vi: "Dữ liệu bạn vẫn có thể dùng."
+  zh: "你仍可使用的数据。"
+  zh-HK: "你仍可使用的數據。"

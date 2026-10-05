@@ -1,0 +1,39 @@
+description: "Leads the out-of-balance notice (and the Upgrade screen when a blocked connect opened it): when the free daily data is granted again. {time} is the time left until the next 00:00 UTC as a compact duration (e.g. 5h 12m)."
+source: "Free data refreshes in %@."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: time
+    type: string
+localizations:
+  ar: "تتجدد البيانات المجانية بعد {time}."
+  cs: "Data zdarma se obnoví za {time}."
+  de: "Kostenlose Daten werden in {time} erneuert."
+  el: "Τα δωρεάν δεδομένα ανανεώνονται σε {time}."
+  en: "Free data refreshes in {time}."
+  es: "Los datos gratis se renuevan en {time}."
+  es-419: "Los datos gratis se renuevan en {time}."
+  es-MX: "Los datos gratis se renuevan en {time}."
+  fr: "Les données gratuites seront renouvelées dans {time}."
+  he: "הנתונים החינמיים יתחדשו בעוד {time}."
+  hi: "निःशुल्क डेटा {time} में रीफ़्रेश होगा।"
+  id: "Data gratis diperbarui dalam {time}."
+  it: "I dati gratuiti si rinnovano tra {time}."
+  ja: "無料データはあと {time} で更新されます。"
+  ko: "무료 데이터는 {time} 후에 갱신됩니다."
+  nl: "Gratis data wordt over {time} vernieuwd."
+  pl: "Darmowe dane odnowią się za {time}."
+  pt: "Os dados grátis são renovados em {time}."
+  pt-BR: "Os dados grátis são renovados em {time}."
+  pt-PT: "Os dados gratuitos são renovados dentro de {time}."
+  ru: "Бесплатные данные обновятся через {time}."
+  sv: "Gratis data förnyas om {time}."
+  sw: "Data ya bure itasasishwa baada ya {time}."
+  th: "ข้อมูลฟรีจะรีเฟรชในอีก {time}"
+  uk: "Безкоштовні дані оновляться через {time}."
+  vi: "Dữ liệu miễn phí sẽ được làm mới sau {time}."
+  zh: "免费数据将在 {time} 后更新。"
+  zh-HK: "免費數據將於 {time} 後更新。"
