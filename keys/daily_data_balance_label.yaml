@@ -3,6 +3,8 @@ source: "Daily Data Balance:"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "رصيد البيانات اليومي:"
   cs: "Denní datový zůstatek:"

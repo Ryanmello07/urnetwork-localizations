@@ -3,6 +3,8 @@ source: "Used"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "مستخدم"
   cs: "Použité"

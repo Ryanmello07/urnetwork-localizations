@@ -1,0 +1,36 @@
+description: "\"About your data\" sheet: explains the Pending part of the usage bar, shown under the Pending amount. Pending is balance held (escrowed) by the user's open connections; the unused part is returned when they close. Do not add a time promise."
+source: "Data reserved for your open connections. What they don't use is returned when they close."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "بيانات محجوزة لاتصالاتك المفتوحة. ما لا تستخدمه منها يُعاد عند إغلاقها."
+  cs: "Data rezervovaná pro vaše otevřená připojení. Co nevyužijí, se vrátí, až se ukončí."
+  de: "Daten, die für deine offenen Verbindungen reserviert sind. Was sie nicht verbrauchen, wird zurückgegeben, wenn sie geschlossen werden."
+  el: "Δεδομένα δεσμευμένα για τις ανοιχτές συνδέσεις σας. Ό,τι δεν χρησιμοποιήσουν επιστρέφεται όταν κλείσουν."
+  en: "Data reserved for your open connections. What they don't use is returned when they close."
+  es: "Datos reservados para tus conexiones abiertas. Lo que no usen se devuelve cuando se cierran."
+  es-419: "Datos reservados para tus conexiones abiertas. Lo que no usen se devuelve cuando se cierran."
+  es-MX: "Datos reservados para tus conexiones abiertas. Lo que no usen se devuelve cuando se cierran."
+  fr: "Données réservées à vos connexions ouvertes. Ce qu’elles n’utilisent pas vous est rendu à leur fermeture."
+  he: "נתונים ששמורים לחיבורים הפתוחים שלך. מה שהם לא מנצלים מוחזר כשהם נסגרים."
+  hi: "आपके खुले कनेक्शनों के लिए आरक्षित डेटा। वे जो उपयोग नहीं करते, वह उनके बंद होने पर वापस मिल जाता है।"
+  id: "Data yang dicadangkan untuk koneksi Anda yang sedang terbuka. Data yang tidak terpakai dikembalikan saat koneksi ditutup."
+  it: "Dati riservati alle tue connessioni aperte. Quello che non usano ti viene restituito quando si chiudono."
+  ja: "開いている接続のために予約されたデータです。使われなかった分は、接続が閉じると戻ります。"
+  ko: "열려 있는 연결을 위해 예약된 데이터입니다. 사용하지 않은 만큼은 연결이 닫히면 돌아옵니다."
+  nl: "Data die is gereserveerd voor je open verbindingen. Wat ze niet gebruiken, krijg je terug wanneer ze worden gesloten."
+  pl: "Dane zarezerwowane dla Twoich otwartych połączeń. To, czego nie wykorzystają, wraca po ich zamknięciu."
+  pt: "Dados reservados para suas conexões abertas. O que elas não usarem é devolvido quando forem fechadas."
+  pt-BR: "Dados reservados para suas conexões abertas. O que elas não usarem é devolvido quando forem fechadas."
+  pt-PT: "Dados reservados para as suas ligações abertas. O que não utilizarem é devolvido quando forem fechadas."
+  ru: "Данные, зарезервированные для ваших открытых подключений. То, что они не используют, возвращается, когда они закрываются."
+  sv: "Data som är reserverad för dina öppna anslutningar. Det som inte används återförs när de stängs."
+  sw: "Data iliyohifadhiwa kwa ajili ya miunganisho yako iliyo wazi. Isiyotumika hurejeshwa miunganisho hiyo inapofungwa."
+  th: "ข้อมูลที่จองไว้สำหรับการเชื่อมต่อที่เปิดอยู่ของคุณ ส่วนที่ไม่ได้ใช้จะได้รับคืนเมื่อการเชื่อมต่อปิดลง"
+  uk: "Дані, зарезервовані для ваших відкритих підключень. Те, що вони не використають, повертається, коли вони закриваються."
+  vi: "Dữ liệu được giữ trước cho các kết nối đang mở của bạn. Phần không dùng đến sẽ được trả lại khi các kết nối đóng."
+  zh: "为你当前打开的连接预留的数据。未使用的部分会在连接关闭时退回。"
+  zh-HK: "為你目前開啟的連線預留的數據。未使用的部分會在連線關閉時退回。"

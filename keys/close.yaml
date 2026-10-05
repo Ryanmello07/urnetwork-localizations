@@ -3,6 +3,8 @@ source: "Close"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "إغلاق"
   cs: "Zavřít"

@@ -3,6 +3,8 @@ source: "Pending"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "معلّق"
   cs: "Čekající"
