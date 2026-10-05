@@ -5,6 +5,7 @@ platforms:
   - apple
   - windows
   - linux
+  - site
 localizations:
   ar: "يحتفظ بمخرج واحد طوال الجلسة؛ ولا يتغير إلا إذا انقطع اتصال ذلك المزود."
   cs: "Ponechá jeden výstup po celou relaci; změní se, jen když se tento poskytovatel odpojí."
