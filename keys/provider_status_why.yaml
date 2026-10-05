@@ -2,7 +2,6 @@ description: "Provider card: expandable section title that reveals the numbers t
 source: "Why?"
 platforms:
   - android
-  - apple
   - windows
   - linux
 localizations:
