@@ -1,0 +1,8 @@
+description: "Developer page: update check status while checking."
+source: "Checking for updates…"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Checking for updates…"

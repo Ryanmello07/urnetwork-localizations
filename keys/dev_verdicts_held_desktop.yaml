@@ -1,0 +1,7 @@
+description: "Developer page: label of the 'Verdicts held' measurement (desktop wording of dev_verdicts_held)."
+source: "Verdicts held"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Verdicts held"

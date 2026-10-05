@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Suspend detector' setting."
+source: "Suspend detector"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Suspend detector"

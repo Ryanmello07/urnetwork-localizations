@@ -1,0 +1,7 @@
+description: "Developer page: the explanation under the 'Corroborate silent exits' setting."
+source: "How many distinct destinations must be silent before an exit is convicted on no-receive, so one dead site cannot remove a working exit"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "How many distinct destinations must be silent before an exit is convicted on no-receive, so one dead site cannot remove a working exit"

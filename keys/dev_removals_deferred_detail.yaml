@@ -2,6 +2,7 @@ description: "Developer tools screen: explanatory subtext under the 'removals de
 source: "Removals the storm breaker held back after a correlated burst"
 platforms:
   - android
+  - apple
 localizations:
   ar: "عمليات الإزالة التي أوقفها قاطع العاصفة بعد موجة مترابطة"
   de: "Entfernungen, die der Sturm-Schutzschalter nach einer korrelierten Häufung zurückgehalten hat"

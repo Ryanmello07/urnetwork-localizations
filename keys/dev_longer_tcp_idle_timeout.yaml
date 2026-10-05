@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Longer TCP idle timeout' setting."
+source: "Longer TCP idle timeout"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Longer TCP idle timeout"

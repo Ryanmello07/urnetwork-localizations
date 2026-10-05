@@ -2,6 +2,7 @@ description: "Developer tools screen: explanatory subtext under the 'probes' con
 source: "Qualification probes this session"
 platforms:
   - android
+  - apple
 localizations:
   ar: "فحوصات التأهيل في هذه الجلسة"
   de: "Qualifizierungsprüfungen in dieser Sitzung"

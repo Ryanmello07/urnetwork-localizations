@@ -1,0 +1,7 @@
+description: "Developer page: update check result when there is no stable release."
+source: "No stable release has been published yet."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "No stable release has been published yet."

@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): server name bridge c
 source: "Converge late-named flows"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "دمج التدفقات متأخرة التسمية"
   de: "Spät benannte Flows zusammenführen"

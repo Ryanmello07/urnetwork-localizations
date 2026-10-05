@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'worst loss'
 source: "The one the user actually feels"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "العطل الذي يشعر به المستخدم فعلًا"
   de: "Der, den Nutzer tatsächlich spüren"

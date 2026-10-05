@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Removal storm limit' setting."
+source: "Removal storm limit"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Removal storm limit"

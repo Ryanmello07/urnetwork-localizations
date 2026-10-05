@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): cluster affinity con
 source: "Group IPs by site"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "تجميع عناوين IP حسب الموقع"
   de: "IPs nach Website gruppieren"

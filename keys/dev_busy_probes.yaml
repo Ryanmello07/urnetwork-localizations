@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): busy probes control 
 source: "Busy probes"
 platforms:
   - android
+  - apple
 localizations:
   ar: "فحوصات الانشغال"
   de: "Busy-Prüfungen"

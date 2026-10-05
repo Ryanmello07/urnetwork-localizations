@@ -1,0 +1,8 @@
+description: "Developer page: the explanation under the 'Keep quiet providers longer' setting."
+source: "How long a provider still acknowledging traffic may return nothing before it is dropped, in ms. Off keeps them until they stop acknowledging"
+translatable: false
+platforms:
+  - linux
+  - apple
+localizations:
+  en: "How long a provider still acknowledging traffic may return nothing before it is dropped, in ms. Off keeps them until they stop acknowledging"

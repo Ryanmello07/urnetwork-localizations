@@ -2,6 +2,7 @@ description: "Split rules: validation error for a wildcard entry with nothing af
 source: "A wildcard needs a name after it, like *.example.com."
 platforms:
   - android
+  - apple
 localizations:
   ar: "يحتاج حرف البدل إلى اسم بعده، مثل *.example.com."
   cs: "Za zástupným znakem musí následovat název, například *.example.com."

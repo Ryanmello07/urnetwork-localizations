@@ -1,0 +1,7 @@
+description: "Developer page: the explanation under the 'Suspends caught' setting."
+source: "Host suspends the detector caught, each one a batch of verdicts held instead of executed on a just-resumed machine"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Host suspends the detector caught, each one a batch of verdicts held instead of executed on a just-resumed machine"

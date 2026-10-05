@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'effective t
 source: "Failing dials and survived verdicts push a provider down the ranking within a second; promotion back needs clean minutes and a proven connect"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "تؤدي محاولات الاتصال الفاشلة والأحكام التي نجا منها المزود إلى خفض ترتيبه خلال ثانية؛ ويتطلب رفعه مجددًا دقائق خالية من الأخطاء واتصالًا مُثبتًا"
   de: "Fehlgeschlagene Verbindungsversuche und überstandene Urteile stufen einen Anbieter innerhalb einer Sekunde im Ranking herab; die Rückkehr nach oben braucht fehlerfreie Minuten und einen nachweislich erfolgreichen Verbindungsaufbau"

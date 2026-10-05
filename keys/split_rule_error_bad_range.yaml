@@ -2,6 +2,7 @@ description: "Split rules: validation error for an entry that looks like an IP r
 source: "Enter an IP range like 10.0.0.0/8."
 platforms:
   - android
+  - apple
 localizations:
   ar: "أدخل نطاق IP مثل 10.0.0.0/8."
   cs: "Zadejte rozsah IP adres, například 10.0.0.0/8."

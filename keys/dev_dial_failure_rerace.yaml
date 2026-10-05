@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): dial failure rerace 
 source: "Retry refused connects elsewhere"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "إعادة محاولة الاتصالات المرفوضة عبر مخرج آخر"
   de: "Abgelehnte Verbindungen woanders erneut versuchen"

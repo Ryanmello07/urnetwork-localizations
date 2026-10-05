@@ -1,0 +1,7 @@
+description: "Developer page (Apple): the explanation under the 'Probe silence streak' setting."
+source: "How many consecutive probe passes an exit may answer with total silence before it is warned out of new-flow placement — the compensation for providers that leave the network mid-session. Placement only: removal stays traffic-based, and any sign of life clears the streak"
+translatable: false
+platforms:
+  - apple
+localizations:
+  en: "How many consecutive probe passes an exit may answer with total silence before it is warned out of new-flow placement — the compensation for providers that leave the network mid-session. Placement only: removal stays traffic-based, and any sign of life clears the streak"

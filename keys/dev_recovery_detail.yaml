@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'recovery' c
 source: "From an exit dying to that site answering again"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "من توقف المخرج حتى يستجيب ذلك الموقع مجددًا"
   de: "Vom Ausfall eines Exits, bis die Website wieder antwortet"

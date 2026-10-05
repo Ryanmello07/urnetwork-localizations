@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): affinity sticky cont
 source: "Sticky site affinity"
 platforms:
   - android
+  - apple
 localizations:
   ar: "تقارب ثابت للمواقع"
   de: "Feste Website-Affinität"

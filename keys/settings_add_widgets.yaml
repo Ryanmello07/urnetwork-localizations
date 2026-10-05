@@ -2,6 +2,7 @@ description: "Settings row that opens the widget picker to pin the app's widgets
 source: "Add Home Screen widgets"
 platforms:
   - android
+  - apple
 localizations:
   ar: "إضافة أدوات إلى الشاشة الرئيسية"
   de: "Startbildschirm-Widgets hinzufügen"

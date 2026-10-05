@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Keep quiet providers longer' setting."
+source: "Keep quiet providers longer"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Keep quiet providers longer"

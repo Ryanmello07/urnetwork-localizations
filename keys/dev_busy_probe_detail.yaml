@@ -2,6 +2,7 @@ description: "Developer tools screen: explanatory subtext under the 'busy probe'
 source: "When an exit stalls, ping it once before convicting. A congested but alive exit answers and keeps its flows; a dead one is still dropped. Off convicts on the stall bar"
 platforms:
   - android
+  - apple
 localizations:
   ar: "عندما يتوقف مخرج، يُرسل إليه ping مرة واحدة قبل إدانته. المخرج المزدحم لكنه حي يرد ويحتفظ بتدفقاته؛ أما الميت فيُسقط على أي حال. عند الإيقاف، تتم الإدانة بناءً على عتبة التوقف"
   de: "Wenn ein Exit hängt, wird er vor dem Verurteilen einmal angepingt. Ein überlasteter, aber lebendiger Exit antwortet und behält seine Flows; ein toter wird trotzdem verworfen. Aus: verurteilt allein nach der Hänger-Schwelle"

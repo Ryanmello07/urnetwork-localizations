@@ -1,0 +1,7 @@
+description: "Developer page: the explanation under the 'Probe stalled exits before dropping' setting."
+source: "When an exit stalls, ping it once before convicting. A congested but alive exit answers and keeps its flows; a dead one is still dropped"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "When an exit stalls, ping it once before convicting. A congested but alive exit answers and keeps its flows; a dead one is still dropped"

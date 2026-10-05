@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'udp teardow
 source: "Tells DNS and QUIC the path is gone instead of going silent"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "يُبلغ DNS و QUIC بأن المسار قد زال بدلًا من الصمت"
   de: "Teilt DNS und QUIC mit, dass der Pfad weg ist, statt zu verstummen"

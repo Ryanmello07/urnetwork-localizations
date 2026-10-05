@@ -2,6 +2,7 @@ description: "Developer tools screen: explanatory subtext under the 'min blackho
 source: "How many distinct destinations must be silent before an exit is convicted on no-receive, so one dead site cannot remove a working exit. Off lets a single destination convict"
 platforms:
   - android
+  - apple
 localizations:
   ar: "عدد الوجهات المختلفة التي يجب أن تكون صامتة قبل إدانة مخرج بعدم الاستقبال، كي لا يتمكن موقع ميت واحد من إزالة مخرج يعمل. عند الإيقاف، تكفي وجهة واحدة للإدانة"
   de: "Wie viele verschiedene Ziele still sein müssen, bevor ein Exit wegen fehlenden Empfangs verurteilt wird, damit eine einzelne tote Website keinen funktionierenden Exit entfernen kann. Aus: ein einzelnes Ziel reicht zur Verurteilung"

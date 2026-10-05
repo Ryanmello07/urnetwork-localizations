@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): busy probe budget co
 source: "Busy probe wait"
 platforms:
   - android
+  - apple
 localizations:
   ar: "مهلة فحص الانشغال"
   de: "Wartezeit der Busy-Prüfung"

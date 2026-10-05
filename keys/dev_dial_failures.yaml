@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): dial failures contro
 source: "Provider connect failures"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "إخفاقات اتصال المزود"
   de: "Verbindungsfehler bei Anbietern"

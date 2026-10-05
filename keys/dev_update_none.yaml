@@ -1,0 +1,7 @@
+description: "Developer page (Windows): update check result on the newest release; the version details follow in parentheses."
+source: "No update: this build is current"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "No update: this build is current"

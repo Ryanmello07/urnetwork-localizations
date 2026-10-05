@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'evaluation 
 source: "How many providers a window expansion pings and ranks per slot it needs, keeping the best. 1 evaluates exactly what it needs"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "عدد المزودين الذين يرسل إليهم توسيع النافذة ping ويرتّبهم لكل خانة يحتاجها، مع الاحتفاظ بالأفضل. القيمة 1 تقيّم العدد المطلوب بالضبط"
   de: "Wie viele Anbieter eine Fenstererweiterung pro benötigtem Slot anpingt und bewertet, wobei die besten behalten werden. 1 bewertet genau so viele wie nötig"

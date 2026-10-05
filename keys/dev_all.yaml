@@ -1,0 +1,7 @@
+description: "Developer page: what a setting's 0 means when it probes every host ('Probe hosts per pass')."
+source: "All"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "All"

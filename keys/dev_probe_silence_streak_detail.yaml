@@ -1,0 +1,7 @@
+description: "Developer page: the explanation under the 'Probe silence streak' setting."
+source: "How many consecutive probe passes an exit may answer with total silence before it is warned out of new-flow placement. Placement only"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "How many consecutive probe passes an exit may answer with total silence before it is warned out of new-flow placement. Placement only"

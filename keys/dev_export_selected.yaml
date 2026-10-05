@@ -2,6 +2,7 @@ description: "Developer tools screen: action for exporting the selected diagnost
 source: "Export selected"
 platforms:
   - android
+  - apple
 localizations:
   ar: "تصدير المحدد"
   de: "Auswahl exportieren"

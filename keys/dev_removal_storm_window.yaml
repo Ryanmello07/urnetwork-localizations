@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Removal storm window' setting."
+source: "Removal storm window"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Removal storm window"

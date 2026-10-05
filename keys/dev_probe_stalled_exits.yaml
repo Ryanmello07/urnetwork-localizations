@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Probe stalled exits before dropping' setting."
+source: "Probe stalled exits before dropping"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Probe stalled exits before dropping"

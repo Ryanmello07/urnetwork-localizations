@@ -2,6 +2,7 @@ description: "Developer tools screen: developer."
 source: "Developer"
 platforms:
   - android
+  - apple
 localizations:
   ar: "المطوّر"
   de: "Entwickler"

@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): group follow window 
 source: "Follow window"
 platforms:
   - android
+  - apple
 localizations:
   ar: "نافذة المتابعة"
   de: "Folgefenster"

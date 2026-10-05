@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'recovery mi
 source: "Sites abandoned rather than recovered"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "مواقع تم التخلي عنها بدلًا من استعادتها"
   de: "Websites, die aufgegeben statt wiederhergestellt wurden"

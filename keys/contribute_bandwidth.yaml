@@ -1,20 +1,21 @@
-description: "Used in Shared/Views/Introduction/IntroductionParticipateSettingsView.swift."
-source: "Contribute Bandwidth"
+description: "Onboarding: title of the step that asks whether this device may share bandwidth with the network (provide)."
+source: "Contribute bandwidth"
 platforms:
   - apple
+  - linux
 localizations:
   ar: "ساهم بعرض النطاق الترددي"
   cs: "Poskytněte šířku pásma"
   de: "Bandbreite bereitstellen"
   el: "Συνεισφέρετε εύρος ζώνης"
-  en: "Contribute Bandwidth"
+  en: "Contribute bandwidth"
   es: "Aportar ancho de banda"
   es-419: "Aportar ancho de banda"
   es-MX: "Aportar ancho de banda"
   fr: "Fournir de la bande passante"
   he: "תרום רוחב פס"
   hi: "बैंडविड्थ में योगदान दें"
-  id: "Sumbangkan Bandwidth"
+  id: "Sumbangkan bandwidth"
   it: "Fornisci larghezza di banda"
   ja: "帯域幅の提供"
   ko: "대역폭 제공"

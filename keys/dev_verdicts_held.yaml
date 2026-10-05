@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): verdicts held contro
 source: "Verdicts held"
 platforms:
   - android
+  - apple
 localizations:
   ar: "الأحكام المعلّقة"
   de: "Zurückgehaltene Urteile"

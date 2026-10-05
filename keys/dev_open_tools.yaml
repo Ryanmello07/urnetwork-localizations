@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): open tools control l
 source: "Open developer tools"
 platforms:
   - android
+  - apple
 localizations:
   ar: "فتح أدوات المطوّرين"
   de: "Entwicklertools öffnen"

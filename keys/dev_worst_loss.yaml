@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): worst loss control l
 source: "Worst single failure"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "أسوأ عطل منفرد"
   de: "Schlimmster Einzelausfall"

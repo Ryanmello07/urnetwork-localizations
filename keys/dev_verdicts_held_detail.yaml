@@ -2,6 +2,7 @@ description: "Developer tools screen: explanatory subtext under the 'verdicts he
 source: "Convictions withheld because the phone's own uplink, not the provider, was silent (uplink / transport)"
 platforms:
   - android
+  - apple
 localizations:
   ar: "إدانات عُلّقت لأن الوصلة الصاعدة للهاتف نفسه، وليس المزود، كانت صامتة (الوصلة الصاعدة / بروتوكول النقل)"
   de: "Verurteilungen, die zurückgehalten wurden, weil der eigene Uplink des Telefons und nicht der Anbieter still war (Uplink / Transport)"

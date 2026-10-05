@@ -2,6 +2,7 @@ description: "Developer tools screen: explanatory subtext under the 'scheduler p
 source: "Host suspends the detector caught, each one a batch of verdicts held instead of executed on a just-resumed phone"
 platforms:
   - android
+  - apple
 localizations:
   ar: "حالات تعليق المضيف التي رصدها الكاشف، وكل منها دفعة من الأحكام عُلّقت بدلًا من تنفيذها على هاتف استُؤنف للتو"
   de: "Vom Detektor erkannte Ruhezustände des Hosts; jeder davon ist ein Stapel Urteile, der auf einem gerade aufgewachten Telefon zurückgehalten statt vollstreckt wurde"

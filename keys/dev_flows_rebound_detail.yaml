@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'flows rebou
 source: "Flows moved to a warm exit inside a removal; accepted means the server took the path change without a re-dial"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "تدفقات نُقلت إلى مخرج جاهز أثناء عملية إزالة؛ «مقبول» يعني أن الخادم قبل تغيير المسار دون إعادة اتصال"
   de: "Flows, die während einer Entfernung auf einen warmen Exit verschoben wurden; akzeptiert heißt, der Server hat den Pfadwechsel ohne neuen Verbindungsaufbau übernommen"

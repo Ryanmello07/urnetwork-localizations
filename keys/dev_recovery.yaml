@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): recovery control lab
 source: "Recovery time"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "وقت الاستعادة"
   de: "Wiederherstellungszeit"

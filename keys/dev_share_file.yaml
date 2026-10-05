@@ -1,0 +1,10 @@
+description: "Developer page (Apple): button that shares an exported log file. {name} is the file name."
+source: "Share %@"
+translatable: false
+platforms:
+  - apple
+placeholders:
+  - name: name
+    type: string
+localizations:
+  en: "Share {name}"

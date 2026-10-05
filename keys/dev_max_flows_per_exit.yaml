@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): max flows per exit c
 source: "Max connections per exit"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "الحد الأقصى للاتصالات لكل مخرج"
   de: "Max. Verbindungen pro Exit"

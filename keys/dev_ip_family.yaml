@@ -3,5 +3,6 @@ source: "Control connections"
 translatable: false
 platforms:
   - android
+  - apple
 localizations:
   en: "Control connections"

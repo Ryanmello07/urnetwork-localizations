@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): effective tier contr
 source: "Live tier demotion"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "خفض الفئة فوريًا"
   de: "Stufen-Herabstufung in Echtzeit"

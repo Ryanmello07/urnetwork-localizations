@@ -1,0 +1,37 @@
+description: "Update notice title (Linux Settings, Windows update banner): a newer release is available. {version} is the release version, for example 2026.10.5-1024555910; keep the \"v\" before it."
+source: "Update available: v{version}"
+platforms:
+  - linux
+  - windows
+placeholders:
+  - name: version
+    type: string
+localizations:
+  ar: "يتوفر تحديث: v{version}"
+  cs: "Je k dispozici aktualizace: v{version}"
+  de: "Update verfügbar: v{version}"
+  el: "Διαθέσιμη ενημέρωση: v{version}"
+  en: "Update available: v{version}"
+  es: "Actualización disponible: v{version}"
+  es-419: "Actualización disponible: v{version}"
+  es-MX: "Actualización disponible: v{version}"
+  fr: "Mise à jour disponible : v{version}"
+  he: "יש עדכון זמין: v{version}"
+  hi: "अपडेट उपलब्ध है: v{version}"
+  id: "Pembaruan tersedia: v{version}"
+  it: "Aggiornamento disponibile: v{version}"
+  ja: "アップデートがあります: v{version}"
+  ko: "업데이트 사용 가능: v{version}"
+  nl: "Update beschikbaar: v{version}"
+  pl: "Dostępna aktualizacja: v{version}"
+  pt: "Atualização disponível: v{version}"
+  pt-BR: "Atualização disponível: v{version}"
+  pt-PT: "Atualização disponível: v{version}"
+  ru: "Доступно обновление: v{version}"
+  sv: "Uppdatering tillgänglig: v{version}"
+  sw: "Sasisho linapatikana: v{version}"
+  th: "มีอัปเดต: v{version}"
+  uk: "Доступне оновлення: v{version}"
+  vi: "Có bản cập nhật: v{version}"
+  zh: "有可用更新：v{version}"
+  zh-HK: "有可用更新：v{version}"

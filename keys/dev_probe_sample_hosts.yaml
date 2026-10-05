@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): probe sample hosts c
 source: "Probe hosts per pass"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "المضيفون المفحوصون في كل جولة"
   de: "Prüf-Hosts pro Durchlauf"

@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Release stuck retransmits' setting."
+source: "Release stuck retransmits"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Release stuck retransmits"

@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'dial failur
 source: "Times a provider reported it could not open the upstream connection"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "عدد المرات التي أبلغ فيها المزود بأنه لم يتمكن من فتح الاتصال بالوجهة"
   de: "Wie oft ein Anbieter gemeldet hat, dass er die Upstream-Verbindung nicht öffnen konnte"

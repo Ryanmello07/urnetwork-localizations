@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): probe providers cont
 source: "Probe providers"
 platforms:
   - android
+  - apple
 localizations:
   ar: "فحص المزودين"
   de: "Anbieter prüfen"

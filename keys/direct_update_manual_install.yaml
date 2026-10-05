@@ -1,0 +1,36 @@
+description: "macOS Settings > Software update status when the app could not replace itself. {version} is the downloaded release's version."
+source: "%@ was downloaded and verified. Drag the new URnetwork into the Applications folder, then open it from there."
+platforms:
+  - apple
+placeholders:
+  - name: version
+    type: string
+localizations:
+  ar: "تم تنزيل {version} والتحقق منه. اسحب URnetwork الجديد إلى مجلد التطبيقات، ثم افتحه من هناك."
+  cs: "Verze {version} byla stažena a ověřena. Přetáhněte novou aplikaci URnetwork do složky Aplikace a otevřete ji odtud."
+  de: "{version} wurde heruntergeladen und geprüft. Ziehe das neue URnetwork in den Ordner „Programme“ und öffne es dann von dort."
+  el: "Η {version} λήφθηκε και επαληθεύτηκε. Σύρετε το νέο URnetwork στον φάκελο Εφαρμογές και ανοίξτε το από εκεί."
+  en: "{version} was downloaded and verified. Drag the new URnetwork into the Applications folder, then open it from there."
+  es: "{version} se descargó y verificó. Arrastra el nuevo URnetwork a la carpeta Aplicaciones y ábrelo desde allí."
+  es-419: "{version} se descargó y verificó. Arrastra el nuevo URnetwork a la carpeta Aplicaciones y ábrelo desde allí."
+  es-MX: "{version} se descargó y verificó. Arrastra el nuevo URnetwork a la carpeta Aplicaciones y ábrelo desde allí."
+  fr: "{version} a été téléchargée et vérifiée. Faites glisser le nouvel URnetwork dans le dossier Applications, puis ouvrez-le depuis cet emplacement."
+  he: "{version} הורדה ואומתה. גררו את URnetwork החדש לתיקייה ״יישומים״ ופתחו אותו משם."
+  hi: "{version} डाउनलोड और सत्यापित हो गया। नए URnetwork को ऐप्लिकेशन फ़ोल्डर में खींचें, फिर वहीं से खोलें।"
+  id: "{version} sudah diunduh dan diverifikasi. Seret URnetwork yang baru ke folder Aplikasi, lalu buka dari sana."
+  it: "{version} è stata scaricata e verificata. Trascina il nuovo URnetwork nella cartella Applicazioni, poi aprilo da lì."
+  ja: "{version} をダウンロードして検証しました。新しい URnetwork を「アプリケーション」フォルダにドラッグし、そこから開いてください。"
+  ko: "{version}을(를) 다운로드하고 확인했습니다. 새 URnetwork를 응용 프로그램 폴더로 드래그한 다음 그곳에서 여세요."
+  nl: "{version} is gedownload en gecontroleerd. Sleep de nieuwe URnetwork naar de map Apps en open hem vanaf daar."
+  pl: "Wersja {version} została pobrana i zweryfikowana. Przeciągnij nowy URnetwork do folderu Aplikacje, a następnie otwórz go stamtąd."
+  pt: "{version} foi baixada e verificada. Arraste a nova URnetwork para a pasta Aplicativos e abra-a a partir de lá."
+  pt-BR: "{version} foi baixada e verificada. Arraste a nova URnetwork para a pasta Aplicativos e abra-a a partir de lá."
+  pt-PT: "{version} foi transferida e verificada. Arraste a nova URnetwork para a pasta Aplicações e abra-a a partir daí."
+  ru: "Версия {version} загружена и проверена. Перетащите новый URnetwork в папку «Программы» и откройте его оттуда."
+  sv: "{version} har hämtats och verifierats. Dra den nya URnetwork till mappen Program och öppna den sedan därifrån."
+  sw: "{version} imepakuliwa na kuthibitishwa. Buruta URnetwork mpya kwenye folda ya Applications, kisha uifungue kutoka hapo."
+  th: "ดาวน์โหลดและตรวจสอบ {version} แล้ว ลาก URnetwork ตัวใหม่ไปไว้ในโฟลเดอร์แอปพลิเคชัน แล้วเปิดจากที่นั่น"
+  uk: "Версію {version} завантажено й перевірено. Перетягніть новий URnetwork у папку «Програми» й відкрийте його звідти."
+  vi: "{version} đã được tải về và xác minh. Kéo URnetwork mới vào thư mục Ứng dụng, rồi mở từ đó."
+  zh: "{version} 已下载并验证。请将新的 URnetwork 拖到“应用程序”文件夹，然后从那里打开。"
+  zh-HK: "{version} 已下載並驗證。請將新的 URnetwork 拖到「應用程式」資料夾，然後從那裡開啟。"

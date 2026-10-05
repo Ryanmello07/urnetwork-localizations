@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): reset defaults contr
 source: "Reset to shipped defaults"
 platforms:
   - android
+  - apple
 localizations:
   ar: "إعادة التعيين إلى الإعدادات الافتراضية الأصلية"
   de: "Auf Werkseinstellungen zurücksetzen"

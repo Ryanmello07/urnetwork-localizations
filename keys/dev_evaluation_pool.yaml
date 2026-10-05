@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): evaluation pool cont
 source: "Candidates evaluated per slot"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "المرشحون المُقيَّمون لكل خانة"
   de: "Bewertete Kandidaten pro Slot"

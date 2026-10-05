@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): busy probe control l
 source: "Probe stalled exits before dropping"
 platforms:
   - android
+  - apple
 localizations:
   ar: "فحص المخارج المتوقفة قبل إسقاطها"
   de: "Hängende Exits vor dem Verwerfen prüfen"

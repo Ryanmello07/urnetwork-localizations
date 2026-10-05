@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'dial failur
 source: "When a provider can't reach a site, move the connection to another exit instead of letting it hang"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "عندما يتعذّر على المزود الوصول إلى موقع، يُنقل الاتصال إلى مخرج آخر بدلًا من تركه معلّقًا"
   de: "Wenn ein Anbieter eine Website nicht erreicht, wird die Verbindung auf einen anderen Exit verlegt, statt sie hängen zu lassen"

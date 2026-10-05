@@ -1,0 +1,8 @@
+description: "Developer page: the explanation under the 'Suspend recovery window' setting."
+source: "How long verdicts stay held after a detected suspend, in ms, giving transports time to re-register. Off uses the built-in 5s"
+translatable: false
+platforms:
+  - linux
+  - apple
+localizations:
+  en: "How long verdicts stay held after a detected suspend, in ms, giving transports time to re-register. Off uses the built-in 5s"

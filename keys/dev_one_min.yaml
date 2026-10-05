@@ -1,0 +1,7 @@
+description: "Developer page: what a setting's 0 means when it falls back to the minimum of 1 ('Candidates evaluated per slot')."
+source: "1 (min)"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "1 (min)"

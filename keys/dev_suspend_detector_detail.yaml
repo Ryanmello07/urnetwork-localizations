@@ -1,0 +1,7 @@
+description: "Developer page: the explanation under the 'Suspend detector' setting."
+source: "How much timer overshoot reads as the machine being suspended rather than an exit stalling, in ms, so a resumed machine does not convict every exit at once. Off disables it"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "How much timer overshoot reads as the machine being suspended rather than an exit stalling, in ms, so a resumed machine does not convict every exit at once. Off disables it"

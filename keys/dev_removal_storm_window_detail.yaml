@@ -1,0 +1,8 @@
+description: "Developer page: the explanation under the 'Removal storm window' setting."
+source: "The window the removal limit is counted over, in ms. Off (like a limit of 0) turns the breaker off"
+translatable: false
+platforms:
+  - linux
+  - apple
+localizations:
+  en: "The window the removal limit is counted over, in ms. Off (like a limit of 0) turns the breaker off"

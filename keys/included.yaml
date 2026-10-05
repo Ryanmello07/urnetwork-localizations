@@ -2,6 +2,7 @@ description: "transfer stats and split rules"
 source: "Included"
 platforms:
   - android
+  - apple
 localizations:
   ar: "مشمول"
   cs: "Zahrnuto"

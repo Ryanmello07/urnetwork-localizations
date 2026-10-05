@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): send stall control l
 source: "Drop stalled exits fast"
 platforms:
   - android
+  - apple
 localizations:
   ar: "إسقاط المخارج المتوقفة بسرعة"
   de: "Hängende Exits schnell verwerfen"

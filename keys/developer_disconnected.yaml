@@ -2,6 +2,7 @@ description: "Developer tools screen: developer disconnected."
 source: "Connect to use these tools."
 platforms:
   - android
+  - windows
 localizations:
   ar: "اتصل لاستخدام هذه الأدوات."
   de: "Verbinde dich, um diese Werkzeuge zu nutzen."

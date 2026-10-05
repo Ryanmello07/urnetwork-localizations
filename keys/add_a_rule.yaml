@@ -2,6 +2,7 @@ description: "Split rules: the button (and its icon's accessibility label) that 
 source: "Add a rule"
 platforms:
   - android
+  - apple
 localizations:
   ar: "إضافة قاعدة"
   cs: "Přidat pravidlo"

@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): uplink gate control 
 source: "Uplink silence gate"
 platforms:
   - android
+  - apple
 localizations:
   ar: "بوابة صمت الوصلة الصاعدة"
   de: "Uplink-Stille-Sperre"

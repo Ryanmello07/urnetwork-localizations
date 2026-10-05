@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): measurements control
 source: "Measurements"
 platforms:
   - android
+  - apple
 localizations:
   ar: "القياسات"
   de: "Messungen"

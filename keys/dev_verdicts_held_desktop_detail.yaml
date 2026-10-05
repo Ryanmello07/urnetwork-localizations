@@ -1,0 +1,7 @@
+description: "Developer page: the explanation under the 'Verdicts held' measurement (desktop wording)."
+source: "Convictions withheld because this machine's own uplink, not the provider, was silent (uplink / transport)"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Convictions withheld because this machine's own uplink, not the provider, was silent (uplink / transport)"

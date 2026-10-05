@@ -1,0 +1,36 @@
+description: "macOS Settings > Software update error. {detail} is a short technical reason."
+source: "The download failed: %@"
+platforms:
+  - apple
+placeholders:
+  - name: detail
+    type: string
+localizations:
+  ar: "فشل التنزيل: {detail}"
+  cs: "Stahování selhalo: {detail}"
+  de: "Der Download ist fehlgeschlagen: {detail}"
+  el: "Η λήψη απέτυχε: {detail}"
+  en: "The download failed: {detail}"
+  es: "La descarga falló: {detail}"
+  es-419: "La descarga falló: {detail}"
+  es-MX: "La descarga falló: {detail}"
+  fr: "Le téléchargement a échoué : {detail}"
+  he: "ההורדה נכשלה: {detail}"
+  hi: "डाउनलोड विफल रहा: {detail}"
+  id: "Unduhan gagal: {detail}"
+  it: "Il download non è riuscito: {detail}"
+  ja: "ダウンロードに失敗しました: {detail}"
+  ko: "다운로드 실패: {detail}"
+  nl: "De download is mislukt: {detail}"
+  pl: "Pobieranie nie powiodło się: {detail}"
+  pt: "O download falhou: {detail}"
+  pt-BR: "O download falhou: {detail}"
+  pt-PT: "A transferência falhou: {detail}"
+  ru: "Загрузка не удалась: {detail}"
+  sv: "Nedladdningen misslyckades: {detail}"
+  sw: "Upakuaji umeshindwa: {detail}"
+  th: "ดาวน์โหลดล้มเหลว: {detail}"
+  uk: "Не вдалося завантажити: {detail}"
+  vi: "Tải xuống thất bại: {detail}"
+  zh: "下载失败：{detail}"
+  zh-HK: "下載失敗：{detail}"

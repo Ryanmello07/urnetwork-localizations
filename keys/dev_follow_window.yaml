@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Follow window' setting."
+source: "Follow window"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Follow window"

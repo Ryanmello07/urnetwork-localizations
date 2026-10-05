@@ -1,0 +1,8 @@
+description: "Developer page: the explanation under the 'Release stuck retransmits' setting."
+source: "How long retransmits are held before one is released, in ms. Off waits 30s"
+translatable: false
+platforms:
+  - linux
+  - apple
+localizations:
+  en: "How long retransmits are held before one is released, in ms. Off waits 30s"

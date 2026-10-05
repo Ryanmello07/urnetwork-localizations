@@ -1,0 +1,7 @@
+description: "Developer page (Apple): the explanation under the 'Follow window' setting, with its unit."
+source: "How long into a bench a site's new connections keep following their exit, in ms — early benches are usually false alarms; one that lasts is trending toward removal and stops collecting flows. Off scatters immediately"
+translatable: false
+platforms:
+  - apple
+localizations:
+  en: "How long into a bench a site's new connections keep following their exit, in ms — early benches are usually false alarms; one that lasts is trending toward removal and stops collecting flows. Off scatters immediately"

@@ -1,0 +1,10 @@
+description: "Developer page: update check result on the newest release. {version} is the release version."
+source: "Up to date. Newest release: v{version}"
+translatable: false
+platforms:
+  - linux
+placeholders:
+  - name: version
+    type: string
+localizations:
+  en: "Up to date. Newest release: v{version}"

@@ -2,6 +2,7 @@ description: "Developer tools screen: explanatory subtext under the 'removal bud
 source: "How many verdict removals are allowed per window before the rest are deferred; a burst is more likely one local cause than many failures. Off removes without limit"
 platforms:
   - android
+  - apple
 localizations:
   ar: "عدد عمليات الإزالة بموجب الأحكام المسموح بها في كل نافذة قبل تأجيل الباقي؛ فالموجة المفاجئة غالبًا ما يكون سببها محليًا واحدًا لا أعطالًا كثيرة. عند الإيقاف، تتم الإزالة دون حد"
   de: "Wie viele Entfernungen durch Urteile pro Fenster erlaubt sind, bevor der Rest zurückgestellt wird; eine Häufung hat eher eine lokale Ursache als viele Ausfälle. Aus: entfernt ohne Limit"

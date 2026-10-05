@@ -1,0 +1,8 @@
+description: "Developer page: the explanation under the 'Cut dead connects early' setting."
+source: "Drop an exit that has established nothing sooner when two sibling exits are receiving, in ms. Off waits the full 30s connect bar"
+translatable: false
+platforms:
+  - linux
+  - apple
+localizations:
+  en: "Drop an exit that has established nothing sooner when two sibling exits are receiving, in ms. Off waits the full 30s connect bar"

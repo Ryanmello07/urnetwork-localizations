@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): reset measurements c
 source: "Reset measurements"
 platforms:
   - android
+  - apple
 localizations:
   ar: "إعادة تعيين القياسات"
   de: "Messungen zurücksetzen"

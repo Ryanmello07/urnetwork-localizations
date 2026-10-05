@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Cut dead connects early' setting."
+source: "Cut dead connects early"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Cut dead connects early"

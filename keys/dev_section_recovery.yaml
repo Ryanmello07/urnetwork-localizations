@@ -2,6 +2,9 @@ description: "Developer tools screen: section heading for the recovery controls.
 source: "Recovery"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "الاستعادة"
   de: "Wiederherstellung"

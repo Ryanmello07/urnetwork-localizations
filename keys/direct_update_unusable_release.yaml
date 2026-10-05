@@ -1,0 +1,38 @@
+description: "macOS Settings > Software update error when the newest release has no file this app can install. {version} is the release version; {reason} is a short technical reason."
+source: "Release %@ cannot be installed by the app (%@)."
+platforms:
+  - apple
+placeholders:
+  - name: version
+    type: string
+  - name: reason
+    type: string
+localizations:
+  ar: "لا يمكن للتطبيق تثبيت الإصدار {version} ({reason})."
+  cs: "Vydání {version} nemůže aplikace nainstalovat ({reason})."
+  de: "Version {version} kann von der App nicht installiert werden ({reason})."
+  el: "Η έκδοση {version} δεν μπορεί να εγκατασταθεί από την εφαρμογή ({reason})."
+  en: "Release {version} cannot be installed by the app ({reason})."
+  es: "La app no puede instalar la versión {version} ({reason})."
+  es-419: "La app no puede instalar la versión {version} ({reason})."
+  es-MX: "La app no puede instalar la versión {version} ({reason})."
+  fr: "La version {version} ne peut pas être installée par l’application ({reason})."
+  he: "האפליקציה לא יכולה להתקין את הגרסה {version} ({reason})."
+  hi: "रिलीज़ {version} को ऐप इंस्टॉल नहीं कर सकता ({reason})।"
+  id: "Rilis {version} tidak dapat dipasang oleh aplikasi ({reason})."
+  it: "La versione {version} non può essere installata dall’app ({reason})."
+  ja: "リリース {version} はアプリでインストールできません({reason})。"
+  ko: "앱에서 릴리스 {version}을(를) 설치할 수 없습니다({reason})."
+  nl: "Release {version} kan niet door de app worden geïnstalleerd ({reason})."
+  pl: "Aplikacja nie może zainstalować wydania {version} ({reason})."
+  pt: "A versão {version} não pode ser instalada pelo app ({reason})."
+  pt-BR: "A versão {version} não pode ser instalada pelo app ({reason})."
+  pt-PT: "A versão {version} não pode ser instalada pela app ({reason})."
+  ru: "Выпуск {version} не может быть установлен приложением ({reason})."
+  sv: "Version {version} kan inte installeras av appen ({reason})."
+  sw: "Toleo {version} haliwezi kusakinishwa na programu ({reason})."
+  th: "แอปติดตั้งรุ่น {version} ไม่ได้ ({reason})"
+  uk: "Випуск {version} не може бути встановлений застосунком ({reason})."
+  vi: "Ứng dụng không thể cài đặt bản phát hành {version} ({reason})."
+  zh: "应用无法安装版本 {version}（{reason}）。"
+  zh-HK: "應用程式無法安裝版本 {version}（{reason}）。"

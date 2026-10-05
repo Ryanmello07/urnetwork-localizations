@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): min blackhole destin
 source: "Corroborate silent exits"
 platforms:
   - android
+  - apple
 localizations:
   ar: "التحقق من المخارج الصامتة"
   de: "Stille Exits gegenprüfen"

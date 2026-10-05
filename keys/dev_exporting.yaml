@@ -2,6 +2,7 @@ description: "Developer tools screen: progress label shown while a diagnostic bu
 source: "Exporting…"
 platforms:
   - android
+  - apple
 localizations:
   ar: "جارٍ التصدير…"
   de: "Wird exportiert…"

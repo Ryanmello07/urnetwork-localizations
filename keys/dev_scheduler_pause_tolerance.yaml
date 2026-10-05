@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): scheduler pause tole
 source: "Suspend detector"
 platforms:
   - android
+  - apple
 localizations:
   ar: "كاشف التعليق"
   de: "Ruhezustandserkennung"

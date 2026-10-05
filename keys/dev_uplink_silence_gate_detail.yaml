@@ -1,0 +1,8 @@
+description: "Developer page: the explanation under the 'Uplink silence gate' setting."
+source: "How long the whole tunnel may be silent before provider verdicts are held as inadmissible, in ms. 0 convicts as before"
+translatable: false
+platforms:
+  - linux
+  - apple
+localizations:
+  en: "How long the whole tunnel may be silent before provider verdicts are held as inadmissible, in ms. 0 convicts as before"

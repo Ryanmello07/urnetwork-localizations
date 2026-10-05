@@ -2,6 +2,7 @@ description: "Developer tools screen: section heading for diagnostic log control
 source: "Diagnostics"
 platforms:
   - android
+  - apple
 localizations:
   ar: "التشخيص"
   de: "Diagnose"

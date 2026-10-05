@@ -1,0 +1,8 @@
+description: "Developer page: last-action report after moving an exit's flows to another exit; the exit's short id follows."
+source: "Migrated exit"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Migrated exit"

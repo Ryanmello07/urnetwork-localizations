@@ -2,6 +2,8 @@ description: "Developer tools screen (reliability surface): stall exit control l
 source: "Stall"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "إيقاف"
   de: "Hängen lassen"

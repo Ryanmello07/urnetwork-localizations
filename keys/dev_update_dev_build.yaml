@@ -1,0 +1,10 @@
+description: "Developer page: update check result on a development build. {version} is the newest release version."
+source: "Development build: the newest release is v{version}, and a development build is never updated automatically."
+translatable: false
+platforms:
+  - linux
+placeholders:
+  - name: version
+    type: string
+localizations:
+  en: "Development build: the newest release is v{version}, and a development build is never updated automatically."

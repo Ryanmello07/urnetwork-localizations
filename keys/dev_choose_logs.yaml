@@ -2,6 +2,7 @@ description: "Developer tools screen: action for choosing individual log files t
 source: "Choose logs…"
 platforms:
   - android
+  - apple
 localizations:
   ar: "اختيار السجلات…"
   de: "Logs auswählen…"

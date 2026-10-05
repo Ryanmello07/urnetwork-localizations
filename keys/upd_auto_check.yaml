@@ -2,6 +2,7 @@ description: "Settings: switch that checks for updates automatically."
 source: "Check for updates automatically"
 platforms:
   - linux
+  - apple
 localizations:
   ar: "التحقق من التحديثات تلقائيًا"
   cs: "Kontrolovat aktualizace automaticky"

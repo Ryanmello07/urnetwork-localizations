@@ -2,6 +2,7 @@ description: "Developer tools screen: action for exporting diagnostic logs with 
 source: "Export redacted logs"
 platforms:
   - android
+  - apple
 localizations:
   ar: "تصدير السجلات المنقّحة"
   de: "Bereinigte Logs exportieren"

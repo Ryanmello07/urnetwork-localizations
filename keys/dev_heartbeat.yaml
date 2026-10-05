@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): heartbeat control la
 source: "State heartbeat"
 platforms:
   - android
+  - apple
 localizations:
   ar: "نبض الحالة"
   de: "Status-Heartbeat"

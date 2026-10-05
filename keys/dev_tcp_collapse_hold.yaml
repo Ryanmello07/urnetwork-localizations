@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): tcp collapse hold co
 source: "Release stuck retransmits"
 platforms:
   - android
+  - apple
 localizations:
   ar: "تحرير عمليات إعادة الإرسال العالقة"
   de: "Hängende Neuübertragungen freigeben"

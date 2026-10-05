@@ -1,0 +1,7 @@
+description: "Transport name: HTTP/1.1 over TLS. A protocol name; never translated."
+source: "H1"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "H1"

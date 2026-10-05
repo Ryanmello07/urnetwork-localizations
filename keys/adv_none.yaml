@@ -2,6 +2,7 @@ description: "Connection inspector: value shown when a field has nothing."
 source: "none"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لا شيء"
   cs: "žádný"

@@ -1,0 +1,7 @@
+description: "Developer page (Windows): prefix of the update check result on a development build; the version follows."
+source: "Newest release is"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "Newest release is"

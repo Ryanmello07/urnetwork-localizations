@@ -1,0 +1,7 @@
+description: "Transport name: HTTP/3 over QUIC. A protocol name; never translated."
+source: "H3"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "H3"

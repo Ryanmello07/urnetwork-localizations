@@ -1,0 +1,8 @@
+description: "Developer page: the explanation under the 'Busy probe wait' setting."
+source: "How long the stall probe waits for an answer before convicting, in ms. Off derives half the stall bar"
+translatable: false
+platforms:
+  - linux
+  - apple
+localizations:
+  en: "How long the stall probe waits for an answer before convicting, in ms. Off derives half the stall bar"

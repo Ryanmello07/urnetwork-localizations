@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): formation poll contr
 source: "Fast first-exit poll"
 platforms:
   - android
+  - apple
 localizations:
   ar: "استطلاع سريع لأول مخرج"
   de: "Schnelle Abfrage des ersten Exits"

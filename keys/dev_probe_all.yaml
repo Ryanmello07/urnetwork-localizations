@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): probe all control la
 source: "Probe all exits now"
 platforms:
   - android
+  - apple
 localizations:
   ar: "فحص كل المخارج الآن"
   de: "Alle Exits jetzt prüfen"

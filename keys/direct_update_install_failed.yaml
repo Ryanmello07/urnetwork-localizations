@@ -1,0 +1,36 @@
+description: "macOS Settings > Software update error. {detail} is a short technical reason."
+source: "The update could not be installed: %@"
+platforms:
+  - apple
+placeholders:
+  - name: detail
+    type: string
+localizations:
+  ar: "تعذّر تثبيت التحديث: {detail}"
+  cs: "Aktualizaci se nepodařilo nainstalovat: {detail}"
+  de: "Das Update konnte nicht installiert werden: {detail}"
+  el: "Δεν ήταν δυνατή η εγκατάσταση της ενημέρωσης: {detail}"
+  en: "The update could not be installed: {detail}"
+  es: "No se pudo instalar la actualización: {detail}"
+  es-419: "No se pudo instalar la actualización: {detail}"
+  es-MX: "No se pudo instalar la actualización: {detail}"
+  fr: "La mise à jour n’a pas pu être installée : {detail}"
+  he: "לא ניתן היה להתקין את העדכון: {detail}"
+  hi: "अपडेट इंस्टॉल नहीं हो सका: {detail}"
+  id: "Pembaruan tidak dapat dipasang: {detail}"
+  it: "Impossibile installare l’aggiornamento: {detail}"
+  ja: "アップデートをインストールできませんでした: {detail}"
+  ko: "업데이트를 설치할 수 없습니다: {detail}"
+  nl: "De update kan niet worden geïnstalleerd: {detail}"
+  pl: "Nie udało się zainstalować aktualizacji: {detail}"
+  pt: "Não foi possível instalar a atualização: {detail}"
+  pt-BR: "Não foi possível instalar a atualização: {detail}"
+  pt-PT: "Não foi possível instalar a atualização: {detail}"
+  ru: "Не удалось установить обновление: {detail}"
+  sv: "Uppdateringen kunde inte installeras: {detail}"
+  sw: "Sasisho halikuweza kusakinishwa: {detail}"
+  th: "ติดตั้งอัปเดตไม่ได้: {detail}"
+  uk: "Не вдалося встановити оновлення: {detail}"
+  vi: "Không thể cài đặt bản cập nhật: {detail}"
+  zh: "无法安装更新：{detail}"
+  zh-HK: "無法安裝更新：{detail}"

@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): flows rebound contro
 source: "QUIC flows rebound"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "تدفقات QUIC المُعاد ربطها"
   de: "Neu gebundene QUIC-Flows"

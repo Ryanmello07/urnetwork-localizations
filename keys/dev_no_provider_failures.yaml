@@ -3,5 +3,6 @@ source: "No provider failures yet."
 translatable: false
 platforms:
   - linux
+  - apple
 localizations:
   en: "No provider failures yet."

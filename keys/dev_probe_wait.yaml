@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Probe wait' setting."
+source: "Probe wait"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Probe wait"

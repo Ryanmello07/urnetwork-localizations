@@ -1,7 +1,8 @@
-description: "Connection inspector: label of the raw status row."
+description: "Connection inspector (Linux) and Advanced Mode status strip (Windows): label of the raw status field."
 source: "Raw status"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الحالة الخام"
   cs: "Surový stav"

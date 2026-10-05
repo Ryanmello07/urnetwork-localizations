@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'soft verdic
 source: "Ambiguous verdicts bench an exit instead of tearing down its flows; removal needs sustained evidence or an empty exit"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "الأحكام الملتبسة تحجر المخرج بدلًا من قطع تدفقاته؛ وتتطلب الإزالة أدلة مستمرة أو مخرجًا فارغًا"
   de: "Mehrdeutige Urteile setzen einen Exit auf die Ersatzbank, statt seine Flows abzubauen; für eine Entfernung braucht es anhaltende Hinweise oder einen leeren Exit"

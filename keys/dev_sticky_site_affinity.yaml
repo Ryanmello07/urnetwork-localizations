@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Sticky site affinity' setting."
+source: "Sticky site affinity"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Sticky site affinity"

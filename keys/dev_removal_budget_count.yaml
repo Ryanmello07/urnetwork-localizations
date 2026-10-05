@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): removal budget count
 source: "Removal storm limit"
 platforms:
   - android
+  - apple
 localizations:
   ar: "حد عاصفة الإزالة"
   de: "Limit für Entfernungsstürme"

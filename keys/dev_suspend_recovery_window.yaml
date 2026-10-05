@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Suspend recovery window' setting."
+source: "Suspend recovery window"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Suspend recovery window"

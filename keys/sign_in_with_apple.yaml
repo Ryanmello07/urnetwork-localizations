@@ -5,6 +5,7 @@ platforms:
   - windows
   - linux
   - site
+  - apple
 localizations:
   ar: "تسجيل الدخول باستخدام Apple"
   de: "Mit Apple anmelden"

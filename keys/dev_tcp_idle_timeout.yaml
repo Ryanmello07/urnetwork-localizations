@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): tcp idle timeout con
 source: "Longer TCP idle timeout"
 platforms:
   - android
+  - apple
 localizations:
   ar: "مهلة خمول أطول لـ TCP"
   de: "Längeres TCP-Leerlauf-Timeout"

@@ -1,0 +1,38 @@
+description: "Plan picker terms line for the yearly plan with a first-year offer and no free trial. {first_year_price} and {yearly_price} are formatted prices, for example $39.99."
+source: "%@ for your first year, then %@/year. Cancel anytime."
+platforms:
+  - apple
+placeholders:
+  - name: first_year_price
+    type: string
+  - name: yearly_price
+    type: string
+localizations:
+  ar: "{first_year_price} للسنة الأولى، ثم {yearly_price}/سنة. ألغِ في أي وقت."
+  cs: "{first_year_price} za první rok, potom {yearly_price}/rok. Zrušit můžete kdykoli."
+  de: "{first_year_price} im ersten Jahr, danach {yearly_price}/Jahr. Jederzeit kündbar."
+  el: "{first_year_price} για τον πρώτο χρόνο, μετά {yearly_price}/έτος. Ακύρωση οποιαδήποτε στιγμή."
+  en: "{first_year_price} for your first year, then {yearly_price}/year. Cancel anytime."
+  es: "{first_year_price} el primer año y después {yearly_price}/año. Cancela cuando quieras."
+  es-419: "{first_year_price} el primer año y después {yearly_price}/año. Cancela cuando quieras."
+  es-MX: "{first_year_price} el primer año y después {yearly_price}/año. Cancela cuando quieras."
+  fr: "{first_year_price} la première année, puis {yearly_price}/an. Annulable à tout moment."
+  he: "{first_year_price} לשנה הראשונה, ואחר כך {yearly_price} לשנה. אפשר לבטל בכל עת."
+  hi: "पहले साल के लिए {first_year_price}, फिर {yearly_price}/साल। कभी भी रद्द करें।"
+  id: "{first_year_price} untuk tahun pertama Anda, lalu {yearly_price}/tahun. Batalkan kapan saja."
+  it: "{first_year_price} per il primo anno, poi {yearly_price}/anno. Annulla quando vuoi."
+  ja: "最初の 1 年は {first_year_price}、その後は {yearly_price}/年。いつでもキャンセルできます。"
+  ko: "첫해 {first_year_price}, 이후 {yearly_price}/년. 언제든지 취소할 수 있습니다."
+  nl: "{first_year_price} voor je eerste jaar, daarna {yearly_price}/jaar. Altijd opzegbaar."
+  pl: "{first_year_price} za pierwszy rok, potem {yearly_price}/rok. Anuluj w dowolnym momencie."
+  pt: "{first_year_price} no primeiro ano, depois {yearly_price}/ano. Cancele quando quiser."
+  pt-BR: "{first_year_price} no primeiro ano, depois {yearly_price}/ano. Cancele quando quiser."
+  pt-PT: "{first_year_price} no primeiro ano, depois {yearly_price}/ano. Cancele quando quiser."
+  ru: "{first_year_price} за первый год, затем {yearly_price}/год. Отменить можно в любой момент."
+  sv: "{first_year_price} för ditt första år, sedan {yearly_price}/år. Avsluta när som helst."
+  sw: "{first_year_price} kwa mwaka wako wa kwanza, kisha {yearly_price}/mwaka. Ghairi wakati wowote."
+  th: "{first_year_price} สำหรับปีแรก จากนั้น {yearly_price}/ปี ยกเลิกได้ทุกเมื่อ"
+  uk: "{first_year_price} за перший рік, потім {yearly_price}/рік. Скасувати можна будь-коли."
+  vi: "{first_year_price} cho năm đầu tiên, sau đó {yearly_price}/năm. Hủy bất cứ lúc nào."
+  zh: "首年 {first_year_price}，之后 {yearly_price}/年。可随时取消。"
+  zh-HK: "首年 {first_year_price}，之後 {yearly_price}/年。可隨時取消。"

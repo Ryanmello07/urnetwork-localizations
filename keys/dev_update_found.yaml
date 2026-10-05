@@ -1,0 +1,10 @@
+description: "Developer page: update check result when a newer release exists; Settings shows the update. {version} is the release version."
+source: "Update available: v{version} — see Settings."
+translatable: false
+platforms:
+  - linux
+placeholders:
+  - name: version
+    type: string
+localizations:
+  en: "Update available: v{version} — see Settings."

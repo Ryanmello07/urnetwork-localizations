@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): removals deferred co
 source: "Removals deferred"
 platforms:
   - android
+  - apple
 localizations:
   ar: "عمليات الإزالة المؤجلة"
   de: "Zurückgestellte Entfernungen"

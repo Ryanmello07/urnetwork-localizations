@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): group follow control
 source: "Follow benched exits"
 platforms:
   - android
+  - apple
 localizations:
   ar: "متابعة المخارج المحجورة"
   de: "Exits auf der Ersatzbank folgen"

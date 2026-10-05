@@ -1,0 +1,9 @@
+description: "Developer page: label of the 'Probe silence streak' setting."
+source: "Probe silence streak"
+translatable: false
+platforms:
+  - linux
+  - windows
+  - apple
+localizations:
+  en: "Probe silence streak"

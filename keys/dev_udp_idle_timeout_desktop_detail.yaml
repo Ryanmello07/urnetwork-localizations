@@ -1,0 +1,8 @@
+description: "Developer page: the explanation under the 'UDP idle timeout' setting, with the unit the number box takes."
+source: "How long a non-TCP flow may sit idle before it is reaped, in ms"
+translatable: false
+platforms:
+  - linux
+  - apple
+localizations:
+  en: "How long a non-TCP flow may sit idle before it is reaped, in ms"

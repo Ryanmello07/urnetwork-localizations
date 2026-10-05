@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): soft verdict control
 source: "Demote before removing"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "الخفض قبل الإزالة"
   de: "Vor dem Entfernen herabstufen"

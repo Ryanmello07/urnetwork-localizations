@@ -2,6 +2,8 @@ description: "Developer tools screen (reliability surface): shuffle exits contro
 source: "Shuffle all exits"
 platforms:
   - android
+  - linux
+  - windows
 localizations:
   ar: "خلط كل المخارج عشوائيًا"
   de: "Alle Exits neu mischen"

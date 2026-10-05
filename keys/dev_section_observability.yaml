@@ -2,6 +2,9 @@ description: "Developer tools screen: section heading for the observability cont
 source: "Observability"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "قابلية المراقبة"
   de: "Beobachtbarkeit"

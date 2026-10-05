@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): no exits control lab
 source: "No exits. Connect first."
 platforms:
   - android
+  - apple
 localizations:
   ar: "لا توجد مخارج. اتصل أولًا."
   de: "Keine Exits. Verbinde dich zuerst."

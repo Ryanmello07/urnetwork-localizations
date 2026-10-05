@@ -2,6 +2,7 @@ description: "Split rules: validation error for a host entry that is not a valid
 source: "Enter a host name like example.com."
 platforms:
   - android
+  - apple
 localizations:
   ar: "أدخل اسم مضيف مثل example.com."
   cs: "Zadejte název hostitele, například example.com."

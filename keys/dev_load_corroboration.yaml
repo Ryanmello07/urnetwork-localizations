@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): load corroboration c
 source: "Load corroboration"
 platforms:
   - android
+  - apple
 localizations:
   ar: "التحقق حسب الحمل"
   de: "Lastabhängige Bestätigung"

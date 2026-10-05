@@ -1,0 +1,7 @@
+description: "Developer page: label of the 'UDP idle timeout' setting (desktop wording of dev_udp_idle_timeout)."
+source: "UDP idle timeout"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "UDP idle timeout"

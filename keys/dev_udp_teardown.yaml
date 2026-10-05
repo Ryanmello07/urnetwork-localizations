@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): udp teardown control
 source: "Signal UDP teardown"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "الإشعار بإنهاء UDP"
   de: "UDP-Abbau signalisieren"

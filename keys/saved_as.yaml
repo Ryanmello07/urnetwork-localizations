@@ -1,7 +1,8 @@
 description: "Split rules: note under the host input when the entry will be stored in a normalised form. {value} is that form, for example 10.0.0.0/8 for a typed 10.0.0.5/8."
-source: "Saved as {value}"
+source: "Saved as %@"
 platforms:
   - android
+  - apple
 placeholders:
   - name: value
     type: string

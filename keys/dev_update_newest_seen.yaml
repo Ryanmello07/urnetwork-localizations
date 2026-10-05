@@ -1,0 +1,7 @@
+description: "Developer page (Windows): inside the parentheses after 'No update', before the newest release's version."
+source: "newest release seen:"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "newest release seen:"

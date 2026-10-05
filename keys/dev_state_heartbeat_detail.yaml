@@ -1,0 +1,7 @@
+description: "Developer page: the explanation under the 'State heartbeat' setting."
+source: "How often one line summarizing live state is written to the log for later forensics, in ms. Off silences it"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "How often one line summarizing live state is written to the log for later forensics, in ms. Off silences it"

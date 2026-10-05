@@ -2,6 +2,9 @@ description: "Developer tools screen: section heading for the detection controls
 source: "Detection"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "الكشف"
   de: "Erkennung"

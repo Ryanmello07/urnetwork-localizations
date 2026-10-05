@@ -1,7 +1,5 @@
 description: "Call to action"
 source: "Total referrals"
-deprecated:
-  - apple
 platforms:
   - android
   - apple

@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): probe timeout contro
 source: "Probe wait"
 platforms:
   - android
+  - apple
 localizations:
   ar: "مهلة الفحص"
   de: "Prüf-Wartezeit"

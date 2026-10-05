@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): recovery missed cont
 source: "Never came back"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "لم تعد أبدًا"
   de: "Nie zurückgekehrt"

@@ -1,0 +1,7 @@
+description: "Developer page (Windows): the rest of the development build line, after the version."
+source: "this is a dev build (code 0), which never self-updates"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "this is a dev build (code 0), which never self-updates"

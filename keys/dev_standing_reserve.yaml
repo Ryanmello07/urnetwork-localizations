@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): standing reserve con
 source: "Keep a spare exit warm"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "إبقاء مخرج احتياطي جاهزًا"
   de: "Einen Ersatz-Exit bereithalten"

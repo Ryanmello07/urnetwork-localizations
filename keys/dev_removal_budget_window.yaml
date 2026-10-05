@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): removal budget windo
 source: "Removal storm window"
 platforms:
   - android
+  - apple
 localizations:
   ar: "نافذة عاصفة الإزالة"
   de: "Fenster für Entfernungsstürme"

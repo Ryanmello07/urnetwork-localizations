@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): scheduler pause reco
 source: "Suspend recovery window"
 platforms:
   - android
+  - apple
 localizations:
   ar: "نافذة التعافي بعد التعليق"
   de: "Erholungsfenster nach Ruhezustand"

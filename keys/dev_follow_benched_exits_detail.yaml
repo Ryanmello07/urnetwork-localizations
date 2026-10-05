@@ -1,0 +1,7 @@
+description: "Developer page: the explanation under the 'Follow benched exits' setting."
+source: "A quarantined exit keeps its own sites' new connections through the early bench, when the verdict is least proven. New sites still avoid it"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "A quarantined exit keeps its own sites' new connections through the early bench, when the verdict is least proven. New sites still avoid it"

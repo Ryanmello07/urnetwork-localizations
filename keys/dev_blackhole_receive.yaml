@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): blackhole receive co
 source: "Keep quiet providers longer"
 platforms:
   - android
+  - apple
 localizations:
   ar: "الاحتفاظ بالمزودين الصامتين لفترة أطول"
   de: "Stille Anbieter länger behalten"

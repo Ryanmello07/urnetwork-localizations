@@ -1,7 +1,8 @@
-description: "Seed sign-in sheet: placeholder of the seedphrase field (android accepts 12 or 24 words)."
+description: "Seed sign-in sheet: placeholder of the seedphrase field (android and windows accept 12 or 24 words)."
 source: "Paste your 12 or 24-word seedphrase here"
 platforms:
   - android
+  - windows
 localizations:
   ar: "الصق عبارة الاسترداد المكونة من 12 أو 24 كلمة هنا"
   cs: "Sem vložte svou seed frázi o 12 nebo 24 slovech"

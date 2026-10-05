@@ -1,0 +1,7 @@
+description: "Developer page (Apple): note shown while disconnected."
+source: "Connect to use the live connection tools. Diagnostics below work either way."
+translatable: false
+platforms:
+  - apple
+localizations:
+  en: "Connect to use the live connection tools. Diagnostics below work either way."

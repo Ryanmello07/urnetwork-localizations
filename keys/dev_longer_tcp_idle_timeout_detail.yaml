@@ -1,0 +1,8 @@
+description: "Developer page: the explanation under the 'Longer TCP idle timeout' setting."
+source: "How long a TCP connection may sit idle, in ms. Off uses the UDP bound"
+translatable: false
+platforms:
+  - linux
+  - apple
+localizations:
+  en: "How long a TCP connection may sit idle, in ms. Off uses the UDP bound"

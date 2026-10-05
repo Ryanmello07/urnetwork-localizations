@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'cluster aff
 source: "Keeps a site on one exit when its hostname is not visible"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "يُبقي الموقع على مخرج واحد عندما يكون اسم المضيف الخاص به غير مرئي"
   de: "Hält eine Website auf einem Exit, wenn ihr Hostname nicht sichtbar ist"

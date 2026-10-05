@@ -1,0 +1,7 @@
+description: "Developer page: the explanation under the 'Removal storm limit' setting."
+source: "How many verdict removals are allowed per window before the rest are deferred; a burst is more likely one local cause than many failures"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "How many verdict removals are allowed per window before the rest are deferred; a burst is more likely one local cause than many failures"

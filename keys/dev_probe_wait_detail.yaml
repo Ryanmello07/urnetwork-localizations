@@ -1,0 +1,8 @@
+description: "Developer page: the explanation under the 'Probe wait' setting."
+source: "How long a qualification probe waits for an answer, in ms. Off uses the built-in 4s. It only bounds waiting for proof, it never convicts"
+translatable: false
+platforms:
+  - linux
+  - apple
+localizations:
+  en: "How long a qualification probe waits for an answer, in ms. Off uses the built-in 4s. It only bounds waiting for proof, it never convicts"

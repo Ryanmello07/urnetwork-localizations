@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): flows opened control
 source: "Flows opened"
 platforms:
   - android
+  - apple
 localizations:
   ar: "التدفقات المفتوحة"
   de: "Geöffnete Flows"

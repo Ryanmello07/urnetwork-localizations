@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): quic rebind control 
 source: "Rebind QUIC on exit loss"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "إعادة ربط QUIC عند فقدان مخرج"
   de: "QUIC bei Exit-Verlust neu binden"

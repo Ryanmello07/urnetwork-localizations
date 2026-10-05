@@ -2,6 +2,7 @@ description: "Developer tools screen: explanatory subtext under the 'affinity st
 source: "A site's new connections stay on the exit its earlier ones already use, even past the flow cap, so a busy site keeps one egress IP. The cap still limits which exits collect new sites. Off restores the strict cap"
 platforms:
   - android
+  - apple
 localizations:
   ar: "تبقى الاتصالات الجديدة للموقع على المخرج الذي تستخدمه اتصالاته السابقة، حتى بعد تجاوز حد التدفقات، ليحتفظ الموقع المزدحم بعنوان IP واحد للخروج. يظل الحد يقرر أي المخارج تستقبل مواقع جديدة. عند الإيقاف، يُستعاد الحد الصارم"
   de: "Neue Verbindungen einer Website bleiben auf dem Exit, den ihre früheren bereits nutzen, auch über das Flow-Limit hinaus, sodass eine stark genutzte Website eine Egress-IP behält. Das Limit bestimmt weiterhin, welche Exits neue Websites aufnehmen. Aus: stellt das strikte Limit wieder her"

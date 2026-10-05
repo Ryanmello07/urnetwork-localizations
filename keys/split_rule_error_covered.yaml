@@ -1,7 +1,8 @@
 description: "Split rules: validation error when a broader entry already in the rule covers the typed one. {rule} is that broader entry, for example *.example.com or 10.0.0.0/8."
-source: "Already covered by {rule} in this rule."
+source: "Already covered by %@ in this rule."
 platforms:
   - android
+  - apple
 placeholders:
   - name: rule
     type: string

@@ -2,6 +2,7 @@ description: "Shown after the app hands the user to the Stripe hosted checkout i
 source: "Complete your purchase in the browser. Your plan updates here automatically once payment is confirmed."
 platforms:
   - windows
+  - apple
 localizations:
   ar: "أكمل عملية الشراء في المتصفح. سيتم تحديث خطتك هنا تلقائيًا بمجرد تأكيد الدفع."
   cs: "Dokončete nákup v prohlížeči. Jakmile bude platba potvrzena, váš tarif se zde automaticky aktualizuje."

@@ -2,6 +2,9 @@ description: "Developer tools screen (reliability surface): flows reraced contro
 source: "Moved to another exit"
 platforms:
   - android
+  - linux
+  - windows
+  - apple
 localizations:
   ar: "نُقلت إلى مخرج آخر"
   de: "Auf anderen Exit verschoben"

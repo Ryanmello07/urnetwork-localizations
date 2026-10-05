@@ -1,0 +1,7 @@
+description: "Developer page: the explanation under the 'Follow window' setting."
+source: "How long into a bench a site's new connections keep following their exit, in ms. Off scatters immediately"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "How long into a bench a site's new connections keep following their exit, in ms. Off scatters immediately"

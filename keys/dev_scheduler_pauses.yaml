@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): scheduler pauses con
 source: "Suspends caught"
 platforms:
   - android
+  - apple
 localizations:
   ar: "حالات التعليق المرصودة"
   de: "Erkannte Ruhezustände"

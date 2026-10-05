@@ -1,0 +1,7 @@
+description: "Developer page (Windows): prefix of the update check result when a newer release exists; the version follows."
+source: "Update found:"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "Update found:"

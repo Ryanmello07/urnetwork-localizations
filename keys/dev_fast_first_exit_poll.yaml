@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Fast first-exit poll' setting."
+source: "Fast first-exit poll"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Fast first-exit poll"

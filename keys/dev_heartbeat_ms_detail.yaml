@@ -1,0 +1,7 @@
+description: "Developer page (Apple): the explanation under the 'State heartbeat' setting, with its unit."
+source: "How often one line summarizing live state is written to the log for later forensics, in ms. Off silences it; shorter spots a transition, longer keeps more buffer"
+translatable: false
+platforms:
+  - apple
+localizations:
+  en: "How often one line summarizing live state is written to the log for later forensics, in ms. Off silences it; shorter spots a transition, longer keeps more buffer"

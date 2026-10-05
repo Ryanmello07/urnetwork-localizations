@@ -3,6 +3,7 @@ source: "Manage subscription"
 platforms:
   - android
   - windows
+  - apple
 localizations:
   ar: "إدارة الاشتراك"
   cs: "Správa předplatného"

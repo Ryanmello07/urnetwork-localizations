@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Uplink silence gate' setting."
+source: "Uplink silence gate"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Uplink silence gate"

@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): migrate exit control
 source: "Migrate"
 platforms:
   - android
+  - apple
 localizations:
   ar: "ترحيل"
   de: "Migrieren"

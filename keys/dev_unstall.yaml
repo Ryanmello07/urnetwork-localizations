@@ -1,0 +1,8 @@
+description: "Developer page: per-exit button that releases an exit stalled with Stall."
+source: "Unstall"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Unstall"

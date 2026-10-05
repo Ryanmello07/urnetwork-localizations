@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Corroborate silent exits' setting."
+source: "Corroborate silent exits"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Corroborate silent exits"

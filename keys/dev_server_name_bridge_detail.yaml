@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'server name
 source: "Moves later connections onto the exit the first one already uses"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "ينقل الاتصالات اللاحقة إلى المخرج الذي يستخدمه الاتصال الأول بالفعل"
   de: "Verschiebt spätere Verbindungen auf den Exit, den die erste bereits nutzt"

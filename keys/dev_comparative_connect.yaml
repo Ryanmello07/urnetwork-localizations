@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): comparative connect 
 source: "Cut dead connects early"
 platforms:
   - android
+  - apple
 localizations:
   ar: "قطع الاتصالات الميتة مبكرًا"
   de: "Tote Verbindungsaufbauten früh abbrechen"

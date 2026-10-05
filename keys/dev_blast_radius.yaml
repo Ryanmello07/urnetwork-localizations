@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): blast radius control
 source: "Blast radius"
 platforms:
   - android
+  - apple
 localizations:
   ar: "نطاق الضرر"
   de: "Schadensradius"

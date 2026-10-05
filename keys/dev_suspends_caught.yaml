@@ -1,0 +1,8 @@
+description: "Developer page: label of the 'Suspends caught' setting."
+source: "Suspends caught"
+translatable: false
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Suspends caught"

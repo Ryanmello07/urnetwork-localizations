@@ -2,6 +2,7 @@ description: "Developer tools screen (reliability surface): simulate network cha
 source: "Simulate network change"
 platforms:
   - android
+  - apple
 localizations:
   ar: "محاكاة تغيّر الشبكة"
   de: "Netzwerkwechsel simulieren"

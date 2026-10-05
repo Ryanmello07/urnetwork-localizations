@@ -1,0 +1,7 @@
+description: "Developer page: what a setting's 0 means when it removes the cap ('Max connections per exit')."
+source: "Unlimited"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Unlimited"

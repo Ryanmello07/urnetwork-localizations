@@ -2,6 +2,7 @@ description: "Developer tools screen: action for exporting all diagnostic logs w
 source: "Export all logs (raw)"
 platforms:
   - android
+  - apple
 localizations:
   ar: "تصدير كل السجلات (خام)"
   de: "Alle Logs exportieren (roh)"

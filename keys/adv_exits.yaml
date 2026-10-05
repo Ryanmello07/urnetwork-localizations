@@ -2,6 +2,7 @@ description: "Connection inspector: heading of the exits section."
 source: "Exits"
 platforms:
   - linux
+  - apple
 localizations:
   ar: "المخارج"
   cs: "Výstupy"

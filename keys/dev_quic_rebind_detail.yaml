@@ -2,6 +2,8 @@ description: "Developer tools screen: explanatory subtext under the 'quic rebind
 source: "Re-pin established QUIC flows to a live exit inside the removal instead of tearing them down"
 platforms:
   - android
+  - linux
+  - apple
 localizations:
   ar: "يعيد تثبيت تدفقات QUIC القائمة على مخرج حي أثناء الإزالة بدلًا من قطعها"
   de: "Bestehende QUIC-Flows während der Entfernung auf einen lebenden Exit umpinnen, statt sie abzubauen"

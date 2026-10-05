@@ -1,0 +1,8 @@
+description: "Developer page: the explanation under the 'Drop stalled exits fast' setting."
+source: "How long an exit may stop delivering before it is dropped, in ms. Off waits 30s"
+translatable: false
+platforms:
+  - linux
+  - apple
+localizations:
+  en: "How long an exit may stop delivering before it is dropped, in ms. Off waits 30s"
