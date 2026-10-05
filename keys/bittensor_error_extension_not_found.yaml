@@ -1,11 +1,10 @@
 description: "Error: the wallet's browser extension is not installed in this browser (on ur.io, or in the apps when a ur.io wallet bridge page returns extension_not_found). The argument is the wallet product name (Talisman on the Bittensor page, Phantom or Solflare on the Solana page)."
 source: "The %@ extension was not found in this browser. Install it, then try again."
-deprecated:
-  - linux
-  - windows
 platforms:
   - android
   - apple
+  - windows
+  - linux
   - site
 placeholders:
   - name: wallet
