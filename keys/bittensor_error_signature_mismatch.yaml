@@ -1,0 +1,40 @@
+description: "Bittensor wallet connect (Earnings), manual entry (TAO.com, or Talisman on a phone): the server refused the pasted signature because it does not verify for the address the user typed over the shown message (POST /sn/wallet error.code signature_mismatch). Usually the user signed with another account in the wallet. The server cannot tell which account signed. The argument is the wallet product name (TAO.com or Talisman)."
+source: "This signature isn't from the address you entered. In %@, sign the message with that address, then paste the signature again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: wallet
+    type: string
+localizations:
+  ar: "هذا التوقيع ليس من العنوان الذي أدخلته. في {wallet}، وقّع الرسالة باستخدام ذلك العنوان، ثم الصق التوقيع مرة أخرى."
+  cs: "Tento podpis nepochází z adresy, kterou jste zadali. V peněžence {wallet} podepište zprávu touto adresou a potom podpis vložte znovu."
+  de: "Diese Signatur stammt nicht von der eingegebenen Adresse. Signiere die Nachricht in {wallet} mit dieser Adresse und füge die Signatur dann erneut ein."
+  el: "Αυτή η υπογραφή δεν προέρχεται από τη διεύθυνση που εισαγάγατε. Στο {wallet}, υπογράψτε το μήνυμα με αυτήν τη διεύθυνση και, στη συνέχεια, επικολλήστε ξανά την υπογραφή."
+  en: "This signature isn't from the address you entered. In {wallet}, sign the message with that address, then paste the signature again."
+  es: "Esta firma no es de la dirección que introdujiste. En {wallet}, firma el mensaje con esa dirección y vuelve a pegar la firma."
+  es-419: "Esta firma no es de la dirección que ingresaste. En {wallet}, firma el mensaje con esa dirección y vuelve a pegar la firma."
+  es-MX: "Esta firma no es de la dirección que ingresaste. En {wallet}, firma el mensaje con esa dirección y vuelve a pegar la firma."
+  fr: "Cette signature ne provient pas de l'adresse que vous avez saisie. Dans {wallet}, signez le message avec cette adresse, puis collez à nouveau la signature."
+  he: "החתימה הזו אינה מהכתובת שהזנתם. ב-{wallet}, חתמו על ההודעה עם הכתובת שהזנתם, ואז הדביקו שוב את החתימה."
+  hi: "यह हस्ताक्षर आपके दर्ज किए गए पते का नहीं है। {wallet} में उस पते से संदेश पर हस्ताक्षर करें, फिर हस्ताक्षर दोबारा पेस्ट करें।"
+  id: "Tanda tangan ini bukan dari alamat yang Anda masukkan. Di {wallet}, tanda tangani pesan dengan alamat tersebut, lalu tempel tanda tangannya lagi."
+  it: "Questa firma non proviene dall'indirizzo che hai inserito. In {wallet}, firma il messaggio con quell'indirizzo, poi incolla di nuovo la firma."
+  ja: "この署名は、入力したアドレスによるものではありません。{wallet} でそのアドレスを使ってメッセージに署名し、署名をもう一度貼り付けてください。"
+  ko: "이 서명은 입력한 주소의 서명이 아닙니다. {wallet}에서 해당 주소로 메시지에 서명한 다음 서명을 다시 붙여 넣으세요."
+  nl: "Deze handtekening is niet van het adres dat je hebt ingevoerd. Onderteken het bericht in {wallet} met dat adres en plak de handtekening daarna opnieuw."
+  pl: "Ten podpis nie pochodzi z wprowadzonego adresu. W portfelu {wallet} podpisz wiadomość tym adresem, a następnie ponownie wklej podpis."
+  pt: "Esta assinatura não é do endereço que introduziu. Na carteira {wallet}, assine a mensagem com esse endereço e, em seguida, cole novamente a assinatura."
+  pt-BR: "Esta assinatura não é do endereço que você digitou. Na carteira {wallet}, assine a mensagem com esse endereço e depois cole a assinatura novamente."
+  pt-PT: "Esta assinatura não é do endereço que introduziu. Na carteira {wallet}, assine a mensagem com esse endereço e, em seguida, cole novamente a assinatura."
+  ru: "Эта подпись сделана не с того адреса, который вы ввели. В кошельке {wallet} подпишите сообщение с введённого адреса, затем снова вставьте подпись."
+  sv: "Den här signaturen kommer inte från adressen du angav. Signera meddelandet med den adressen i {wallet} och klistra sedan in signaturen igen."
+  sw: "Saini hii haitoki kwenye anwani uliyoweka. Katika {wallet}, saini ujumbe kwa anwani hiyo, kisha ubandike saini tena."
+  th: "ลายเซ็นนี้ไม่ได้มาจากที่อยู่ที่คุณป้อน ใน {wallet} ให้ลงนามข้อความด้วยที่อยู่นั้น แล้ววางลายเซ็นอีกครั้ง"
+  uk: "Цей підпис зроблено не з адреси, яку ви ввели. У гаманці {wallet} підпишіть повідомлення з цієї адреси, а потім знову вставте підпис."
+  vi: "Chữ ký này không phải từ địa chỉ bạn đã nhập. Trong {wallet}, hãy ký tin nhắn bằng địa chỉ đó, rồi dán lại chữ ký."
+  zh: "此签名不是来自您输入的地址。请在 {wallet} 中使用该地址签署消息，然后重新粘贴签名。"
+  zh-HK: "此簽署並非來自你輸入的地址。請在 {wallet} 中使用該地址簽署訊息，然後重新貼上簽署。"
