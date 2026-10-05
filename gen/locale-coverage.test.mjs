@@ -7,7 +7,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { LOCALES, SITE_LOCALES, loadStore, requiredLocales } from "./store.mjs";
+import { LOCALES, SIRI_LOCALES, SITE_LOCALES, loadStore, requiredLocales } from "./store.mjs";
 
 const key = (platforms, rest = {}) => ({ id: "k", platforms, deprecated: [], translatable: true, ...rest });
 
@@ -19,6 +19,11 @@ test("a key an app, the extension or the mail uses needs every locale", () => {
 test("a key only the ur.io site uses needs the site's locales", () => {
 	assert.deepEqual(requiredLocales(key(["site"])), SITE_LOCALES);
 	assert.deepEqual(requiredLocales(key(["site", "apple"], { deprecated: ["apple"] })), SITE_LOCALES);
+});
+
+test("an App Shortcuts phrase needs the languages Siri speaks", () => {
+	assert.deepEqual(requiredLocales(key(["apple"], { table: "AppShortcuts" })), SIRI_LOCALES);
+	assert.deepEqual(requiredLocales(key(["apple"], { table: "AppShortcuts", deprecated: ["apple"] })), []);
 });
 
 test("a dead key needs no locale and an untranslatable one only English", () => {

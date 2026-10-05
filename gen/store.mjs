@@ -258,11 +258,13 @@ export const SITE_LOCALES = ["en", "de", "es", "ru", "zh", "ar"];
 // screen. So a live key needs all of LOCALES, even on android and apple, which
 // emit fewer today: windows and linux carry every live key, keys move between
 // platforms, and adding a locale to a platform should need only its map above.
-// A key that only the ur.io site uses needs the site's six. A dead key needs
-// nothing, and an untranslatable one only English.
+// A key that only the ur.io site uses needs the site's six, and an App Shortcuts
+// phrase the languages Siri speaks (SIRI_LOCALES). A dead key needs nothing,
+// and an untranslatable one only English.
 export const requiredLocales = (k) => {
 	if (isDead(k)) return [];
 	if (!k.translatable) return ["en"];
+	if (k.table === "AppShortcuts") return SIRI_LOCALES;
 	const live = k.platforms.filter((p) => !k.deprecated.includes(p));
 	return live.length > 0 && live.every((p) => p === "site") ? SITE_LOCALES : LOCALES;
 };
