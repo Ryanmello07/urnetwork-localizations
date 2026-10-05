@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "Edit referral code"
+deprecated:
+  - apple
 platforms:
-  - android
   - apple
 localizations:
   ar: "تعديل رمز الإحالة"

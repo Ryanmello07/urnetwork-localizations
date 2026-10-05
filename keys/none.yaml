@@ -1,4 +1,4 @@
-description: "Empty value: the Referrals section shows it when no referral network is linked (apple), and the android referral network row."
+description: "Empty value: the VLESS settings show it for no security and no flow (all apps), and the Referrals section shows it on windows and linux when no referral network is linked."
 source: "None"
 platforms:
   - android
