@@ -1,4 +1,4 @@
-description: "Bittensor wallet error in the apps, when the ur.io bridge page returns user_rejected: the user declined the connection or the signature request in the wallet (Talisman, or a WalletConnect wallet), so nothing was signed."
+description: "Wallet error in the apps, when a ur.io wallet bridge page returns user_rejected: the user declined the connection or the signature request in the wallet, so nothing was signed. The Bittensor page (Talisman, or a WalletConnect wallet) and the Solana page of the desktop apps (Phantom or Solflare) both return it; on iOS, Phantom and Solflare decline with 4001, which reads the same."
 source: "The request was declined in your wallet. Start again and approve it to continue."
 platforms:
   - android

@@ -1,4 +1,4 @@
-description: "Bittensor wallet error in the apps, when the ur.io bridge page returns no_account: the chosen wallet shared no account it can sign with (none is connected to the site, or it holds only accounts of another chain), so nothing was signed. The argument is the wallet product name (Talisman or WalletConnect)."
+description: "Wallet error in the apps, when a ur.io wallet bridge page returns no_account: the chosen wallet shared no account it can sign with (none is connected to the site, or it holds only accounts of another chain), so nothing was signed. The argument is the wallet product name (Talisman or WalletConnect on the Bittensor page, Phantom or Solflare on the Solana page)."
 source: "Your %@ wallet has no account to sign with. Add or connect an account in the wallet, then try again."
 platforms:
   - android
