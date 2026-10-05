@@ -1,0 +1,40 @@
+description: "Status line or snackbar after removing the payout wallet made another of the account's wallets the payout wallet (the server promotes the newest other Solana or Polygon wallet). The placeholder is the new payout wallet's shortened address, its first and last four characters around an ellipsis."
+source: "Payouts now go to %@."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: address
+    type: string
+localizations:
+  ar: "تذهب المدفوعات الآن إلى {address}."
+  cs: "Výplaty nyní chodí na {address}."
+  de: "Auszahlungen gehen jetzt an {address}."
+  el: "Οι πληρωμές πηγαίνουν πλέον στο {address}."
+  en: "Payouts now go to {address}."
+  es: "Los pagos ahora van a {address}."
+  es-419: "Los pagos ahora van a {address}."
+  es-MX: "Los pagos ahora van a {address}."
+  fr: "Les paiements sont désormais envoyés à {address}."
+  he: "התשלומים נשלחים כעת אל {address}."
+  hi: "भुगतान अब {address} पर जाएंगे।"
+  id: "Pembayaran sekarang dikirim ke {address}."
+  it: "I pagamenti ora vanno a {address}."
+  ja: "支払いは今後 {address} に送られます。"
+  ko: "이제 지급금은 {address}(으)로 전송됩니다."
+  nl: "Uitbetalingen gaan nu naar {address}."
+  pl: "Wypłaty trafiają teraz na {address}."
+  pt: "Os pagamentos agora vão para {address}."
+  pt-BR: "Os pagamentos agora vão para {address}."
+  pt-PT: "Os pagamentos passam a ir para {address}."
+  ru: "Выплаты теперь поступают на {address}."
+  sv: "Utbetalningar går nu till {address}."
+  sw: "Malipo sasa yanaenda kwa {address}."
+  th: "การจ่ายจะส่งไปที่ {address} แล้ว"
+  uk: "Виплати тепер надходять на {address}."
+  vi: "Khoản thanh toán giờ được gửi đến {address}."
+  zh: "支付现在将发送到 {address}。"
+  zh-HK: "支付現在會發送到 {address}。"
