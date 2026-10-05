@@ -1,9 +1,10 @@
 description: "Standalone Seeker verification action (points multiplier only)."
 source: "Verify Seeker"
+deprecated:
+  - linux
 platforms:
   - android
   - apple
-  - linux
   - site
 localizations:
   ar: "التحقق من Seeker"

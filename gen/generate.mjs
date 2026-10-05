@@ -109,10 +109,11 @@ function apple(keys) {
 // tagged for retire it, it goes dead and leaves the desktop catalogs (how the
 // Linux Earnings page lost net_points_earned). Each desktop app therefore also
 // gets the ids of the keys tagged for it, one per line, and its catalog test
-// fails on a lookup whose key is not among them.
+// fails on a lookup whose key is not among them, and on one among them that no
+// lookup uses (a stale tag keeps its key alive for nothing).
 export function taggedKeyList(keys, platform) {
 	const ids = keys.filter((k) => isTaggedFor(k, platform)).map((k) => k.id).sort();
-	return `# ${BANNER}\n# The store keys tagged ${platform}: every key the app looks up must be one of them.\n${ids.join("\n")}\n`;
+	return `# ${BANNER}\n# The store keys tagged ${platform}: exactly the keys the app looks up.\n${ids.join("\n")}\n`;
 }
 
 // ------------------------------------------------------------------- windows

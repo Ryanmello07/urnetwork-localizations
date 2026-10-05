@@ -1,8 +1,9 @@
 description: "The monthly plan card's price on the Linux onboarding page."
 source: "$5/month"
 translatable: false
-platforms:
+deprecated:
   - linux
   - windows
+platforms: []
 localizations:
   en: "$5/month"

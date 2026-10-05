@@ -1,11 +1,12 @@
 description: "The subnet alpha token symbol."
 source: "SN25α"
 translatable: false
+deprecated:
+  - linux
 platforms:
   - android
   - apple
   - windows
-  - linux
   - site
 localizations:
   en: "SN25α"

@@ -1,10 +1,11 @@
 description: "Login initial"
 source: "Try Guest Mode"
+deprecated:
+  - linux
+  - windows
 platforms:
   - android
   - apple
-  - linux
-  - windows
 localizations:
   ar: "جرب وضع الضيف"
   cs: "Zkuste režim hosta"

@@ -1,10 +1,11 @@
 description: "Row label of the IP version histogram, and the provider row tag, for a provider that carries only IPv6."
 source: "v6"
+deprecated:
+  - linux
+  - windows
 platforms:
   - android
   - apple
-  - linux
-  - windows
 localizations:
   ar: "v6"
   de: "v6"

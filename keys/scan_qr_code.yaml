@@ -1,10 +1,11 @@
 description: "Button: open the camera to scan a QR code."
 source: "Scan QR code"
+deprecated:
+  - linux
+  - windows
 platforms:
   - android
   - apple
-  - linux
-  - windows
 localizations:
   ar: "مسح رمز QR"
   de: "QR-Code scannen"

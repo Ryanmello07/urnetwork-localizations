@@ -142,7 +142,10 @@ Earnings page lost `net_points_earned` that way). So the Windows and Linux
 outputs also include the ids of the keys tagged for the app and not deprecated
 by it (`windows-keys.txt`, `linux-keys.txt`), and each app's catalog test fails
 on a lookup whose key is not on its list: tag the key with the platform that
-looks it up, in the same change as the lookup.
+looks it up, in the same change as the lookup. It also fails on a key on its
+list that nothing looks up: when an app stops looking a key up, move its
+platform from `platforms` to `deprecated` (as android does), so the tag does
+not keep the key alive in the desktop catalogs for nothing.
 
 ### `email`
 

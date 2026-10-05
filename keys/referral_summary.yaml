@@ -1,7 +1,8 @@
 description: "One-line referral summary: the network's referral code, how many referrals it has, and how friends use it. The arguments are the referral code and the number of referrals."
 source: "Code: %1$@ · Referrals: %2$lld · Friends enter the code when they sign up"
-platforms:
+deprecated:
   - windows
+platforms: []
 placeholders:
   - name: code
     type: string

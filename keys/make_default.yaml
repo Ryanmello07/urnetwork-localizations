@@ -1,10 +1,11 @@
 description: "Wallet Screen"
 source: "Make default"
+deprecated:
+  - linux
+  - windows
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 localizations:
   ar: "جعل الافتراضي"

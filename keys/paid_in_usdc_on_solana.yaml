@@ -1,10 +1,11 @@
 description: "The one USDC mention: the Solana subscription payment note."
 source: "Paid in USDC on Solana."
+deprecated:
+  - linux
+  - windows
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 localizations:
   ar: "يُدفع بعملة USDC على Solana."

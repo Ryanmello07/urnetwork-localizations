@@ -1,11 +1,12 @@
 description: "General UI string."
 source: "Add sign-in method"
+deprecated:
+  - linux
+  - windows
 platforms:
   - apple
   - site
   - android
-  - windows
-  - linux
 localizations:
   ar: "إضافة طريقة تسجيل دخول"
   cs: "Přidat způsob přihlášení"

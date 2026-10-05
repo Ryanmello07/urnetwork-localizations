@@ -1,8 +1,9 @@
 description: "Post quantum identity panel: peer identity count indicator. The argument is the number of peers with an identity-verified e2e session."
 source: "%d peers"
+deprecated:
+  - windows
 platforms:
   - linux
-  - windows
   - android
   - apple
 localizations:

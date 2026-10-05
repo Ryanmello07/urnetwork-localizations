@@ -1,10 +1,11 @@
 description: "A label that shows the number of contracts for a given client. The argument is the number of contracts."
 description_auto: true
 source: "%lld contracts"
+deprecated:
+  - linux
 platforms:
   - android
   - apple
-  - linux
 placeholders:
   - name: count
     type: int

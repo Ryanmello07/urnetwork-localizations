@@ -1,8 +1,9 @@
 description: "Used in Main/Connect/ConnectActions/ConnectActions.swift."
 source: "Connection Mode"
+deprecated:
+  - windows
 platforms:
   - android
-  - windows
   - apple
   - linux
 localizations:
