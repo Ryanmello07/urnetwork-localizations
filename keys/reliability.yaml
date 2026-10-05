@@ -3,6 +3,8 @@ source: "Reliability"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "الموثوقية"
   cs: "Spolehlivost"

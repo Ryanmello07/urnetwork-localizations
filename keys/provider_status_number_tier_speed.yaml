@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: label of the device's tier for speed-ranked requests."
+source: "Tier (speed)"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "المستوى (السرعة)"
+  cs: "Úroveň (rychlost)"
+  de: "Stufe (Geschwindigkeit)"
+  el: "Βαθμίδα (ταχύτητα)"
+  en: "Tier (speed)"
+  es: "Nivel (velocidad)"
+  es-419: "Nivel (velocidad)"
+  es-MX: "Nivel (velocidad)"
+  fr: "Niveau (vitesse)"
+  he: "דרג (מהירות)"
+  hi: "स्तर (गति)"
+  id: "Tingkat (kecepatan)"
+  it: "Livello (velocità)"
+  ja: "ティア（速度）"
+  ko: "등급(속도)"
+  nl: "Niveau (snelheid)"
+  pl: "Poziom (szybkość)"
+  pt: "Nível (velocidade)"
+  pt-BR: "Nível (velocidade)"
+  pt-PT: "Nível (velocidade)"
+  ru: "Уровень (скорость)"
+  sv: "Nivå (hastighet)"
+  sw: "Daraja (kasi)"
+  th: "ระดับ (ความเร็ว)"
+  uk: "Рівень (швидкість)"
+  vi: "Bậc (tốc độ)"
+  zh: "层级（速度）"
+  zh-HK: "層級（速度）"

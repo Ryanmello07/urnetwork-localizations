@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: label of the measured delay (latency) in milliseconds."
+source: "Delay"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "التأخير"
+  cs: "Zpoždění"
+  de: "Verzögerung"
+  el: "Καθυστέρηση"
+  en: "Delay"
+  es: "Latencia"
+  es-419: "Latencia"
+  es-MX: "Latencia"
+  fr: "Latence"
+  he: "השהיה"
+  hi: "विलंब"
+  id: "Latensi"
+  it: "Latenza"
+  ja: "遅延"
+  ko: "지연"
+  nl: "Vertraging"
+  pl: "Opóźnienie"
+  pt: "Latência"
+  pt-BR: "Latência"
+  pt-PT: "Latência"
+  ru: "Задержка"
+  sv: "Fördröjning"
+  sw: "Ucheleweshaji"
+  th: "ความหน่วง"
+  uk: "Затримка"
+  vi: "Độ trễ"
+  zh: "延迟"
+  zh-HK: "延遲"

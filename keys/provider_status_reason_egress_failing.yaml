@@ -1,0 +1,36 @@
+description: "Provider status reason (egress_failing): too many test sites failed to load through the device."
+source: "Too many test sites failed to load through this connection in the last 8 hours. Clients are offered this device only when checked providers run out."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "فشل تحميل عدد كبير جدًا من مواقع الاختبار عبر هذا الاتصال خلال آخر 8 ساعات. لا يُعرض هذا الجهاز على العملاء إلا عند نفاد المزودين الذين تم فحصهم."
+  cs: "Za posledních 8 hodin se přes toto připojení nepodařilo načíst příliš mnoho testovacích webů. Klientům se toto zařízení nabízí jen tehdy, když dojdou zkontrolovaní poskytovatelé."
+  de: "In den letzten 8 Stunden konnten zu viele Testseiten über diese Verbindung nicht geladen werden. Clients wird dieses Gerät nur angeboten, wenn geprüfte Anbieter ausgehen."
+  el: "Πάρα πολλοί δοκιμαστικοί ιστότοποι απέτυχαν να φορτώσουν μέσω αυτής της σύνδεσης τις τελευταίες 8 ώρες. Η συσκευή προτείνεται σε πελάτες μόνο όταν εξαντληθούν οι ελεγμένοι πάροχοι."
+  en: "Too many test sites failed to load through this connection in the last 8 hours. Clients are offered this device only when checked providers run out."
+  es: "Demasiados sitios de prueba no se cargaron a través de esta conexión en las últimas 8 horas. Este dispositivo solo se ofrece a los clientes cuando se agotan los proveedores comprobados."
+  es-419: "Demasiados sitios de prueba no cargaron a través de esta conexión en las últimas 8 horas. Este dispositivo solo se ofrece a los clientes cuando se agotan los proveedores verificados."
+  es-MX: "Demasiados sitios de prueba no cargaron a través de esta conexión en las últimas 8 horas. Este dispositivo solo se ofrece a los clientes cuando se agotan los proveedores verificados."
+  fr: "Trop de sites de test n'ont pas pu se charger via cette connexion au cours des 8 dernières heures. Cet appareil n'est proposé aux clients que lorsque les fournisseurs vérifiés sont épuisés."
+  he: "יותר מדי אתרי בדיקה לא נטענו דרך החיבור הזה ב-8 השעות האחרונות. המכשיר הזה יוצע ללקוחות רק כשהספקים שנבדקו יאזלו."
+  hi: "पिछले 8 घंटों में इस कनेक्शन से बहुत सी टेस्ट साइटें लोड नहीं हो सकीं। यह डिवाइस क्लाइंट को तभी पेश किया जाता है जब जाँचे गए प्रदाता खत्म हो जाएँ।"
+  id: "Terlalu banyak situs uji gagal dimuat melalui koneksi ini dalam 8 jam terakhir. Perangkat ini hanya ditawarkan ke klien saat penyedia yang sudah diperiksa habis."
+  it: "Troppi siti di test non sono stati caricati tramite questa connessione nelle ultime 8 ore. Questo dispositivo viene offerto ai client solo quando i provider verificati sono esauriti."
+  ja: "過去8時間に、この接続を通じて読み込めなかったテストサイトが多すぎます。チェック済みのプロバイダーが足りなくなった場合にのみクライアントに提示されます。"
+  ko: "최근 8시간 동안 이 연결을 통해 로드하지 못한 테스트 사이트가 너무 많습니다. 검사를 마친 제공업체가 부족할 때만 클라이언트에게 제시됩니다."
+  nl: "In de afgelopen 8 uur konden te veel testsites niet via deze verbinding worden geladen. Dit apparaat wordt alleen aan clients aangeboden als gecontroleerde providers op zijn."
+  pl: "W ciągu ostatnich 8 godzin przez to połączenie nie udało się załadować zbyt wielu stron testowych. To urządzenie jest proponowane klientom tylko wtedy, gdy zabraknie sprawdzonych dostawców."
+  pt: "Demasiados sites de teste não carregaram através desta ligação nas últimas 8 horas. Este dispositivo só é oferecido aos clientes quando os fornecedores verificados se esgotam."
+  pt-BR: "Muitos sites de teste não carregaram por esta conexão nas últimas 8 horas. Este dispositivo só é oferecido aos clientes quando os provedores verificados se esgotam."
+  pt-PT: "Demasiados sites de teste não carregaram através desta ligação nas últimas 8 horas. Este dispositivo só é oferecido aos clientes quando os fornecedores verificados se esgotam."
+  ru: "За последние 8 часов через это подключение не загрузилось слишком много тестовых сайтов. Устройство предлагается клиентам, только когда проверенные провайдеры закончились."
+  sv: "För många testsajter kunde inte laddas via den här anslutningen de senaste 8 timmarna. Enheten erbjuds klienter bara när kontrollerade leverantörer tar slut."
+  sw: "Tovuti nyingi mno za majaribio zilishindwa kupakia kupitia muunganisho huu katika saa 8 zilizopita. Kifaa hiki hupendekezwa kwa wateja tu watoa huduma waliokaguliwa wanapoisha."
+  th: "มีเว็บไซต์ทดสอบที่โหลดผ่านการเชื่อมต่อนี้ไม่สำเร็จมากเกินไปในช่วง 8 ชั่วโมงที่ผ่านมา อุปกรณ์นี้จะถูกเสนอให้ไคลเอนต์เฉพาะเมื่อผู้ให้บริการที่ผ่านการตรวจสอบหมดแล้ว"
+  uk: "За останні 8 годин через це підключення не завантажилося забагато тестових сайтів. Пристрій пропонують клієнтам, лише коли перевірені провайдери закінчилися."
+  vi: "Quá nhiều trang thử nghiệm không tải được qua kết nối này trong 8 giờ qua. Thiết bị này chỉ được đề xuất cho máy khách khi các nhà cung cấp đã kiểm tra không còn."
+  zh: "过去 8 小时内，通过此连接加载失败的测试网站过多。只有在已检查的提供商用完时，此设备才会被推荐给客户端。"
+  zh-HK: "過去 8 小時內，透過此連接載入失敗的測試網站過多。只有在已檢查的供應商用完時，此裝置才會被推薦給客戶端。"

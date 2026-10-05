@@ -1,0 +1,36 @@
+description: "Provider card chart: label under the right (current minute) end of the axis."
+source: "Now"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "الآن"
+  cs: "Teď"
+  de: "Jetzt"
+  el: "Τώρα"
+  en: "Now"
+  es: "Ahora"
+  es-419: "Ahora"
+  es-MX: "Ahora"
+  fr: "Maintenant"
+  he: "עכשיו"
+  hi: "अभी"
+  id: "Sekarang"
+  it: "Adesso"
+  ja: "現在"
+  ko: "지금"
+  nl: "Nu"
+  pl: "Teraz"
+  pt: "Agora"
+  pt-BR: "Agora"
+  pt-PT: "Agora"
+  ru: "Сейчас"
+  sv: "Nu"
+  sw: "Sasa"
+  th: "ตอนนี้"
+  uk: "Зараз"
+  vi: "Bây giờ"
+  zh: "现在"
+  zh-HK: "現在"

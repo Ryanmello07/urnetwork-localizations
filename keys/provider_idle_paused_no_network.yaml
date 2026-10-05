@@ -1,0 +1,36 @@
+description: "Provider card, under the provide mode row: providing is paused because the current network can't be used for providing (no network, or a constrained or metered one)."
+source: "Paused: this device can't provide on its current network."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "متوقف مؤقتًا: لا يمكن لهذا الجهاز التوفير على شبكته الحالية."
+  cs: "Pozastaveno: toto zařízení nemůže na své aktuální síti poskytovat."
+  de: "Pausiert: Dieses Gerät kann in seinem aktuellen Netzwerk nicht bereitstellen."
+  el: "Σε παύση: αυτή η συσκευή δεν μπορεί να παρέχει στο τρέχον δίκτυό της."
+  en: "Paused: this device can't provide on its current network."
+  es: "En pausa: este dispositivo no puede compartir su conexión en la red actual."
+  es-419: "En pausa: este dispositivo no puede compartir su conexión en la red actual."
+  es-MX: "En pausa: este dispositivo no puede compartir su conexión en la red actual."
+  fr: "En pause : cet appareil ne peut pas partager sa connexion sur son réseau actuel."
+  he: "מושהה: המכשיר הזה לא יכול לספק ברשת הנוכחית שלו."
+  hi: "रुका हुआ: यह डिवाइस अपने मौजूदा नेटवर्क पर प्रदान नहीं कर सकता।"
+  id: "Dijeda: perangkat ini tidak dapat menyediakan di jaringannya saat ini."
+  it: "In pausa: questo dispositivo non può fornire sulla rete attuale."
+  ja: "一時停止中：このデバイスは現在のネットワークでは提供できません。"
+  ko: "일시 중지됨: 이 기기는 현재 네트워크에서 제공할 수 없습니다."
+  nl: "Gepauzeerd: dit apparaat kan op het huidige netwerk niet leveren."
+  pl: "Wstrzymano: to urządzenie nie może udostępniać w bieżącej sieci."
+  pt: "Em pausa: este dispositivo não pode fornecer na rede atual."
+  pt-BR: "Pausado: este dispositivo não pode fornecer na rede atual."
+  pt-PT: "Em pausa: este dispositivo não pode fornecer na rede atual."
+  ru: "Приостановлено: в текущей сети это устройство не может предоставлять доступ."
+  sv: "Pausad: den här enheten kan inte tillhandahålla på sitt nuvarande nätverk."
+  sw: "Imesitishwa: kifaa hiki hakiwezi kutoa kwenye mtandao wake wa sasa."
+  th: "หยุดชั่วคราว: อุปกรณ์นี้ไม่สามารถให้บริการบนเครือข่ายปัจจุบันได้"
+  uk: "Призупинено: у поточній мережі цей пристрій не може надавати доступ."
+  vi: "Đã tạm dừng: thiết bị này không thể cung cấp trên mạng hiện tại."
+  zh: "已暂停：此设备无法在当前网络上提供。"
+  zh-HK: "已暫停：此裝置無法在目前網絡上提供。"

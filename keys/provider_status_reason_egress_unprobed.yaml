@@ -1,0 +1,36 @@
+description: "Provider status reason (egress_unprobed): the network check (loading test sites through the device) has not run yet."
+source: "The network check hasn't run on this connection yet. Until it passes, clients are offered this device only when checked providers run out."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "لم يُجرَ فحص الشبكة على هذا الاتصال بعد. وإلى أن ينجح، لا يُعرض هذا الجهاز على العملاء إلا عند نفاد المزودين الذين تم فحصهم."
+  cs: "Kontrola sítě na tomto připojení ještě neproběhla. Dokud neprojde, nabízí se toto zařízení klientům jen tehdy, když dojdou zkontrolovaní poskytovatelé."
+  de: "Die Netzwerkprüfung ist für diese Verbindung noch nicht gelaufen. Bis sie besteht, wird dieses Gerät Clients nur angeboten, wenn geprüfte Anbieter ausgehen."
+  el: "Ο έλεγχος δικτύου δεν έχει εκτελεστεί ακόμη σε αυτή τη σύνδεση. Μέχρι να περάσει, η συσκευή προτείνεται σε πελάτες μόνο όταν εξαντληθούν οι ελεγμένοι πάροχοι."
+  en: "The network check hasn't run on this connection yet. Until it passes, clients are offered this device only when checked providers run out."
+  es: "La comprobación de red aún no se ha realizado en esta conexión. Hasta que la supere, este dispositivo solo se ofrece a los clientes cuando se agotan los proveedores comprobados."
+  es-419: "La verificación de red aún no se ha realizado en esta conexión. Hasta que la supere, este dispositivo solo se ofrece a los clientes cuando se agotan los proveedores verificados."
+  es-MX: "La verificación de red aún no se ha realizado en esta conexión. Hasta que la supere, este dispositivo solo se ofrece a los clientes cuando se agotan los proveedores verificados."
+  fr: "La vérification réseau n'a pas encore été effectuée sur cette connexion. Tant qu'elle n'est pas réussie, cet appareil n'est proposé aux clients que lorsque les fournisseurs vérifiés sont épuisés."
+  he: "בדיקת הרשת עדיין לא רצה על החיבור הזה. עד שהיא תעבור, המכשיר הזה יוצע ללקוחות רק כשהספקים שנבדקו יאזלו."
+  hi: "इस कनेक्शन पर नेटवर्क जाँच अभी नहीं चली है। इसके पास होने तक, यह डिवाइस क्लाइंट को तभी पेश किया जाता है जब जाँचे गए प्रदाता खत्म हो जाएँ।"
+  id: "Pemeriksaan jaringan belum dijalankan pada koneksi ini. Hingga lulus, perangkat ini hanya ditawarkan ke klien saat penyedia yang sudah diperiksa habis."
+  it: "Il controllo di rete non è ancora stato eseguito su questa connessione. Finché non viene superato, questo dispositivo viene offerto ai client solo quando i provider verificati sono esauriti."
+  ja: "この接続ではまだネットワークチェックが実行されていません。合格するまでは、チェック済みのプロバイダーが足りなくなった場合にのみクライアントに提示されます。"
+  ko: "이 연결에서는 아직 네트워크 검사가 실행되지 않았습니다. 검사를 통과할 때까지는 검사를 마친 제공업체가 부족할 때만 클라이언트에게 제시됩니다."
+  nl: "De netwerkcontrole is voor deze verbinding nog niet uitgevoerd. Tot die slaagt, wordt dit apparaat alleen aan clients aangeboden als gecontroleerde providers op zijn."
+  pl: "Kontrola sieci nie została jeszcze przeprowadzona dla tego połączenia. Dopóki jej nie przejdzie, to urządzenie jest proponowane klientom tylko wtedy, gdy zabraknie sprawdzonych dostawców."
+  pt: "A verificação de rede ainda não foi feita nesta ligação. Até ser aprovada, este dispositivo só é oferecido aos clientes quando os fornecedores verificados se esgotam."
+  pt-BR: "A verificação de rede ainda não foi feita nesta conexão. Até ser aprovada, este dispositivo só é oferecido aos clientes quando os provedores verificados se esgotam."
+  pt-PT: "A verificação de rede ainda não foi feita nesta ligação. Até ser aprovada, este dispositivo só é oferecido aos clientes quando os fornecedores verificados se esgotam."
+  ru: "Проверка сети для этого подключения еще не проводилась. Пока она не пройдена, устройство предлагается клиентам, только когда проверенные провайдеры закончились."
+  sv: "Nätverkskontrollen har inte körts på den här anslutningen än. Tills den godkänns erbjuds enheten klienter bara när kontrollerade leverantörer tar slut."
+  sw: "Ukaguzi wa mtandao bado haujafanyika kwenye muunganisho huu. Hadi ufaulu, kifaa hiki hupendekezwa kwa wateja tu watoa huduma waliokaguliwa wanapoisha."
+  th: "ยังไม่ได้ตรวจสอบเครือข่ายสำหรับการเชื่อมต่อนี้ จนกว่าจะผ่าน อุปกรณ์นี้จะถูกเสนอให้ไคลเอนต์เฉพาะเมื่อผู้ให้บริการที่ผ่านการตรวจสอบหมดแล้ว"
+  uk: "Перевірку мережі для цього підключення ще не проводили. Доки її не пройдено, пристрій пропонують клієнтам, лише коли перевірені провайдери закінчилися."
+  vi: "Chưa chạy kiểm tra mạng trên kết nối này. Cho đến khi đạt, thiết bị này chỉ được đề xuất cho máy khách khi các nhà cung cấp đã kiểm tra không còn."
+  zh: "此连接尚未进行网络检查。在检查通过之前，只有在已检查的提供商用完时，此设备才会被推荐给客户端。"
+  zh-HK: "此連接尚未進行網絡檢查。在檢查通過之前，只有在已檢查的供應商用完時，此裝置才會被推薦給客戶端。"

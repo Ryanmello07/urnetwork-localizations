@@ -3,6 +3,8 @@ source: "Country"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "الدولة"
   cs: "Země"

@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: explanation under the 12-hour reliability."
+source: "How steadily this device stayed connected over the last 12 hours. It must reach the minimum to be offered to clients; from a fresh start this takes about 8 hours of steady uptime."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "مدى ثبات اتصال هذا الجهاز خلال آخر 12 ساعة. يجب أن تبلغ الحد الأدنى ليُعرض على العملاء؛ ويستغرق ذلك نحو 8 ساعات من الاتصال المستقر عند البدء من جديد."
+  cs: "Jak stabilně bylo toto zařízení připojené za posledních 12 hodin. Musí dosáhnout minima, aby se nabízelo klientům; po novém startu to trvá zhruba 8 hodin stabilního provozu."
+  de: "Wie stabil dieses Gerät in den letzten 12 Stunden verbunden war. Sie muss das Minimum erreichen, damit es Clients angeboten wird; nach einem Neustart dauert das etwa 8 Stunden stabile Laufzeit."
+  el: "Πόσο σταθερά έμεινε συνδεδεμένη αυτή η συσκευή τις τελευταίες 12 ώρες. Πρέπει να φτάσει το ελάχιστο για να προτείνεται σε πελάτες· μετά από νέα εκκίνηση αυτό απαιτεί περίπου 8 ώρες σταθερής λειτουργίας."
+  en: "How steadily this device stayed connected over the last 12 hours. It must reach the minimum to be offered to clients; from a fresh start this takes about 8 hours of steady uptime."
+  es: "Qué tan estable se mantuvo conectado este dispositivo en las últimas 12 horas. Debe alcanzar el mínimo para ofrecerse a los clientes; empezando de cero, esto lleva unas 8 horas de funcionamiento estable."
+  es-419: "Qué tan estable se mantuvo conectado este dispositivo en las últimas 12 horas. Debe alcanzar el mínimo para ofrecerse a los clientes; empezando de cero, esto lleva unas 8 horas de funcionamiento estable."
+  es-MX: "Qué tan estable se mantuvo conectado este dispositivo en las últimas 12 horas. Debe alcanzar el mínimo para ofrecerse a los clientes; empezando de cero, esto lleva unas 8 horas de funcionamiento estable."
+  fr: "Stabilité de la connexion de cet appareil au cours des 12 dernières heures. Elle doit atteindre le minimum pour qu'il soit proposé aux clients ; après un nouveau départ, cela demande environ 8 heures de disponibilité stable."
+  he: "עד כמה המכשיר הזה נשאר מחובר ביציבות ב-12 השעות האחרונות. היא חייבת להגיע למינימום כדי שהמכשיר יוצע ללקוחות; מהתחלה חדשה זה לוקח כ-8 שעות של זמינות יציבה."
+  hi: "पिछले 12 घंटों में यह डिवाइस कितनी स्थिरता से कनेक्ट रहा। क्लाइंट को पेश किए जाने के लिए इसे न्यूनतम तक पहुँचना होगा; नई शुरुआत से इसमें लगभग 8 घंटे का स्थिर अपटाइम लगता है।"
+  id: "Seberapa stabil perangkat ini tetap terhubung dalam 12 jam terakhir. Nilainya harus mencapai batas minimum agar ditawarkan ke klien; dari awal, ini memerlukan sekitar 8 jam waktu aktif yang stabil."
+  it: "Quanto stabilmente questo dispositivo è rimasto connesso nelle ultime 12 ore. Deve raggiungere il minimo perché venga offerto ai client; partendo da zero servono circa 8 ore di attività stabile."
+  ja: "過去12時間にこのデバイスがどれだけ安定して接続していたかを示します。クライアントに提示されるには最低値に達する必要があります。新規開始からは、約8時間の安定した稼働が必要です。"
+  ko: "최근 12시간 동안 이 기기가 얼마나 안정적으로 연결되어 있었는지를 나타냅니다. 클라이언트에게 제시되려면 최솟값에 도달해야 하며, 새로 시작하면 약 8시간의 안정적인 가동이 필요합니다."
+  nl: "Hoe stabiel dit apparaat de afgelopen 12 uur verbonden bleef. Dit moet het minimum halen om aan clients te worden aangeboden; na een nieuwe start duurt dat ongeveer 8 uur stabiele uptime."
+  pl: "Jak stabilnie to urządzenie było połączone w ciągu ostatnich 12 godzin. Musi osiągnąć minimum, aby urządzenie było proponowane klientom; po nowym starcie zajmuje to około 8 godzin stabilnej pracy."
+  pt: "Quão estável este dispositivo se manteve ligado nas últimas 12 horas. Tem de atingir o mínimo para ser oferecido aos clientes; a partir de um novo início, isto demora cerca de 8 horas de funcionamento estável."
+  pt-BR: "Quão estável este dispositivo ficou conectado nas últimas 12 horas. Ela precisa atingir o mínimo para que o dispositivo seja oferecido aos clientes; a partir de um novo início, isso leva cerca de 8 horas de funcionamento estável."
+  pt-PT: "Quão estável este dispositivo se manteve ligado nas últimas 12 horas. Tem de atingir o mínimo para ser oferecido aos clientes; a partir de um novo início, isto demora cerca de 8 horas de funcionamento estável."
+  ru: "Насколько стабильно это устройство было подключено за последние 12 часов. Показатель должен достичь минимума, чтобы устройство предлагали клиентам; после нового старта на это уходит около 8 часов стабильной работы."
+  sv: "Hur stabilt enheten var ansluten de senaste 12 timmarna. Den måste nå miniminivån för att enheten ska erbjudas klienter; efter en nystart tar det cirka 8 timmars stabil drifttid."
+  sw: "Jinsi kifaa hiki kilivyobaki kimeunganishwa kwa uthabiti katika saa 12 zilizopita. Lazima ufikie kiwango cha chini ili kifaa kipendekezwe kwa wateja; ukianza upya huchukua takriban saa 8 za kufanya kazi bila kukatika."
+  th: "อุปกรณ์นี้เชื่อมต่ออย่างต่อเนื่องเพียงใดในช่วง 12 ชั่วโมงที่ผ่านมา ต้องถึงค่าขั้นต่ำจึงจะถูกเสนอให้ไคลเอนต์ หากเริ่มต้นใหม่จะใช้เวลาออนไลน์ต่อเนื่องประมาณ 8 ชั่วโมง"
+  uk: "Наскільки стабільно цей пристрій був підключений за останні 12 годин. Показник має досягти мінімуму, щоб пристрій пропонували клієнтам; після нового старту на це йде близько 8 годин стабільної роботи."
+  vi: "Mức độ ổn định của kết nối thiết bị này trong 12 giờ qua. Chỉ số phải đạt mức tối thiểu để thiết bị được đề xuất cho máy khách; khi bắt đầu lại từ đầu, việc này mất khoảng 8 giờ hoạt động ổn định."
+  zh: "此设备在过去 12 小时内保持连接的稳定程度。必须达到最低要求才会被推荐给客户端；从头开始大约需要 8 小时的稳定在线时间。"
+  zh-HK: "此裝置在過去 12 小時內保持連接的穩定程度。必須達到最低要求才會被推薦給客戶端；從頭開始大約需要 8 小時的穩定在線時間。"

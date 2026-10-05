@@ -3,6 +3,8 @@ source: "Change"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "غيّر"
   cs: "Změnit"

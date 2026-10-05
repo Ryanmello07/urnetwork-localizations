@@ -1,0 +1,36 @@
+description: "Provider status reason (none): passes every check."
+source: "Everything checks out. How often clients are offered this device depends on demand in its region and on how it ranks against nearby providers."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "كل شيء على ما يرام. يعتمد عدد مرات عرض هذا الجهاز على العملاء على الطلب في منطقته وعلى ترتيبه مقارنةً بالمزودين القريبين."
+  cs: "Vše je v pořádku. Jak často se toto zařízení nabízí klientům, závisí na poptávce v jeho regionu a na tom, jak si vede v porovnání s okolními poskytovateli."
+  de: "Alles in Ordnung. Wie oft dieses Gerät Clients angeboten wird, hängt von der Nachfrage in seiner Region ab und davon, wie es im Vergleich zu Anbietern in der Nähe abschneidet."
+  el: "Όλα είναι εντάξει. Το πόσο συχνά προτείνεται αυτή η συσκευή σε πελάτες εξαρτάται από τη ζήτηση στην περιοχή της και από την κατάταξή της σε σχέση με κοντινούς παρόχους."
+  en: "Everything checks out. How often clients are offered this device depends on demand in its region and on how it ranks against nearby providers."
+  es: "Todo está en orden. La frecuencia con la que se ofrece este dispositivo a los clientes depende de la demanda en su región y de su posición frente a los proveedores cercanos."
+  es-419: "Todo está en orden. La frecuencia con la que se ofrece este dispositivo a los clientes depende de la demanda en su región y de su posición frente a los proveedores cercanos."
+  es-MX: "Todo está en orden. La frecuencia con la que se ofrece este dispositivo a los clientes depende de la demanda en su región y de su posición frente a los proveedores cercanos."
+  fr: "Tout est en ordre. La fréquence à laquelle cet appareil est proposé aux clients dépend de la demande dans sa région et de son classement par rapport aux fournisseurs proches."
+  he: "הכול תקין. התדירות שבה המכשיר הזה מוצע ללקוחות תלויה בביקוש באזור שלו ובדירוג שלו לעומת ספקים קרובים."
+  hi: "सब ठीक है। यह डिवाइस क्लाइंट को कितनी बार पेश किया जाता है, यह इसके क्षेत्र की मांग और आस-पास के प्रदाताओं की तुलना में इसकी रैंकिंग पर निर्भर करता है।"
+  id: "Semuanya beres. Seberapa sering perangkat ini ditawarkan ke klien bergantung pada permintaan di wilayahnya dan peringkatnya dibandingkan penyedia terdekat."
+  it: "È tutto a posto. La frequenza con cui questo dispositivo viene offerto ai client dipende dalla domanda nella sua regione e dalla sua posizione rispetto ai provider vicini."
+  ja: "すべて問題ありません。このデバイスがクライアントに提示される頻度は、その地域の需要と、近くのプロバイダーと比べた順位によって決まります。"
+  ko: "모두 정상입니다. 이 기기가 클라이언트에게 제시되는 빈도는 해당 지역의 수요와 주변 제공업체 대비 순위에 따라 달라집니다."
+  nl: "Alles klopt. Hoe vaak dit apparaat aan clients wordt aangeboden, hangt af van de vraag in de regio en van hoe het scoort ten opzichte van providers in de buurt."
+  pl: "Wszystko w porządku. To, jak często to urządzenie jest proponowane klientom, zależy od zapotrzebowania w jego regionie i od jego pozycji w porównaniu z pobliskimi dostawcami."
+  pt: "Está tudo em ordem. A frequência com que este dispositivo é oferecido aos clientes depende da procura na sua região e da sua posição face aos fornecedores próximos."
+  pt-BR: "Está tudo certo. A frequência com que este dispositivo é oferecido aos clientes depende da demanda na região dele e da sua posição em relação aos provedores próximos."
+  pt-PT: "Está tudo em ordem. A frequência com que este dispositivo é oferecido aos clientes depende da procura na sua região e da sua posição face aos fornecedores próximos."
+  ru: "Все в порядке. Как часто это устройство предлагают клиентам, зависит от спроса в его регионе и от его места в рейтинге среди ближайших провайдеров."
+  sv: "Allt ser bra ut. Hur ofta enheten erbjuds klienter beror på efterfrågan i dess region och hur den rankas mot leverantörer i närheten."
+  sw: "Kila kitu kiko sawa. Mara ambazo kifaa hiki hupendekezwa kwa wateja hutegemea mahitaji katika eneo lake na nafasi yake ikilinganishwa na watoa huduma walio karibu."
+  th: "ทุกอย่างเรียบร้อย ความถี่ที่อุปกรณ์นี้ถูกเสนอให้ไคลเอนต์ขึ้นอยู่กับความต้องการในภูมิภาคและอันดับเมื่อเทียบกับผู้ให้บริการใกล้เคียง"
+  uk: "Усе гаразд. Як часто цей пристрій пропонують клієнтам, залежить від попиту в його регіоні та від його місця в рейтингу серед найближчих провайдерів."
+  vi: "Mọi thứ đều ổn. Tần suất thiết bị này được đề xuất cho máy khách phụ thuộc vào nhu cầu trong khu vực và thứ hạng so với các nhà cung cấp lân cận."
+  zh: "一切正常。此设备被推荐给客户端的频率取决于所在地区的需求，以及与附近提供商相比的排名。"
+  zh-HK: "一切正常。此裝置被推薦給客戶端的頻率取決於所在地區的需求，以及與附近供應商相比的排名。"

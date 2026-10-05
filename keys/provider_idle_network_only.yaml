@@ -1,0 +1,36 @@
+description: "Provider card, under the provide mode row: the provide mode is Network, so the device shares only with the user's own devices. 'Always' is the provide mode label (key always)."
+source: "Shared only with your own devices. Choose Always to share with everyone."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "تتم المشاركة مع أجهزتك فقط. اختر «دائمًا» للمشاركة مع الجميع."
+  cs: "Sdíleno jen s vašimi vlastními zařízeními. Zvolte Vždy a sdílejte se všemi."
+  de: "Nur mit deinen eigenen Geräten geteilt. Wähle Immer, um mit allen zu teilen."
+  el: "Κοινοποιείται μόνο στις δικές σας συσκευές. Επιλέξτε Πάντα για κοινή χρήση με όλους."
+  en: "Shared only with your own devices. Choose Always to share with everyone."
+  es: "Solo se comparte con tus propios dispositivos. Elige Siempre para compartir con todos."
+  es-419: "Solo se comparte con tus propios dispositivos. Elige Siempre para compartir con todos."
+  es-MX: "Solo se comparte con tus propios dispositivos. Elige Siempre para compartir con todos."
+  fr: "Partagé uniquement avec vos propres appareils. Choisissez Toujours pour partager avec tout le monde."
+  he: "משותף רק עם המכשירים שלך. בחר תמיד כדי לשתף עם כולם."
+  hi: "केवल आपके अपने डिवाइस के साथ साझा किया गया। सभी के साथ साझा करने के लिए हमेशा चुनें।"
+  id: "Hanya dibagikan dengan perangkat Anda sendiri. Pilih Selalu untuk berbagi dengan semua orang."
+  it: "Condiviso solo con i tuoi dispositivi. Scegli Sempre per condividere con tutti."
+  ja: "自分のデバイスとのみ共有しています。すべての人と共有するには「常に」を選択してください。"
+  ko: "내 기기와만 공유됩니다. 모든 사람과 공유하려면 '항상'을 선택하세요."
+  nl: "Alleen gedeeld met je eigen apparaten. Kies Altijd om met iedereen te delen."
+  pl: "Udostępniane tylko Twoim urządzeniom. Wybierz Zawsze, aby udostępniać wszystkim."
+  pt: "Partilhado apenas com os seus dispositivos. Escolha Sempre para partilhar com todos."
+  pt-BR: "Compartilhado apenas com seus próprios dispositivos. Escolha Sempre para compartilhar com todos."
+  pt-PT: "Partilhado apenas com os seus dispositivos. Escolha Sempre para partilhar com todos."
+  ru: "Доступ предоставляется только вашим устройствам. Выберите «Всегда», чтобы предоставлять его всем."
+  sv: "Delas bara med dina egna enheter. Välj Alltid för att dela med alla."
+  sw: "Inashirikiwa na vifaa vyako tu. Chagua Daima ili kushiriki na kila mtu."
+  th: "แชร์เฉพาะกับอุปกรณ์ของคุณเอง เลือก ตลอดเวลา เพื่อแชร์กับทุกคน"
+  uk: "Доступ надається лише вашим пристроям. Виберіть «Завжди», щоб надавати його всім."
+  vi: "Chỉ chia sẻ với thiết bị của riêng bạn. Chọn Luôn luôn để chia sẻ với mọi người."
+  zh: "仅与你自己的设备共享。选择“始终”即可与所有人共享。"
+  zh-HK: "只與你自己的裝置分享。選擇「始終」即可與所有人分享。"

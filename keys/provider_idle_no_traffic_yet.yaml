@@ -1,0 +1,36 @@
+description: "Provider card, under the provide mode row: the device provides to everyone but has carried no traffic yet."
+source: "New providers need several hours of steady uptime and a speed test before clients are sent to them. Traffic also depends on demand in your region."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يحتاج المزودون الجدد إلى عدة ساعات من الاتصال المستقر واختبار سرعة قبل أن يُرسَل إليهم العملاء. تعتمد حركة البيانات أيضًا على الطلب في منطقتك."
+  cs: "Noví poskytovatelé potřebují několik hodin stabilního provozu a test rychlosti, než k nim budou posíláni klienti. Provoz závisí také na poptávce ve vašem regionu."
+  de: "Neue Anbieter brauchen einige Stunden stabile Laufzeit und einen Geschwindigkeitstest, bevor ihnen Clients zugewiesen werden. Der Datenverkehr hängt auch von der Nachfrage in deiner Region ab."
+  el: "Οι νέοι πάροχοι χρειάζονται αρκετές ώρες σταθερής λειτουργίας και μια δοκιμή ταχύτητας πριν τους αποσταλούν πελάτες. Η κίνηση εξαρτάται επίσης από τη ζήτηση στην περιοχή σας."
+  en: "New providers need several hours of steady uptime and a speed test before clients are sent to them. Traffic also depends on demand in your region."
+  es: "Los nuevos proveedores necesitan varias horas de funcionamiento estable y una prueba de velocidad antes de recibir clientes. El tráfico también depende de la demanda en tu región."
+  es-419: "Los nuevos proveedores necesitan varias horas de funcionamiento estable y una prueba de velocidad antes de recibir clientes. El tráfico también depende de la demanda en tu región."
+  es-MX: "Los nuevos proveedores necesitan varias horas de funcionamiento estable y una prueba de velocidad antes de recibir clientes. El tráfico también depende de la demanda en tu región."
+  fr: "Les nouveaux fournisseurs ont besoin de plusieurs heures de disponibilité stable et d'un test de vitesse avant de recevoir des clients. Le trafic dépend aussi de la demande dans votre région."
+  he: "ספקים חדשים צריכים כמה שעות של זמינות יציבה ובדיקת מהירות לפני שלקוחות נשלחים אליהם. התעבורה תלויה גם בביקוש באזור שלך."
+  hi: "नए प्रदाताओं को क्लाइंट भेजे जाने से पहले कई घंटों का स्थिर अपटाइम और एक स्पीड टेस्ट चाहिए। ट्रैफ़िक आपके क्षेत्र में मांग पर भी निर्भर करता है।"
+  id: "Penyedia baru memerlukan beberapa jam waktu aktif yang stabil dan tes kecepatan sebelum klien dikirim kepada mereka. Lalu lintas juga bergantung pada permintaan di wilayah Anda."
+  it: "I nuovi provider hanno bisogno di diverse ore di attività stabile e di un test di velocità prima di ricevere client. Il traffico dipende anche dalla domanda nella tua regione."
+  ja: "新しいプロバイダーには、クライアントが割り当てられる前に数時間の安定した稼働と速度テストが必要です。トラフィックはお住まいの地域の需要にも左右されます。"
+  ko: "새 제공업체는 클라이언트가 배정되기 전에 몇 시간 동안 안정적으로 가동되고 속도 테스트를 마쳐야 합니다. 트래픽은 해당 지역의 수요에 따라서도 달라집니다."
+  nl: "Nieuwe providers hebben enkele uren stabiele uptime en een snelheidstest nodig voordat er clients naar hen worden gestuurd. Verkeer hangt ook af van de vraag in je regio."
+  pl: "Nowi dostawcy potrzebują kilku godzin stabilnej pracy i testu prędkości, zanim zostaną do nich skierowani klienci. Ruch zależy też od zapotrzebowania w Twoim regionie."
+  pt: "Os novos fornecedores precisam de várias horas de funcionamento estável e de um teste de velocidade antes de receberem clientes. O tráfego também depende da procura na sua região."
+  pt-BR: "Novos provedores precisam de várias horas de funcionamento estável e de um teste de velocidade antes de receberem clientes. O tráfego também depende da demanda na sua região."
+  pt-PT: "Os novos fornecedores precisam de várias horas de funcionamento estável e de um teste de velocidade antes de receberem clientes. O tráfego também depende da procura na sua região."
+  ru: "Новым провайдерам нужно несколько часов стабильной работы и тест скорости, прежде чем к ним начнут направлять клиентов. Трафик также зависит от спроса в вашем регионе."
+  sv: "Nya leverantörer behöver flera timmars stabil drifttid och ett hastighetstest innan klienter skickas till dem. Trafiken beror också på efterfrågan i din region."
+  sw: "Watoa huduma wapya wanahitaji saa kadhaa za kufanya kazi bila kukatika na jaribio la kasi kabla wateja hawajatumwa kwao. Trafiki pia inategemea mahitaji katika eneo lako."
+  th: "ผู้ให้บริการรายใหม่ต้องออนไลน์อย่างต่อเนื่องหลายชั่วโมงและผ่านการทดสอบความเร็วก่อนจึงจะมีไคลเอนต์ถูกส่งมา ปริมาณการใช้งานยังขึ้นอยู่กับความต้องการในภูมิภาคของคุณด้วย"
+  uk: "Новим провайдерам потрібно кілька годин стабільної роботи й тест швидкості, перш ніж до них почнуть спрямовувати клієнтів. Трафік також залежить від попиту у вашому регіоні."
+  vi: "Nhà cung cấp mới cần vài giờ hoạt động ổn định và một lần kiểm tra tốc độ trước khi được gửi máy khách. Lưu lượng cũng phụ thuộc vào nhu cầu trong khu vực của bạn."
+  zh: "新提供商需要数小时的稳定在线时间并完成速度测试，才会有客户端被分配给它们。流量还取决于你所在地区的需求。"
+  zh-HK: "新供應商需要數小時的穩定在線時間並完成速度測試，才會有客戶端被分配給它們。流量亦取決於你所在地區的需求。"

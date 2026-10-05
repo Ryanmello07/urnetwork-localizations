@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: value of a selection weight when the device is not in that pool right now."
+source: "Not in this pool"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "ليس ضمن هذه المجموعة"
+  cs: "Není v tomto fondu"
+  de: "Nicht in diesem Pool"
+  el: "Εκτός αυτής της ομάδας"
+  en: "Not in this pool"
+  es: "No está en este grupo"
+  es-419: "No está en este grupo"
+  es-MX: "No está en este grupo"
+  fr: "Pas dans ce groupe"
+  he: "לא במאגר הזה"
+  hi: "इस पूल में नहीं"
+  id: "Tidak ada di pool ini"
+  it: "Non in questo gruppo"
+  ja: "このプールには含まれません"
+  ko: "이 풀에 없음"
+  nl: "Niet in deze pool"
+  pl: "Poza tą pulą"
+  pt: "Fora deste grupo"
+  pt-BR: "Fora deste grupo"
+  pt-PT: "Fora deste grupo"
+  ru: "Не в этом пуле"
+  sv: "Inte i den här poolen"
+  sw: "Haimo kwenye kundi hili"
+  th: "ไม่อยู่ในกลุ่มนี้"
+  uk: "Не в цьому пулі"
+  vi: "Không thuộc nhóm này"
+  zh: "不在此池中"
+  zh-HK: "不在此池中"

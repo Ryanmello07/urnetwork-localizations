@@ -1,0 +1,104 @@
+description: "Provider card chart: total of the 60 bars. The argument is the number of times this device was offered to clients in the last hour."
+source: "%lld times in the last hour"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "{count} مرة خلال الساعة الأخيرة"
+    one: "مرة واحدة خلال الساعة الأخيرة"
+    two: "مرتان خلال الساعة الأخيرة"
+    few: "{count} مرات خلال الساعة الأخيرة"
+    many: "{count} مرة خلال الساعة الأخيرة"
+    other: "{count} مرة خلال الساعة الأخيرة"
+  cs:
+    one: "{count}krát za poslední hodinu"
+    few: "{count}krát za poslední hodinu"
+    many: "{count}krát za poslední hodinu"
+    other: "{count}krát za poslední hodinu"
+  de:
+    one: "{count}-mal in der letzten Stunde"
+    other: "{count}-mal in der letzten Stunde"
+  el:
+    one: "{count} φορά την τελευταία ώρα"
+    other: "{count} φορές την τελευταία ώρα"
+  en:
+    one: "{count} time in the last hour"
+    other: "{count} times in the last hour"
+  es:
+    one: "{count} vez en la última hora"
+    other: "{count} veces en la última hora"
+  es-419:
+    one: "{count} vez en la última hora"
+    other: "{count} veces en la última hora"
+  es-MX:
+    one: "{count} vez en la última hora"
+    other: "{count} veces en la última hora"
+  fr:
+    one: "{count} fois au cours de la dernière heure"
+    other: "{count} fois au cours de la dernière heure"
+  he:
+    one: "פעם אחת בשעה האחרונה"
+    two: "פעמיים בשעה האחרונה"
+    many: "{count} פעמים בשעה האחרונה"
+    other: "{count} פעמים בשעה האחרונה"
+  hi:
+    one: "पिछले एक घंटे में {count} बार"
+    other: "पिछले एक घंटे में {count} बार"
+  id:
+    other: "{count} kali dalam satu jam terakhir"
+  it:
+    one: "{count} volta nell'ultima ora"
+    other: "{count} volte nell'ultima ora"
+  ja:
+    other: "過去1時間で{count}回"
+  ko:
+    other: "최근 1시간 동안 {count}회"
+  nl:
+    one: "{count} keer in het afgelopen uur"
+    other: "{count} keer in het afgelopen uur"
+  pl:
+    one: "{count} raz w ciągu ostatniej godziny"
+    few: "{count} razy w ciągu ostatniej godziny"
+    many: "{count} razy w ciągu ostatniej godziny"
+    other: "{count} razy w ciągu ostatniej godziny"
+  pt:
+    one: "{count} vez na última hora"
+    other: "{count} vezes na última hora"
+  pt-BR:
+    one: "{count} vez na última hora"
+    other: "{count} vezes na última hora"
+  pt-PT:
+    one: "{count} vez na última hora"
+    other: "{count} vezes na última hora"
+  ru:
+    one: "{count} раз за последний час"
+    few: "{count} раза за последний час"
+    many: "{count} раз за последний час"
+    other: "{count} раза за последний час"
+  sv:
+    one: "{count} gång den senaste timmen"
+    other: "{count} gånger den senaste timmen"
+  sw:
+    one: "mara {count} katika saa iliyopita"
+    other: "mara {count} katika saa iliyopita"
+  th:
+    other: "{count} ครั้งในชั่วโมงที่ผ่านมา"
+  uk:
+    one: "{count} раз за останню годину"
+    few: "{count} рази за останню годину"
+    many: "{count} разів за останню годину"
+    other: "{count} рази за останню годину"
+  vi:
+    other: "{count} lần trong giờ qua"
+  zh:
+    other: "过去一小时内 {count} 次"
+  zh-HK:
+    other: "過去一小時內 {count} 次"

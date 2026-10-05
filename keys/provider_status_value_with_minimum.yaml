@@ -1,0 +1,41 @@
+description: "Provider status 'Why?' list: a value with the minimum the network requires, e.g. '82% (needs 95%)'. Both arguments are already formatted text."
+source: "%@ (needs %@)"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: value
+    type: string
+  - name: minimum
+    type: string
+localizations:
+  ar: "{value} (يلزم {minimum})"
+  cs: "{value} (potřeba {minimum})"
+  de: "{value} (benötigt {minimum})"
+  el: "{value} (απαιτείται {minimum})"
+  en: "{value} (needs {minimum})"
+  es: "{value} (necesita {minimum})"
+  es-419: "{value} (necesita {minimum})"
+  es-MX: "{value} (necesita {minimum})"
+  fr: "{value} (requis : {minimum})"
+  he: "{value} (נדרש {minimum})"
+  hi: "{value} (आवश्यक {minimum})"
+  id: "{value} (perlu {minimum})"
+  it: "{value} (richiesto {minimum})"
+  ja: "{value}（必要: {minimum}）"
+  ko: "{value}(필요: {minimum})"
+  nl: "{value} (nodig: {minimum})"
+  pl: "{value} (wymagane {minimum})"
+  pt: "{value} (necessário {minimum})"
+  pt-BR: "{value} (necessário {minimum})"
+  pt-PT: "{value} (necessário {minimum})"
+  ru: "{value} (нужно {minimum})"
+  sv: "{value} (krävs {minimum})"
+  sw: "{value} (inahitajika {minimum})"
+  th: "{value} (ต้องการ {minimum})"
+  uk: "{value} (потрібно {minimum})"
+  vi: "{value} (cần {minimum})"
+  zh: "{value}（需要 {minimum}）"
+  zh-HK: "{value}（需要 {minimum}）"

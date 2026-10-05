@@ -1,0 +1,36 @@
+description: "Provider status reason (reliability_warming_up): steady for the last hour, but the 12-hour reliability is still below the minimum."
+source: "Building reliability. This device has been steady for the last hour; clients are offered it once its 12-hour reliability reaches the minimum, about 8 hours after a fresh start."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "جارٍ بناء الموثوقية. كان هذا الجهاز مستقرًا خلال الساعة الأخيرة؛ سيُعرض على العملاء عندما تبلغ موثوقيته لمدة 12 ساعة الحد الأدنى، أي بعد نحو 8 ساعات من بدء جديد."
+  cs: "Budování spolehlivosti. Toto zařízení bylo poslední hodinu stabilní; klientům bude nabízeno, jakmile jeho spolehlivost za 12 hodin dosáhne minima, zhruba 8 hodin po novém startu."
+  de: "Zuverlässigkeit wird aufgebaut. Dieses Gerät war in der letzten Stunde stabil; Clients wird es angeboten, sobald seine 12-Stunden-Zuverlässigkeit das Minimum erreicht, etwa 8 Stunden nach einem Neustart."
+  el: "Δημιουργία αξιοπιστίας. Αυτή η συσκευή ήταν σταθερή την τελευταία ώρα· θα προτείνεται σε πελάτες μόλις η αξιοπιστία 12 ωρών φτάσει το ελάχιστο, περίπου 8 ώρες μετά από νέα εκκίνηση."
+  en: "Building reliability. This device has been steady for the last hour; clients are offered it once its 12-hour reliability reaches the minimum, about 8 hours after a fresh start."
+  es: "Generando fiabilidad. Este dispositivo ha estado estable la última hora; se ofrecerá a los clientes cuando su fiabilidad de 12 horas alcance el mínimo, unas 8 horas después de empezar de cero."
+  es-419: "Generando fiabilidad. Este dispositivo estuvo estable la última hora; se ofrecerá a los clientes cuando su fiabilidad de 12 horas alcance el mínimo, unas 8 horas después de empezar de cero."
+  es-MX: "Generando fiabilidad. Este dispositivo estuvo estable la última hora; se ofrecerá a los clientes cuando su fiabilidad de 12 horas alcance el mínimo, unas 8 horas después de empezar de cero."
+  fr: "Fiabilité en cours de constitution. Cet appareil a été stable au cours de la dernière heure ; il sera proposé aux clients dès que sa fiabilité sur 12 heures atteindra le minimum, environ 8 heures après un nouveau départ."
+  he: "בונה אמינות. המכשיר הזה היה יציב בשעה האחרונה; הוא יוצע ללקוחות כשהאמינות שלו ב-12 השעות תגיע למינימום, כ-8 שעות אחרי התחלה מחדש."
+  hi: "विश्वसनीयता बन रही है। यह डिवाइस पिछले एक घंटे से स्थिर है; इसकी 12 घंटे की विश्वसनीयता न्यूनतम तक पहुँचते ही इसे क्लाइंट को पेश किया जाएगा, नई शुरुआत के लगभग 8 घंटे बाद।"
+  id: "Membangun keandalan. Perangkat ini stabil selama satu jam terakhir; perangkat akan ditawarkan ke klien setelah keandalan 12 jamnya mencapai batas minimum, sekitar 8 jam setelah mulai dari awal."
+  it: "Affidabilità in costruzione. Questo dispositivo è stato stabile nell'ultima ora; verrà offerto ai client quando la sua affidabilità sulle 12 ore raggiungerà il minimo, circa 8 ore dopo un nuovo avvio."
+  ja: "信頼性を構築中です。このデバイスは過去1時間安定しています。12時間の信頼性が最低値に達するとクライアントに提示されます（新規開始から約8時間）。"
+  ko: "신뢰성을 쌓는 중입니다. 이 기기는 최근 1시간 동안 안정적이었습니다. 12시간 신뢰성이 최솟값에 도달하면 클라이언트에게 제시되며, 새로 시작한 후 약 8시간이 걸립니다."
+  nl: "Betrouwbaarheid wordt opgebouwd. Dit apparaat was het afgelopen uur stabiel; het wordt aan clients aangeboden zodra de betrouwbaarheid over 12 uur het minimum bereikt, ongeveer 8 uur na een nieuwe start."
+  pl: "Budowanie niezawodności. To urządzenie działało stabilnie przez ostatnią godzinę; zostanie zaproponowane klientom, gdy jego niezawodność z 12 godzin osiągnie minimum, około 8 godzin po nowym starcie."
+  pt: "A construir fiabilidade. Este dispositivo esteve estável na última hora; será oferecido aos clientes quando a sua fiabilidade de 12 horas atingir o mínimo, cerca de 8 horas após um novo início."
+  pt-BR: "Construindo confiabilidade. Este dispositivo ficou estável na última hora; ele será oferecido aos clientes quando sua confiabilidade de 12 horas atingir o mínimo, cerca de 8 horas após um novo início."
+  pt-PT: "A construir confiabilidade. Este dispositivo esteve estável na última hora; será oferecido aos clientes quando a sua confiabilidade de 12 horas atingir o mínimo, cerca de 8 horas após um novo início."
+  ru: "Набирается надежность. Последний час это устройство работало стабильно; его начнут предлагать клиентам, когда надежность за 12 часов достигнет минимума — примерно через 8 часов после нового старта."
+  sv: "Bygger tillförlitlighet. Den här enheten har varit stabil den senaste timmen; den erbjuds klienter när dess tillförlitlighet över 12 timmar når miniminivån, cirka 8 timmar efter en nystart."
+  sw: "Inajenga uaminifu. Kifaa hiki kimekuwa thabiti kwa saa iliyopita; kitapendekezwa kwa wateja uaminifu wake wa saa 12 utakapofikia kiwango cha chini, takriban saa 8 baada ya kuanza upya."
+  th: "กำลังสร้างความน่าเชื่อถือ อุปกรณ์นี้ทำงานเสถียรในชั่วโมงที่ผ่านมา จะถูกเสนอให้ไคลเอนต์เมื่อความน่าเชื่อถือในรอบ 12 ชั่วโมงถึงค่าขั้นต่ำ ประมาณ 8 ชั่วโมงหลังจากเริ่มต้นใหม่"
+  uk: "Набирається надійність. Останню годину цей пристрій працював стабільно; його почнуть пропонувати клієнтам, коли надійність за 12 годин досягне мінімуму — приблизно через 8 годин після нового старту."
+  vi: "Đang xây dựng độ tin cậy. Thiết bị này đã ổn định trong giờ qua; thiết bị sẽ được đề xuất cho máy khách khi độ tin cậy 12 giờ đạt mức tối thiểu, khoảng 8 giờ sau khi bắt đầu lại."
+  zh: "正在建立可靠性。此设备在过去一小时内运行稳定；当其 12 小时可靠性达到最低要求后，就会被推荐给客户端，从头开始大约需要 8 小时。"
+  zh-HK: "正在建立可靠性。此裝置在過去一小時內運行穩定；當其 12 小時可靠性達到最低要求後，就會被推薦給客戶端，從頭開始大約需要 8 小時。"

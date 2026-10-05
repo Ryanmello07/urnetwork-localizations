@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: label of the reliability over the last 5 minutes (a share of steady uptime)."
+source: "Reliability, last 5 minutes"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "الموثوقية، آخر 5 دقائق"
+  cs: "Spolehlivost, posledních 5 minut"
+  de: "Zuverlässigkeit, letzte 5 Minuten"
+  el: "Αξιοπιστία, τελευταία 5 λεπτά"
+  en: "Reliability, last 5 minutes"
+  es: "Fiabilidad, últimos 5 minutos"
+  es-419: "Fiabilidad, últimos 5 minutos"
+  es-MX: "Fiabilidad, últimos 5 minutos"
+  fr: "Fiabilité, 5 dernières minutes"
+  he: "אמינות, 5 הדקות האחרונות"
+  hi: "विश्वसनीयता, पिछले 5 मिनट"
+  id: "Keandalan, 5 menit terakhir"
+  it: "Affidabilità, ultimi 5 minuti"
+  ja: "信頼性（過去5分）"
+  ko: "신뢰성(최근 5분)"
+  nl: "Betrouwbaarheid, laatste 5 minuten"
+  pl: "Niezawodność, ostatnie 5 minut"
+  pt: "Fiabilidade, últimos 5 minutos"
+  pt-BR: "Confiabilidade, últimos 5 minutos"
+  pt-PT: "Confiabilidade, últimos 5 minutos"
+  ru: "Надежность, последние 5 минут"
+  sv: "Tillförlitlighet, senaste 5 minuterna"
+  sw: "Uaminifu, dakika 5 zilizopita"
+  th: "ความน่าเชื่อถือ 5 นาทีล่าสุด"
+  uk: "Надійність, останні 5 хвилин"
+  vi: "Độ tin cậy, 5 phút qua"
+  zh: "可靠性（过去 5 分钟）"
+  zh-HK: "可靠性（過去 5 分鐘）"

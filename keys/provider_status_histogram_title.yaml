@@ -1,0 +1,36 @@
+description: "Provider card: title of a 60-bar chart of how many times the network offered this device to clients in each minute of the last hour."
+source: "Times clients were offered this device, per minute, last hour"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "عدد مرات عرض هذا الجهاز على العملاء، في الدقيقة، خلال الساعة الأخيرة"
+  cs: "Kolikrát bylo toto zařízení nabídnuto klientům, za minutu, poslední hodina"
+  de: "Wie oft dieses Gerät Clients angeboten wurde, pro Minute, letzte Stunde"
+  el: "Φορές που προτάθηκε αυτή η συσκευή σε πελάτες, ανά λεπτό, τελευταία ώρα"
+  en: "Times clients were offered this device, per minute, last hour"
+  es: "Veces que se ofreció este dispositivo a clientes, por minuto, última hora"
+  es-419: "Veces que se ofreció este dispositivo a clientes, por minuto, última hora"
+  es-MX: "Veces que se ofreció este dispositivo a clientes, por minuto, última hora"
+  fr: "Nombre de fois où cet appareil a été proposé aux clients, par minute, dernière heure"
+  he: "מספר הפעמים שהמכשיר הזה הוצע ללקוחות, לפי דקה, בשעה האחרונה"
+  hi: "पिछले एक घंटे में प्रति मिनट यह डिवाइस क्लाइंट को कितनी बार पेश किया गया"
+  id: "Berapa kali perangkat ini ditawarkan ke klien, per menit, satu jam terakhir"
+  it: "Volte in cui questo dispositivo è stato offerto ai client, al minuto, ultima ora"
+  ja: "このデバイスがクライアントに提示された回数（1分ごと、過去1時間）"
+  ko: "이 기기가 클라이언트에게 제시된 횟수(분당, 최근 1시간)"
+  nl: "Aantal keer dat dit apparaat aan clients werd aangeboden, per minuut, afgelopen uur"
+  pl: "Ile razy to urządzenie zaproponowano klientom, na minutę, ostatnia godzina"
+  pt: "Vezes que este dispositivo foi oferecido a clientes, por minuto, na última hora"
+  pt-BR: "Vezes em que este dispositivo foi oferecido a clientes, por minuto, na última hora"
+  pt-PT: "Vezes que este dispositivo foi oferecido a clientes, por minuto, na última hora"
+  ru: "Сколько раз это устройство предлагали клиентам, по минутам, за последний час"
+  sv: "Antal gånger enheten erbjöds klienter, per minut, senaste timmen"
+  sw: "Mara ambazo kifaa hiki kilipendekezwa kwa wateja, kwa dakika, saa iliyopita"
+  th: "จำนวนครั้งที่อุปกรณ์นี้ถูกเสนอให้ไคลเอนต์ ต่อนาที ในชั่วโมงที่ผ่านมา"
+  uk: "Скільки разів цей пристрій пропонували клієнтам, щохвилини, за останню годину"
+  vi: "Số lần thiết bị này được đề xuất cho máy khách, mỗi phút, trong giờ qua"
+  zh: "过去一小时内此设备每分钟被推荐给客户端的次数"
+  zh-HK: "過去一小時內此裝置每分鐘被推薦給客戶端的次數"

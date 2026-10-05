@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: label of the reliability over the last 12 hours."
+source: "Reliability, last 12 hours"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "الموثوقية، آخر 12 ساعة"
+  cs: "Spolehlivost, posledních 12 hodin"
+  de: "Zuverlässigkeit, letzte 12 Stunden"
+  el: "Αξιοπιστία, τελευταίες 12 ώρες"
+  en: "Reliability, last 12 hours"
+  es: "Fiabilidad, últimas 12 horas"
+  es-419: "Fiabilidad, últimas 12 horas"
+  es-MX: "Fiabilidad, últimas 12 horas"
+  fr: "Fiabilité, 12 dernières heures"
+  he: "אמינות, 12 השעות האחרונות"
+  hi: "विश्वसनीयता, पिछले 12 घंटे"
+  id: "Keandalan, 12 jam terakhir"
+  it: "Affidabilità, ultime 12 ore"
+  ja: "信頼性（過去12時間）"
+  ko: "신뢰성(최근 12시간)"
+  nl: "Betrouwbaarheid, laatste 12 uur"
+  pl: "Niezawodność, ostatnie 12 godzin"
+  pt: "Fiabilidade, últimas 12 horas"
+  pt-BR: "Confiabilidade, últimas 12 horas"
+  pt-PT: "Confiabilidade, últimas 12 horas"
+  ru: "Надежность, последние 12 часов"
+  sv: "Tillförlitlighet, senaste 12 timmarna"
+  sw: "Uaminifu, saa 12 zilizopita"
+  th: "ความน่าเชื่อถือ 12 ชั่วโมงล่าสุด"
+  uk: "Надійність, останні 12 годин"
+  vi: "Độ tin cậy, 12 giờ qua"
+  zh: "可靠性（过去 12 小时）"
+  zh-HK: "可靠性（過去 12 小時）"

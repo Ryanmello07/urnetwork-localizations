@@ -1,0 +1,36 @@
+description: "Title of the provider chart, shown with the other provider plots, of how many times clients were offered this device each minute over the last hour."
+source: "Demand"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "الطلب"
+  cs: "Poptávka"
+  de: "Nachfrage"
+  el: "Ζήτηση"
+  en: "Demand"
+  es: "Demanda"
+  es-419: "Demanda"
+  es-MX: "Demanda"
+  fr: "Demande"
+  he: "ביקוש"
+  hi: "मांग"
+  id: "Permintaan"
+  it: "Domanda"
+  ja: "需要"
+  ko: "수요"
+  nl: "Vraag"
+  pl: "Popyt"
+  pt: "Demanda"
+  pt-BR: "Demanda"
+  pt-PT: "Procura"
+  ru: "Спрос"
+  sv: "Efterfrågan"
+  sw: "Mahitaji"
+  th: "ความต้องการ"
+  uk: "Попит"
+  vi: "Nhu cầu"
+  zh: "需求"
+  zh-HK: "需求"

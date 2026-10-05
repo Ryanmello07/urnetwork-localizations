@@ -1,0 +1,36 @@
+description: "Provider status 'Why?' list: label of the network check result (test sites loaded through the device)."
+source: "Network checks"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "فحوصات الشبكة"
+  cs: "Kontroly sítě"
+  de: "Netzwerkprüfungen"
+  el: "Έλεγχοι δικτύου"
+  en: "Network checks"
+  es: "Comprobaciones de red"
+  es-419: "Verificaciones de red"
+  es-MX: "Verificaciones de red"
+  fr: "Vérifications réseau"
+  he: "בדיקות רשת"
+  hi: "नेटवर्क जाँच"
+  id: "Pemeriksaan jaringan"
+  it: "Controlli di rete"
+  ja: "ネットワークチェック"
+  ko: "네트워크 검사"
+  nl: "Netwerkcontroles"
+  pl: "Kontrole sieci"
+  pt: "Verificações de rede"
+  pt-BR: "Verificações de rede"
+  pt-PT: "Verificações de rede"
+  ru: "Проверки сети"
+  sv: "Nätverkskontroller"
+  sw: "Ukaguzi wa mtandao"
+  th: "การตรวจสอบเครือข่าย"
+  uk: "Перевірки мережі"
+  vi: "Kiểm tra mạng"
+  zh: "网络检查"
+  zh-HK: "網絡檢查"
