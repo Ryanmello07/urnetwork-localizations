@@ -1,0 +1,36 @@
+description: "Exclude apps from the VPN: the name of an app's launcher copy in the user's app menu. {app} is the app's own name."
+source: "{app} (outside VPN)"
+platforms:
+  - linux
+placeholders:
+  - name: app
+    type: string
+localizations:
+  ar: "{app} (خارج VPN)"
+  cs: "{app} (mimo VPN)"
+  de: "{app} (außerhalb des VPN)"
+  el: "{app} (εκτός VPN)"
+  en: "{app} (outside VPN)"
+  es: "{app} (fuera de la VPN)"
+  es-419: "{app} (fuera de la VPN)"
+  es-MX: "{app} (fuera de la VPN)"
+  fr: "{app} (hors VPN)"
+  he: "{app} (מחוץ ל-VPN)"
+  hi: "{app} (VPN के बाहर)"
+  id: "{app} (di luar VPN)"
+  it: "{app} (fuori dalla VPN)"
+  ja: "{app}（VPN外）"
+  ko: "{app} (VPN 외부)"
+  nl: "{app} (buiten VPN)"
+  pl: "{app} (poza VPN)"
+  pt: "{app} (fora da VPN)"
+  pt-BR: "{app} (fora da VPN)"
+  pt-PT: "{app} (fora da VPN)"
+  ru: "{app} (вне VPN)"
+  sv: "{app} (utanför VPN)"
+  sw: "{app} (nje ya VPN)"
+  th: "{app} (นอก VPN)"
+  uk: "{app} (поза VPN)"
+  vi: "{app} (ngoài VPN)"
+  zh: "{app}（VPN 外）"
+  zh-HK: "{app}（VPN 外）"
