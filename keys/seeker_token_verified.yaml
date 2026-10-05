@@ -3,6 +3,7 @@ source: "Seeker Token Verified!"
 platforms:
   - android
   - apple
+  - windows
 localizations:
   ar: "تم التحقق من رمز Seeker!"
   cs: "Token Seeker ověřen!"

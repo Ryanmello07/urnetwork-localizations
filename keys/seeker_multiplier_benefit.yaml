@@ -2,7 +2,6 @@ description: "Seeker/Saga token multiplier: what a verified token gives. It doub
 source: "Doubles your points, free daily data and referral data."
 platforms:
   - android
-  - windows
   - linux
 localizations:
   ar: "يضاعف نقاطك وبيانات الاستخدام اليومية المجانية وبيانات الإحالة."
