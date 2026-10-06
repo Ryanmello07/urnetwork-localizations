@@ -1,7 +1,8 @@
 description: "Subtitle under the cloud-proxy Settings row explaining that it opens ur.io and that SOCKS and WireGuard require Pro."
 source: "Opens ur.io to run URnetwork as an HTTPS proxy without the VPN. SOCKS and WireGuard are available on Pro."
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "يفتح ur.io لتشغيل URnetwork كبروكسي HTTPS بدون VPN. تتوفر SOCKS وWireGuard مع Pro."
   cs: "Otevře ur.io pro provoz URnetwork jako proxy HTTPS bez VPN. SOCKS a WireGuard jsou dostupné s Pro."

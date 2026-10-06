@@ -1,6 +1,7 @@
 description: "Settings row that opens the cloud proxies page on ur.io (https://ur.io/app/proxies), where the user can create a WireGuard, SOCKS or HTTPS proxy. The app itself has no protocol switch."
 source: "Use WireGuard / SOCKS / HTTPS proxy"
 platforms:
+  - android
   - apple
   - linux
   - windows
