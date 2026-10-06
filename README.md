@@ -17,7 +17,7 @@ resource files are build artifacts and must never be hand-edited:
 ```sh
 npm ci
 npm run gen        # regenerate every platform
-npm run check      # CI drift gate: fail if the committed output != the store
+npm run check      # drift gate: fail if the committed output != the store
 ```
 
 `npm run gen` writes into the sibling repo checkouts (`../android`, `../apple`,
