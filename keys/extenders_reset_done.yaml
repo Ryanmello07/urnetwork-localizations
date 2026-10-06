@@ -1,0 +1,36 @@
+description: "Confirmation after the extenders were reset (Extenders section under account)."
+source: "Extenders reset"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "تمت إعادة ضبط الموسّعات"
+  cs: "Extendery byly resetovány"
+  de: "Extender zurückgesetzt"
+  el: "Έγινε επαναφορά των επεκτατών"
+  en: "Extenders reset"
+  es: "Extensores restablecidos"
+  es-419: "Extensores restablecidos"
+  es-MX: "Extensores restablecidos"
+  fr: "Extendeurs réinitialisés"
+  he: "המרחיבים אופסו"
+  hi: "एक्सटेंडर रीसेट हो गए"
+  id: "Extender disetel ulang"
+  it: "Extender reimpostati"
+  ja: "エクステンダーをリセットしました"
+  ko: "익스텐더를 재설정했습니다"
+  nl: "Extenders gereset"
+  pl: "Zresetowano extendery"
+  pt: "Extensores repostos"
+  pt-BR: "Extensores redefinidos"
+  pt-PT: "Extensores repostos"
+  ru: "Экстендеры сброшены"
+  sv: "Extendrarna har återställts"
+  sw: "Vipanuzi vimewekwa upya"
+  th: "รีเซ็ตตัวขยายแล้ว"
+  uk: "Екстендери скинуто"
+  vi: "Đã đặt lại bộ mở rộng"
+  zh: "扩展器已重置"
+  zh-HK: "擴展器已重設"
