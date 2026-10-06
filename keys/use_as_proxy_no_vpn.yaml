@@ -1,7 +1,8 @@
 description: "Settings row (Connections) that opens the ur.io cloud proxies page so the user can run URnetwork as a proxy without taking the Android VPN slot."
 source: "Use as a proxy instead (no VPN)"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "استخدمه كبروكسي بدلاً من ذلك (بدون VPN)"
   cs: "Použít jako proxy místo toho (bez VPN)"
