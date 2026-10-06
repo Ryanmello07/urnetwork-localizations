@@ -1,0 +1,37 @@
+description: "Checkout (ur.io's payment screens; the plan purchase in the F-Droid and dapp Android builds; the upgrade sheet in the macOS direct download, Windows and Linux): the server cannot sell this Pro plan right now (error.code plan_unavailable: no price or product is configured for it). Nothing was charged."
+source: "This plan is not available right now. Try again later."
+platforms:
+  - site
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "هذه الخطة غير متاحة حاليًا. حاول مرة أخرى لاحقًا."
+  cs: "Tento tarif teď není k dispozici. Zkuste to později."
+  de: "Dieser Tarif ist gerade nicht verfügbar. Versuche es später erneut."
+  el: "Αυτό το πρόγραμμα δεν είναι διαθέσιμο αυτή τη στιγμή. Δοκιμάστε ξανά αργότερα."
+  en: "This plan is not available right now. Try again later."
+  es: "Este plan no está disponible en este momento. Inténtalo más tarde."
+  es-419: "Este plan no está disponible en este momento. Vuelve a intentarlo más tarde."
+  es-MX: "Este plan no está disponible en este momento. Vuelve a intentarlo más tarde."
+  fr: "Cette offre n'est pas disponible pour le moment. Réessayez plus tard."
+  he: "התוכנית הזו אינה זמינה כרגע. נסו שוב מאוחר יותר."
+  hi: "यह प्लान अभी उपलब्ध नहीं है। बाद में फिर से कोशिश करें।"
+  id: "Paket ini sedang tidak tersedia. Coba lagi nanti."
+  it: "Questo piano non è disponibile al momento. Riprova più tardi."
+  ja: "このプランは現在ご利用いただけません。後でもう一度お試しください。"
+  ko: "이 요금제는 현재 이용할 수 없습니다. 나중에 다시 시도하세요."
+  nl: "Dit abonnement is nu niet beschikbaar. Probeer het later opnieuw."
+  pl: "Ten plan jest teraz niedostępny. Spróbuj ponownie później."
+  pt: "Este plano não está disponível de momento. Tente novamente mais tarde."
+  pt-BR: "Este plano não está disponível no momento. Tente novamente mais tarde."
+  pt-PT: "Este plano não está disponível de momento. Tente novamente mais tarde."
+  ru: "Этот тариф сейчас недоступен. Попробуйте позже."
+  sv: "Den här planen är inte tillgänglig just nu. Försök igen senare."
+  sw: "Mpango huu haupatikani kwa sasa. Jaribu tena baadaye."
+  th: "แพ็กเกจนี้ไม่พร้อมใช้งานในขณะนี้ โปรดลองอีกครั้งภายหลัง"
+  uk: "Цей тариф зараз недоступний. Спробуйте пізніше."
+  vi: "Gói này hiện không khả dụng. Hãy thử lại sau."
+  zh: "此方案暂不可用。请稍后重试。"
+  zh-HK: "此方案暫時無法使用。請稍後再試。"

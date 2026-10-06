@@ -1,0 +1,37 @@
+description: "Checkout (ur.io's payment screens; the plan purchase in the F-Droid and dapp Android builds; the upgrade sheet in the macOS direct download, Windows and Linux): the server refused a new subscription because the network already has an active Pro subscription (error.code already_subscribed). Nothing was charged."
+source: "You already have Pro, so nothing was charged. Manage your subscription from your account."
+platforms:
+  - site
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "لديك Pro بالفعل، لذا لم يتم تحصيل أي مبلغ. يمكنك إدارة اشتراكك من حسابك."
+  cs: "Pro už máte, takže vám nebylo nic účtováno. Předplatné spravujte ve svém účtu."
+  de: "Du hast bereits Pro, es wurde nichts berechnet. Verwalte dein Abo in deinem Konto."
+  el: "Έχετε ήδη Pro, οπότε δεν έγινε καμία χρέωση. Διαχειριστείτε τη συνδρομή σας από τον λογαριασμό σας."
+  en: "You already have Pro, so nothing was charged. Manage your subscription from your account."
+  es: "Ya tienes Pro, así que no se te cobró nada. Gestiona tu suscripción desde tu cuenta."
+  es-419: "Ya tienes Pro, así que no se te cobró nada. Administra tu suscripción desde tu cuenta."
+  es-MX: "Ya tienes Pro, así que no se te cobró nada. Administra tu suscripción desde tu cuenta."
+  fr: "Vous avez déjà Pro, donc rien n'a été facturé. Gérez votre abonnement depuis votre compte."
+  he: "כבר יש לכם Pro, ולכן לא בוצע חיוב. נהלו את המינוי מהחשבון שלכם."
+  hi: "आपके पास पहले से Pro है, इसलिए कोई शुल्क नहीं लिया गया। अपनी सदस्यता अपने खाते से प्रबंधित करें।"
+  id: "Anda sudah memiliki Pro, jadi tidak ada tagihan. Kelola langganan Anda dari akun Anda."
+  it: "Hai già Pro, quindi non ti è stato addebitato nulla. Gestisci l'abbonamento dal tuo account."
+  ja: "すでに Pro をご利用中のため、請求は発生していません。サブスクリプションはアカウントから管理してください。"
+  ko: "이미 Pro를 이용 중이므로 요금이 청구되지 않았습니다. 구독은 계정에서 관리하세요."
+  nl: "Je hebt al Pro, dus er is niets in rekening gebracht. Beheer je abonnement via je account."
+  pl: "Masz już Pro, więc nic nie zostało pobrane. Zarządzaj subskrypcją w swoim koncie."
+  pt: "Já tem o Pro, por isso não foi cobrado nada. Faça a gestão da sua subscrição na sua conta."
+  pt-BR: "Você já tem o Pro, então nada foi cobrado. Gerencie sua assinatura na sua conta."
+  pt-PT: "Já tem o Pro, por isso não foi cobrado nada. Faça a gestão da sua subscrição na sua conta."
+  ru: "У вас уже есть Pro, поэтому оплата не списана. Управляйте подпиской в своём аккаунте."
+  sv: "Du har redan Pro, så inget har debiterats. Hantera din prenumeration från ditt konto."
+  sw: "Tayari una Pro, kwa hivyo hukutozwa chochote. Dhibiti usajili wako kutoka kwenye akaunti yako."
+  th: "คุณมี Pro อยู่แล้ว จึงไม่มีการเรียกเก็บเงิน จัดการการสมัครสมาชิกได้จากบัญชีของคุณ"
+  uk: "У вас уже є Pro, тому кошти не списано. Керуйте підпискою у своєму обліковому записі."
+  vi: "Bạn đã có Pro nên không bị tính phí. Hãy quản lý gói đăng ký trong tài khoản của bạn."
+  zh: "您已拥有 Pro，因此未扣款。请在您的账户中管理订阅。"
+  zh-HK: "你已擁有 Pro，因此沒有扣款。請在你的帳戶中管理訂閱。"
