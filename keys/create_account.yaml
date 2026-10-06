@@ -1,9 +1,10 @@
 description: "Display name for the paid plan. The WIRE value stays \"supporter\" (subscription_type / current_subscription.plan) because already-shipped app versions parse that string; only what the user reads changes."
 source: "Create account"
+deprecated:
+  - linux
 platforms:
   - android
   - apple
-  - linux
   - windows
 localizations:
   ar: "إنشاء حساب"

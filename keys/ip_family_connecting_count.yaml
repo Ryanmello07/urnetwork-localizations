@@ -1,9 +1,10 @@
 description: "Status line of one column of the IP version status row in the connect drawer: how many providers of that family (dualstack, IPv4 or IPv6) are still connecting. Shown under the connected line only when the count is not zero. Lowercase."
 source: "%lld connecting"
+deprecated:
+  - linux
 platforms:
   - android
   - apple
-  - linux
   - windows
 placeholders:
   - name: count

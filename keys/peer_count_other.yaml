@@ -2,8 +2,8 @@ description: "Post quantum identity panel: peer identity count indicator. The ar
 source: "%d peers"
 deprecated:
   - windows
-platforms:
   - linux
+platforms:
   - android
   - apple
 localizations:

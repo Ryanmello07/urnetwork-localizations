@@ -1,8 +1,9 @@
 description: "dns settings"
 source: "The default safe settings are not applied"
+deprecated:
+  - linux
 platforms:
   - apple
-  - linux
 localizations:
   ar: "الإعدادات الآمنة الافتراضية غير مطبقة"
   cs: "Výchozí bezpečná nastavení nejsou použita"

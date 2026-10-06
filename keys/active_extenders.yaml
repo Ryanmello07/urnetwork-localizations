@@ -1,9 +1,10 @@
 description: "Accessibility label of the row of rings, one per extender carrying a live connection."
 source: "Active extenders"
+deprecated:
+  - linux
 platforms:
   - android
   - apple
-  - linux
   - windows
 localizations:
   ar: "الموسّعات النشطة"
