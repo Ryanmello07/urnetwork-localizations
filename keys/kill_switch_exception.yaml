@@ -1,10 +1,11 @@
 description: "Title for the disclosure explaining traffic that intentionally bypasses the VPN kill switch."
 source: "Kill switch exception"
+deprecated:
+  - linux
 platforms:
   - android
   - apple
   - windows
-  - linux
 localizations:
   ar: "استثناء مفتاح القتل"
   cs: "Výjimka z kill switche"

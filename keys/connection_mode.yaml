@@ -2,10 +2,10 @@ description: "Used in Main/Connect/ConnectActions/ConnectActions.swift."
 source: "Connection Mode"
 deprecated:
   - windows
+  - linux
 platforms:
   - android
   - apple
-  - linux
 localizations:
   ar: "وضع الاتصال"
   cs: "Režim připojení"

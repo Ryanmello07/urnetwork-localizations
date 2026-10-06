@@ -1,10 +1,11 @@
 description: "Title of a card that shows the local traffic statistics."
 description_auto: true
 source: "Local statistics"
+deprecated:
+  - linux
 platforms:
   - android
   - apple
-  - linux
 localizations:
   ar: "الإحصائيات المحلية"
   cs: "Místní statistiky"

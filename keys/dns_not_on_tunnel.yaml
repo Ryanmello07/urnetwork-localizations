@@ -1,7 +1,8 @@
 description: "Connect drawer: warning that DNS is resolving outside the tunnel."
 source: "DNS is NOT going through the tunnel — names you look up are resolving outside it."
-platforms:
+deprecated:
   - linux
+platforms: []
 localizations:
   ar: "DNS لا يمر عبر النفق — الأسماء التي تبحث عنها تُحلّ خارجه."
   cs: "DNS NEJDE tunelem — názvy, které vyhledáváte, se překládají mimo něj."

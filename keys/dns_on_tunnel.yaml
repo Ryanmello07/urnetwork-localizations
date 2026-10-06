@@ -1,7 +1,8 @@
 description: "Connect drawer: status that DNS goes through the tunnel."
 source: "DNS is going through the tunnel"
-platforms:
+deprecated:
   - linux
+platforms: []
 localizations:
   ar: "DNS يمر عبر النفق"
   cs: "DNS jde tunelem"

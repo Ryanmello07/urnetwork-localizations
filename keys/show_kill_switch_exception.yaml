@@ -1,10 +1,11 @@
 description: "Accessibility label for the kill switch exception information button."
 source: "Show kill switch exception"
+deprecated:
+  - linux
 platforms:
   - android
   - apple
   - windows
-  - linux
 localizations:
   ar: "عرض استثناء مفتاح القتل"
   cs: "Zobrazit výjimku z kill switche"

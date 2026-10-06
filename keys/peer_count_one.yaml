@@ -2,8 +2,8 @@ description: "Post quantum identity panel: peer identity count indicator, singul
 source: "1 peer"
 deprecated:
   - windows
-platforms:
   - linux
+platforms:
   - android
   - apple
 localizations:
