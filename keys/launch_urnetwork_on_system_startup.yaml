@@ -2,6 +2,7 @@ description: "Used in Main/Account/Settings/SettingsForm-macOS.swift."
 source: "Launch URnetwork on system startup"
 platforms:
   - apple
+  - linux
 localizations:
   ar: "تشغيل URnetwork عند بدء النظام"
   cs: "Spuštění URnetwork při spuštění systému"
