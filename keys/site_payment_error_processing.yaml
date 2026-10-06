@@ -1,0 +1,11 @@
+description: "Pay page (/app/pay-sheet on ur.io): Stripe or the bank could not process the payment just now (a temporary error); trying again usually works."
+source: "The payment could not be processed right now. Try again in a moment."
+platforms:
+  - site
+localizations:
+  ar: "تعذّرت معالجة الدفع الآن. حاول مرة أخرى بعد قليل."
+  de: "Die Zahlung konnte gerade nicht verarbeitet werden. Versuche es gleich noch einmal."
+  en: "The payment could not be processed right now. Try again in a moment."
+  es: "No se pudo procesar el pago en este momento. Inténtalo de nuevo en unos instantes."
+  ru: "Сейчас не удалось обработать платёж. Попробуйте ещё раз чуть позже."
+  zh: "暂时无法处理付款。请稍后重试。"

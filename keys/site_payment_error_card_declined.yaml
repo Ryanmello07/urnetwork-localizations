@@ -1,0 +1,11 @@
+description: "Pay page (/app/pay-sheet, the card form the desktop apps and the F-Droid app open on ur.io): the card's bank declined the payment (Stripe card_declined). Nothing was charged."
+source: "Your card was declined. Try another card, or contact your bank."
+platforms:
+  - site
+localizations:
+  ar: "تم رفض بطاقتك. جرّب بطاقة أخرى، أو تواصل مع البنك الذي تتعامل معه."
+  de: "Deine Karte wurde abgelehnt. Versuche es mit einer anderen Karte oder wende dich an deine Bank."
+  en: "Your card was declined. Try another card, or contact your bank."
+  es: "Tu tarjeta fue rechazada. Prueba con otra tarjeta o ponte en contacto con tu banco."
+  ru: "Ваша карта отклонена. Попробуйте другую карту или обратитесь в свой банк."
+  zh: "您的卡被拒绝。请换一张卡，或联系您的银行。"
