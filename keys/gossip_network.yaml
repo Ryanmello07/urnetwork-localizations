@@ -1,10 +1,9 @@
 description: "Label of the gossip network status dot in the extender panel."
 source: "Gossip network"
-deprecated:
-  - linux
 platforms:
   - android
   - apple
+  - linux
   - windows
 localizations:
   ar: "شبكة Gossip"
