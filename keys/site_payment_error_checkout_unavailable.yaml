@@ -1,0 +1,11 @@
+description: "ur.io checkout: this deployment has no checkout configured (error.code checkout_unavailable). Nothing was charged."
+source: "Checkout is not available right now. Try again later."
+platforms:
+  - site
+localizations:
+  ar: "الدفع غير متاح حاليًا. حاول مرة أخرى لاحقًا."
+  de: "Der Bezahlvorgang ist gerade nicht verfügbar. Versuche es später erneut."
+  en: "Checkout is not available right now. Try again later."
+  es: "El pago no está disponible en este momento. Inténtalo más tarde."
+  ru: "Оформление оплаты сейчас недоступно. Попробуйте позже."
+  zh: "结账功能暂不可用。请稍后重试。"

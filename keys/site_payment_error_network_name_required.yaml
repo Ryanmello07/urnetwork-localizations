@@ -1,0 +1,11 @@
+description: "ur.io Buy data page, paying with USDC: no network name was given for the data (error.code network_name_required)."
+source: "Enter the network that should receive the data."
+platforms:
+  - site
+localizations:
+  ar: "أدخل الشبكة التي ستتلقى البيانات."
+  de: "Gib das Netzwerk ein, das die Daten erhalten soll."
+  en: "Enter the network that should receive the data."
+  es: "Introduce la red que debe recibir los datos."
+  ru: "Введите сеть, которая должна получить данные."
+  zh: "请输入接收流量的网络。"

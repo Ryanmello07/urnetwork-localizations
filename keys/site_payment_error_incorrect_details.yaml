@@ -1,0 +1,11 @@
+description: "Pay page (/app/pay-sheet on ur.io): a card number, expiry date, security code or postal code in the payment form is wrong or missing. Stripe's own sentence naming the field is shown under this line. Nothing was charged."
+source: "Some payment details are incorrect or incomplete. Check them and try again."
+platforms:
+  - site
+localizations:
+  ar: "بعض بيانات الدفع غير صحيحة أو غير مكتملة. تحقق منها وحاول مرة أخرى."
+  de: "Einige Zahlungsangaben sind falsch oder unvollständig. Prüfe sie und versuche es erneut."
+  en: "Some payment details are incorrect or incomplete. Check them and try again."
+  es: "Algunos datos de pago son incorrectos o están incompletos. Revísalos e inténtalo de nuevo."
+  ru: "Некоторые платёжные данные неверны или не заполнены. Проверьте их и попробуйте снова."
+  zh: "部分付款信息有误或不完整。请检查后重试。"

@@ -1,0 +1,11 @@
+description: "ur.io Buy data page: no network has the name the buyer entered (error.code network_not_found). Nothing was charged."
+source: "No network has that name. Check the name and try again."
+platforms:
+  - site
+localizations:
+  ar: "لا توجد شبكة بهذا الاسم. تحقق من الاسم وحاول مرة أخرى."
+  de: "Kein Netzwerk hat diesen Namen. Prüfe den Namen und versuche es erneut."
+  en: "No network has that name. Check the name and try again."
+  es: "Ninguna red tiene ese nombre. Revisa el nombre e inténtalo de nuevo."
+  ru: "Сети с таким именем нет. Проверьте имя и попробуйте снова."
+  zh: "没有使用该名称的网络。请检查名称后重试。"

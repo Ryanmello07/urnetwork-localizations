@@ -1,0 +1,11 @@
+description: "ur.io Manage subscription screen: a USDC payment covers one period and never renews, so there is nothing to cancel (error.code does_not_renew)."
+source: "A USDC payment covers one period and does not renew, so there is nothing to cancel."
+platforms:
+  - site
+localizations:
+  ar: "دفعة USDC تغطي فترة واحدة ولا تتجدد، لذا لا يوجد ما يتم إلغاؤه."
+  de: "Eine USDC-Zahlung deckt einen Zeitraum ab und verlängert sich nicht, es gibt also nichts zu kündigen."
+  en: "A USDC payment covers one period and does not renew, so there is nothing to cancel."
+  es: "Un pago en USDC cubre un periodo y no se renueva, así que no hay nada que cancelar."
+  ru: "Оплата в USDC покрывает один период и не продлевается, поэтому отменять нечего."
+  zh: "USDC 付款仅涵盖一个周期且不会续订，因此无需取消。"

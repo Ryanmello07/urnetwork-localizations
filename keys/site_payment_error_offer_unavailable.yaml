@@ -1,0 +1,11 @@
+description: "ur.io Pro upgrade sheet, paying with USDC: the welcome offer is not, or no longer, redeemable by this network (error.code offer_unavailable). Nothing was charged."
+source: "The welcome offer is no longer available."
+platforms:
+  - site
+localizations:
+  ar: "عرض الترحيب لم يعد متاحًا."
+  de: "Das Willkommensangebot ist nicht mehr verfügbar."
+  en: "The welcome offer is no longer available."
+  es: "La oferta de bienvenida ya no está disponible."
+  ru: "Приветственное предложение больше недоступно."
+  zh: "欢迎优惠已不再可用。"

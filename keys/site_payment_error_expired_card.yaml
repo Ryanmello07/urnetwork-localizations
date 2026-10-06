@@ -1,0 +1,11 @@
+description: "Pay page (/app/pay-sheet on ur.io): the card has expired, or the expiry date entered is in the past. Nothing was charged."
+source: "Your card has expired. Try another card."
+platforms:
+  - site
+localizations:
+  ar: "انتهت صلاحية بطاقتك. جرّب بطاقة أخرى."
+  de: "Deine Karte ist abgelaufen. Versuche es mit einer anderen Karte."
+  en: "Your card has expired. Try another card."
+  es: "Tu tarjeta ha caducado. Prueba con otra tarjeta."
+  ru: "Срок действия карты истёк. Попробуйте другую карту."
+  zh: "您的卡已过期。请换一张卡。"

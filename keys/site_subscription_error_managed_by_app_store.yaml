@@ -1,0 +1,11 @@
+description: "ur.io Manage subscription screen: the subscription is billed by the App Store, so it is cancelled there (error.code managed_by_app_store)."
+source: "This subscription is billed by the App Store. Cancel it there."
+platforms:
+  - site
+localizations:
+  ar: "يتم إصدار فواتير هذا الاشتراك عبر App Store. ألغه من هناك."
+  de: "Dieses Abo wird über den App Store abgerechnet. Kündige es dort."
+  en: "This subscription is billed by the App Store. Cancel it there."
+  es: "Esta suscripción se factura a través de la App Store. Cancélala allí."
+  ru: "Эта подписка оплачивается через App Store. Отмените её там."
+  zh: "此订阅通过 App Store 计费。请在那里取消。"

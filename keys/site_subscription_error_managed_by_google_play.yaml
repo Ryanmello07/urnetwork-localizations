@@ -1,0 +1,11 @@
+description: "ur.io Manage subscription screen: the subscription is billed by Google Play, so it is cancelled there (error.code managed_by_google_play)."
+source: "This subscription is billed by Google Play. Cancel it there."
+platforms:
+  - site
+localizations:
+  ar: "يتم إصدار فواتير هذا الاشتراك عبر Google Play. ألغه من هناك."
+  de: "Dieses Abo wird über Google Play abgerechnet. Kündige es dort."
+  en: "This subscription is billed by Google Play. Cancel it there."
+  es: "Esta suscripción se factura a través de Google Play. Cancélala allí."
+  ru: "Эта подписка оплачивается через Google Play. Отмените её там."
+  zh: "此订阅通过 Google Play 计费。请在那里取消。"

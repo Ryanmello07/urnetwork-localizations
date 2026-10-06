@@ -1,0 +1,11 @@
+description: "Pay page (/app/pay-sheet on ur.io): Stripe's card form did not load (usually no internet connection, or a network or content blocker that blocks Stripe). Nothing was charged."
+source: "The payment form could not load. Check your internet connection and try again."
+platforms:
+  - site
+localizations:
+  ar: "تعذّر تحميل نموذج الدفع. تحقق من اتصالك بالإنترنت وحاول مرة أخرى."
+  de: "Das Zahlungsformular konnte nicht geladen werden. Prüfe deine Internetverbindung und versuche es erneut."
+  en: "The payment form could not load. Check your internet connection and try again."
+  es: "No se pudo cargar el formulario de pago. Comprueba tu conexión a internet e inténtalo de nuevo."
+  ru: "Не удалось загрузить форму оплаты. Проверьте подключение к интернету и попробуйте снова."
+  zh: "无法加载付款表单。请检查您的网络连接后重试。"

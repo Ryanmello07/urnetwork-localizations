@@ -1,0 +1,11 @@
+description: "ur.io Manage subscription screen, opening the billing details: the network has no Stripe customer, so there is no billing portal (error.code no_customer)."
+source: "This network has no Stripe billing details."
+platforms:
+  - site
+localizations:
+  ar: "لا توجد تفاصيل فوترة Stripe لهذه الشبكة."
+  de: "Für dieses Netzwerk gibt es keine Stripe-Zahlungsdaten."
+  en: "This network has no Stripe billing details."
+  es: "Esta red no tiene datos de facturación en Stripe."
+  ru: "У этой сети нет платёжных данных в Stripe."
+  zh: "此网络没有 Stripe 账单信息。"

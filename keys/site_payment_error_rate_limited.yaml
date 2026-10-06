@@ -1,0 +1,11 @@
+description: "Pay page (/app/pay-sheet) and the Pro upgrade sheet on ur.io: too many payment attempts in a short time, so Stripe or URnetwork's server turned this one away. Nothing was charged."
+source: "Too many attempts. Wait a minute, then try again."
+platforms:
+  - site
+localizations:
+  ar: "محاولات كثيرة جدًا. انتظر دقيقة، ثم حاول مرة أخرى."
+  de: "Zu viele Versuche. Warte eine Minute und versuche es dann erneut."
+  en: "Too many attempts. Wait a minute, then try again."
+  es: "Demasiados intentos. Espera un minuto y vuelve a intentarlo."
+  ru: "Слишком много попыток. Подождите минуту и попробуйте снова."
+  zh: "尝试次数过多。请等一分钟后重试。"

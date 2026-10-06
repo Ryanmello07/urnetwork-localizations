@@ -1,0 +1,11 @@
+description: "Pay page (/app/pay-sheet on ur.io): the card was declined because it does not have enough funds (Stripe decline code insufficient_funds). Nothing was charged."
+source: "Your card has insufficient funds. Try another card."
+platforms:
+  - site
+localizations:
+  ar: "رصيد بطاقتك غير كافٍ. جرّب بطاقة أخرى."
+  de: "Deine Karte ist nicht ausreichend gedeckt. Versuche es mit einer anderen Karte."
+  en: "Your card has insufficient funds. Try another card."
+  es: "Tu tarjeta no tiene fondos suficientes. Prueba con otra tarjeta."
+  ru: "На карте недостаточно средств. Попробуйте другую карту."
+  zh: "您的卡余额不足。请换一张卡。"

@@ -1,0 +1,11 @@
+description: "ur.io Buy data page, buying a code by email: the server refused the email address the code goes to (error.code invalid_email)."
+source: "That email address does not look right. Check it and try again."
+platforms:
+  - site
+localizations:
+  ar: "يبدو أن عنوان البريد الإلكتروني هذا غير صحيح. تحقق منه وحاول مرة أخرى."
+  de: "Diese E-Mail-Adresse sieht nicht richtig aus. Prüfe sie und versuche es erneut."
+  en: "That email address does not look right. Check it and try again."
+  es: "Esa dirección de correo electrónico no parece correcta. Revísala e inténtalo de nuevo."
+  ru: "Этот адрес электронной почты выглядит неверно. Проверьте его и попробуйте снова."
+  zh: "该电子邮件地址似乎不正确。请检查后重试。"

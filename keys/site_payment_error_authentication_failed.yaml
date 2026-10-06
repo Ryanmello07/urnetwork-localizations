@@ -1,0 +1,11 @@
+description: "Pay page (/app/pay-sheet on ur.io): the bank's card verification (3D Secure) failed or was not completed. Nothing was charged."
+source: "Your bank could not verify the card. Try again or use another card."
+platforms:
+  - site
+localizations:
+  ar: "تعذّر على البنك الذي تتعامل معه التحقق من البطاقة. حاول مرة أخرى أو استخدم بطاقة أخرى."
+  de: "Deine Bank konnte die Karte nicht bestätigen. Versuche es erneut oder verwende eine andere Karte."
+  en: "Your bank could not verify the card. Try again or use another card."
+  es: "Tu banco no pudo verificar la tarjeta. Inténtalo de nuevo o usa otra tarjeta."
+  ru: "Банку не удалось подтвердить карту. Попробуйте ещё раз или используйте другую карту."
+  zh: "您的银行无法验证这张卡。请重试或改用另一张卡。"
