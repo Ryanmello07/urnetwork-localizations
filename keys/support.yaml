@@ -1,9 +1,10 @@
-description: "Used in Shared/ViewModels/SubscriptionBalanceViewModel.swift."
+description: "Navigation: the Support tab, page or section, where users send feedback and contact the URnetwork support team. Customer support, not backing; use the word the language uses for a support team."
 source: "Support"
 platforms:
   - apple
   - linux
   - windows
+  - android
 localizations:
   ar: "الدعم"
   cs: "Podpora"
@@ -13,23 +14,23 @@ localizations:
   es: "Soporte"
   es-419: "Soporte"
   es-MX: "Soporte"
-  fr: "Support"
+  fr: "Assistance"
   he: "תמיכה"
   hi: "सहायता"
   id: "Dukungan"
-  it: "Supporto"
+  it: "Assistenza"
   ja: "サポート"
-  ko: "지원"
-  nl: "ondersteuning"
-  pl: "Wsparcie"
+  ko: "고객 지원"
+  nl: "Support"
+  pl: "Pomoc techniczna"
   pt: "Suporte"
   pt-BR: "Suporte"
   pt-PT: "Suporte"
   ru: "Поддержка"
   sv: "Support"
-  sw: "Msaada"
-  th: "สนับสนุน"
+  sw: "Usaidizi"
+  th: "ฝ่ายสนับสนุน"
   uk: "Підтримка"
   vi: "Hỗ trợ"
-  zh: "支持"
+  zh: "客户支持"
   zh-HK: "支援"

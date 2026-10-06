@@ -3,6 +3,7 @@ source: "⚠️ This is the ONLY time you'll see this."
 platforms:
   - linux
   - windows
+  - android
 localizations:
   ar: "⚠️ هذه هي المرة الوحيدة التي سترى فيها هذا."
   cs: "⚠️ Tohle je JEDINÁ chvíle, kdy to uvidíte."

@@ -4,6 +4,7 @@ platforms:
   - apple
   - linux
   - windows
+  - android
 localizations:
   ar: "تم تحديث اسم الجهاز"
   cs: "Název zařízení byl aktualizován"

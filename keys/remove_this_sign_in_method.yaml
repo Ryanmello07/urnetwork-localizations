@@ -2,6 +2,7 @@ description: "General UI string."
 source: "Remove this sign-in method?"
 platforms:
   - apple
+  - android
 localizations:
   ar: "إزالة طريقة تسجيل الدخول هذه؟"
   cs: "Odstranit tento způsob přihlášení?"

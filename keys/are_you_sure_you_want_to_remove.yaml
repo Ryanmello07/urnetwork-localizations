@@ -2,6 +2,7 @@ description: "General UI string."
 source: "Are you sure you want to remove %@ as a sign-in method?"
 platforms:
   - apple
+  - android
 placeholders:
   - name: method
     type: string

@@ -4,6 +4,7 @@ platforms:
   - apple
   - linux
   - windows
+  - android
 localizations:
   ar: "أنت مشترك مميز."
   cs: "Jste prémium."

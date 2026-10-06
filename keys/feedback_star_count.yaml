@@ -1,0 +1,101 @@
+description: "Feedback screen: screen reader name of one of the five rating stars, the number of stars a tap on it gives (1 to 5)."
+source: "{count} stars"
+platforms:
+  - android
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "{count} نجمة"
+    one: "نجمة واحدة"
+    two: "نجمتان"
+    few: "{count} نجوم"
+    many: "{count} نجمة"
+    other: "{count} نجمة"
+  cs:
+    one: "{count} hvězdička"
+    few: "{count} hvězdičky"
+    many: "{count} hvězdičky"
+    other: "{count} hvězdiček"
+  de:
+    one: "{count} Stern"
+    other: "{count} Sterne"
+  el:
+    one: "{count} αστέρι"
+    other: "{count} αστέρια"
+  en:
+    one: "{count} star"
+    other: "{count} stars"
+  es:
+    one: "{count} estrella"
+    other: "{count} estrellas"
+  es-419:
+    one: "{count} estrella"
+    other: "{count} estrellas"
+  es-MX:
+    one: "{count} estrella"
+    other: "{count} estrellas"
+  fr:
+    one: "{count} étoile"
+    other: "{count} étoiles"
+  he:
+    one: "כוכב אחד"
+    two: "שני כוכבים"
+    many: "{count} כוכבים"
+    other: "{count} כוכבים"
+  hi:
+    one: "{count} स्टार"
+    other: "{count} स्टार"
+  id:
+    other: "{count} bintang"
+  it:
+    one: "{count} stella"
+    other: "{count} stelle"
+  ja:
+    other: "星{count}つ"
+  ko:
+    other: "별 {count}개"
+  nl:
+    one: "{count} ster"
+    other: "{count} sterren"
+  pl:
+    one: "{count} gwiazdka"
+    few: "{count} gwiazdki"
+    many: "{count} gwiazdek"
+    other: "{count} gwiazdki"
+  pt:
+    one: "{count} estrela"
+    other: "{count} estrelas"
+  pt-BR:
+    one: "{count} estrela"
+    other: "{count} estrelas"
+  pt-PT:
+    one: "{count} estrela"
+    other: "{count} estrelas"
+  ru:
+    one: "{count} звезда"
+    few: "{count} звезды"
+    many: "{count} звёзд"
+    other: "{count} звезды"
+  sv:
+    one: "{count} stjärna"
+    other: "{count} stjärnor"
+  sw:
+    one: "nyota {count}"
+    other: "nyota {count}"
+  th:
+    other: "{count} ดาว"
+  uk:
+    one: "{count} зірка"
+    few: "{count} зірки"
+    many: "{count} зірок"
+    other: "{count} зірки"
+  vi:
+    other: "{count} sao"
+  zh:
+    other: "{count} 颗星"
+  zh-HK:
+    other: "{count} 顆星"

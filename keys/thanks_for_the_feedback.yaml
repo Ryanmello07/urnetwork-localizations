@@ -3,6 +3,7 @@ source: "Thanks for the feedback!"
 platforms:
   - windows
   - linux
+  - android
 localizations:
   ar: "شكرًا على ملاحظاتك!"
   cs: "Děkujeme za zpětnou vazbu!"

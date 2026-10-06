@@ -4,6 +4,7 @@ platforms:
   - apple
   - linux
   - windows
+  - android
 localizations:
   ar: "حدث خطأ أثناء تحديث اسم الجهاز."
   cs: "Při aktualizaci názvu zařízení došlo k chybě."
