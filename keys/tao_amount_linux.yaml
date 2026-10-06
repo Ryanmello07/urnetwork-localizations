@@ -2,6 +2,7 @@ description: "A TAO amount with its unit (the gas key balance)."
 source: "%@ TAO"
 platforms:
   - linux
+  - android
 placeholders:
   - name: amount
     type: string

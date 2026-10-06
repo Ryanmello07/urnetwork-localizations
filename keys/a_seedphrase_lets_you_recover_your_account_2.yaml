@@ -2,6 +2,7 @@ description: "General UI string."
 source: "A seedphrase lets you recover your account if you lose access. Store it safely."
 platforms:
   - apple
+  - android
 localizations:
   ar: "تتيح لك عبارة الاسترداد استعادة حسابك إذا فقدت إمكانية الوصول. احفظها في مكان آمن."
   cs: "Seed fráze vám umožní obnovit účet, pokud k němu ztratíte přístup. Uložte ji na bezpečné místo."

@@ -4,6 +4,7 @@ platforms:
   - apple
   - linux
   - windows
+  - android
 localizations:
   ar: "معرّف العميل"
   cs: "ID klienta"

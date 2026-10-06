@@ -2,6 +2,7 @@ description: "Developer page: what a setting's 0 means when it removes the cap (
 source: "Unlimited"
 platforms:
   - linux
+  - android
 localizations:
   ar: "بلا حد"
   cs: "Bez omezení"

@@ -2,6 +2,7 @@ description: "General UI string."
 source: "Generate Seedphrase"
 platforms:
   - apple
+  - android
 localizations:
   ar: "أنشئ عبارة الاسترداد"
   cs: "Vygenerovat seed frázi"

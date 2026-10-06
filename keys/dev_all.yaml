@@ -2,6 +2,7 @@ description: "Developer page: what a setting's 0 means when it probes every host
 source: "All"
 platforms:
   - linux
+  - android
 localizations:
   ar: "الكل"
   cs: "Vše"

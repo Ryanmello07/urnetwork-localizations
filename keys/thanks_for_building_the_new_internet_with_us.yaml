@@ -4,6 +4,7 @@ platforms:
   - apple
   - linux
   - windows
+  - android
 localizations:
   ar: "شكراً لمساعدتك في بناء الإنترنت الجديد معنا"
   cs: "Děkujeme, že s námi budujete nový internet"

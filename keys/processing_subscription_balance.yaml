@@ -3,6 +3,7 @@ source: "Processing subscription balance..."
 platforms:
   - apple
   - linux
+  - android
 localizations:
   ar: "جارٍ معالجة رصيد الاشتراك..."
   cs: "Zpracování zůstatku předplatného..."
