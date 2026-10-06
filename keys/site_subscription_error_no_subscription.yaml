@@ -1,0 +1,11 @@
+description: "ur.io Manage subscription screen, cancelling or resuming: no Stripe subscription is billing this network (error.code no_subscription)."
+source: "No Stripe subscription is billing this network."
+platforms:
+  - site
+localizations:
+  ar: "لا يوجد اشتراك Stripe يُفوتر لهذه الشبكة."
+  de: "Für dieses Netzwerk wird kein Stripe-Abo abgerechnet."
+  en: "No Stripe subscription is billing this network."
+  es: "Ninguna suscripción de Stripe se factura a esta red."
+  ru: "Для этой сети нет активной подписки Stripe."
+  zh: "此网络没有正在计费的 Stripe 订阅。"

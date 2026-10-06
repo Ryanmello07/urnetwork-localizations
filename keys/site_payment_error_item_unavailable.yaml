@@ -1,0 +1,11 @@
+description: "ur.io data pack checkout (account panel, Buy data page): the server cannot sell this data pack right now (error.code item_unavailable). Nothing was charged."
+source: "This data pack is not available right now. Try again later."
+platforms:
+  - site
+localizations:
+  ar: "باقة البيانات هذه غير متاحة حاليًا. حاول مرة أخرى لاحقًا."
+  de: "Dieses Datenpaket ist gerade nicht verfügbar. Versuche es später erneut."
+  en: "This data pack is not available right now. Try again later."
+  es: "Este paquete de datos no está disponible en este momento. Inténtalo más tarde."
+  ru: "Этот пакет данных сейчас недоступен. Попробуйте позже."
+  zh: "此流量包暂不可用。请稍后重试。"

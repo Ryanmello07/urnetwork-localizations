@@ -1,0 +1,11 @@
+description: "ur.io Manage subscription screen: the subscription's store is not one the server can change (error.code not_cancelable)."
+source: "This subscription cannot be changed here."
+platforms:
+  - site
+localizations:
+  ar: "لا يمكن تغيير هذا الاشتراك هنا."
+  de: "Dieses Abo kann hier nicht geändert werden."
+  en: "This subscription cannot be changed here."
+  es: "Esta suscripción no se puede cambiar aquí."
+  ru: "Эту подписку нельзя изменить здесь."
+  zh: "此订阅无法在此更改。"
