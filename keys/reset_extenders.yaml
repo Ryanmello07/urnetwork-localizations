@@ -1,0 +1,36 @@
+description: "Button in the Extenders section under account, the title of its confirmation, and the confirmation's action: removes the extenders the user added and clears everything learned about extenders."
+source: "Reset extenders"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "إعادة ضبط الموسّعات"
+  cs: "Resetovat extendery"
+  de: "Extender zurücksetzen"
+  el: "Επαναφορά επεκτατών"
+  en: "Reset extenders"
+  es: "Restablecer extensores"
+  es-419: "Restablecer extensores"
+  es-MX: "Restablecer extensores"
+  fr: "Réinitialiser les extendeurs"
+  he: "איפוס מרחיבים"
+  hi: "एक्सटेंडर रीसेट करें"
+  id: "Setel ulang extender"
+  it: "Reimposta extender"
+  ja: "エクステンダーをリセット"
+  ko: "익스텐더 재설정"
+  nl: "Extenders resetten"
+  pl: "Resetuj extendery"
+  pt: "Repor extensores"
+  pt-BR: "Redefinir extensores"
+  pt-PT: "Repor extensores"
+  ru: "Сбросить экстендеры"
+  sv: "Återställ extendrar"
+  sw: "Weka upya vipanuzi"
+  th: "รีเซ็ตตัวขยาย"
+  uk: "Скинути екстендери"
+  vi: "Đặt lại bộ mở rộng"
+  zh: "重置扩展器"
+  zh-HK: "重設擴展器"

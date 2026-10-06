@@ -1,0 +1,36 @@
+description: "Body of the confirmation before resetting extenders (Extenders section under account): what the reset removes and clears."
+source: "This removes the extenders you added and clears everything learned about extenders, which are then discovered again from scratch."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "سيؤدي هذا إلى إزالة الموسّعات التي أضفتها ومسح كل ما عُرف عن الموسّعات، ثم يُعاد اكتشافها من البداية."
+  cs: "Tím odeberete extendery, které jste přidali, a vymažete vše, co se o extenderech zjistilo. Extendery se pak vyhledají znovu od začátku."
+  de: "Dadurch werden die Extender entfernt, die du hinzugefügt hast, und alles gelöscht, was über Extender bekannt ist. Danach werden Extender von Grund auf neu gesucht."
+  el: "Έτσι αφαιρούνται οι επεκτατές που προσθέσατε και διαγράφονται όσα είναι γνωστά για τους επεκτατές, οι οποίοι στη συνέχεια εντοπίζονται ξανά από την αρχή."
+  en: "This removes the extenders you added and clears everything learned about extenders, which are then discovered again from scratch."
+  es: "Esto elimina los extensores que añadiste y borra todo lo que se sabe sobre los extensores, que después se vuelven a descubrir desde cero."
+  es-419: "Esto elimina los extensores que agregaste y borra todo lo que se sabe sobre los extensores, que después se vuelven a descubrir desde cero."
+  es-MX: "Esto elimina los extensores que agregaste y borra todo lo que se sabe sobre los extensores, que después se vuelven a descubrir desde cero."
+  fr: "Cette action supprime les extendeurs que vous avez ajoutés et efface tout ce qui est connu sur les extendeurs. Ils sont ensuite redécouverts depuis le début."
+  he: "פעולה זו מסירה את המרחיבים שהוספת ומוחקת את כל מה שידוע על מרחיבים. לאחר מכן המרחיבים יאותרו מחדש מההתחלה."
+  hi: "इससे आपके जोड़े गए एक्सटेंडर हट जाएंगे और एक्सटेंडर के बारे में जुटाई गई सारी जानकारी मिट जाएगी। इसके बाद एक्सटेंडर शुरू से फिर खोजे जाएंगे।"
+  id: "Ini menghapus extender yang Anda tambahkan dan semua yang diketahui tentang extender. Setelah itu, extender ditemukan lagi dari awal."
+  it: "Questa azione rimuove gli extender che hai aggiunto e cancella tutto ciò che si sa sugli extender, che vengono poi individuati di nuovo da zero."
+  ja: "追加したエクステンダーが削除され、エクステンダーについて把握している情報がすべて消去されます。その後、エクステンダーは最初から検出し直されます。"
+  ko: "추가한 익스텐더가 삭제되고 익스텐더에 대해 알고 있던 정보가 모두 지워집니다. 이후 익스텐더를 처음부터 다시 찾습니다."
+  nl: "Hiermee worden de extenders die je hebt toegevoegd verwijderd en wordt alles gewist wat over extenders bekend is. Daarna worden extenders opnieuw vanaf nul gezocht."
+  pl: "Spowoduje to usunięcie dodanych przez Ciebie extenderów i wyczyszczenie wszystkiego, co wiadomo o extenderach. Extendery zostaną potem wykryte od nowa."
+  pt: "Isto remove os extensores que adicionou e apaga tudo o que se sabe sobre os extensores, que voltam depois a ser descobertos do zero."
+  pt-BR: "Isso remove os extensores que você adicionou e apaga tudo o que se sabe sobre os extensores, que depois são descobertos de novo do zero."
+  pt-PT: "Isto remove os extensores que adicionou e apaga tudo o que se sabe sobre os extensores, que voltam depois a ser descobertos do zero."
+  ru: "Добавленные вами экстендеры будут удалены, а всё, что известно об экстендерах, будет стёрто. Затем экстендеры будут найдены заново."
+  sv: "Detta tar bort de extendrar du har lagt till och rensar allt som är känt om extendrar. Sedan söks extendrar upp igen från början."
+  sw: "Hii huondoa vipanuzi ulivyoongeza na kufuta kila kitu kinachojulikana kuhusu vipanuzi. Kisha vipanuzi hugunduliwa upya kuanzia mwanzo."
+  th: "การดำเนินการนี้จะลบตัวขยายที่คุณเพิ่มไว้และล้างข้อมูลทั้งหมดที่รู้เกี่ยวกับตัวขยาย จากนั้นจะค้นหาตัวขยายใหม่ตั้งแต่ต้น"
+  uk: "Додані вами екстендери буде видалено, а все, що відомо про екстендери, буде стерто. Потім екстендери буде знайдено заново."
+  vi: "Thao tác này xóa các bộ mở rộng bạn đã thêm và xóa mọi thông tin đã biết về bộ mở rộng. Sau đó bộ mở rộng sẽ được tìm lại từ đầu."
+  zh: "这会移除已添加的扩展器，并清除已知的所有扩展器信息，之后将从头重新发现扩展器。"
+  zh-HK: "這會移除已新增的擴展器，並清除已知的所有擴展器資料，之後會從頭重新發現擴展器。"
