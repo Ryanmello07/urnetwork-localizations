@@ -1,6 +1,8 @@
 description: "Developer page: exit state, warned."
 source: "warned"
 platforms:
+  - android
+  - apple
   - linux
   - windows
 localizations:

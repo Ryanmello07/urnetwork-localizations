@@ -2,6 +2,8 @@ description: "Developer page: exit state of an exit that carries only the P2P tr
 source: "p2p"
 translatable: false
 platforms:
+  - android
+  - apple
   - linux
   - windows
 localizations:

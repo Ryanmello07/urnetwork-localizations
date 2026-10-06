@@ -1,6 +1,8 @@
 description: "Developer page: exit state, proven."
 source: "proven"
 platforms:
+  - android
+  - apple
   - linux
   - windows
 localizations:
