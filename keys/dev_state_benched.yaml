@@ -1,6 +1,8 @@
 description: "Developer page: exit state, benched."
 source: "benched"
 platforms:
+  - android
+  - apple
   - linux
   - windows
 localizations:

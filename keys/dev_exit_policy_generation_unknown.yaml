@@ -1,0 +1,36 @@
+description: "Developer page exit readout: the exit's provider reported its security policy (safety rules) without a generation, because it predates the generation or runs a custom policy."
+source: "policy generation unknown"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "جيل السياسة غير معروف"
+  cs: "generace zásad neznámá"
+  de: "Richtliniengeneration unbekannt"
+  el: "γενιά πολιτικής άγνωστη"
+  en: "policy generation unknown"
+  es: "generación de política desconocida"
+  es-419: "generación de política desconocida"
+  es-MX: "generación de política desconocida"
+  fr: "génération de politique inconnue"
+  he: "דור מדיניות לא ידוע"
+  hi: "नीति पीढ़ी अज्ञात"
+  id: "generasi kebijakan tidak diketahui"
+  it: "generazione della politica sconosciuta"
+  ja: "ポリシー世代 不明"
+  ko: "정책 세대 알 수 없음"
+  nl: "beleidsgeneratie onbekend"
+  pl: "generacja polityki nieznana"
+  pt: "geração da política desconhecida"
+  pt-BR: "geração da política desconhecida"
+  pt-PT: "geração da política desconhecida"
+  ru: "поколение политики неизвестно"
+  sv: "policygeneration okänd"
+  sw: "kizazi cha sera hakijulikani"
+  th: "รุ่นนโยบายไม่ทราบ"
+  uk: "покоління політики невідоме"
+  vi: "thế hệ chính sách không rõ"
+  zh: "策略世代未知"
+  zh-HK: "策略世代未知"

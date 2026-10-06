@@ -1,0 +1,37 @@
+description: "Developer page exit readout: the exit's tier in its state line, the platform's rank for the provider (0 is best). The value is the tier number, or two numbers with an arrow (\"1→3\") when live demotion moved the rank that selection uses. The Windows and Linux pages show the same value in their Tier column (dev_col_tier)."
+source: "tier %@"
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: tier
+    type: string
+localizations:
+  ar: "الفئة {tier}"
+  cs: "úroveň {tier}"
+  de: "Stufe {tier}"
+  el: "βαθμίδα {tier}"
+  en: "tier {tier}"
+  es: "nivel {tier}"
+  es-419: "nivel {tier}"
+  es-MX: "nivel {tier}"
+  fr: "niveau {tier}"
+  he: "דרגה {tier}"
+  hi: "स्तर {tier}"
+  id: "tingkat {tier}"
+  it: "livello {tier}"
+  ja: "ティア {tier}"
+  ko: "등급 {tier}"
+  nl: "niveau {tier}"
+  pl: "poziom {tier}"
+  pt: "nível {tier}"
+  pt-BR: "nível {tier}"
+  pt-PT: "nível {tier}"
+  ru: "уровень {tier}"
+  sv: "nivå {tier}"
+  sw: "daraja {tier}"
+  th: "ระดับ {tier}"
+  uk: "рівень {tier}"
+  vi: "cấp {tier}"
+  zh: "层级 {tier}"
+  zh-HK: "層級 {tier}"
