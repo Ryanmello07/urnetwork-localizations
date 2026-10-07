@@ -1,4 +1,4 @@
-description: "Developer page: update check status while checking."
+description: "Developer page, and the line under Linux Settings > Check for updates: update check status while checking."
 source: "Checking for updates…"
 platforms:
   - linux

@@ -1,4 +1,4 @@
-description: "Developer page: button that checks for a new release now."
+description: "Developer page: button that checks for a new release now. Linux Settings > General: the title of the row whose button does the same."
 source: "Check for updates"
 platforms:
   - linux
