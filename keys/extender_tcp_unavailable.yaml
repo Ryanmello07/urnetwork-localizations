@@ -1,0 +1,38 @@
+description: "Extender status when TCP port 443, the one port the extender requires, cannot be bound, usually because another program (often another provider on the same computer) holds it. The extender stays off and tries the port again every few minutes on its own, so this is not the user's mistake: keep the tone calm. The argument is the bind error."
+source: "TCP port 443 is in use by another program. Trying again every few minutes: %@"
+platforms:
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: error
+    type: string
+localizations:
+  ar: "يستخدم برنامج آخر منفذ TCP رقم 443. ستُعاد المحاولة كل بضع دقائق: {error}"
+  cs: "Port TCP 443 používá jiný program. Nový pokus každých několik minut: {error}"
+  de: "TCP-Port 443 wird von einem anderen Programm verwendet. Neuer Versuch alle paar Minuten: {error}"
+  el: "Η θύρα TCP 443 χρησιμοποιείται από άλλο πρόγραμμα. Νέα προσπάθεια κάθε λίγα λεπτά: {error}"
+  en: "TCP port 443 is in use by another program. Trying again every few minutes: {error}"
+  es: "Otro programa está usando el puerto TCP 443. Se volverá a intentar cada pocos minutos: {error}"
+  es-419: "Otro programa está usando el puerto TCP 443. Se volverá a intentar cada pocos minutos: {error}"
+  es-MX: "Otro programa está usando el puerto TCP 443. Se volverá a intentar cada pocos minutos: {error}"
+  fr: "Le port TCP 443 est utilisé par un autre programme. Nouvelle tentative toutes les quelques minutes : {error}"
+  he: "פורט TCP 443 נמצא בשימוש של תוכנה אחרת. ניסיון חוזר כל כמה דקות: {error}"
+  hi: "TCP पोर्ट 443 का उपयोग कोई दूसरा प्रोग्राम कर रहा है। हर कुछ मिनट में पुनः प्रयास किया जाएगा: {error}"
+  id: "Port TCP 443 sedang digunakan oleh program lain. Mencoba lagi setiap beberapa menit: {error}"
+  it: "La porta TCP 443 è usata da un altro programma. Nuovo tentativo ogni pochi minuti: {error}"
+  ja: "TCP ポート 443 は別のプログラムが使用中です。数分ごとに再試行します：{error}"
+  ko: "TCP 포트 443을 다른 프로그램이 사용 중입니다. 몇 분마다 다시 시도합니다: {error}"
+  nl: "TCP-poort 443 wordt gebruikt door een ander programma. Nieuwe poging om de paar minuten: {error}"
+  pl: "Port TCP 443 jest używany przez inny program. Ponowna próba co kilka minut: {error}"
+  pt: "A porta TCP 443 está a ser usada por outro programa. Nova tentativa a cada poucos minutos: {error}"
+  pt-BR: "A porta TCP 443 está sendo usada por outro programa. Nova tentativa a cada poucos minutos: {error}"
+  pt-PT: "A porta TCP 443 está a ser usada por outro programa. Nova tentativa a cada poucos minutos: {error}"
+  ru: "TCP-порт 443 занят другой программой. Повторная попытка каждые несколько минут: {error}"
+  sv: "TCP-port 443 används av ett annat program. Nytt försök med några minuters mellanrum: {error}"
+  sw: "Mlango wa TCP 443 unatumiwa na programu nyingine. Itajaribu tena kila baada ya dakika chache: {error}"
+  th: "พอร์ต TCP 443 ถูกโปรแกรมอื่นใช้งานอยู่ จะลองใหม่ทุก ๆ สองสามนาที: {error}"
+  uk: "TCP-порт 443 зайнятий іншою програмою. Повторна спроба кожні кілька хвилин: {error}"
+  vi: "Cổng TCP 443 đang được một chương trình khác sử dụng. Sẽ thử lại sau mỗi vài phút: {error}"
+  zh: "TCP 端口 443 正被其他程序占用。每隔几分钟会重试一次：{error}"
+  zh-HK: "TCP 連接埠 443 正被其他程式佔用。每隔幾分鐘會重試一次：{error}"
