@@ -1,7 +1,8 @@
-description: "Windows Connect page reason line while the selected providers do not answer."
+description: "Windows and Linux Connect page reason line while the selected providers do not answer."
 source: "Providers not responding — retrying…"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "المزودون لا يستجيبون — جارٍ إعادة المحاولة…"
   cs: "Poskytovatelé neodpovídají – opakování…"
