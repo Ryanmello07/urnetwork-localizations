@@ -1,7 +1,8 @@
-description: "Windows connection status (Connect page headline and tray tooltip) when a working connection dropped and the app is reconnecting on its own."
+description: "Windows and Linux connection status (Connect page headline, status strip and tray tooltip) when a working connection dropped and the app is reconnecting on its own."
 source: "Connection degraded — reconnecting"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "الاتصال متدهور — جارٍ إعادة الاتصال"
   cs: "Připojení zhoršené – znovu se připojuje"
