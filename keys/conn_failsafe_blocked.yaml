@@ -1,7 +1,8 @@
-description: "Windows Connect page line after the service stopped a tunnel that carried nothing, while the kill switch keeps this computer blocked."
+description: "Windows and Linux Connect page line after the service stopped a tunnel that carried nothing, while the kill switch keeps this computer blocked."
 source: "The tunnel could not carry traffic, so URnetwork shut it down. The kill switch is on, so nothing leaves this machine until you connect again or turn the kill switch off — nothing is leaking."
 platforms:
   - windows
+  - linux
 localizations:
   ar: "لم يتمكن النفق من نقل حركة البيانات، لذا أوقفه URnetwork. مفتاح القتل مفعّل، لذا لا يغادر أي شيء هذا الكمبيوتر حتى تتصل مجددًا أو توقف مفتاح القتل — لا يوجد أي تسرب."
   cs: "Tunel nedokázal přenášet provoz, a tak ho URnetwork vypnul. Kill switch je zapnutý, takže z tohoto počítače nic neodchází, dokud se znovu nepřipojíte nebo kill switch nevypnete – nic neuniká."

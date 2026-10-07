@@ -1,7 +1,8 @@
-description: "Windows tray menu item that lifts the kill switch's block on this computer."
+description: "Windows and Linux tray menu item that lifts the kill switch's block on this computer."
 source: "Turn off the kill switch (unblock this machine)"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "إيقاف مفتاح القتل (إلغاء حجب هذا الكمبيوتر)"
   cs: "Vypnout kill switch (odblokovat tento počítač)"

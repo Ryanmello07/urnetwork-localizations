@@ -1,7 +1,8 @@
-description: "Windows Connect page: sentence appended to the line above when the service will stop a tunnel that carries nothing."
+description: "Windows Connect page: sentence appended to the line above when the service will stop a tunnel that carries nothing. Linux Connect page: shown on its own on the notice line under the connect controls while no other notice is there."
 source: "If nothing gets through shortly, URnetwork will turn the tunnel off automatically so you keep your internet."
 platforms:
   - windows
+  - linux
 localizations:
   ar: "إذا لم يمر أي شيء قريبًا، فسيوقف URnetwork النفق تلقائيًا كي يبقى اتصالك بالإنترنت قائمًا."
   cs: "Pokud brzy nic neprojde, URnetwork tunel automaticky vypne, abyste nepřišli o internet."
