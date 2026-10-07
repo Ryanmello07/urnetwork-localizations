@@ -1,7 +1,8 @@
-description: "Windows Connect page line and tray notification after the service stopped a tunnel that carried nothing, with the kill switch off. Keep the emphasis on NOT."
+description: "Windows and Linux Connect page line, and Windows tray notification, after the service stopped a tunnel that carried nothing, with the kill switch off. Keep the emphasis on NOT."
 source: "URnetwork disconnected you to keep you online: the tunnel was up but nothing was getting through. Your traffic is going out normally now and is NOT protected. Press Connect to try again."
 platforms:
   - windows
+  - linux
 localizations:
   ar: "قطع URnetwork اتصالك ليبقيك متصلًا بالإنترنت: كان النفق قائمًا لكن لم يكن يمر عبره أي شيء. حركة بياناتك تخرج الآن بشكل عادي وهي غير محمية. اضغط اتصال لإعادة المحاولة."
   cs: "URnetwork vás odpojil, abyste zůstali online: tunel běžel, ale nic jím neprocházelo. Váš provoz teď odchází normálně a NENÍ chráněn. Stiskněte Připojit a zkuste to znovu."
