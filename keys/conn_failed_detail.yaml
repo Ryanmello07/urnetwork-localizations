@@ -1,7 +1,8 @@
-description: "Windows Connect page reason line when connecting failed."
+description: "Windows and Linux Connect page reason line when connecting failed."
 source: "No providers could be reached. Retry rebuilds the connection from scratch."
 platforms:
   - windows
+  - linux
 localizations:
   ar: "تعذّر الوصول إلى أي مزود. تعيد المحاولة بناء الاتصال من البداية."
   cs: "Nepodařilo se spojit s žádným poskytovatelem. Opakování sestaví připojení znovu od začátku."

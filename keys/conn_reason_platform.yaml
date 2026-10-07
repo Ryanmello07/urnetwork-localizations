@@ -1,7 +1,8 @@
-description: "Windows Connect page reason line while the app cannot reach the URnetwork platform (the API servers)."
+description: "Windows and Linux Connect page reason line while the app cannot reach the URnetwork platform (the API servers)."
 source: "Contacting the platform…"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "جارٍ التواصل مع المنصة…"
   cs: "Kontaktování platformy…"

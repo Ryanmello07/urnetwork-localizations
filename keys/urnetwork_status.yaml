@@ -1,8 +1,9 @@
-description: "Used in NetworkApp.swift."
+description: "Used in NetworkApp.swift. Also the Windows and Linux status strip's name for its connection state field, read by screen readers."
 source: "URnetwork Status"
 platforms:
   - apple
   - windows
+  - linux
 localizations:
   ar: "حالة URnetwork"
   cs: "Status URnetwork"

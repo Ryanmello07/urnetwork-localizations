@@ -5,6 +5,7 @@ platforms:
   - apple
   - web
   - windows
+  - linux
 localizations:
   ar: "إعادة المحاولة"
   cs: "Zkusit znovu"

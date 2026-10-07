@@ -1,7 +1,8 @@
-description: "Windows status strip (Advanced Mode): label of the field that shows the service's RPC endpoint (host:port). RPC is a technical term."
+description: "Windows and Linux status strip (Advanced Mode): label of the field that shows the service's RPC endpoint (host:port). RPC is a technical term."
 source: "RPC"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "RPC"
   cs: "RPC"

@@ -1,7 +1,8 @@
-description: "Windows Connect page reason line while the platform asks the app to slow down."
+description: "Windows and Linux Connect page reason line while the platform asks the app to slow down."
 source: "Rate limited — waiting…"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "تم بلوغ حد الطلبات — جارٍ الانتظار…"
   cs: "Překročen limit požadavků – čekání…"
