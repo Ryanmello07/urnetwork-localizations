@@ -1,0 +1,36 @@
+description: "Linux: the body of the dialog shown when the app cannot start (its SDK host failed to initialize, so there is no window and no tray), under the heading something_went_wrong. The argument is the folder that holds the app's log files. The raw error follows on its own lines, untranslated."
+source: "URnetwork could not start. Its logs are in {dir}."
+platforms:
+  - linux
+placeholders:
+  - name: dir
+    type: string
+localizations:
+  ar: "تعذّر تشغيل URnetwork. سجلاته موجودة في {dir}."
+  cs: "URnetwork se nepodařilo spustit. Jeho protokoly jsou v {dir}."
+  de: "URnetwork konnte nicht gestartet werden. Die Protokolle liegen in {dir}."
+  el: "Δεν ήταν δυνατή η εκκίνηση του URnetwork. Τα αρχεία καταγραφής του βρίσκονται στο {dir}."
+  en: "URnetwork could not start. Its logs are in {dir}."
+  es: "No se ha podido iniciar URnetwork. Sus registros están en {dir}."
+  es-419: "No se pudo iniciar URnetwork. Sus registros están en {dir}."
+  es-MX: "No se pudo iniciar URnetwork. Sus registros están en {dir}."
+  fr: "Impossible de démarrer URnetwork. Ses journaux se trouvent dans {dir}."
+  he: "לא ניתן היה להפעיל את URnetwork. הלוגים שלו נמצאים ב-{dir}."
+  hi: "URnetwork शुरू नहीं हो सका। इसके लॉग {dir} में हैं।"
+  id: "URnetwork tidak dapat dimulai. Lognya ada di {dir}."
+  it: "Impossibile avviare URnetwork. I suoi log si trovano in {dir}."
+  ja: "URnetwork を起動できませんでした。ログは {dir} にあります。"
+  ko: "URnetwork를 시작할 수 없습니다. 로그는 {dir}에 있습니다."
+  nl: "URnetwork kon niet worden gestart. De logbestanden staan in {dir}."
+  pl: "Nie udało się uruchomić URnetwork. Jego logi znajdują się w {dir}."
+  pt: "Não foi possível iniciar a URnetwork. Os logs estão em {dir}."
+  pt-BR: "Não foi possível iniciar a URnetwork. Os logs estão em {dir}."
+  pt-PT: "Não foi possível iniciar a URnetwork. Os logs estão em {dir}."
+  ru: "Не удалось запустить URnetwork. Его логи находятся в {dir}."
+  sv: "URnetwork kunde inte starta. Loggarna finns i {dir}."
+  sw: "URnetwork haikuweza kuanza. Kumbukumbu zake ziko katika {dir}."
+  th: "เริ่ม URnetwork ไม่สำเร็จ บันทึกของแอปอยู่ที่ {dir}"
+  uk: "Не вдалося запустити URnetwork. Його логи зберігаються в {dir}."
+  vi: "Không thể khởi động URnetwork. Nhật ký của ứng dụng nằm trong {dir}."
+  zh: "无法启动 URnetwork。其日志位于 {dir}。"
+  zh-HK: "無法啟動 URnetwork。其日誌位於 {dir}。"
