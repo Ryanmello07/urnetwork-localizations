@@ -1,7 +1,8 @@
-description: "Windows status strip (Advanced Mode): label of the field that shows which kind of session the service granted (tunnel or rpc-only)."
+description: "Windows and Linux status strip (Advanced Mode): label of the field that shows which kind of session the service granted (tunnel or rpc-only)."
 source: "Session"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "الجلسة"
   cs: "Relace"

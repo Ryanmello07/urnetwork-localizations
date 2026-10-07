@@ -1,7 +1,8 @@
-description: "Windows status strip (Advanced Mode): label of the field that shows whether the tunnel's routes are installed."
+description: "Windows and Linux status strip (Advanced Mode): label of the field that shows whether the tunnel's routes are installed."
 source: "Routes"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "المسارات"
   cs: "Trasy"
