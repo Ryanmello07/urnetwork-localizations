@@ -1,0 +1,36 @@
+description: "Linux Settings > General, the line under Check for updates: GitHub refused the update check with its rate limit (requests are anonymous and shared by everyone behind the same address) and said when it may be asked again; no check is sent before then, and the Check now button waits too. {time} is that local date and time."
+source: "GitHub asked this network to wait until {time} before it is asked again, and the app waits until then."
+platforms:
+  - linux
+placeholders:
+  - name: time
+    type: string
+localizations:
+  ar: "طلب GitHub من هذه الشبكة الانتظار حتى {time} قبل سؤاله مرة أخرى، وسينتظر التطبيق حتى ذلك الحين."
+  cs: "GitHub požádal tuto síť, aby se znovu zeptala až po {time}, a aplikace do té doby počká."
+  de: "GitHub hat dieses Netzwerk gebeten, bis {time} mit der nächsten Anfrage zu warten, und die App wartet bis dahin."
+  el: "Το GitHub ζήτησε από αυτό το δίκτυο να περιμένει έως {time} πριν ρωτήσει ξανά, και η εφαρμογή περιμένει μέχρι τότε."
+  en: "GitHub asked this network to wait until {time} before it is asked again, and the app waits until then."
+  es: "GitHub pidió a esta red que espere hasta {time} antes de volver a consultarlo, y la app espera hasta entonces."
+  es-419: "GitHub pidió a esta red que espere hasta {time} antes de volver a consultarlo, y la app espera hasta entonces."
+  es-MX: "GitHub pidió a esta red que espere hasta {time} antes de volver a consultarlo, y la app espera hasta entonces."
+  fr: "GitHub a demandé à ce réseau d’attendre jusqu’au {time} avant de l’interroger à nouveau, et l’app attend jusque-là."
+  he: "GitHub ביקש מהרשת הזו להמתין עד {time} לפני שתפנה אליו שוב, והאפליקציה ממתינה עד אז."
+  hi: "GitHub ने इस नेटवर्क से {time} तक दोबारा न पूछने को कहा है, और ऐप तब तक इंतज़ार करता है।"
+  id: "GitHub meminta jaringan ini menunggu hingga {time} sebelum bertanya lagi, dan aplikasi menunggu sampai saat itu."
+  it: "GitHub ha chiesto a questa rete di attendere fino a {time} prima di interrogarlo di nuovo, e l’app attende fino ad allora."
+  ja: "GitHub から、このネットワークは {time} まで再度問い合わせないよう求められています。アプリはそれまで待機します。"
+  ko: "GitHub에서 이 네트워크에 {time}까지 다시 요청하지 말라고 했으며, 앱은 그때까지 기다립니다."
+  nl: "GitHub heeft dit netwerk gevraagd tot {time} te wachten voordat het opnieuw iets vraagt, en de app wacht tot dan."
+  pl: "GitHub poprosił tę sieć, by poczekała do {time}, zanim zapyta ponownie, i aplikacja czeka do tego czasu."
+  pt: "O GitHub pediu a esta rede que aguarde até {time} antes de voltar a consultá-lo, e a app aguarda até lá."
+  pt-BR: "O GitHub pediu a esta rede que aguarde até {time} antes de consultá-lo de novo, e o app aguarda até lá."
+  pt-PT: "O GitHub pediu a esta rede que aguarde até {time} antes de voltar a consultá-lo, e a app aguarda até lá."
+  ru: "GitHub попросил эту сеть подождать до {time}, прежде чем обращаться снова, и приложение ждёт до этого времени."
+  sv: "GitHub har bett det här nätverket att vänta till {time} innan det frågar igen, och appen väntar till dess."
+  sw: "GitHub imeomba mtandao huu usubiri hadi {time} kabla ya kuuliza tena, na programu inasubiri hadi wakati huo."
+  th: "GitHub ขอให้เครือข่ายนี้รอจนถึง {time} ก่อนจะถามอีกครั้ง และแอปจะรอจนถึงเวลานั้น"
+  uk: "GitHub попросив цю мережу зачекати до {time}, перш ніж звертатися знову, і застосунок чекає до того часу."
+  vi: "GitHub đã yêu cầu mạng này chờ đến {time} trước khi hỏi lại, và ứng dụng sẽ chờ đến lúc đó."
+  zh: "GitHub 要求此网络在 {time} 之前不要再次请求，应用会等到那时。"
+  zh-HK: "GitHub 要求此網絡在 {time} 之前不要再次請求，應用程式會等到那時。"
