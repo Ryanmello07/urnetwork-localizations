@@ -1,4 +1,4 @@
-description: "Developer page: update check result when there is no stable release."
+description: "Developer page, and the line under Linux Settings > Check for updates: update check result when there is no stable release."
 source: "No stable release has been published yet."
 platforms:
   - linux

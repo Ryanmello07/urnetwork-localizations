@@ -1,4 +1,4 @@
-description: "Developer page: update check result on the newest release. {version} is the release version."
+description: "Developer page, and the line under Linux Settings > Check for updates: update check result on the newest release. {version} is the release version."
 source: "Up to date. Newest release: v{version}"
 platforms:
   - linux
