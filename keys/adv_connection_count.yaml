@@ -1,0 +1,101 @@
+description: "Connect page, Activity pane, grouped by host: how many connections (routing decisions) one host's row stands for, at the start of the row's figures and in its accessible name. The argument is the number of connections."
+source: "{count} connections"
+platforms:
+  - linux
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "{count} اتصال"
+    one: "اتصال واحد"
+    two: "اتصالان"
+    few: "{count} اتصالات"
+    many: "{count} اتصالًا"
+    other: "{count} اتصال"
+  cs:
+    one: "{count} připojení"
+    few: "{count} připojení"
+    many: "{count} připojení"
+    other: "{count} připojení"
+  de:
+    one: "{count} Verbindung"
+    other: "{count} Verbindungen"
+  el:
+    one: "{count} σύνδεση"
+    other: "{count} συνδέσεις"
+  en:
+    one: "{count} connection"
+    other: "{count} connections"
+  es:
+    one: "{count} conexión"
+    other: "{count} conexiones"
+  es-419:
+    one: "{count} conexión"
+    other: "{count} conexiones"
+  es-MX:
+    one: "{count} conexión"
+    other: "{count} conexiones"
+  fr:
+    one: "{count} connexion"
+    other: "{count} connexions"
+  he:
+    one: "חיבור אחד"
+    two: "{count} חיבורים"
+    many: "{count} חיבורים"
+    other: "{count} חיבורים"
+  hi:
+    one: "{count} कनेक्शन"
+    other: "{count} कनेक्शन"
+  id:
+    other: "{count} koneksi"
+  it:
+    one: "{count} connessione"
+    other: "{count} connessioni"
+  ja:
+    other: "{count} 件の接続"
+  ko:
+    other: "연결 {count}개"
+  nl:
+    one: "{count} verbinding"
+    other: "{count} verbindingen"
+  pl:
+    one: "{count} połączenie"
+    few: "{count} połączenia"
+    many: "{count} połączeń"
+    other: "{count} połączenia"
+  pt:
+    one: "{count} ligação"
+    other: "{count} ligações"
+  pt-BR:
+    one: "{count} conexão"
+    other: "{count} conexões"
+  pt-PT:
+    one: "{count} ligação"
+    other: "{count} ligações"
+  ru:
+    one: "{count} соединение"
+    few: "{count} соединения"
+    many: "{count} соединений"
+    other: "{count} соединения"
+  sv:
+    one: "{count} anslutning"
+    other: "{count} anslutningar"
+  sw:
+    one: "muunganisho {count}"
+    other: "miunganisho {count}"
+  th:
+    other: "{count} การเชื่อมต่อ"
+  uk:
+    one: "{count} з’єднання"
+    few: "{count} з’єднання"
+    many: "{count} з’єднань"
+    other: "{count} з’єднання"
+  vi:
+    other: "{count} kết nối"
+  zh:
+    other: "{count} 个连接"
+  zh-HK:
+    other: "{count} 個連線"
