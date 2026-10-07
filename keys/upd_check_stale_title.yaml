@@ -1,0 +1,36 @@
+description: "Linux Settings > General, the line under Check for updates, and the developer page's update line: shown while automatic checks are on and no update check has reached GitHub for more than 72 hours, because a release the app cannot see may be out. {date} is the local short date of the last check that did (or of the first launch that tried)."
+source: "Couldn't check for updates since {date}"
+platforms:
+  - linux
+placeholders:
+  - name: date
+    type: string
+localizations:
+  ar: "تعذّر التحقق من التحديثات منذ {date}"
+  cs: "Aktualizace se nepodařilo vyhledat od {date}"
+  de: "Seit {date} konnte nicht nach Updates gesucht werden"
+  el: "Δεν ήταν δυνατός ο έλεγχος για ενημερώσεις από {date}"
+  en: "Couldn't check for updates since {date}"
+  es: "No se han podido buscar actualizaciones desde el {date}"
+  es-419: "No se pudieron buscar actualizaciones desde el {date}"
+  es-MX: "No se pudieron buscar actualizaciones desde el {date}"
+  fr: "Impossible de rechercher des mises à jour depuis le {date}"
+  he: "לא ניתן היה לבדוק עדכונים מאז {date}"
+  hi: "{date} से अपडेट की जाँच नहीं हो सकी"
+  id: "Tidak dapat memeriksa pembaruan sejak {date}"
+  it: "Impossibile cercare aggiornamenti dal {date}"
+  ja: "{date} 以降、アップデートを確認できていません"
+  ko: "{date} 이후로 업데이트를 확인하지 못했습니다"
+  nl: "Kon sinds {date} niet controleren op updates"
+  pl: "Nie udało się sprawdzić aktualizacji od {date}"
+  pt: "Não foi possível procurar atualizações desde {date}"
+  pt-BR: "Não foi possível verificar atualizações desde {date}"
+  pt-PT: "Não foi possível procurar atualizações desde {date}"
+  ru: "Не удаётся проверить обновления с {date}"
+  sv: "Det har inte gått att söka efter uppdateringar sedan {date}"
+  sw: "Haikuwezekana kuangalia masasisho tangu {date}"
+  th: "ตรวจสอบอัปเดตไม่ได้ตั้งแต่ {date}"
+  uk: "Не вдається перевірити оновлення з {date}"
+  vi: "Không thể kiểm tra cập nhật kể từ {date}"
+  zh: "自 {date} 起无法检查更新"
+  zh-HK: "自 {date} 起無法檢查更新"

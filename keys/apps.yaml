@@ -1,9 +1,10 @@
-description: "transfer stats and split rules"
+description: "transfer stats and split rules; Linux: the header over the apps not yet excluded in Settings > Exclude apps from the VPN."
 source: "Apps"
 platforms:
   - android
   - apple
   - windows
+  - linux
 localizations:
   ar: "التطبيقات"
   cs: "Aplikace"

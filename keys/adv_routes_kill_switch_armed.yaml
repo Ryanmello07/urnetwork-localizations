@@ -1,7 +1,8 @@
-description: "Windows status strip (Advanced Mode), Routes value: no routes are installed and the kill switch is blocking traffic. Lowercase, a short status value."
+description: "Windows and Linux status strip (Advanced Mode), Routes value: no routes are installed and the kill switch is blocking traffic. Lowercase, a short status value."
 source: "off, kill switch armed"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "معطّلة، مفتاح القتل مسلّح"
   cs: "vypnuto, kill switch aktivní"

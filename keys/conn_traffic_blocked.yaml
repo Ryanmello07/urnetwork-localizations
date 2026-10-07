@@ -1,7 +1,8 @@
-description: "Windows Connect page line while connected but no provider carries traffic, with leak protection in force."
+description: "Windows and Linux Connect page line while connected but no provider carries traffic, with leak protection in force (on Linux, the kill switch's block floor)."
 source: "No working provider right now — your traffic is blocked, not exposed. Disconnect to go back to your normal connection."
 platforms:
   - windows
+  - linux
 localizations:
   ar: "لا يوجد مزود يعمل الآن — حركة بياناتك محجوبة وليست مكشوفة. اقطع الاتصال للعودة إلى اتصالك العادي."
   cs: "Teď není k dispozici žádný funkční poskytovatel – váš provoz je zablokovaný, ne odhalený. Odpojte se, abyste se vrátili ke svému běžnému připojení."

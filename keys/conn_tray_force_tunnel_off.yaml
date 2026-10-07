@@ -1,7 +1,8 @@
-description: "Windows tray menu item that stops the tunnel directly when the normal Disconnect is stuck."
+description: "Windows tray menu item that stops the tunnel directly when the normal Disconnect is stuck. Linux tray menu item that stops the service's tunnel while the app holds no session of its own."
 source: "Force the tunnel off (recovery)"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "فرض إيقاف النفق (استرداد)"
   cs: "Vynutit vypnutí tunelu (obnova)"
