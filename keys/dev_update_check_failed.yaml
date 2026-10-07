@@ -1,4 +1,4 @@
-description: "Developer page: report line when the update check failed."
+description: "Developer page, and the line under Linux Settings > Check for updates: report line when the update check failed."
 source: "The update check failed — see the app log."
 platforms:
   - linux
