@@ -1,7 +1,8 @@
-description: "Windows Connect page reason line while the app's sign-in to the URnetwork platform keeps failing."
+description: "Windows and Linux Connect page reason line while the app's sign-in to the URnetwork platform keeps failing."
 source: "Signing in to the platform is failing…"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "تسجيل الدخول إلى المنصة يفشل…"
   cs: "Přihlášení k platformě selhává…"

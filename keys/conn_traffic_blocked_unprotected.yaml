@@ -1,7 +1,8 @@
-description: "Windows Connect page line while connected but no provider carries traffic, and leak protection (the firewall policy) is not in force."
+description: "Windows and Linux Connect page line while connected but no provider carries traffic, and leak protection (the Windows firewall policy, the Linux kill switch's block floor) is not in force."
 source: "No working provider right now — traffic sent into the tunnel is going nowhere, and leak protection is off, so some traffic may bypass it. Disconnect to go back to your normal connection."
 platforms:
   - windows
+  - linux
 localizations:
   ar: "لا يوجد مزود يعمل الآن — حركة البيانات المرسلة إلى النفق لا تصل إلى أي مكان، والحماية من التسرب معطّلة، لذا قد يتجاوزها جزء من حركة البيانات. اقطع الاتصال للعودة إلى اتصالك العادي."
   cs: "Teď není k dispozici žádný funkční poskytovatel – provoz odeslaný do tunelu nikam nedorazí a ochrana proti únikům je vypnutá, takže část provozu ji může obejít. Odpojte se, abyste se vrátili ke svému běžnému připojení."

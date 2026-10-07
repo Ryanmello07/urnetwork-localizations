@@ -1,7 +1,8 @@
-description: "Windows status strip (Advanced Mode), Routes value: routes are installed but the tunnel's DNS is not. Lowercase, a short status value."
+description: "Windows and Linux status strip (Advanced Mode), Routes value: routes are installed but the tunnel's DNS is not. Lowercase, a short status value."
 source: "on, dns not applied"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "مفعّلة، DNS غير مطبّق"
   cs: "zapnuto, DNS nepoužito"

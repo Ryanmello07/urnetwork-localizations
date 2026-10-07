@@ -1,7 +1,8 @@
-description: "Windows status strip (Advanced Mode), Session value: a full tunnel session. Lowercase, a short status value."
+description: "Windows and Linux status strip (Advanced Mode), Session value: a full tunnel session. Lowercase, a short status value."
 source: "tunnel"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "نفق"
   cs: "tunel"
