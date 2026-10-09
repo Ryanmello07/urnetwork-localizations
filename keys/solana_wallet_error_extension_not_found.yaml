@@ -1,0 +1,38 @@
+description: "Error in the Solana payout wallet's connect sheet of the desktop apps (macOS, Windows, Linux) when the ur.io wallet bridge page returns extension_not_found: the chosen wallet's browser extension is not in this browser. The argument is the wallet product name (Phantom or Solflare). The sheet also takes a typed address, which works with any wallet, so the line points at its Enter address manually control, named in that control's own words (enter_address_manually). Signing in has no manual entry and keeps bittensor_error_extension_not_found."
+source: "The %@ extension was not found in this browser. Install it and try again, or choose “Enter address manually” to paste your wallet address."
+platforms:
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: wallet
+    type: string
+localizations:
+  ar: "لم يتم العثور على إضافة {wallet} في هذا المتصفح. ثبّتها وحاول مرة أخرى، أو اختر «إدخال العنوان يدويًا» للصق عنوان محفظتك."
+  cs: "Rozšíření {wallet} nebylo v tomto prohlížeči nalezeno. Nainstalujte ho a zkuste to znovu, nebo zvolte „Zadat adresu ručně“ a vložte adresu své peněženky."
+  de: "Die {wallet}-Erweiterung wurde in diesem Browser nicht gefunden. Installiere sie und versuche es erneut oder wähle „Adresse manuell eingeben“, um deine Wallet-Adresse einzufügen."
+  el: "Η επέκταση {wallet} δεν βρέθηκε σε αυτό το πρόγραμμα περιήγησης. Εγκαταστήστε την και δοκιμάστε ξανά ή επιλέξτε «Χειροκίνητη εισαγωγή διεύθυνσης» για να επικολλήσετε τη διεύθυνση του πορτοφολιού σας."
+  en: "The {wallet} extension was not found in this browser. Install it and try again, or choose “Enter address manually” to paste your wallet address."
+  es: "No se encontró la extensión de {wallet} en este navegador. Instálala y vuelve a intentarlo, o elige «Introducir la dirección manualmente» para pegar la dirección de tu billetera."
+  es-419: "No se encontró la extensión de {wallet} en este navegador. Instálala y vuelve a intentarlo, o elige \"Ingresar la dirección manualmente\" para pegar la dirección de tu billetera."
+  es-MX: "No se encontró la extensión de {wallet} en este navegador. Instálala y vuelve a intentarlo, o elige \"Ingresar la dirección manualmente\" para pegar la dirección de tu cartera."
+  fr: "L’extension {wallet} est introuvable dans ce navigateur. Installez-la et réessayez, ou choisissez « Saisir l’adresse manuellement » pour coller l’adresse de votre portefeuille."
+  he: "התוסף {wallet} לא נמצא בדפדפן הזה. התקינו אותו ונסו שוב, או בחרו \"הזנת הכתובת ידנית\" כדי להדביק את כתובת הארנק שלכם."
+  hi: "इस ब्राउज़र में {wallet} एक्सटेंशन नहीं मिला। इसे इंस्टॉल करके फिर से प्रयास करें, या अपने वॉलेट का पता पेस्ट करने के लिए \"पता मैन्युअल रूप से डालें\" चुनें।"
+  id: "Ekstensi {wallet} tidak ditemukan di browser ini. Pasang ekstensi tersebut lalu coba lagi, atau pilih “Masukkan alamat secara manual” untuk menempelkan alamat dompet Anda."
+  it: "L’estensione {wallet} non è stata trovata in questo browser. Installala e riprova, oppure scegli «Inserisci l’indirizzo manualmente» per incollare l’indirizzo del tuo portafoglio."
+  ja: "このブラウザーで{wallet}拡張機能が見つかりませんでした。インストールしてからもう一度お試しいただくか、「アドレスを手動で入力」を選択してウォレットのアドレスを貼り付けてください。"
+  ko: "이 브라우저에서 {wallet} 확장 프로그램을 찾을 수 없습니다. 설치한 후 다시 시도하거나 '주소 직접 입력'을 선택해 지갑 주소를 붙여 넣으세요."
+  nl: "De {wallet}-extensie is niet gevonden in deze browser. Installeer de extensie en probeer het opnieuw, of kies ‘Adres handmatig invoeren’ om je walletadres te plakken."
+  pl: "Nie znaleziono rozszerzenia {wallet} w tej przeglądarce. Zainstaluj je i spróbuj ponownie albo wybierz „Wpisz adres ręcznie”, aby wkleić adres swojego portfela."
+  pt: "A extensão {wallet} não foi encontrada neste navegador. Instale-a e tente novamente, ou escolha \"Introduzir o endereço manualmente\" para colar o endereço da sua carteira."
+  pt-BR: "A extensão {wallet} não foi encontrada neste navegador. Instale-a e tente novamente, ou escolha \"Digitar o endereço manualmente\" para colar o endereço da sua carteira."
+  pt-PT: "A extensão {wallet} não foi encontrada neste navegador. Instale-a e tente novamente, ou escolha \"Introduzir o endereço manualmente\" para colar o endereço da sua carteira."
+  ru: "Расширение {wallet} не найдено в этом браузере. Установите его и повторите попытку или выберите «Ввести адрес вручную», чтобы вставить адрес вашего кошелька."
+  sv: "Tillägget {wallet} hittades inte i den här webbläsaren. Installera det och försök igen, eller välj ”Ange adressen manuellt” för att klistra in din plånboksadress."
+  sw: "Kiendelezi cha {wallet} hakikupatikana kwenye kivinjari hiki. Kisakinishe kisha ujaribu tena, au chagua \"Weka anwani mwenyewe\" ili ubandike anwani ya pochi yako."
+  th: "ไม่พบส่วนขยาย {wallet} ในเบราว์เซอร์นี้ ติดตั้งส่วนขยายแล้วลองอีกครั้ง หรือเลือก “ป้อนที่อยู่ด้วยตนเอง” เพื่อวางที่อยู่กระเป๋าเงินของคุณ"
+  uk: "Розширення {wallet} не знайдено в цьому браузері. Встановіть його й спробуйте ще раз або виберіть «Ввести адресу вручну», щоб вставити адресу свого гаманця."
+  vi: "Không tìm thấy tiện ích mở rộng {wallet} trong trình duyệt này. Hãy cài đặt tiện ích rồi thử lại, hoặc chọn “Nhập địa chỉ thủ công” để dán địa chỉ ví của bạn."
+  zh: "在此浏览器中未找到 {wallet} 扩展。请安装后重试，或选择“手动输入地址”以粘贴您的钱包地址。"
+  zh-HK: "在此瀏覽器中找不到 {wallet} 擴充功能。請安裝後再試一次，或選擇「手動輸入地址」以貼上你的錢包地址。"
