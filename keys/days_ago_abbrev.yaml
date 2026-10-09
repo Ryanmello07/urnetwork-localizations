@@ -1,0 +1,37 @@
+description: "Compact relative-time label with an abbreviated days unit (\"3d ago\"), shown by the windows and linux relative-time formatters (the Sessions screen's Last used) for events a day to 7 days old; older events show a date. The argument is the elapsed days. Not a plural: the abbreviated unit does not inflect, but the word order and the unit abbreviation localize."
+source: "{count}d ago"
+platforms:
+  - windows
+  - linux
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "قبل {count} ي"
+  cs: "před {count} d."
+  de: "vor {count} Tg."
+  el: "πριν από {count} ημ."
+  en: "{count}d ago"
+  es: "hace {count} d"
+  es-419: "hace {count} d"
+  es-MX: "hace {count} d"
+  fr: "il y a {count} j"
+  he: "לפני {count} ימ׳"
+  hi: "{count} दिन पहले"
+  id: "{count} hari lalu"
+  it: "{count} g fa"
+  ja: "{count}日前"
+  ko: "{count}일 전"
+  nl: "{count} d geleden"
+  pl: "{count} d. temu"
+  pt: "há {count} d"
+  pt-BR: "há {count} d"
+  pt-PT: "há {count} d"
+  ru: "{count} дн. назад"
+  sv: "för {count} d sedan"
+  sw: "siku {count} zilizopita"
+  th: "{count} วันที่แล้ว"
+  uk: "{count} дн. тому"
+  vi: "{count} ngày trước"
+  zh: "{count}天前"
+  zh-HK: "{count}日前"

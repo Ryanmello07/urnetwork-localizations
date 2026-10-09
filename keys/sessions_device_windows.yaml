@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 1: the device type of a session signed in from the Windows app, before its app version. The operating system's name, unchanged in every language."
+source: "Windows"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "Windows"
+  cs: "Windows"
+  de: "Windows"
+  el: "Windows"
+  en: "Windows"
+  es: "Windows"
+  es-419: "Windows"
+  es-MX: "Windows"
+  fr: "Windows"
+  he: "Windows"
+  hi: "Windows"
+  id: "Windows"
+  it: "Windows"
+  ja: "Windows"
+  ko: "Windows"
+  nl: "Windows"
+  pl: "Windows"
+  pt: "Windows"
+  pt-BR: "Windows"
+  pt-PT: "Windows"
+  ru: "Windows"
+  sv: "Windows"
+  sw: "Windows"
+  th: "Windows"
+  uk: "Windows"
+  vi: "Windows"
+  zh: "Windows"
+  zh-HK: "Windows"

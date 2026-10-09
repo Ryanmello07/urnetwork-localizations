@@ -1,0 +1,36 @@
+description: "Sessions screen (Account > Sessions), row line 1: the device type of a session signed in from the ur.io web app in a browser. Not tagged apple: Apple's catalog is keyed by the English source, and window_type_quality already carries \"Web\" there, so the apple screen reads that entry. Translated as window_type_quality is, so every platform shows the same words. The exception is Hebrew: window_type_quality's גלישה (\"browsing\") names the connect drawer's Web mode, so this key says ווב."
+source: "Web"
+platforms:
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "الويب"
+  cs: "Web"
+  de: "Web"
+  el: "Ιστός"
+  en: "Web"
+  es: "Web"
+  es-419: "Web"
+  es-MX: "Web"
+  fr: "Web"
+  he: "ווב"
+  hi: "वेब"
+  id: "Web"
+  it: "Web"
+  ja: "ウェブ"
+  ko: "웹"
+  nl: "Web"
+  pl: "WWW"
+  pt: "Web"
+  pt-BR: "Web"
+  pt-PT: "Web"
+  ru: "Веб"
+  sv: "Webb"
+  sw: "Wavuti"
+  th: "เว็บ"
+  uk: "Веб"
+  vi: "Web"
+  zh: "网页"
+  zh-HK: "網頁"

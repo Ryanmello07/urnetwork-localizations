@@ -1,0 +1,40 @@
+description: "Sessions screen (Account > Sessions): body of the confirmation before signing another session out, when its location is unknown. {device} is the row's device label (\"Android\"), inserted as it is."
+source: "%@ will be signed out."
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: device
+    type: string
+localizations:
+  ar: "سيتم تسجيل الخروج من {device}."
+  cs: "Relace {device} bude odhlášena."
+  de: "{device} wird abgemeldet."
+  el: "Η συνεδρία {device} θα αποσυνδεθεί."
+  en: "{device} will be signed out."
+  es: "Se cerrará la sesión de {device}."
+  es-419: "Se cerrará la sesión de {device}."
+  es-MX: "Se cerrará la sesión de {device}."
+  fr: "La session {device} sera déconnectée."
+  he: "ההפעלה ב-{device} תנותק."
+  hi: "{device} से साइन आउट हो जाएगा।"
+  id: "Anda akan keluar dari {device}."
+  it: "La sessione {device} verrà chiusa."
+  ja: "{device}からサインアウトします。"
+  ko: "{device}에서 로그아웃됩니다."
+  nl: "{device} wordt uitgelogd."
+  pl: "Sesja {device} zostanie wylogowana."
+  pt: "A sessão {device} será terminada."
+  pt-BR: "A sessão {device} será encerrada."
+  pt-PT: "A sessão {device} será terminada."
+  ru: "Сеанс {device} будет завершён."
+  sv: "{device} loggas ut."
+  sw: "Utatoka kwenye {device}."
+  th: "{device} จะออกจากระบบ"
+  uk: "Сеанс {device} буде завершено."
+  vi: "{device} sẽ bị đăng xuất."
+  zh: "{device} 将退出登录。"
+  zh-HK: "{device} 將會登出。"

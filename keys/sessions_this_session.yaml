@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): the tag on the row of the session this app is signed in with (always the first row)."
+source: "This session"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "هذه الجلسة"
+  cs: "Tato relace"
+  de: "Diese Sitzung"
+  el: "Αυτή η συνεδρία"
+  en: "This session"
+  es: "Esta sesión"
+  es-419: "Esta sesión"
+  es-MX: "Esta sesión"
+  fr: "Cette session"
+  he: "ההפעלה הזו"
+  hi: "यह सत्र"
+  id: "Sesi ini"
+  it: "Questa sessione"
+  ja: "このセッション"
+  ko: "현재 세션"
+  nl: "Deze sessie"
+  pl: "Ta sesja"
+  pt: "Esta sessão"
+  pt-BR: "Esta sessão"
+  pt-PT: "Esta sessão"
+  ru: "Этот сеанс"
+  sv: "Den här sessionen"
+  sw: "Kipindi hiki"
+  th: "เซสชันนี้"
+  uk: "Цей сеанс"
+  vi: "Phiên này"
+  zh: "当前会话"
+  zh-HK: "目前工作階段"

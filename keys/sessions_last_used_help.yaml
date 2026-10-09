@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): footer note under the list explaining the Last used time. \"Last used\" is the label of sessions_last_used; say it with that key's words."
+source: "Last used is the most recent sign-in activity the server saw. It can lag a few minutes, and the location is approximate."
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "«آخر استخدام» هو أحدث نشاط لتسجيل الدخول رصده الخادم. قد يتأخر بضع دقائق، والموقع تقريبي."
+  cs: "„Naposledy použito“ ukazuje nejnovější aktivitu přihlášení, kterou server zaznamenal. Může se o několik minut opožďovat a poloha je přibližná."
+  de: "„Zuletzt verwendet“ ist die letzte Anmeldeaktivität, die der Server gesehen hat. Sie kann sich um einige Minuten verzögern, und der Standort ist nur ungefähr."
+  el: "Η «Τελευταία χρήση» είναι η πιο πρόσφατη δραστηριότητα σύνδεσης που κατέγραψε ο διακομιστής. Μπορεί να καθυστερεί λίγα λεπτά και η τοποθεσία είναι κατά προσέγγιση."
+  en: "Last used is the most recent sign-in activity the server saw. It can lag a few minutes, and the location is approximate."
+  es: "«Último uso» es la actividad de inicio de sesión más reciente que registró el servidor. Puede tener unos minutos de retraso, y la ubicación es aproximada."
+  es-419: "«Último uso» es la actividad de inicio de sesión más reciente que registró el servidor. Puede tener unos minutos de retraso, y la ubicación es aproximada."
+  es-MX: "«Último uso» es la actividad de inicio de sesión más reciente que registró el servidor. Puede tener unos minutos de retraso, y la ubicación es aproximada."
+  fr: "« Dernière utilisation » correspond à la dernière activité de connexion vue par le serveur. Elle peut avoir quelques minutes de retard, et la position est approximative."
+  he: "\"שימוש אחרון\" הוא פעילות ההתחברות האחרונה שהשרת ראה. הוא עשוי להתעדכן באיחור של כמה דקות, והמיקום משוער."
+  hi: "पिछला उपयोग सर्वर को दिखी सबसे हाल की साइन-इन गतिविधि है। इसमें कुछ मिनट की देरी हो सकती है, और स्थान अनुमानित है।"
+  id: "Terakhir digunakan adalah aktivitas masuk terbaru yang terlihat oleh server. Informasi ini bisa terlambat beberapa menit, dan lokasinya hanya perkiraan."
+  it: "«Ultimo utilizzo» è l’attività di accesso più recente rilevata dal server. Può essere in ritardo di qualche minuto e la posizione è approssimativa."
+  ja: "「最終使用」は、サーバーが確認した最新のサインインアクティビティです。数分遅れることがあり、場所はおおよその位置です。"
+  ko: "마지막 사용은 서버가 확인한 가장 최근의 로그인 활동입니다. 몇 분 늦게 반영될 수 있으며, 위치는 대략적입니다."
+  nl: "“Laatst gebruikt” is de meest recente inlogactiviteit die de server heeft gezien. Dit kan een paar minuten achterlopen en de locatie is bij benadering."
+  pl: "„Ostatnie użycie” to najnowsza aktywność logowania odnotowana przez serwer. Może być opóźniona o kilka minut, a lokalizacja jest przybliżona."
+  pt: "«Última utilização» é a atividade de início de sessão mais recente que o servidor registou. Pode ter alguns minutos de atraso, e a localização é aproximada."
+  pt-BR: "\"Último uso\" é a atividade de login mais recente que o servidor registrou. Pode ter alguns minutos de atraso, e a localização é aproximada."
+  pt-PT: "«Última utilização» é a atividade de início de sessão mais recente que o servidor registou. Pode ter alguns minutos de atraso, e a localização é aproximada."
+  ru: "«Последнее использование» — это самая недавняя активность входа, которую зафиксировал сервер. Данные могут запаздывать на несколько минут, а местоположение приблизительное."
+  sv: "”Senast använd” är den senaste inloggningsaktivitet som servern har sett. Den kan släpa efter några minuter, och platsen är ungefärlig."
+  sw: "Ilitumika mwisho inaonyesha shughuli ya hivi karibuni zaidi ya kuingia ambayo seva iliona. Inaweza kuchelewa kwa dakika chache, na eneo ni la kukadiria."
+  th: "ใช้ล่าสุดคือกิจกรรมการลงชื่อเข้าใช้ครั้งล่าสุดที่เซิร์ฟเวอร์เห็น ข้อมูลอาจช้าไปไม่กี่นาที และตำแหน่งเป็นค่าโดยประมาณ"
+  uk: "«Останнє використання» — це найновіша активність входу, яку зафіксував сервер. Дані можуть запізнюватися на кілька хвилин, а розташування приблизне."
+  vi: "Sử dụng lần cuối là hoạt động đăng nhập gần đây nhất mà máy chủ ghi nhận. Thông tin này có thể chậm vài phút và vị trí chỉ là ước tính."
+  zh: "“上次使用”是服务器看到的最近一次登录活动。它可能会延迟几分钟，位置也只是大致位置。"
+  zh-HK: "「上次使用」是伺服器看到的最近一次登入活動。資料可能會延遲幾分鐘，位置亦只是大概位置。"

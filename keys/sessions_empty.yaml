@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): shown in place of the list when it loaded with no sessions."
+source: "No active sessions"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "لا توجد جلسات نشطة"
+  cs: "Žádné aktivní relace"
+  de: "Keine aktiven Sitzungen"
+  el: "Δεν υπάρχουν ενεργές συνεδρίες"
+  en: "No active sessions"
+  es: "No hay sesiones activas"
+  es-419: "No hay sesiones activas"
+  es-MX: "No hay sesiones activas"
+  fr: "Aucune session active"
+  he: "אין הפעלות פעילות"
+  hi: "कोई सक्रिय सत्र नहीं"
+  id: "Tidak ada sesi aktif"
+  it: "Nessuna sessione attiva"
+  ja: "アクティブなセッションはありません"
+  ko: "활성 세션 없음"
+  nl: "Geen actieve sessies"
+  pl: "Brak aktywnych sesji"
+  pt: "Nenhuma sessão ativa"
+  pt-BR: "Nenhuma sessão ativa"
+  pt-PT: "Nenhuma sessão ativa"
+  ru: "Нет активных сеансов"
+  sv: "Inga aktiva sessioner"
+  sw: "Hakuna vipindi vinavyotumika"
+  th: "ไม่มีเซสชันที่ใช้งานอยู่"
+  uk: "Немає активних сеансів"
+  vi: "Không có phiên nào đang hoạt động"
+  zh: "没有活跃的会话"
+  zh-HK: "沒有使用中的工作階段"

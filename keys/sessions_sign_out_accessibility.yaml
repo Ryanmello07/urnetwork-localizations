@@ -1,0 +1,40 @@
+description: "Sessions screen (Account > Sessions): the screen-reader action on a row that signs its session out (the row's visible control is the sign_out key). {device} is the row's device label, e.g. \"Android\" or \"Unknown device\"."
+source: "Sign out %@"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: device
+    type: string
+localizations:
+  ar: "تسجيل الخروج من {device}"
+  cs: "Odhlásit {device}"
+  de: "{device} abmelden"
+  el: "Αποσύνδεση {device}"
+  en: "Sign out {device}"
+  es: "Cerrar sesión en {device}"
+  es-419: "Cerrar sesión en {device}"
+  es-MX: "Cerrar sesión en {device}"
+  fr: "Déconnecter {device}"
+  he: "התנתקות מ-{device}"
+  hi: "{device} से साइन आउट करें"
+  id: "Keluar dari {device}"
+  it: "Esci da {device}"
+  ja: "{device}からサインアウト"
+  ko: "{device}에서 로그아웃"
+  nl: "{device} uitloggen"
+  pl: "Wyloguj {device}"
+  pt: "Terminar sessão em {device}"
+  pt-BR: "Sair da sessão em {device}"
+  pt-PT: "Terminar sessão em {device}"
+  ru: "Выйти из сеанса: {device}"
+  sv: "Logga ut {device}"
+  sw: "Toka kwenye {device}"
+  th: "ออกจากระบบ {device}"
+  uk: "Вийти з сеансу: {device}"
+  vi: "Đăng xuất {device}"
+  zh: "在 {device} 上退出登录"
+  zh-HK: "在 {device} 上登出"

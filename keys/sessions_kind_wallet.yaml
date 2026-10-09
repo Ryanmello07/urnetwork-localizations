@@ -1,0 +1,36 @@
+description: "Sessions screen (Account > Sessions), row line 3, after the sign-in date: the sign-in method of a session created by signing in with a wallet's signature. Not tagged apple: Apple's catalog is keyed by the English source, and wallet already carries \"Wallet\" there, so the apple screen reads that entry. Translated as wallet is, so every platform shows the same words."
+source: "Wallet"
+platforms:
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "المحفظة"
+  cs: "Peněženka"
+  de: "Wallet"
+  el: "Πορτοφόλι"
+  en: "Wallet"
+  es: "Billetera"
+  es-419: "Billetera"
+  es-MX: "Cartera"
+  fr: "Portefeuille"
+  he: "ארנק"
+  hi: "वॉलेट"
+  id: "Dompet"
+  it: "Portafoglio"
+  ja: "ウォレット"
+  ko: "지갑"
+  nl: "Wallet"
+  pl: "Portfel"
+  pt: "Carteira"
+  pt-BR: "Carteira"
+  pt-PT: "Carteira"
+  ru: "Кошелек"
+  sv: "Plånbok"
+  sw: "Pochi"
+  th: "กระเป๋า"
+  uk: "Гаманець"
+  vi: "Ví"
+  zh: "钱包"
+  zh-HK: "錢包"

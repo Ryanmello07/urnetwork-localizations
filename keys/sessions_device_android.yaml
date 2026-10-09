@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 1: the device type of a session signed in from the Android app, before its app version (\"Android · 2026.10.8-1067\"). The operating system's name, unchanged in every language."
+source: "Android"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "Android"
+  cs: "Android"
+  de: "Android"
+  el: "Android"
+  en: "Android"
+  es: "Android"
+  es-419: "Android"
+  es-MX: "Android"
+  fr: "Android"
+  he: "Android"
+  hi: "Android"
+  id: "Android"
+  it: "Android"
+  ja: "Android"
+  ko: "Android"
+  nl: "Android"
+  pl: "Android"
+  pt: "Android"
+  pt-BR: "Android"
+  pt-PT: "Android"
+  ru: "Android"
+  sv: "Android"
+  sw: "Android"
+  th: "Android"
+  uk: "Android"
+  vi: "Android"
+  zh: "Android"
+  zh-HK: "Android"

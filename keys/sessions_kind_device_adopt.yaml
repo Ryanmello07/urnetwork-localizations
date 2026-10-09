@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 3, after the sign-in date: the sign-in method of a session created when a signed-in device adopted (paired with) a discoverable device."
+source: "Device pairing"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "إقران الجهاز"
+  cs: "Spárování zařízení"
+  de: "Gerätekopplung"
+  el: "Σύζευξη συσκευής"
+  en: "Device pairing"
+  es: "Vinculación de dispositivo"
+  es-419: "Vinculación de dispositivo"
+  es-MX: "Vinculación de dispositivo"
+  fr: "Association d’appareil"
+  he: "צימוד מכשיר"
+  hi: "डिवाइस पेयरिंग"
+  id: "Penautan perangkat"
+  it: "Abbinamento del dispositivo"
+  ja: "デバイスのペアリング"
+  ko: "기기 페어링"
+  nl: "Apparaat koppelen"
+  pl: "Parowanie urządzenia"
+  pt: "Emparelhamento do dispositivo"
+  pt-BR: "Pareamento do dispositivo"
+  pt-PT: "Emparelhamento do dispositivo"
+  ru: "Привязка устройства"
+  sv: "Enhetsparkoppling"
+  sw: "Kuoanisha kifaa"
+  th: "การจับคู่อุปกรณ์"
+  uk: "Прив’язка пристрою"
+  vi: "Ghép nối thiết bị"
+  zh: "设备配对"
+  zh-HK: "裝置配對"

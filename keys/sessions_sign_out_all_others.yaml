@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): the button at the bottom of the list that signs out every session except this one. Shown only when the list has this app's session and at least one other."
+source: "Sign out all other sessions"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تسجيل الخروج من كل الجلسات الأخرى"
+  cs: "Odhlásit všechny ostatní relace"
+  de: "Alle anderen Sitzungen abmelden"
+  el: "Αποσύνδεση όλων των άλλων συνεδριών"
+  en: "Sign out all other sessions"
+  es: "Cerrar todas las demás sesiones"
+  es-419: "Cerrar todas las demás sesiones"
+  es-MX: "Cerrar todas las demás sesiones"
+  fr: "Déconnecter toutes les autres sessions"
+  he: "התנתקות מכל ההפעלות האחרות"
+  hi: "अन्य सभी सत्रों से साइन आउट करें"
+  id: "Keluar dari semua sesi lain"
+  it: "Esci da tutte le altre sessioni"
+  ja: "他のすべてのセッションからサインアウト"
+  ko: "다른 모든 세션에서 로그아웃"
+  nl: "Alle andere sessies uitloggen"
+  pl: "Wyloguj wszystkie inne sesje"
+  pt: "Terminar todas as outras sessões"
+  pt-BR: "Sair de todas as outras sessões"
+  pt-PT: "Terminar todas as outras sessões"
+  ru: "Выйти из всех других сеансов"
+  sv: "Logga ut alla andra sessioner"
+  sw: "Toka kwenye vipindi vingine vyote"
+  th: "ออกจากระบบเซสชันอื่นทั้งหมด"
+  uk: "Вийти з усіх інших сеансів"
+  vi: "Đăng xuất tất cả các phiên khác"
+  zh: "退出所有其他会话"
+  zh-HK: "登出所有其他工作階段"

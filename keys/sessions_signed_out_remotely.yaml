@@ -1,0 +1,37 @@
+description: "Shown when this app was signed out because another device signed its session out on the Sessions screen (Account > Sessions). Only when the app knows that was the cause; otherwise the generic sign-in-required wording applies."
+source: "This session was signed out from another device."
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تم تسجيل الخروج من هذه الجلسة من جهاز آخر."
+  cs: "Tato relace byla odhlášena z jiného zařízení."
+  de: "Diese Sitzung wurde von einem anderen Gerät abgemeldet."
+  el: "Αυτή η συνεδρία αποσυνδέθηκε από άλλη συσκευή."
+  en: "This session was signed out from another device."
+  es: "Esta sesión se cerró desde otro dispositivo."
+  es-419: "Esta sesión se cerró desde otro dispositivo."
+  es-MX: "Esta sesión se cerró desde otro dispositivo."
+  fr: "Cette session a été déconnectée depuis un autre appareil."
+  he: "ההפעלה הזו נותקה ממכשיר אחר."
+  hi: "इस सत्र को किसी दूसरे डिवाइस से साइन आउट किया गया।"
+  id: "Sesi ini dikeluarkan dari perangkat lain."
+  it: "Questa sessione è stata chiusa da un altro dispositivo."
+  ja: "このセッションは別のデバイスからサインアウトされました。"
+  ko: "다른 기기에서 이 세션을 로그아웃했습니다."
+  nl: "Deze sessie is uitgelogd vanaf een ander apparaat."
+  pl: "Ta sesja została wylogowana z innego urządzenia."
+  pt: "Esta sessão foi terminada a partir de outro dispositivo."
+  pt-BR: "Esta sessão foi encerrada em outro dispositivo."
+  pt-PT: "Esta sessão foi terminada a partir de outro dispositivo."
+  ru: "Этот сеанс был завершён с другого устройства."
+  sv: "Den här sessionen loggades ut från en annan enhet."
+  sw: "Kipindi hiki kilitolewa kutoka kwenye kifaa kingine."
+  th: "เซสชันนี้ถูกออกจากระบบจากอุปกรณ์อื่น"
+  uk: "Цей сеанс було завершено з іншого пристрою."
+  vi: "Phiên này đã bị đăng xuất từ một thiết bị khác."
+  zh: "此会话已在另一台设备上退出登录。"
+  zh-HK: "此工作階段已在另一部裝置上登出。"

@@ -1,0 +1,40 @@
+description: "Sessions screen (Account > Sessions), row line 3: when the session was created, i.e. signed in. {date} is a localized date, e.g. \"Oct 3\". The sign-in method and the short ID follow: \"Signed in Oct 3 · Google · ID 01a1f3c2\"."
+source: "Signed in %@"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: date
+    type: string
+localizations:
+  ar: "تسجيل الدخول: {date}"
+  cs: "Přihlášeno {date}"
+  de: "Angemeldet am {date}"
+  el: "Σύνδεση: {date}"
+  en: "Signed in {date}"
+  es: "Sesión iniciada el {date}"
+  es-419: "Sesión iniciada el {date}"
+  es-MX: "Sesión iniciada el {date}"
+  fr: "Connexion le {date}"
+  he: "התחברות: {date}"
+  hi: "साइन इन: {date}"
+  id: "Masuk pada {date}"
+  it: "Accesso effettuato il {date}"
+  ja: "{date}にサインイン"
+  ko: "{date} 로그인"
+  nl: "Ingelogd op {date}"
+  pl: "Zalogowano {date}"
+  pt: "Sessão iniciada a {date}"
+  pt-BR: "Login em {date}"
+  pt-PT: "Sessão iniciada a {date}"
+  ru: "Вход: {date}"
+  sv: "Inloggad {date}"
+  sw: "Kuingia: {date}"
+  th: "ลงชื่อเข้าใช้ {date}"
+  uk: "Вхід: {date}"
+  vi: "Đăng nhập {date}"
+  zh: "登录于 {date}"
+  zh-HK: "登入於 {date}"

@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): body of the confirmation before signing out the session this app is using. Confirming signs this app out."
+source: "This is the session you're using. This app will be signed out."
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "هذه هي الجلسة التي تستخدمها. سيتم تسجيل الخروج من هذا التطبيق."
+  cs: "Tuto relaci právě používáte. Tato aplikace bude odhlášena."
+  de: "Das ist die Sitzung, die du gerade verwendest. Diese App wird abgemeldet."
+  el: "Αυτή είναι η συνεδρία που χρησιμοποιείτε. Θα αποσυνδεθείτε από αυτή την εφαρμογή."
+  en: "This is the session you're using. This app will be signed out."
+  es: "Esta es la sesión que estás usando. Se cerrará la sesión en esta app."
+  es-419: "Esta es la sesión que estás usando. Se cerrará la sesión en esta app."
+  es-MX: "Esta es la sesión que estás usando. Se cerrará la sesión en esta app."
+  fr: "C’est la session que vous utilisez. Cette application sera déconnectée."
+  he: "זו ההפעלה שבה אתם משתמשים עכשיו. האפליקציה הזו תנותק."
+  hi: "आप अभी इसी सत्र का उपयोग कर रहे हैं। इस ऐप से साइन आउट हो जाएगा।"
+  id: "Ini adalah sesi yang sedang Anda gunakan. Anda akan keluar dari aplikasi ini."
+  it: "Questa è la sessione che stai usando. Uscirai da questa app."
+  ja: "現在使用中のセッションです。このアプリからサインアウトします。"
+  ko: "현재 사용 중인 세션입니다. 이 앱에서 로그아웃됩니다."
+  nl: "Dit is de sessie die je nu gebruikt. Deze app wordt uitgelogd."
+  pl: "To jest sesja, której teraz używasz. Ta aplikacja zostanie wylogowana."
+  pt: "Esta é a sessão que está a utilizar. A sessão desta app será terminada."
+  pt-BR: "Esta é a sessão que você está usando. Você vai sair deste app."
+  pt-PT: "Esta é a sessão que está a utilizar. A sessão desta app será terminada."
+  ru: "Это сеанс, который вы сейчас используете. Будет выполнен выход из этого приложения."
+  sv: "Det här är sessionen du använder. Den här appen loggas ut."
+  sw: "Hiki ndicho kipindi unachotumia sasa. Utatoka kwenye programu hii."
+  th: "นี่คือเซสชันที่คุณกำลังใช้อยู่ แอปนี้จะออกจากระบบ"
+  uk: "Це сеанс, який ви зараз використовуєте. Буде виконано вихід із цього застосунку."
+  vi: "Đây là phiên bạn đang dùng. Ứng dụng này sẽ bị đăng xuất."
+  zh: "这是您当前正在使用的会话。此应用将退出登录。"
+  zh-HK: "這是你目前正在使用的工作階段。此應用程式將會登出。"

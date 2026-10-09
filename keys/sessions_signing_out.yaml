@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): shown on a row, or on the Sign out all other sessions button, while its sign-out is pending. The control stays disabled meanwhile."
+source: "Signing out…"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "جارٍ تسجيل الخروج…"
+  cs: "Odhlašování…"
+  de: "Wird abgemeldet…"
+  el: "Αποσύνδεση…"
+  en: "Signing out…"
+  es: "Cerrando sesión…"
+  es-419: "Cerrando sesión…"
+  es-MX: "Cerrando sesión…"
+  fr: "Déconnexion…"
+  he: "מתבצעת התנתקות…"
+  hi: "साइन आउट हो रहा है…"
+  id: "Sedang keluar…"
+  it: "Uscita in corso…"
+  ja: "サインアウトしています…"
+  ko: "로그아웃하는 중…"
+  nl: "Uitloggen…"
+  pl: "Wylogowywanie…"
+  pt: "A terminar sessão…"
+  pt-BR: "Saindo…"
+  pt-PT: "A terminar sessão…"
+  ru: "Выход…"
+  sv: "Loggar ut…"
+  sw: "Inatoka…"
+  th: "กำลังออกจากระบบ…"
+  uk: "Вихід…"
+  vi: "Đang đăng xuất…"
+  zh: "正在退出登录…"
+  zh-HK: "正在登出…"

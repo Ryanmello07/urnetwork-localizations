@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 3, after the sign-in date: the sign-in method of a session of a client that authenticated with an API key."
+source: "API key"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "مفتاح API"
+  cs: "Klíč API"
+  de: "API-Schlüssel"
+  el: "Κλειδί API"
+  en: "API key"
+  es: "Clave de API"
+  es-419: "Clave de API"
+  es-MX: "Clave de API"
+  fr: "Clé API"
+  he: "מפתח API"
+  hi: "API कुंजी"
+  id: "Kunci API"
+  it: "Chiave API"
+  ja: "APIキー"
+  ko: "API 키"
+  nl: "API-sleutel"
+  pl: "Klucz API"
+  pt: "Chave de API"
+  pt-BR: "Chave de API"
+  pt-PT: "Chave de API"
+  ru: "API-ключ"
+  sv: "API-nyckel"
+  sw: "Ufunguo wa API"
+  th: "คีย์ API"
+  uk: "Ключ API"
+  vi: "Khóa API"
+  zh: "API 密钥"
+  zh-HK: "API 金鑰"
