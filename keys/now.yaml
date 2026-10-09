@@ -3,6 +3,7 @@ source: "now"
 platforms:
   - windows
   - linux
+  - site
 localizations:
   ar: "الآن"
   cs: "nyní"

@@ -5,6 +5,7 @@ platforms:
   - linux
   - windows
   - android
+  - site
 localizations:
   ar: "تسجيل الخروج"
   cs: "Odhlásit se"
