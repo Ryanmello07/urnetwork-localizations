@@ -1,0 +1,36 @@
+description: "Sessions screen (Account > Sessions), row line 3, after the sign-in date: the sign-in method of a session created with Sign in with Apple. Not tagged apple: Apple's catalog is keyed by the English source, and apple already carries \"Apple\" there, so the apple screen reads that entry. Translated as apple is, so every platform shows the same words."
+source: "Apple"
+platforms:
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "Apple"
+  cs: "Apple"
+  de: "Apple"
+  el: "Apple"
+  en: "Apple"
+  es: "Apple"
+  es-419: "Apple"
+  es-MX: "Apple"
+  fr: "Apple"
+  he: "Apple"
+  hi: "Apple"
+  id: "Apple"
+  it: "Apple"
+  ja: "Apple"
+  ko: "Apple"
+  nl: "Apple"
+  pl: "Apple"
+  pt: "Apple"
+  pt-BR: "Apple"
+  pt-PT: "Apple"
+  ru: "Apple"
+  sv: "Apple"
+  sw: "Apple"
+  th: "Apple"
+  uk: "Apple"
+  vi: "Apple"
+  zh: "Apple"
+  zh-HK: "Apple"

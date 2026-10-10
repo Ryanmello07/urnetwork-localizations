@@ -3,6 +3,8 @@ source: "Refresh"
 platforms:
   - site
   - apple
+  - windows
+  - linux
 localizations:
   ar: "تحديث"
   cs: "Obnovit"

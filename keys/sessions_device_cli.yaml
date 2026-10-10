@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 1: the device type of a session signed in from the command-line tools."
+source: "Command line"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "سطر الأوامر"
+  cs: "Příkazový řádek"
+  de: "Befehlszeile"
+  el: "Γραμμή εντολών"
+  en: "Command line"
+  es: "Línea de comandos"
+  es-419: "Línea de comandos"
+  es-MX: "Línea de comandos"
+  fr: "Ligne de commande"
+  he: "שורת הפקודה"
+  hi: "कमांड लाइन"
+  id: "Baris perintah"
+  it: "Riga di comando"
+  ja: "コマンドライン"
+  ko: "명령줄"
+  nl: "Opdrachtregel"
+  pl: "Wiersz poleceń"
+  pt: "Linha de comandos"
+  pt-BR: "Linha de comando"
+  pt-PT: "Linha de comandos"
+  ru: "Командная строка"
+  sv: "Kommandorad"
+  sw: "Mstari wa amri"
+  th: "บรรทัดคำสั่ง"
+  uk: "Командний рядок"
+  vi: "Dòng lệnh"
+  zh: "命令行"
+  zh-HK: "命令列"

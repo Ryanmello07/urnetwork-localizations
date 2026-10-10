@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 1: the device type of a session signed in from the macOS app, before its app version. The operating system's name, unchanged in every language."
+source: "macOS"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "macOS"
+  cs: "macOS"
+  de: "macOS"
+  el: "macOS"
+  en: "macOS"
+  es: "macOS"
+  es-419: "macOS"
+  es-MX: "macOS"
+  fr: "macOS"
+  he: "macOS"
+  hi: "macOS"
+  id: "macOS"
+  it: "macOS"
+  ja: "macOS"
+  ko: "macOS"
+  nl: "macOS"
+  pl: "macOS"
+  pt: "macOS"
+  pt-BR: "macOS"
+  pt-PT: "macOS"
+  ru: "macOS"
+  sv: "macOS"
+  sw: "macOS"
+  th: "macOS"
+  uk: "macOS"
+  vi: "macOS"
+  zh: "macOS"
+  zh-HK: "macOS"

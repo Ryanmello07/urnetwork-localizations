@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): the row's copy action (long-press or context menu item, or a copy button) that puts the full session ID on the clipboard."
+source: "Copy session ID"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "نسخ معرّف الجلسة"
+  cs: "Kopírovat ID relace"
+  de: "Sitzungs-ID kopieren"
+  el: "Αντιγραφή ID συνεδρίας"
+  en: "Copy session ID"
+  es: "Copiar ID de sesión"
+  es-419: "Copiar ID de sesión"
+  es-MX: "Copiar ID de sesión"
+  fr: "Copier l’ID de session"
+  he: "העתקת מזהה ההפעלה"
+  hi: "सत्र ID कॉपी करें"
+  id: "Salin ID sesi"
+  it: "Copia ID sessione"
+  ja: "セッションIDをコピー"
+  ko: "세션 ID 복사"
+  nl: "Sessie-ID kopiëren"
+  pl: "Kopiuj ID sesji"
+  pt: "Copiar ID da sessão"
+  pt-BR: "Copiar ID da sessão"
+  pt-PT: "Copiar ID da sessão"
+  ru: "Копировать ID сеанса"
+  sv: "Kopiera sessions-ID"
+  sw: "Nakili kitambulisho cha kipindi"
+  th: "คัดลอก ID เซสชัน"
+  uk: "Копіювати ID сеансу"
+  vi: "Sao chép ID phiên"
+  zh: "复制会话 ID"
+  zh-HK: "複製工作階段 ID"

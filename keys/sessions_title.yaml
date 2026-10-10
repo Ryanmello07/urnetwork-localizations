@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): the screen's title, and the label of the Account row after Profile that opens it. The screen lists the account's signed-in sessions, one per signed-in app or device, and signs them out."
+source: "Sessions"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "الجلسات"
+  cs: "Relace"
+  de: "Sitzungen"
+  el: "Συνεδρίες"
+  en: "Sessions"
+  es: "Sesiones"
+  es-419: "Sesiones"
+  es-MX: "Sesiones"
+  fr: "Sessions"
+  he: "הפעלות"
+  hi: "सत्र"
+  id: "Sesi"
+  it: "Sessioni"
+  ja: "セッション"
+  ko: "세션"
+  nl: "Sessies"
+  pl: "Sesje"
+  pt: "Sessões"
+  pt-BR: "Sessões"
+  pt-PT: "Sessões"
+  ru: "Сеансы"
+  sv: "Sessioner"
+  sw: "Vipindi"
+  th: "เซสชัน"
+  uk: "Сеанси"
+  vi: "Phiên đăng nhập"
+  zh: "登录会话"
+  zh-HK: "登入工作階段"

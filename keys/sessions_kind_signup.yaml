@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 3, after the sign-in date: the sign-in method of a session created when the account itself was created."
+source: "New account"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "حساب جديد"
+  cs: "Nový účet"
+  de: "Neues Konto"
+  el: "Νέος λογαριασμός"
+  en: "New account"
+  es: "Cuenta nueva"
+  es-419: "Cuenta nueva"
+  es-MX: "Cuenta nueva"
+  fr: "Nouveau compte"
+  he: "חשבון חדש"
+  hi: "नया खाता"
+  id: "Akun baru"
+  it: "Nuovo account"
+  ja: "新規アカウント"
+  ko: "새 계정"
+  nl: "Nieuw account"
+  pl: "Nowe konto"
+  pt: "Nova conta"
+  pt-BR: "Nova conta"
+  pt-PT: "Nova conta"
+  ru: "Новый аккаунт"
+  sv: "Nytt konto"
+  sw: "Akaunti mpya"
+  th: "บัญชีใหม่"
+  uk: "Новий обліковий запис"
+  vi: "Tài khoản mới"
+  zh: "新账户"
+  zh-HK: "新帳戶"

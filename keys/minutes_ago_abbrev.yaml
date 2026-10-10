@@ -3,6 +3,7 @@ source: "{count}m ago"
 platforms:
   - windows
   - linux
+  - site
 placeholders:
   - name: count
     type: int

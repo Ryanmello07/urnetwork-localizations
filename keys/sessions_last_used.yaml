@@ -1,0 +1,40 @@
+description: "Sessions screen (Account > Sessions), row line 2, after the location: when the server last saw the session used. {time} is a relative time up to 7 days (the now, seconds_ago_abbrev ... days_ago_abbrev forms, e.g. \"5m ago\" or \"now\"), then a date (\"Oct 3\"), so the wording must read with either."
+source: "Last used %@"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: time
+    type: string
+localizations:
+  ar: "آخر استخدام: {time}"
+  cs: "Naposledy použito: {time}"
+  de: "Zuletzt verwendet: {time}"
+  el: "Τελευταία χρήση: {time}"
+  en: "Last used {time}"
+  es: "Último uso: {time}"
+  es-419: "Último uso: {time}"
+  es-MX: "Último uso: {time}"
+  fr: "Dernière utilisation : {time}"
+  he: "שימוש אחרון: {time}"
+  hi: "पिछला उपयोग: {time}"
+  id: "Terakhir digunakan {time}"
+  it: "Ultimo utilizzo: {time}"
+  ja: "最終使用: {time}"
+  ko: "마지막 사용: {time}"
+  nl: "Laatst gebruikt: {time}"
+  pl: "Ostatnie użycie: {time}"
+  pt: "Última utilização: {time}"
+  pt-BR: "Último uso: {time}"
+  pt-PT: "Última utilização: {time}"
+  ru: "Последнее использование: {time}"
+  sv: "Senast använd {time}"
+  sw: "Ilitumika mwisho {time}"
+  th: "ใช้ล่าสุด {time}"
+  uk: "Останнє використання: {time}"
+  vi: "Sử dụng lần cuối {time}"
+  zh: "上次使用：{time}"
+  zh-HK: "上次使用：{time}"

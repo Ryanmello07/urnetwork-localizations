@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 1: the device type of a session signed in from the Linux app, before its app version. The operating system's name, unchanged in every language."
+source: "Linux"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "Linux"
+  cs: "Linux"
+  de: "Linux"
+  el: "Linux"
+  en: "Linux"
+  es: "Linux"
+  es-419: "Linux"
+  es-MX: "Linux"
+  fr: "Linux"
+  he: "Linux"
+  hi: "Linux"
+  id: "Linux"
+  it: "Linux"
+  ja: "Linux"
+  ko: "Linux"
+  nl: "Linux"
+  pl: "Linux"
+  pt: "Linux"
+  pt-BR: "Linux"
+  pt-PT: "Linux"
+  ru: "Linux"
+  sv: "Linux"
+  sw: "Linux"
+  th: "Linux"
+  uk: "Linux"
+  vi: "Linux"
+  zh: "Linux"
+  zh-HK: "Linux"

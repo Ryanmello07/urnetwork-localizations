@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 3, after the sign-in date: the sign-in method of a session created by signing in with a verification code sent by email or SMS. Worded as verify_input_label, except where that reads the same as auth_code (cs, he, ja, ko, th, zh): the list can show both methods, so they must differ in every language."
+source: "Verification code"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "رمز التحقق"
+  cs: "Potvrzovací kód"
+  de: "Bestätigungscode"
+  el: "Κωδικός επαλήθευσης"
+  en: "Verification code"
+  es: "Código de verificación"
+  es-419: "Código de verificación"
+  es-MX: "Código de verificación"
+  fr: "Code de vérification"
+  he: "קוד אישור"
+  hi: "सत्यापन कोड"
+  id: "Kode verifikasi"
+  it: "Codice di verifica"
+  ja: "確認コード"
+  ko: "확인 코드"
+  nl: "Verificatiecode"
+  pl: "Kod weryfikacyjny"
+  pt: "Código de verificação"
+  pt-BR: "Código de verificação"
+  pt-PT: "Código de verificação"
+  ru: "Код подтверждения"
+  sv: "Verifieringskod"
+  sw: "Nambari ya uthibitisho"
+  th: "รหัส OTP"
+  uk: "Код підтвердження"
+  vi: "Mã xác minh"
+  zh: "邮箱/短信验证码"
+  zh-HK: "驗證碼"

@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): shown when the list failed to load the first time, above the try_again button."
+source: "Couldn't load sessions."
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تعذّر تحميل الجلسات."
+  cs: "Relace se nepodařilo načíst."
+  de: "Sitzungen konnten nicht geladen werden."
+  el: "Δεν ήταν δυνατή η φόρτωση των συνεδριών."
+  en: "Couldn't load sessions."
+  es: "No se pudieron cargar las sesiones."
+  es-419: "No se pudieron cargar las sesiones."
+  es-MX: "No se pudieron cargar las sesiones."
+  fr: "Impossible de charger les sessions."
+  he: "טעינת ההפעלות נכשלה."
+  hi: "सत्र लोड नहीं हो सके।"
+  id: "Tidak dapat memuat sesi."
+  it: "Impossibile caricare le sessioni."
+  ja: "セッションを読み込めませんでした。"
+  ko: "세션을 불러올 수 없습니다."
+  nl: "Kan sessies niet laden."
+  pl: "Nie udało się wczytać sesji."
+  pt: "Não foi possível carregar as sessões."
+  pt-BR: "Não foi possível carregar as sessões."
+  pt-PT: "Não foi possível carregar as sessões."
+  ru: "Не удалось загрузить сеансы."
+  sv: "Det gick inte att läsa in sessionerna."
+  sw: "Imeshindwa kupakia vipindi."
+  th: "โหลดเซสชันไม่ได้"
+  uk: "Не вдалося завантажити сеанси."
+  vi: "Không thể tải các phiên."
+  zh: "无法加载会话。"
+  zh-HK: "無法載入工作階段。"

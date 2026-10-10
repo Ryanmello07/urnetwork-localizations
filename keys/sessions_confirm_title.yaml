@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): title of the confirmation before signing one session out, this app's own included. Cancel is the default."
+source: "Sign out this session?"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تسجيل الخروج من هذه الجلسة؟"
+  cs: "Odhlásit tuto relaci?"
+  de: "Diese Sitzung abmelden?"
+  el: "Αποσύνδεση αυτής της συνεδρίας;"
+  en: "Sign out this session?"
+  es: "¿Cerrar esta sesión?"
+  es-419: "¿Cerrar esta sesión?"
+  es-MX: "¿Cerrar esta sesión?"
+  fr: "Déconnecter cette session ?"
+  he: "להתנתק מההפעלה הזו?"
+  hi: "इस सत्र से साइन आउट करें?"
+  id: "Keluar dari sesi ini?"
+  it: "Uscire da questa sessione?"
+  ja: "このセッションからサインアウトしますか？"
+  ko: "이 세션에서 로그아웃할까요?"
+  nl: "Deze sessie uitloggen?"
+  pl: "Wylogować tę sesję?"
+  pt: "Terminar esta sessão?"
+  pt-BR: "Sair desta sessão?"
+  pt-PT: "Terminar esta sessão?"
+  ru: "Выйти из этого сеанса?"
+  sv: "Logga ut den här sessionen?"
+  sw: "Toka kwenye kipindi hiki?"
+  th: "ออกจากระบบเซสชันนี้หรือไม่"
+  uk: "Вийти з цього сеансу?"
+  vi: "Đăng xuất phiên này?"
+  zh: "要退出此会话吗？"
+  zh-HK: "要登出此工作階段嗎？"

@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 3, after the sign-in date: the sign-in method of a session created through single sign-on with another identity provider."
+source: "Single sign-on"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تسجيل الدخول الموحّد"
+  cs: "Jednotné přihlášení"
+  de: "Single Sign-On"
+  el: "Ενιαία σύνδεση"
+  en: "Single sign-on"
+  es: "Inicio de sesión único"
+  es-419: "Inicio de sesión único"
+  es-MX: "Inicio de sesión único"
+  fr: "Authentification unique"
+  he: "כניסה יחידה"
+  hi: "सिंगल साइन-ऑन"
+  id: "Single sign-on"
+  it: "Single sign-on"
+  ja: "シングルサインオン"
+  ko: "통합 로그인"
+  nl: "Eenmalige aanmelding"
+  pl: "Logowanie jednokrotne"
+  pt: "Início de sessão único"
+  pt-BR: "Login único"
+  pt-PT: "Início de sessão único"
+  ru: "Единый вход"
+  sv: "Enkel inloggning"
+  sw: "Kuingia mara moja"
+  th: "การลงชื่อเข้าใช้ครั้งเดียว"
+  uk: "Єдиний вхід"
+  vi: "Đăng nhập một lần"
+  zh: "单点登录"
+  zh-HK: "單一登入"

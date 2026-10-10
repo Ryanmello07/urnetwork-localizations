@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 1: the device type of a session signed in from the iOS app, before its app version. The operating system's name, unchanged in every language."
+source: "iOS"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "iOS"
+  cs: "iOS"
+  de: "iOS"
+  el: "iOS"
+  en: "iOS"
+  es: "iOS"
+  es-419: "iOS"
+  es-MX: "iOS"
+  fr: "iOS"
+  he: "iOS"
+  hi: "iOS"
+  id: "iOS"
+  it: "iOS"
+  ja: "iOS"
+  ko: "iOS"
+  nl: "iOS"
+  pl: "iOS"
+  pt: "iOS"
+  pt-BR: "iOS"
+  pt-PT: "iOS"
+  ru: "iOS"
+  sv: "iOS"
+  sw: "iOS"
+  th: "iOS"
+  uk: "iOS"
+  vi: "iOS"
+  zh: "iOS"
+  zh-HK: "iOS"

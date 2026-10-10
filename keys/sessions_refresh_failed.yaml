@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): non-blocking notice when a refresh failed. The screen keeps showing the list it had."
+source: "Couldn't refresh. Showing the last list."
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تعذّر التحديث. يتم عرض آخر قائمة."
+  cs: "Obnovení se nezdařilo. Zobrazuje se poslední seznam."
+  de: "Aktualisierung fehlgeschlagen. Die letzte Liste wird angezeigt."
+  el: "Δεν ήταν δυνατή η ανανέωση. Εμφανίζεται η τελευταία λίστα."
+  en: "Couldn't refresh. Showing the last list."
+  es: "No se pudo actualizar. Se muestra la última lista."
+  es-419: "No se pudo actualizar. Se muestra la última lista."
+  es-MX: "No se pudo actualizar. Se muestra la última lista."
+  fr: "Actualisation impossible. Affichage de la dernière liste."
+  he: "הרענון נכשל. מוצגת הרשימה האחרונה."
+  hi: "रीफ़्रेश नहीं हो सका। पिछली सूची दिखाई जा रही है।"
+  id: "Tidak dapat menyegarkan. Menampilkan daftar terakhir."
+  it: "Impossibile aggiornare. Viene mostrato l’ultimo elenco."
+  ja: "更新できませんでした。前回の一覧を表示しています。"
+  ko: "새로고침할 수 없습니다. 마지막 목록을 표시합니다."
+  nl: "Kan niet vernieuwen. De laatste lijst wordt getoond."
+  pl: "Nie udało się odświeżyć. Wyświetlana jest ostatnia lista."
+  pt: "Não foi possível atualizar. A mostrar a última lista."
+  pt-BR: "Não foi possível atualizar. Mostrando a última lista."
+  pt-PT: "Não foi possível atualizar. A mostrar a última lista."
+  ru: "Не удалось обновить. Показан последний список."
+  sv: "Det gick inte att uppdatera. Visar den senaste listan."
+  sw: "Imeshindwa kuonyesha upya. Inaonyesha orodha ya mwisho."
+  th: "รีเฟรชไม่ได้ กำลังแสดงรายการล่าสุด"
+  uk: "Не вдалося оновити. Показано останній список."
+  vi: "Không thể làm mới. Đang hiển thị danh sách gần nhất."
+  zh: "无法刷新。正在显示上次的列表。"
+  zh-HK: "無法重新整理。正在顯示上次的列表。"

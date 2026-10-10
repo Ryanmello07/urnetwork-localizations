@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 1: the device type of a session that a server signed in with."
+source: "Server"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "خادم"
+  cs: "Server"
+  de: "Server"
+  el: "Διακομιστής"
+  en: "Server"
+  es: "Servidor"
+  es-419: "Servidor"
+  es-MX: "Servidor"
+  fr: "Serveur"
+  he: "שרת"
+  hi: "सर्वर"
+  id: "Server"
+  it: "Server"
+  ja: "サーバー"
+  ko: "서버"
+  nl: "Server"
+  pl: "Serwer"
+  pt: "Servidor"
+  pt-BR: "Servidor"
+  pt-PT: "Servidor"
+  ru: "Сервер"
+  sv: "Server"
+  sw: "Seva"
+  th: "เซิร์ฟเวอร์"
+  uk: "Сервер"
+  vi: "Máy chủ"
+  zh: "服务器"
+  zh-HK: "伺服器"

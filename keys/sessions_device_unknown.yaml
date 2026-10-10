@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 1: the device type of a session that reported no device type, or one the app does not know."
+source: "Unknown device"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "جهاز غير معروف"
+  cs: "Neznámé zařízení"
+  de: "Unbekanntes Gerät"
+  el: "Άγνωστη συσκευή"
+  en: "Unknown device"
+  es: "Dispositivo desconocido"
+  es-419: "Dispositivo desconocido"
+  es-MX: "Dispositivo desconocido"
+  fr: "Appareil inconnu"
+  he: "מכשיר לא ידוע"
+  hi: "अज्ञात डिवाइस"
+  id: "Perangkat tidak dikenal"
+  it: "Dispositivo sconosciuto"
+  ja: "不明なデバイス"
+  ko: "알 수 없는 기기"
+  nl: "Onbekend apparaat"
+  pl: "Nieznane urządzenie"
+  pt: "Dispositivo desconhecido"
+  pt-BR: "Dispositivo desconhecido"
+  pt-PT: "Dispositivo desconhecido"
+  ru: "Неизвестное устройство"
+  sv: "Okänd enhet"
+  sw: "Kifaa kisichojulikana"
+  th: "อุปกรณ์ที่ไม่รู้จัก"
+  uk: "Невідомий пристрій"
+  vi: "Thiết bị không xác định"
+  zh: "未知设备"
+  zh-HK: "未知裝置"
