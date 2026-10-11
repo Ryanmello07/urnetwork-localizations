@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector and an Activ
 source: "This host will use the tunnel"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "سيستخدم هذا المضيف النفق"
   cs: "Tento hostitel bude používat tunel"

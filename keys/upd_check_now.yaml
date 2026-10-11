@@ -2,6 +2,7 @@ description: "Linux Settings > General: the button on the \"Check for updates\" 
 source: "Check now"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "التحقق الآن"
   cs: "Zkontrolovat teď"

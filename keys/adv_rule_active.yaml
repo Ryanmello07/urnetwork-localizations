@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector and an Activ
 source: "rule active, click to remove"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "القاعدة مفعّلة، انقر لإزالتها"
   cs: "pravidlo je aktivní, kliknutím ho odeberete"

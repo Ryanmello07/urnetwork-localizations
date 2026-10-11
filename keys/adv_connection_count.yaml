@@ -2,6 +2,7 @@ description: "Connect page, Activity pane, grouped by host: how many connections
 source: "{count} connections"
 platforms:
   - linux
+  - windows
 placeholders:
   - name: count
     type: int

@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode: the label of the verdict line (blocke
 source: "Verdict"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الحكم"
   cs: "Verdikt"

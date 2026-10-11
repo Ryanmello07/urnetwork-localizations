@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - linux
+  - windows
 localizations:
   ar: "لم يتم العثور على تطبيقات"
   cs: "Nebyly nalezeny žádné aplikace"

@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector and an Activ
 source: "Copy details"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "نسخ التفاصيل"
   cs: "Kopírovat podrobnosti"

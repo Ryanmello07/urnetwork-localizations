@@ -2,6 +2,7 @@ description: "Network page, selected provider pane: note under the Name row whil
 source: "URnetwork picks the fastest healthy providers for you, with no location constraint, and re-picks as the network changes."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "يختار URnetwork لك أسرع المزودين السليمين، دون أي قيد على الموقع، ويعيد الاختيار كلما تغيّرت الشبكة."
   cs: "URnetwork za vás vybírá nejrychlejší funkční poskytovatele bez omezení polohy a při změnách sítě je vybírá znovu."

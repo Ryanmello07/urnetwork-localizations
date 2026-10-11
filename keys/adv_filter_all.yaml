@@ -2,6 +2,7 @@ description: "Connect page, Activity pane: the first choice of the verdict filte
 source: "All"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "الكل"
   cs: "Vše"

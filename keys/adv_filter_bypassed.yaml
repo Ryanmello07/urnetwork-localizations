@@ -2,6 +2,7 @@ description: "Connect page, Activity pane: the verdict filter choice that shows 
 source: "Bypassed"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "خارج النفق"
   cs: "Mimo tunel"

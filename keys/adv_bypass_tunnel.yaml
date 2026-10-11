@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector and an Activ
 source: "Bypass the tunnel"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تجاوز النفق"
   cs: "Obejít tunel"

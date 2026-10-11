@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector and an Activ
 source: "Always tunnel"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "عبر النفق دائمًا"
   cs: "Vždy přes tunel"

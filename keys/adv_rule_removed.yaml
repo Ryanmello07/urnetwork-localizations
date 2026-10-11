@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector and an Activ
 source: "Rule removed"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تمت إزالة القاعدة"
   cs: "Pravidlo odebráno"

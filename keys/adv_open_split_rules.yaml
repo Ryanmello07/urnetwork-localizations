@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector: the end of 
 source: "open split rules"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "فتح قواعد التقسيم"
   cs: "otevřít pravidla rozdělení"

@@ -2,6 +2,7 @@ description: "Connect page, Activity pane: the verdict filter choice that shows 
 source: "Tunnelled"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "عبر النفق"
   cs: "Tunelované"

@@ -2,6 +2,7 @@ description: "Connect page, Activity pane: label of the switch beside the search
 source: "Group by host"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تجميع حسب المضيف"
   cs: "Seskupit podle hostitele"
