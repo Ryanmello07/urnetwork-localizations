@@ -1,0 +1,57 @@
+# Throwaway: runs the store's own commands on Linux (gen/generate.mjs's isMain
+# check cannot run on Windows), against the windows branch as the sibling
+# checkout, and uploads the generated windows catalogs. No release, no tag.
+name: pr4 store gen
+
+on:
+  push:
+    branches:
+      - 'ci/pr4-*'
+
+permissions:
+  contents: read
+
+jobs:
+  gen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: localizations
+      - uses: actions/checkout@v4
+        with:
+          repository: Ryanmello07/urnetwork-windows
+          ref: d9a7393f05dca7e93f5d1a14ff59fc92f2cd3ee7
+          path: root/windows
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - name: npm ci
+        working-directory: localizations
+        run: npm ci
+      - name: npm run gen
+        working-directory: localizations
+        env:
+          URNETWORK_ROOT: ${{ github.workspace }}/root
+        run: npm run gen
+      - name: npm run check
+        working-directory: localizations
+        env:
+          URNETWORK_ROOT: ${{ github.workspace }}/root
+        run: npm run check
+      - name: node --test gen/*.test.mjs
+        working-directory: localizations
+        run: node --test gen/*.test.mjs
+      - name: windows files the gen changed
+        working-directory: root/windows
+        run: |
+          git rev-parse HEAD
+          git status --short
+          git diff --stat | tail -1
+          sha256sum app/src/App/Strings/*/Resources.resw app/src/App/Strings/windows-keys.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: generated-windows
+          path: root/windows/app/src/App/Strings/
+          if-no-files-found: error
