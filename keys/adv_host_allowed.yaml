@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector and an Activ
 source: "This host will be allowed"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "سيُسمح لهذا المضيف"
   cs: "Tento hostitel bude povolen"

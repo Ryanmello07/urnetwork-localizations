@@ -2,6 +2,7 @@ description: "Split rules sheet: the line in the Activity list when the search m
 source: "No activity matches this search."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لا يوجد نشاط يطابق هذا البحث."
   cs: "Tomuto hledání neodpovídá žádná aktivita."

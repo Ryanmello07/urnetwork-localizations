@@ -2,6 +2,7 @@ description: "Connect page, Activity pane: placeholder and accessible name of th
 source: "Search hosts or IPs"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "ابحث عن المضيفين أو عناوين IP"
   cs: "Hledat hostitele nebo IP adresy"

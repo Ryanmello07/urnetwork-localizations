@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector and an Activ
 source: "Connection details copied"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تم نسخ تفاصيل الاتصال"
   cs: "Podrobnosti připojení zkopírovány"

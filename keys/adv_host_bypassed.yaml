@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector and an Activ
 source: "This host will bypass the tunnel"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "سيتجاوز هذا المضيف النفق"
   cs: "Tento hostitel bude obcházet tunel"

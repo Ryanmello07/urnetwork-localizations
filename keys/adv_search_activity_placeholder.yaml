@@ -2,6 +2,7 @@ description: "Split rules sheet: placeholder and accessible name of the search f
 source: "Search activity"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "البحث في النشاط"
   cs: "Hledat v aktivitě"

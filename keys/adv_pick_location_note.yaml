@@ -2,6 +2,7 @@ description: "Network page, selected provider pane: note under the best availabl
 source: "Pick a country, region, city or device in the list to connect there instead."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "اختر دولة أو منطقة أو مدينة أو جهازًا من القائمة للاتصال بها بدلًا من ذلك."
   cs: "Chcete-li se místo toho připojit jinam, vyberte v seznamu zemi, region, město nebo zařízení."

@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector and an Activ
 source: "Allow this host"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "السماح لهذا المضيف"
   cs: "Povolit tohoto hostitele"

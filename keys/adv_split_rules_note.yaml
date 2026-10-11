@@ -2,6 +2,7 @@ description: "Split rules sheet: the one-sentence explainer at the top, above th
 source: "Split rules let the sites you choose connect directly, outside the VPN, and the activity below shows how each connection was routed."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "تتيح قواعد التقسيم للمواقع التي تختارها الاتصال مباشرةً خارج VPN، ويعرض النشاط أدناه كيف تم توجيه كل اتصال."
   cs: "Pravidla rozdělení umožní vybraným webům připojovat se přímo, mimo VPN, a aktivita níže ukazuje, jak bylo každé připojení směrováno."

@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector and an Activ
 source: "This host will be blocked"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "سيتم حظر هذا المضيف"
   cs: "Tento hostitel bude blokován"

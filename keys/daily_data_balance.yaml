@@ -2,6 +2,7 @@ description: "Key of the daily data balance row on the Account page, in the data
 source: "Daily Data Balance"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "رصيد البيانات اليومي"
   cs: "Denní datový zůstatek"

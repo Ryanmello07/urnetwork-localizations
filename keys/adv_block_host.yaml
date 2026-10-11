@@ -2,6 +2,7 @@ description: "Connect page, Advanced Mode, the connection inspector and an Activ
 source: "Block this host"
 platforms:
   - linux
+  - windows
 localizations:
   ar: "حظر هذا المضيف"
   cs: "Blokovat tohoto hostitele"
