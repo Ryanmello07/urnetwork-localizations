@@ -1,0 +1,37 @@
+description: "Payout consent section, beside the settlement v2 tile and claim: the explanation under the status. One signature with the Bittensor wallet's coldkey covers every provider client of the network."
+source: "Sign once with your Bittensor wallet so this network's earnings are paid to it."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "وقّع مرة واحدة باستخدام محفظة Bittensor الخاصة بك كي تُدفع أرباح هذه الشبكة إليها."
+  cs: "Podepište jednou svou peněženkou Bittensor, aby se výdělky této sítě vyplácely na ni."
+  de: "Signiere einmal mit deiner Bittensor-Wallet, damit die Einnahmen dieses Netzwerks an sie ausgezahlt werden."
+  el: "Υπογράψτε μία φορά με το πορτοφόλι Bittensor σας, ώστε τα κέρδη αυτού του δικτύου να πληρώνονται σε αυτό."
+  en: "Sign once with your Bittensor wallet so this network's earnings are paid to it."
+  es: "Firma una vez con tu billetera de Bittensor para que las ganancias de esta red se paguen en ella."
+  es-419: "Firma una vez con tu billetera de Bittensor para que las ganancias de esta red se paguen en ella."
+  es-MX: "Firma una vez con tu cartera de Bittensor para que las ganancias de esta red se paguen en ella."
+  fr: "Signez une fois avec votre portefeuille Bittensor pour que les gains de ce réseau y soient versés."
+  he: "חתמו פעם אחת עם ארנק ה-Bittensor שלכם כדי שהרווחים של הרשת הזו ישולמו אליו."
+  hi: "अपने Bittensor वॉलेट से एक बार साइन करें, ताकि इस नेटवर्क की कमाई का भुगतान उसी वॉलेट में हो।"
+  id: "Tanda tangani sekali dengan dompet Bittensor Anda agar penghasilan jaringan ini dibayarkan ke dompet tersebut."
+  it: "Firma una volta con il tuo portafoglio Bittensor perché i guadagni di questa rete vengano pagati su di esso."
+  ja: "Bittensor ウォレットで一度署名すると、このネットワークの収益がそのウォレットに支払われます。"
+  ko: "Bittensor 지갑으로 한 번 서명하면 이 네트워크의 수익이 해당 지갑으로 지급됩니다."
+  nl: "Onderteken één keer met je Bittensor-wallet, zodat de verdiensten van dit netwerk naar die wallet worden uitbetaald."
+  pl: "Podpisz raz swoim portfelem Bittensor, aby zarobki tej sieci były na niego wypłacane."
+  pt: "Assine uma vez com a sua carteira Bittensor para que os ganhos desta rede sejam pagos nela."
+  pt-BR: "Assine uma vez com sua carteira Bittensor para que os ganhos desta rede sejam pagos nela."
+  pt-PT: "Assine uma vez com a sua carteira Bittensor para que os ganhos desta rede sejam pagos nela."
+  ru: "Подпишите один раз кошельком Bittensor, чтобы заработок этой сети выплачивался на него."
+  sv: "Signera en gång med din Bittensor-plånbok så betalas det här nätverkets intäkter ut till den."
+  sw: "Tia sahihi mara moja kwa pochi yako ya Bittensor ili mapato ya mtandao huu yalipwe kwenye pochi hiyo."
+  th: "ลงนามครั้งเดียวด้วยกระเป๋าเงิน Bittensor ของคุณ เพื่อให้รายได้ของเครือข่ายนี้จ่ายเข้ากระเป๋าเงินนั้น"
+  uk: "Підпишіть один раз гаманцем Bittensor, щоб заробіток цієї мережі виплачувався на нього."
+  vi: "Ký một lần bằng ví Bittensor của bạn để thu nhập của mạng này được trả vào ví đó."
+  zh: "使用您的 Bittensor 钱包签名一次，此网络的收益就会支付到该钱包。"
+  zh-HK: "使用你的 Bittensor 錢包簽署一次，此網絡的收益就會支付到該錢包。"

@@ -1,0 +1,37 @@
+description: "Payout consent section, beside the settlement v2 tile and claim: the progress line while the Bittensor wallet is asked to sign the consent message."
+source: "Waiting for your wallet's signature…"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "في انتظار توقيع محفظتك…"
+  cs: "Čeká se na podpis z vaší peněženky…"
+  de: "Warten auf die Signatur deiner Wallet…"
+  el: "Αναμονή για την υπογραφή του πορτοφολιού σας…"
+  en: "Waiting for your wallet's signature…"
+  es: "Esperando la firma de tu billetera…"
+  es-419: "Esperando la firma de tu billetera…"
+  es-MX: "Esperando la firma de tu cartera…"
+  fr: "En attente de la signature de votre portefeuille…"
+  he: "ממתין לחתימה מהארנק שלכם…"
+  hi: "आपके वॉलेट के हस्ताक्षर की प्रतीक्षा है…"
+  id: "Menunggu tanda tangan dari dompet Anda…"
+  it: "In attesa della firma del tuo portafoglio…"
+  ja: "ウォレットの署名を待っています…"
+  ko: "지갑의 서명을 기다리는 중…"
+  nl: "Wachten op de handtekening van je wallet…"
+  pl: "Oczekiwanie na podpis z Twojego portfela…"
+  pt: "A aguardar a assinatura da sua carteira…"
+  pt-BR: "Aguardando a assinatura da sua carteira…"
+  pt-PT: "A aguardar a assinatura da sua carteira…"
+  ru: "Ожидание подписи в вашем кошельке…"
+  sv: "Väntar på signaturen från din plånbok…"
+  sw: "Inasubiri sahihi ya pochi yako…"
+  th: "กำลังรอลายเซ็นจากกระเป๋าเงินของคุณ…"
+  uk: "Очікування підпису у вашому гаманці…"
+  vi: "Đang chờ chữ ký từ ví của bạn…"
+  zh: "正在等待您的钱包签名…"
+  zh-HK: "正在等待你的錢包簽署…"

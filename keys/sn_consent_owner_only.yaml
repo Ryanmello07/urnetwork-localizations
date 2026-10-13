@@ -1,0 +1,37 @@
+description: "Payout consent section, beside the settlement v2 tile and claim: the error when the signed-in session is not the network owner's. Only the owner chooses where the network's earnings are paid."
+source: "Only the network owner can choose the payout wallet."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "يمكن لمالك الشبكة فقط اختيار محفظة الدفع."
+  cs: "Výplatní peněženku může zvolit jen vlastník sítě."
+  de: "Nur der Inhaber des Netzwerks kann die Auszahlungs-Wallet wählen."
+  el: "Μόνο ο κάτοχος του δικτύου μπορεί να επιλέξει το πορτοφόλι πληρωμής."
+  en: "Only the network owner can choose the payout wallet."
+  es: "Solo el propietario de la red puede elegir la billetera de pago."
+  es-419: "Solo el propietario de la red puede elegir la billetera de pago."
+  es-MX: "Solo el propietario de la red puede elegir la cartera de pago."
+  fr: "Seul le propriétaire du réseau peut choisir le portefeuille de paiement."
+  he: "רק בעל הרשת יכול לבחור את ארנק התשלום."
+  hi: "केवल नेटवर्क का मालिक ही पेआउट वॉलेट चुन सकता है।"
+  id: "Hanya pemilik jaringan yang dapat memilih dompet pembayaran."
+  it: "Solo il proprietario della rete può scegliere il portafoglio di pagamento."
+  ja: "支払いウォレットを選べるのはネットワークの所有者だけです。"
+  ko: "지급 지갑은 네트워크 소유자만 선택할 수 있습니다."
+  nl: "Alleen de eigenaar van het netwerk kan de uitbetalingswallet kiezen."
+  pl: "Tylko właściciel sieci może wybrać portfel wypłat."
+  pt: "Só o proprietário da rede pode escolher a carteira de pagamento."
+  pt-BR: "Somente o proprietário da rede pode escolher a carteira de pagamento."
+  pt-PT: "Só o proprietário da rede pode escolher a carteira de pagamento."
+  ru: "Выбрать кошелек для выплат может только владелец сети."
+  sv: "Bara nätverkets ägare kan välja utbetalningsplånbok."
+  sw: "Mmiliki wa mtandao pekee ndiye anayeweza kuchagua pochi ya malipo."
+  th: "เฉพาะเจ้าของเครือข่ายเท่านั้นที่เลือกกระเป๋ารับยอดจ่ายได้"
+  uk: "Вибрати гаманець для виплат може лише власник мережі."
+  vi: "Chỉ chủ sở hữu mạng mới có thể chọn ví thanh toán."
+  zh: "只有网络所有者才能选择支付钱包。"
+  zh-HK: "只有網絡擁有人才能選擇支付錢包。"
