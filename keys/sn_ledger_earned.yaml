@@ -2,6 +2,7 @@ description: "Settlement v2 tile: label of the SN25α earned so far (finalized: 
 source: "Earned"
 platforms:
   - android
+  - apple
   - linux
   - windows
 localizations:

@@ -2,6 +2,7 @@ description: "Title of the settlement v2 tile, and the caption of its claim dial
 source: "Settlement v2"
 platforms:
   - android
+  - apple
   - linux
   - windows
 localizations:

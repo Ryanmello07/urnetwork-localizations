@@ -1,7 +1,8 @@
 description: "Settlement v2 tile and claim dialog: names an operator pool. {} is its number."
-source: "Pool {no_id}"
+source: "Pool %lld"
 platforms:
   - android
+  - apple
   - linux
   - windows
 placeholders:

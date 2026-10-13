@@ -2,6 +2,7 @@ description: "Settlement v2 tile: shown instead of the balances when they cannot
 source: "Unavailable"
 platforms:
   - android
+  - apple
   - linux
   - windows
 localizations:

@@ -1,7 +1,8 @@
 description: "Settlement v2 tile: earnings committed but not final yet. {} is an SN25α amount, e.g. \"0.7500 SN25α\"."
-source: "Pending: +{amount}, awaiting finalization"
+source: "Pending: +%@, awaiting finalization"
 platforms:
   - android
+  - apple
   - linux
   - windows
 placeholders:

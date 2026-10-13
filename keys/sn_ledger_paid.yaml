@@ -2,6 +2,7 @@ description: "Settlement v2 tile: label of the SN25α already paid to the user's
 source: "Paid"
 platforms:
   - android
+  - apple
   - linux
   - windows
 localizations:

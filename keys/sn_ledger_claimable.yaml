@@ -2,6 +2,7 @@ description: "Settlement v2 tile: label of the SN25α the user can claim now."
 source: "Claimable"
 platforms:
   - android
+  - apple
   - linux
   - windows
 localizations:
