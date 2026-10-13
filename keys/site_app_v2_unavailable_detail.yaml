@@ -1,0 +1,11 @@
+description: "App earnings/claim: the settlement v2 ledger cannot be read; a retry button follows"
+source: "Settlement v2 balances can't be read right now."
+platforms:
+  - site
+localizations:
+  ar: "تعذّرت قراءة أرصدة التسوية v2 الآن."
+  de: "Die Guthaben der Abrechnung v2 können gerade nicht gelesen werden."
+  en: "Settlement v2 balances can't be read right now."
+  es: "Ahora mismo no se pueden leer los saldos de la liquidación v2."
+  ru: "Сейчас не удаётся прочитать балансы расчётов v2."
+  zh: "暂时无法读取结算 v2 的余额。"

@@ -1,0 +1,11 @@
+description: "App earnings/claim: label of the settlement v2 card, shown beside the v1 claims"
+source: "Settlement v2"
+platforms:
+  - site
+localizations:
+  ar: "التسوية v2"
+  de: "Abrechnung v2"
+  en: "Settlement v2"
+  es: "Liquidación v2"
+  ru: "Расчёты v2"
+  zh: "结算 v2"

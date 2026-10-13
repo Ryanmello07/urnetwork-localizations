@@ -1,0 +1,11 @@
+description: "App earnings/claim: the settlement v2 amount already paid to the coldkey"
+source: "Paid"
+platforms:
+  - site
+localizations:
+  ar: "المدفوع"
+  de: "Ausgezahlt"
+  en: "Paid"
+  es: "Pagado"
+  ru: "Выплачено"
+  zh: "已支付"

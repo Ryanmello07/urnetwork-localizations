@@ -1,0 +1,11 @@
+description: "App earnings/claim: heads each settlement v2 account when the coldkey has accounts in several operator pools. {no_id} is the pool's operator id."
+source: "Pool {no_id}"
+platforms:
+  - site
+localizations:
+  ar: "المجمّع {no_id}"
+  de: "Pool {no_id}"
+  en: "Pool {no_id}"
+  es: "Pool {no_id}"
+  ru: "Пул {no_id}"
+  zh: "池 {no_id}"

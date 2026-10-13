@@ -1,0 +1,36 @@
+description: "Settlement v2 tile: label of the SN25α already paid to the user's coldkey."
+source: "Paid"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "مدفوع"
+  cs: "Vyplaceno"
+  de: "Ausgezahlt"
+  el: "Πληρώθηκε"
+  en: "Paid"
+  es: "Pagado"
+  es-419: "Pagado"
+  es-MX: "Pagado"
+  fr: "Versé"
+  he: "שולם"
+  hi: "भुगतान हो चुका"
+  id: "Dibayar"
+  it: "Pagato"
+  ja: "支払い済み"
+  ko: "지급됨"
+  nl: "Uitbetaald"
+  pl: "Wypłacono"
+  pt: "Pago"
+  pt-BR: "Pago"
+  pt-PT: "Pago"
+  ru: "Выплачено"
+  sv: "Utbetalt"
+  sw: "Imelipwa"
+  th: "จ่ายแล้ว"
+  uk: "Виплачено"
+  vi: "Đã trả"
+  zh: "已支付"
+  zh-HK: "已支付"

@@ -1,0 +1,36 @@
+description: "Settlement v2 tile: label of the SN25α earned so far (finalized: paid plus claimable)."
+source: "Earned"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "المكتسب"
+  cs: "Získáno"
+  de: "Verdient"
+  el: "Κέρδη"
+  en: "Earned"
+  es: "Ganado"
+  es-419: "Ganado"
+  es-MX: "Ganado"
+  fr: "Gagné"
+  he: "נצבר"
+  hi: "अर्जित"
+  id: "Diperoleh"
+  it: "Guadagnato"
+  ja: "獲得額"
+  ko: "획득"
+  nl: "Verdiend"
+  pl: "Zarobiono"
+  pt: "Ganho"
+  pt-BR: "Ganho"
+  pt-PT: "Ganho"
+  ru: "Заработано"
+  sv: "Intjänat"
+  sw: "Mapato"
+  th: "รายได้"
+  uk: "Зароблено"
+  vi: "Đã kiếm được"
+  zh: "已赚取"
+  zh-HK: "已賺取"

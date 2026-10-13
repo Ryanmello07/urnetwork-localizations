@@ -1,0 +1,39 @@
+description: "Settlement v2 tile: earnings committed but not final yet. {} is an SN25α amount, e.g. \"0.7500 SN25α\"."
+source: "Pending: +%@, awaiting finalization"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  ar: "معلّق: +{amount}، بانتظار الاعتماد"
+  cs: "Čekající: +{amount}, čeká na finalizaci"
+  de: "Ausstehend: +{amount}, wartet auf Abschluss"
+  el: "Σε εκκρεμότητα: +{amount}, αναμένεται οριστικοποίηση"
+  en: "Pending: +{amount}, awaiting finalization"
+  es: "Pendiente: +{amount}, en espera de finalización"
+  es-419: "Pendiente: +{amount}, en espera de finalización"
+  es-MX: "Pendiente: +{amount}, en espera de finalización"
+  fr: "En attente : +{amount}, finalisation en cours"
+  he: "בהמתנה: +{amount}, עד לאישור סופי"
+  hi: "लंबित: +{amount}, अंतिम रूप दिए जाने की प्रतीक्षा में"
+  id: "Tertunda: +{amount}, menunggu finalisasi"
+  it: "In sospeso: +{amount}, in attesa di finalizzazione"
+  ja: "保留中: +{amount}（確定待ち）"
+  ko: "대기 중: +{amount}, 확정 대기"
+  nl: "In behandeling: +{amount}, wacht op afronding"
+  pl: "Oczekujące: +{amount}, czeka na finalizację"
+  pt: "Pendente: +{amount}, a aguardar finalização"
+  pt-BR: "Pendente: +{amount}, aguardando finalização"
+  pt-PT: "Pendente: +{amount}, a aguardar finalização"
+  ru: "В ожидании: +{amount}, ждёт утверждения"
+  sv: "Väntande: +{amount}, inväntar slutförande"
+  sw: "Inasubiri: +{amount}, inasubiri kukamilishwa"
+  th: "รอดำเนินการ: +{amount} รอการสรุป"
+  uk: "В очікуванні: +{amount}, очікує затвердження"
+  vi: "Đang chờ: +{amount}, chờ hoàn tất"
+  zh: "待处理：+{amount}，等待确认"
+  zh-HK: "待處理：+{amount}，等待確認"
