@@ -1,7 +1,8 @@
-description: "Error when a browser sign-in (Google or Apple through the browser) took too long and expired."
+description: "Error when a browser sign-in (Google or Apple through the browser, or a sign-in approved on the web page) took too long and expired."
 source: "Sign-in timed out. Please try again."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "انتهت مهلة تسجيل الدخول. يُرجى المحاولة مرة أخرى."
   cs: "Časový limit přihlášení vypršel. Zkuste to prosím znovu."
