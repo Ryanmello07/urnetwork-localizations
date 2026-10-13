@@ -1,0 +1,11 @@
+description: "App earnings/claim: shown in place of the settlement v2 amounts when the ledger cannot be read, never a zero"
+source: "Unavailable"
+platforms:
+  - site
+localizations:
+  ar: "غير متاح"
+  de: "Nicht verfügbar"
+  en: "Unavailable"
+  es: "No disponible"
+  ru: "Недоступно"
+  zh: "不可用"

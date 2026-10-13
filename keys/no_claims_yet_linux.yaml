@@ -2,6 +2,7 @@ description: "Empty state of the unclaimed tile once a wallet is connected."
 source: "Nothing to claim yet. Alpha accrues from the next finalized epoch."
 platforms:
   - linux
+  - windows
 localizations:
   ar: "لا يوجد ما يمكن المطالبة به بعد. يتراكم Alpha بدءًا من الفترة المكتملة التالية."
   cs: "Zatím není co vyzvednout. Alpha se začne připisovat od příští dokončené epochy."

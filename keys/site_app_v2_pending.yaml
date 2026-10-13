@@ -1,0 +1,11 @@
+description: "App earnings/claim: settlement v2 earnings in a committed root that is not finalized yet. {amount} is an SN25α amount with its unit."
+source: "Pending: +{amount}, awaiting finalization"
+platforms:
+  - site
+localizations:
+  ar: "قيد الانتظار: +{amount}، بانتظار الاعتماد"
+  de: "Ausstehend: +{amount}, wartet auf den Abschluss"
+  en: "Pending: +{amount}, awaiting finalization"
+  es: "Pendiente: +{amount}, a la espera de la finalización"
+  ru: "В ожидании: +{amount}, ожидает утверждения"
+  zh: "待确认：+{amount}，等待最终确认"

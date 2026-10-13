@@ -1,0 +1,11 @@
+description: "App earnings/claim: the settlement v2 amount earned in finalized roots, paid and claimable together"
+source: "Earned"
+platforms:
+  - site
+localizations:
+  ar: "المكتسب"
+  de: "Verdient"
+  en: "Earned"
+  es: "Ganado"
+  ru: "Заработано"
+  zh: "已赚取"

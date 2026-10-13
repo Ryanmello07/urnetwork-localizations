@@ -1,7 +1,5 @@
 description: "Call to action"
 source: "Transaction"
-deprecated:
-  - apple
 platforms:
   - android
   - apple

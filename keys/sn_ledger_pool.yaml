@@ -1,0 +1,38 @@
+description: "Settlement v2 tile and claim dialog: names an operator pool. {} is its number."
+source: "Pool {no_id}"
+platforms:
+  - android
+  - linux
+  - windows
+placeholders:
+  - name: no_id
+    type: int
+localizations:
+  ar: "المجمّع {no_id}"
+  cs: "Pool {no_id}"
+  de: "Pool {no_id}"
+  el: "Pool {no_id}"
+  en: "Pool {no_id}"
+  es: "Pool {no_id}"
+  es-419: "Pool {no_id}"
+  es-MX: "Pool {no_id}"
+  fr: "Pool {no_id}"
+  he: "מאגר {no_id}"
+  hi: "पूल {no_id}"
+  id: "Pool {no_id}"
+  it: "Pool {no_id}"
+  ja: "プール {no_id}"
+  ko: "풀 {no_id}"
+  nl: "Pool {no_id}"
+  pl: "Pula {no_id}"
+  pt: "Pool {no_id}"
+  pt-BR: "Pool {no_id}"
+  pt-PT: "Pool {no_id}"
+  ru: "Пул {no_id}"
+  sv: "Pool {no_id}"
+  sw: "Kundi {no_id}"
+  th: "พูล {no_id}"
+  uk: "Пул {no_id}"
+  vi: "Pool {no_id}"
+  zh: "池 {no_id}"
+  zh-HK: "池 {no_id}"

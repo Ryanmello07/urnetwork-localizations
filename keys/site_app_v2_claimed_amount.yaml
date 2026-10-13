@@ -1,0 +1,11 @@
+description: "App claim: a settlement v2 claim confirmed on chain. {amount} is the SN25α amount the vault paid, with its unit."
+source: "Claimed {amount}"
+platforms:
+  - site
+localizations:
+  ar: "تمت المطالبة بـ {amount}"
+  de: "{amount} eingelöst"
+  en: "Claimed {amount}"
+  es: "Reclamado: {amount}"
+  ru: "Получено {amount}"
+  zh: "已领取 {amount}"
