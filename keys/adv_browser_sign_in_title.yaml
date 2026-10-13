@@ -2,6 +2,7 @@ description: "Windows sign-in screen: the title of the sheet for signing in thro
 source: "Browser sign-in"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "تسجيل الدخول عبر المتصفح"
   cs: "Přihlášení přes prohlížeč"

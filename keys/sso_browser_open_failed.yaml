@@ -3,6 +3,7 @@ source: "Could not open the browser. Please try again."
 platforms:
   - apple
   - windows
+  - linux
 localizations:
   ar: "تعذّر فتح المتصفح. يُرجى المحاولة مرة أخرى."
   cs: "Prohlížeč se nepodařilo otevřít. Zkuste to prosím znovu."

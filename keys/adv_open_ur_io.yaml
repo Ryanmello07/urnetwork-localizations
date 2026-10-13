@@ -2,6 +2,7 @@ description: "Windows sign-in screen, browser sign-in sheet: the button that ope
 source: "Open ur.io"
 platforms:
   - windows
+  - linux
 localizations:
   ar: "فتح ur.io"
   cs: "Otevřít ur.io"

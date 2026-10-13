@@ -3,6 +3,7 @@ source: "Sign-in timed out. Please try again."
 platforms:
   - apple
   - windows
+  - linux
 localizations:
   ar: "انتهت مهلة تسجيل الدخول. يُرجى المحاولة مرة أخرى."
   cs: "Časový limit přihlášení vypršel. Zkuste to prosím znovu."

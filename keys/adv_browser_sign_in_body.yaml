@@ -2,6 +2,7 @@ description: "Windows sign-in screen, browser sign-in sheet: the text above the 
 source: "Sign in at ur.io in your browser — your password manager and existing Google or Apple sessions work there. Then paste a one-time auth code from any signed-in device (Account → Create auth code)."
 platforms:
   - windows
+  - linux
 localizations:
   ar: "سجّل الدخول إلى ur.io في متصفحك — يعمل هناك مدير كلمات المرور لديك وجلسات Google أو Apple الحالية. ثم الصق رمز مصادقة لمرة واحدة من أي جهاز مسجَّل الدخول (الحساب ← إنشاء رمز مصادقة)."
   cs: "Přihlaste se na ur.io v prohlížeči — funguje tam váš správce hesel i stávající relace Google nebo Apple. Potom vložte jednorázový ověřovací kód z libovolného přihlášeného zařízení (Účet → Vytvořit ověřovací kód)."
