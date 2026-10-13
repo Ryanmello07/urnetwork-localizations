@@ -1,0 +1,37 @@
+description: "Payout consent section, beside the settlement v2 tile and claim: the error when the consent message expired (300 seconds after the server issued it) before the signed consent reached the server. Trying again requests a new message."
+source: "The request expired. Try again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "انتهت صلاحية الطلب. حاول مرة أخرى."
+  cs: "Platnost požadavku vypršela. Zkuste to znovu."
+  de: "Die Anfrage ist abgelaufen. Versuche es erneut."
+  el: "Το αίτημα έληξε. Δοκιμάστε ξανά."
+  en: "The request expired. Try again."
+  es: "La solicitud caducó. Inténtalo de nuevo."
+  es-419: "La solicitud venció. Inténtalo de nuevo."
+  es-MX: "La solicitud venció. Inténtalo de nuevo."
+  fr: "La demande a expiré. Réessayez."
+  he: "תוקף הבקשה פג. נסו שוב."
+  hi: "अनुरोध की समय-सीमा समाप्त हो गई है। पुनः प्रयास करें।"
+  id: "Permintaan sudah kedaluwarsa. Coba lagi."
+  it: "La richiesta è scaduta. Riprova."
+  ja: "リクエストの有効期限が切れました。もう一度お試しください。"
+  ko: "요청이 만료되었습니다. 다시 시도하세요."
+  nl: "Het verzoek is verlopen. Probeer het opnieuw."
+  pl: "Żądanie wygasło. Spróbuj ponownie."
+  pt: "O pedido expirou. Tente novamente."
+  pt-BR: "A solicitação expirou. Tente novamente."
+  pt-PT: "O pedido expirou. Tente novamente."
+  ru: "Срок действия запроса истек. Попробуйте еще раз."
+  sv: "Begäran har gått ut. Försök igen."
+  sw: "Ombi limeisha muda. Jaribu tena."
+  th: "คำขอหมดอายุแล้ว ลองอีกครั้ง"
+  uk: "Термін дії запиту минув. Спробуйте ще раз."
+  vi: "Yêu cầu đã hết hạn. Hãy thử lại."
+  zh: "请求已过期。请重试。"
+  zh-HK: "請求已過期。請再試一次。"

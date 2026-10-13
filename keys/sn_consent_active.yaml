@@ -1,0 +1,40 @@
+description: "Payout consent section, beside the settlement v2 tile and claim: the status while a consent covers the current epoch. The placeholder is the consented Bittensor coldkey, shortened to its first and last four characters around an ellipsis (5F3s…kQ9v); keep it as is."
+source: "Earnings are paid to %@"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: coldkey
+    type: string
+localizations:
+  ar: "تُدفع الأرباح إلى {coldkey}"
+  cs: "Výdělky se vyplácejí na {coldkey}"
+  de: "Einnahmen werden an {coldkey} ausgezahlt"
+  el: "Τα κέρδη πληρώνονται στο {coldkey}"
+  en: "Earnings are paid to {coldkey}"
+  es: "Las ganancias se pagan a {coldkey}"
+  es-419: "Las ganancias se pagan a {coldkey}"
+  es-MX: "Las ganancias se pagan a {coldkey}"
+  fr: "Les gains sont versés à {coldkey}"
+  he: "הרווחים משולמים אל {coldkey}"
+  hi: "कमाई का भुगतान {coldkey} पर होता है"
+  id: "Penghasilan dibayarkan ke {coldkey}"
+  it: "I guadagni vengono pagati su {coldkey}"
+  ja: "収益は {coldkey} に支払われます"
+  ko: "수익은 {coldkey}(으)로 지급됩니다"
+  nl: "Verdiensten worden uitbetaald aan {coldkey}"
+  pl: "Zarobki są wypłacane na {coldkey}"
+  pt: "Os ganhos são pagos a {coldkey}"
+  pt-BR: "Os ganhos são pagos para {coldkey}"
+  pt-PT: "Os ganhos são pagos a {coldkey}"
+  ru: "Заработок выплачивается на {coldkey}"
+  sv: "Intäkter betalas ut till {coldkey}"
+  sw: "Mapato yanalipwa kwa {coldkey}"
+  th: "รายได้จะจ่ายไปที่ {coldkey}"
+  uk: "Заробіток виплачується на {coldkey}"
+  vi: "Thu nhập được trả vào {coldkey}"
+  zh: "收益将支付到 {coldkey}"
+  zh-HK: "收益會支付到 {coldkey}"

@@ -1,0 +1,37 @@
+description: "Payout consent section, beside the settlement v2 tile and claim: its title. The network owner signs once with a Bittensor wallet, and that coldkey is paid the earnings of every provider client of the network."
+source: "Payout consent"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "موافقة الدفع"
+  cs: "Souhlas s výplatami"
+  de: "Zustimmung zur Auszahlung"
+  el: "Συγκατάθεση πληρωμών"
+  en: "Payout consent"
+  es: "Consentimiento de pago"
+  es-419: "Consentimiento de pago"
+  es-MX: "Consentimiento de pago"
+  fr: "Consentement aux paiements"
+  he: "הסכמה לתשלומים"
+  hi: "पेआउट सहमति"
+  id: "Persetujuan pembayaran"
+  it: "Consenso ai pagamenti"
+  ja: "支払いの同意"
+  ko: "지급 동의"
+  nl: "Toestemming voor uitbetaling"
+  pl: "Zgoda na wypłaty"
+  pt: "Consentimento de pagamento"
+  pt-BR: "Consentimento de pagamento"
+  pt-PT: "Consentimento de pagamento"
+  ru: "Согласие на выплаты"
+  sv: "Samtycke till utbetalning"
+  sw: "Idhini ya malipo"
+  th: "ความยินยอมรับยอดจ่าย"
+  uk: "Згода на виплати"
+  vi: "Đồng ý nhận thanh toán"
+  zh: "收益支付授权"
+  zh-HK: "收益支付授權"

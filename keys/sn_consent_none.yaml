@@ -1,0 +1,37 @@
+description: "Payout consent section, beside the settlement v2 tile and claim: the status while no consent covers the current epoch, so the network's earnings are not paid. The Sign with wallet button (sn_consent_sign) follows."
+source: "No payout wallet yet. Earnings aren't paid until you sign."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "لا توجد محفظة دفع بعد. لا تُدفع الأرباح إلا بعد أن توقّع."
+  cs: "Zatím žádná výplatní peněženka. Výdělky se nevyplácejí, dokud nepodepíšete."
+  de: "Noch keine Auszahlungs-Wallet. Einnahmen werden erst ausgezahlt, wenn du signierst."
+  el: "Δεν υπάρχει ακόμη πορτοφόλι πληρωμής. Τα κέρδη δεν πληρώνονται μέχρι να υπογράψετε."
+  en: "No payout wallet yet. Earnings aren't paid until you sign."
+  es: "Aún no hay billetera de pago. Las ganancias no se pagan hasta que firmes."
+  es-419: "Todavía no hay billetera de pago. Las ganancias no se pagan hasta que firmes."
+  es-MX: "Todavía no hay cartera de pago. Las ganancias no se pagan hasta que firmes."
+  fr: "Aucun portefeuille de paiement pour l’instant. Les gains ne sont versés qu’après votre signature."
+  he: "עדיין אין ארנק תשלום. הרווחים לא ישולמו עד שתחתמו."
+  hi: "अभी कोई पेआउट वॉलेट नहीं है। जब तक आप साइन नहीं करते, कमाई का भुगतान नहीं होता।"
+  id: "Belum ada dompet pembayaran. Penghasilan tidak dibayarkan sampai Anda menandatangani."
+  it: "Ancora nessun portafoglio di pagamento. I guadagni non vengono pagati finché non firmi."
+  ja: "支払いウォレットがまだありません。署名するまで収益は支払われません。"
+  ko: "아직 지급 지갑이 없습니다. 서명하기 전까지는 수익이 지급되지 않습니다."
+  nl: "Nog geen uitbetalingswallet. Verdiensten worden pas uitbetaald als je ondertekent."
+  pl: "Nie masz jeszcze portfela wypłat. Zarobki nie są wypłacane, dopóki nie podpiszesz."
+  pt: "Ainda não há carteira de pagamento. Os ganhos só são pagos depois de assinar."
+  pt-BR: "Ainda não há carteira de pagamento. Os ganhos só são pagos depois que você assinar."
+  pt-PT: "Ainda não há carteira de pagamento. Os ganhos só são pagos depois de assinar."
+  ru: "Кошелька для выплат пока нет. Заработок не выплачивается, пока вы не подпишете."
+  sv: "Ingen utbetalningsplånbok än. Intäkter betalas inte ut förrän du signerar."
+  sw: "Bado hakuna pochi ya malipo. Mapato hayalipwi hadi utie sahihi."
+  th: "ยังไม่มีกระเป๋ารับยอดจ่าย รายได้จะไม่ถูกจ่ายจนกว่าคุณจะลงนาม"
+  uk: "Гаманця для виплат ще немає. Заробіток не виплачується, доки ви не підпишете."
+  vi: "Chưa có ví thanh toán. Thu nhập sẽ không được trả cho đến khi bạn ký."
+  zh: "暂无支付钱包。您签名后才会支付收益。"
+  zh-HK: "暫時沒有支付錢包。你簽署後才會支付收益。"

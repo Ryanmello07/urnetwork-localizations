@@ -1,0 +1,37 @@
+description: "Payout consent section, beside the settlement v2 tile and claim: the error when the server refused the signature because it does not verify for the wallet's coldkey (SnErrorCodeSignatureMismatch)."
+source: "The signature didn't match this wallet. Try again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "لم يتطابق التوقيع مع هذه المحفظة. حاول مرة أخرى."
+  cs: "Podpis neodpovídá této peněžence. Zkuste to znovu."
+  de: "Die Signatur passt nicht zu dieser Wallet. Versuche es erneut."
+  el: "Η υπογραφή δεν αντιστοιχεί σε αυτό το πορτοφόλι. Δοκιμάστε ξανά."
+  en: "The signature didn't match this wallet. Try again."
+  es: "La firma no coincide con esta billetera. Inténtalo de nuevo."
+  es-419: "La firma no coincide con esta billetera. Inténtalo de nuevo."
+  es-MX: "La firma no coincide con esta cartera. Inténtalo de nuevo."
+  fr: "La signature ne correspond pas à ce portefeuille. Réessayez."
+  he: "החתימה אינה תואמת לארנק הזה. נסו שוב."
+  hi: "हस्ताक्षर इस वॉलेट से मेल नहीं खाया। पुनः प्रयास करें।"
+  id: "Tanda tangan tidak cocok dengan dompet ini. Coba lagi."
+  it: "La firma non corrisponde a questo portafoglio. Riprova."
+  ja: "署名がこのウォレットと一致しませんでした。もう一度お試しください。"
+  ko: "서명이 이 지갑과 일치하지 않습니다. 다시 시도하세요."
+  nl: "De handtekening komt niet overeen met deze wallet. Probeer het opnieuw."
+  pl: "Podpis nie pasuje do tego portfela. Spróbuj ponownie."
+  pt: "A assinatura não corresponde a esta carteira. Tente novamente."
+  pt-BR: "A assinatura não corresponde a esta carteira. Tente novamente."
+  pt-PT: "A assinatura não corresponde a esta carteira. Tente novamente."
+  ru: "Подпись не соответствует этому кошельку. Попробуйте еще раз."
+  sv: "Signaturen stämmer inte med den här plånboken. Försök igen."
+  sw: "Sahihi hailingani na pochi hii. Jaribu tena."
+  th: "ลายเซ็นไม่ตรงกับกระเป๋าเงินนี้ ลองอีกครั้ง"
+  uk: "Підпис не відповідає цьому гаманцю. Спробуйте ще раз."
+  vi: "Chữ ký không khớp với ví này. Hãy thử lại."
+  zh: "签名与此钱包不匹配。请重试。"
+  zh-HK: "簽名與此錢包不相符。請再試一次。"

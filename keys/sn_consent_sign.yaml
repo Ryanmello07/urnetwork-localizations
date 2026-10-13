@@ -1,0 +1,37 @@
+description: "Payout consent section, beside the settlement v2 tile and claim: the button shown while no consent is active. It connects the Bittensor wallet, which then signs the consent message the server issued."
+source: "Sign with wallet"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "التوقيع بالمحفظة"
+  cs: "Podepsat peněženkou"
+  de: "Mit Wallet signieren"
+  el: "Υπογραφή με πορτοφόλι"
+  en: "Sign with wallet"
+  es: "Firmar con la billetera"
+  es-419: "Firmar con la billetera"
+  es-MX: "Firmar con la cartera"
+  fr: "Signer avec le portefeuille"
+  he: "חתימה עם הארנק"
+  hi: "वॉलेट से साइन करें"
+  id: "Tanda tangani dengan dompet"
+  it: "Firma con il portafoglio"
+  ja: "ウォレットで署名"
+  ko: "지갑으로 서명"
+  nl: "Ondertekenen met wallet"
+  pl: "Podpisz portfelem"
+  pt: "Assinar com a carteira"
+  pt-BR: "Assinar com a carteira"
+  pt-PT: "Assinar com a carteira"
+  ru: "Подписать кошельком"
+  sv: "Signera med plånboken"
+  sw: "Tia sahihi kwa pochi"
+  th: "ลงนามด้วยกระเป๋าเงิน"
+  uk: "Підписати гаманцем"
+  vi: "Ký bằng ví"
+  zh: "使用钱包签名"
+  zh-HK: "使用錢包簽署"

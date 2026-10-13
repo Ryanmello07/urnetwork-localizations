@@ -1,0 +1,37 @@
+description: "Payout consent section, beside the settlement v2 tile and claim: the note with Change wallet (sn_consent_change) while a consent is active. An epoch is the settlement period, about 7 days."
+source: "A new wallet takes effect from the next epoch."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تسري المحفظة الجديدة بدءًا من الفترة التالية."
+  cs: "Nová peněženka platí od příští epochy."
+  de: "Eine neue Wallet gilt ab der nächsten Epoche."
+  el: "Ένα νέο πορτοφόλι ισχύει από την επόμενη εποχή."
+  en: "A new wallet takes effect from the next epoch."
+  es: "Una billetera nueva se aplica a partir de la próxima época."
+  es-419: "Una billetera nueva se aplica a partir de la próxima época."
+  es-MX: "Una cartera nueva se aplica a partir de la próxima época."
+  fr: "Un nouveau portefeuille prend effet à partir de la prochaine époque."
+  he: "ארנק חדש נכנס לתוקף החל מהתקופה הבאה."
+  hi: "नया वॉलेट अगले एपोक से लागू होता है।"
+  id: "Dompet baru berlaku mulai epoch berikutnya."
+  it: "Un nuovo portafoglio ha effetto dalla prossima epoca."
+  ja: "新しいウォレットは次のエポックから有効になります。"
+  ko: "새 지갑은 다음 에포크부터 적용됩니다."
+  nl: "Een nieuwe wallet gaat in vanaf de volgende epoch."
+  pl: "Nowy portfel obowiązuje od następnej epoki."
+  pt: "Uma nova carteira entra em vigor a partir da próxima época."
+  pt-BR: "Uma nova carteira passa a valer a partir da próxima época."
+  pt-PT: "Uma nova carteira entra em vigor a partir da próxima época."
+  ru: "Новый кошелек начинает действовать со следующей эпохи."
+  sv: "En ny plånbok gäller från nästa epok."
+  sw: "Pochi mpya inaanza kutumika kuanzia kipindi kijacho."
+  th: "กระเป๋าเงินใหม่จะมีผลตั้งแต่อีพอคถัดไป"
+  uk: "Новий гаманець починає діяти з наступної епохи."
+  vi: "Ví mới có hiệu lực từ epoch tiếp theo."
+  zh: "新钱包从下一个周期开始生效。"
+  zh-HK: "新錢包由下一個週期開始生效。"
