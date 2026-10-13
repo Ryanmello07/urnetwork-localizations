@@ -2,6 +2,8 @@ description: "Secondary text under the lag.dev speed tests switch: what turning 
 source: "Let people testing their connection on lag.dev measure latency, download and upload to this device. Tests use some of your bandwidth while they run."
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "اسمح للأشخاص الذين يختبرون اتصالهم على lag.dev بقياس زمن الاستجابة والتنزيل والرفع إلى هذا الجهاز. تستخدم الاختبارات جزءًا من عرض النطاق الترددي لديك أثناء تشغيلها."
   cs: "Umožněte lidem, kteří na lag.dev testují své připojení, měřit latenci, stahování a nahrávání k tomuto zařízení. Testy během běhu využívají část vaší šířky pásma."

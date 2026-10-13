@@ -2,6 +2,8 @@ description: "Title of the switch under the Extender setting that lets people on
 source: "lag.dev speed tests"
 platforms:
   - apple
+  - linux
+  - windows
 localizations:
   ar: "اختبارات السرعة على lag.dev"
   cs: "Testy rychlosti lag.dev"
