@@ -1,7 +1,8 @@
-description: "macOS error when adding a sign-in method could not open the browser for the provider's sign-in page."
+description: "Error when the app could not open the browser for a sign-in page (macOS: adding a sign-in method; Windows: the browser sign-in)."
 source: "Could not open the browser. Please try again."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "تعذّر فتح المتصفح. يُرجى المحاولة مرة أخرى."
   cs: "Prohlížeč se nepodařilo otevřít. Zkuste to prosím znovu."
