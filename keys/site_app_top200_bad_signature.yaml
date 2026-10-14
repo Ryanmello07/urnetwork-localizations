@@ -1,11 +1,11 @@
 description: "App top200: unparseable paste"
-source: "Paste the binding payload exactly as the app shows it."
+source: "Paste the whole binding payload: JSON with binding and client_signature."
 platforms:
   - site
 localizations:
-  ar: "الصق بيانات الربط تمامًا كما يعرضها التطبيق."
-  de: "Füge die Bindungs-Payload genau so ein, wie die App sie anzeigt."
-  en: "Paste the binding payload exactly as the app shows it."
-  es: "Pega la carga útil de vinculación exactamente como la muestra la app."
-  ru: "Вставьте данные привязки точно в том виде, в каком их показывает приложение."
-  zh: "请完全按照应用显示的内容粘贴绑定数据。"
+  ar: "الصق بيانات الربط كاملة: JSON يحتوي على binding و client_signature."
+  de: "Füge die ganze Bindungs-Payload ein: JSON mit binding und client_signature."
+  en: "Paste the whole binding payload: JSON with binding and client_signature."
+  es: "Pega la carga útil de vinculación completa: JSON con binding y client_signature."
+  ru: "Вставьте данные привязки целиком: JSON с полями binding и client_signature."
+  zh: "请粘贴完整的绑定数据：包含 binding 和 client_signature 的 JSON。"
