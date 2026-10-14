@@ -1,11 +1,11 @@
 description: "App top200: how to produce the hotkey signature"
-source: "Sign each binding digest with the hotkey using your own tooling (snclaim bind-head) and paste the signature here."
+source: "provider fleet bind signs with the hotkey for you. For a pasted payload, sign each binding digest with the hotkey using your own tooling and paste the signature here."
 platforms:
   - site
 localizations:
-  ar: "وقّع كل ملخص ربط باستخدام hotkey عبر أدواتك الخاصة (snclaim bind-head) والصق التوقيع هنا."
-  de: "Signiere jeden Bindungs-Digest mit dem Hotkey über deine eigenen Tools (snclaim bind-head) und füge die Signatur hier ein."
-  en: "Sign each binding digest with the hotkey using your own tooling (snclaim bind-head) and paste the signature here."
-  es: "Firma cada resumen de vinculación con la hotkey usando tus propias herramientas (snclaim bind-head) y pega la firma aquí."
-  ru: "Подпишите каждый дайджест привязки ключом hotkey с помощью собственных инструментов (snclaim bind-head) и вставьте подпись сюда."
-  zh: "请使用您自己的工具（snclaim bind-head）以 hotkey 为每个绑定摘要签名，然后将签名粘贴到此处。"
+  ar: "الأمر provider fleet bind يوقّع باستخدام hotkey نيابةً عنك. أما لبيانات الربط الملصقة، فوقّع كل ملخص ربط باستخدام hotkey عبر أدواتك الخاصة والصق التوقيع هنا."
+  de: "provider fleet bind signiert für dich mit dem Hotkey. Für eine eingefügte Payload signiere jeden Bindungs-Digest mit dem Hotkey über deine eigenen Tools und füge die Signatur hier ein."
+  en: "provider fleet bind signs with the hotkey for you. For a pasted payload, sign each binding digest with the hotkey using your own tooling and paste the signature here."
+  es: "provider fleet bind firma con la hotkey por ti. Para una carga útil pegada, firma cada resumen de vinculación con la hotkey usando tus propias herramientas y pega la firma aquí."
+  ru: "provider fleet bind подписывает ключом hotkey за вас. Для вставленных данных привязки подпишите каждый дайджест привязки ключом hotkey с помощью собственных инструментов и вставьте подпись сюда."
+  zh: "provider fleet bind 会替您用 hotkey 签名。对于粘贴的绑定数据，请使用您自己的工具以 hotkey 为每个绑定摘要签名，然后将签名粘贴到此处。"

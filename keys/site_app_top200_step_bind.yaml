@@ -1,11 +1,11 @@
 description: "App top200: step 2"
-source: "Each provider device signs its fleet binding from its app under Account › Top 200. Paste each device's binding payload here, one device at a time."
+source: "Device signing is not in the apps yet. From the CLI, bind each device with provider fleet bind, using your fleet manifest, the device's client key seed (~/.urnetwork/.provider.key) and the hotkey seed. It signs the binding and submits it from your own EVM key. Payloads from other tooling can be pasted here, one device at a time."
 platforms:
   - site
 localizations:
-  ar: "يوقّع كل جهاز مزود على ربط أسطوله من تطبيقه ضمن الحساب › أفضل 200. الصق هنا بيانات الربط لكل جهاز، جهازًا تلو الآخر."
-  de: "Jedes Anbietergerät signiert seine Flotten-Bindung in seiner App unter Konto › Top 200. Füge hier die Bindungs-Payload jedes Geräts ein, ein Gerät nach dem anderen."
-  en: "Each provider device signs its fleet binding from its app under Account › Top 200. Paste each device's binding payload here, one device at a time."
-  es: "Cada dispositivo proveedor firma su vinculación de flota desde su app en Cuenta › Top 200. Pega aquí la carga útil de vinculación de cada dispositivo, de uno en uno."
-  ru: "Каждое устройство-провайдер подписывает привязку своего парка в приложении в разделе Аккаунт › Топ-200. Вставляйте сюда данные привязки каждого устройства по одному."
-  zh: "每台提供商设备都在其应用的“帐户 › 前 200 名”中为设备群绑定签名。请在此处逐台粘贴每台设备的绑定数据。"
+  ar: "لا تستطيع التطبيقات توقيع ربط الأجهزة بعد. من سطر الأوامر، اربط كل جهاز باستخدام provider fleet bind مع بيان أسطولك وبذرة مفتاح العميل للجهاز (~/.urnetwork/.provider.key) وبذرة hotkey. يوقّع الأمر الربط ويرسله من مفتاح EVM الخاص بك. يمكنك لصق بيانات الربط المُنشأة بأدوات أخرى هنا، جهازًا تلو الآخر."
+  de: "Die Apps können Gerätebindungen noch nicht signieren. Binde jedes Gerät über die CLI mit provider fleet bind, mit deinem Flotten-Manifest, dem Client-Key-Seed des Geräts (~/.urnetwork/.provider.key) und dem Hotkey-Seed. Der Befehl signiert die Bindung und sendet sie von deinem eigenen EVM-Schlüssel. Payloads aus anderen Tools kannst du hier einfügen, ein Gerät nach dem anderen."
+  en: "Device signing is not in the apps yet. From the CLI, bind each device with provider fleet bind, using your fleet manifest, the device's client key seed (~/.urnetwork/.provider.key) and the hotkey seed. It signs the binding and submits it from your own EVM key. Payloads from other tooling can be pasted here, one device at a time."
+  es: "Las apps aún no pueden firmar vinculaciones de dispositivos. Desde la CLI, vincula cada dispositivo con provider fleet bind, usando tu manifiesto de flota, la semilla de la clave de cliente del dispositivo (~/.urnetwork/.provider.key) y la semilla de la hotkey. Firma la vinculación y la envía desde tu propia clave EVM. Puedes pegar aquí cargas útiles creadas con otras herramientas, de una en una."
+  ru: "Приложения пока не умеют подписывать привязки устройств. В CLI привяжите каждое устройство командой provider fleet bind, указав манифест парка, seed клиентского ключа устройства (~/.urnetwork/.provider.key) и seed ключа hotkey. Команда подписывает привязку и отправляет её с вашего собственного EVM-ключа. Данные привязки из других инструментов можно вставлять сюда по одному устройству."
+  zh: "应用暂时还不能为设备绑定签名。请在 CLI 中使用 provider fleet bind 绑定每台设备，并提供您的设备群清单、该设备的客户端密钥种子（~/.urnetwork/.provider.key）和 hotkey 种子。该命令会签署绑定，并从您自己的 EVM 密钥提交。由其他工具生成的绑定数据可在此处逐台粘贴。"
