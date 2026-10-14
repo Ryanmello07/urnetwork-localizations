@@ -35,3 +35,19 @@ test("every locale of the Top 200 binding steps names provider fleet bind", () =
 		}
 	}
 });
+
+// The page takes a pasted { binding, client_signature } payload; the sn CLI's
+// sign-only `provider fleet sign` prints it (and, with the hotkey seed, the
+// hotkey signature), so every locale must name it and its flags verbatim.
+test("every locale of the Top 200 binding steps names provider fleet sign", () => {
+	const all = loadAllKeys({ platform: null });
+	const required = {
+		site_app_top200_step_bind: [/provider fleet sign/, /~\/\.urnetwork\/\.provider\.key/],
+		site_app_top200_hotkey_sign_hint: [/provider fleet sign/, /--hotkey_seed_file/, /--client_id/],
+	};
+	for (const [id, patterns] of Object.entries(required)) {
+		for (const [where, value] of texts(all[id])) {
+			for (const pattern of patterns) assert.match(value, pattern, `${id} ${where}`);
+		}
+	}
+});
