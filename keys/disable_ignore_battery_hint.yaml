@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "To disable, please go to App Battery Usage in System Settings"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "لتعطيل ذلك، يرجى الانتقال إلى استخدام بطارية التطبيق في إعدادات النظام"
   cs: "Chcete-li to zakázat, přejděte do Nastavení systému na Využití baterie aplikace"
