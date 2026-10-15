@@ -1,0 +1,11 @@
+description: "App top200: validity epochs missing, not whole numbers, or reversed"
+source: "Enter the validity epochs as whole numbers, the last one no earlier than the first."
+platforms:
+  - site
+localizations:
+  ar: "أدخل حقب الصلاحية كأعداد صحيحة، على ألّا تسبق الأخيرةُ الأولى."
+  de: "Gib die Gültigkeitsepochen als ganze Zahlen ein, die letzte nicht vor der ersten."
+  en: "Enter the validity epochs as whole numbers, the last one no earlier than the first."
+  es: "Introduce las épocas de validez como números enteros, la última no anterior a la primera."
+  ru: "Укажите эпохи действия целыми числами, причём последняя не раньше первой."
+  zh: "请以整数输入有效纪元，且截止纪元不得早于起始纪元。"

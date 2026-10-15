@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: label of the section showing this device's client ID and client key."
+source: "This device"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "هذا الجهاز"
+  cs: "Toto zařízení"
+  de: "Dieses Gerät"
+  el: "Αυτή η συσκευή"
+  en: "This device"
+  es: "Este dispositivo"
+  es-419: "Este dispositivo"
+  es-MX: "Este dispositivo"
+  fr: "Cet appareil"
+  he: "המכשיר הזה"
+  hi: "यह डिवाइस"
+  id: "Perangkat ini"
+  it: "Questo dispositivo"
+  ja: "このデバイス"
+  ko: "이 기기"
+  nl: "Dit apparaat"
+  pl: "To urządzenie"
+  pt: "Este dispositivo"
+  pt-BR: "Este dispositivo"
+  pt-PT: "Este dispositivo"
+  ru: "Это устройство"
+  sv: "Den här enheten"
+  sw: "Kifaa hiki"
+  th: "อุปกรณ์นี้"
+  uk: "Цей пристрій"
+  vi: "Thiết bị này"
+  zh: "这台设备"
+  zh-HK: "這部裝置"

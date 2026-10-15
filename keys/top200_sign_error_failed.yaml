@@ -1,0 +1,39 @@
+description: "Top 200 sign screen: SignSnFleetBinding returned an error; {detail} is the SDK's error text."
+source: "The binding could not be signed: %@"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: detail
+    type: string
+localizations:
+  ar: "تعذّر توقيع الربط: {detail}"
+  cs: "Vazbu se nepodařilo podepsat: {detail}"
+  de: "Die Bindung konnte nicht signiert werden: {detail}"
+  el: "Δεν ήταν δυνατή η υπογραφή της σύνδεσης: {detail}"
+  en: "The binding could not be signed: {detail}"
+  es: "No se pudo firmar la vinculación: {detail}"
+  es-419: "No se pudo firmar la vinculación: {detail}"
+  es-MX: "No se pudo firmar la vinculación: {detail}"
+  fr: "Impossible de signer la liaison : {detail}"
+  he: "לא ניתן היה לחתום על הקישור: {detail}"
+  hi: "बाइंडिंग पर हस्ताक्षर नहीं हो सके: {detail}"
+  id: "Pengikatan tidak dapat ditandatangani: {detail}"
+  it: "Impossibile firmare il collegamento: {detail}"
+  ja: "バインディングに署名できませんでした: {detail}"
+  ko: "바인딩에 서명하지 못했습니다: {detail}"
+  nl: "De koppeling kon niet worden ondertekend: {detail}"
+  pl: "Nie udało się podpisać powiązania: {detail}"
+  pt: "Não foi possível assinar a vinculação: {detail}"
+  pt-BR: "Não foi possível assinar a vinculação: {detail}"
+  pt-PT: "Não foi possível assinar a associação: {detail}"
+  ru: "Не удалось подписать привязку: {detail}"
+  sv: "Bindningen kunde inte signeras: {detail}"
+  sw: "Ufungaji haukuweza kusainiwa: {detail}"
+  th: "ไม่สามารถลงนามการผูกได้: {detail}"
+  uk: "Не вдалося підписати прив'язку: {detail}"
+  vi: "Không thể ký liên kết: {detail}"
+  zh: "无法签署绑定：{detail}"
+  zh-HK: "無法簽署綁定：{detail}"

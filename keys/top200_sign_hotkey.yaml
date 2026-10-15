@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: label of the binding's hotkey (0x hex public key). Hotkey is the Bittensor term."
+source: "Hotkey"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "المفتاح الساخن (hotkey)"
+  cs: "Hotkey"
+  de: "Hotkey"
+  el: "Hotkey"
+  en: "Hotkey"
+  es: "Hotkey"
+  es-419: "Hotkey"
+  es-MX: "Hotkey"
+  fr: "Hotkey"
+  he: "Hotkey"
+  hi: "हॉटकी"
+  id: "Hotkey"
+  it: "Hotkey"
+  ja: "ホットキー"
+  ko: "핫키"
+  nl: "Hotkey"
+  pl: "Hotkey"
+  pt: "Hotkey"
+  pt-BR: "Hotkey"
+  pt-PT: "Hotkey"
+  ru: "Hotkey"
+  sv: "Hotkey"
+  sw: "Hotkey"
+  th: "ฮอตคีย์"
+  uk: "Hotkey"
+  vi: "Hotkey"
+  zh: "Hotkey"
+  zh-HK: "Hotkey"

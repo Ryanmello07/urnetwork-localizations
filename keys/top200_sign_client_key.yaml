@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: label of this device's Ed25519 client public key (0x hex)."
+source: "Client key"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "مفتاح العميل"
+  cs: "Klientský klíč"
+  de: "Client-Schlüssel"
+  el: "Κλειδί πελάτη"
+  en: "Client key"
+  es: "Clave de cliente"
+  es-419: "Clave de cliente"
+  es-MX: "Clave de cliente"
+  fr: "Clé client"
+  he: "מפתח לקוח"
+  hi: "क्लाइंट कुंजी"
+  id: "Kunci klien"
+  it: "Chiave client"
+  ja: "クライアントキー"
+  ko: "클라이언트 키"
+  nl: "Clientsleutel"
+  pl: "Klucz klienta"
+  pt: "Chave de cliente"
+  pt-BR: "Chave de cliente"
+  pt-PT: "Chave de cliente"
+  ru: "Клиентский ключ"
+  sv: "Klientnyckel"
+  sw: "Ufunguo wa mteja"
+  th: "คีย์ไคลเอ็นต์"
+  uk: "Клієнтський ключ"
+  vi: "Khóa máy khách"
+  zh: "客户端密钥"
+  zh-HK: "客戶端金鑰"

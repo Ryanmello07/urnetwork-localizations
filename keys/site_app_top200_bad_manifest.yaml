@@ -1,0 +1,11 @@
+description: "App top200: the pasted fleet manifest does not parse or validate"
+source: "This is not a valid fleet manifest. Paste the JSON that provider fleet manifest prints."
+platforms:
+  - site
+localizations:
+  ar: "هذا ليس بيان أسطول صالحًا. الصق JSON الذي يطبعه provider fleet manifest."
+  de: "Das ist kein gültiges Flotten-Manifest. Füge das JSON ein, das provider fleet manifest ausgibt."
+  en: "This is not a valid fleet manifest. Paste the JSON that provider fleet manifest prints."
+  es: "Esto no es un manifiesto de flota válido. Pega el JSON que imprime provider fleet manifest."
+  ru: "Это не корректный манифест парка. Вставьте JSON, который выводит provider fleet manifest."
+  zh: "这不是有效的设备群清单。请粘贴 provider fleet manifest 输出的 JSON。"

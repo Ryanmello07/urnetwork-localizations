@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: button that copies the signed {binding, client_signature} payload."
+source: "Copy payload"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "انسخ الحمولة"
+  cs: "Kopírovat data"
+  de: "Daten kopieren"
+  el: "Αντιγραφή δεδομένων"
+  en: "Copy payload"
+  es: "Copiar datos"
+  es-419: "Copiar datos"
+  es-MX: "Copiar datos"
+  fr: "Copier les données"
+  he: "העתקת הנתונים"
+  hi: "डेटा कॉपी करें"
+  id: "Salin data"
+  it: "Copia i dati"
+  ja: "データをコピー"
+  ko: "데이터 복사"
+  nl: "Gegevens kopiëren"
+  pl: "Kopiuj dane"
+  pt: "Copiar dados"
+  pt-BR: "Copiar dados"
+  pt-PT: "Copiar dados"
+  ru: "Скопировать данные"
+  sv: "Kopiera data"
+  sw: "Nakili data"
+  th: "คัดลอกข้อมูล"
+  uk: "Скопіювати дані"
+  vi: "Sao chép dữ liệu"
+  zh: "复制数据"
+  zh-HK: "複製資料"

@@ -1,0 +1,41 @@
+description: "Top 200 sign screen: the binding's EVM chain id and Bittensor subnet (netuid)."
+source: "Chain %lld · subnet %lld"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: chain_id
+    type: int
+  - name: netuid
+    type: int
+localizations:
+  ar: "السلسلة {chain_id} · الشبكة الفرعية {netuid}"
+  cs: "Řetězec {chain_id} · podsíť {netuid}"
+  de: "Chain {chain_id} · Subnetz {netuid}"
+  el: "Αλυσίδα {chain_id} · υποδίκτυο {netuid}"
+  en: "Chain {chain_id} · subnet {netuid}"
+  es: "Cadena {chain_id} · subred {netuid}"
+  es-419: "Cadena {chain_id} · subred {netuid}"
+  es-MX: "Cadena {chain_id} · subred {netuid}"
+  fr: "Chaîne {chain_id} · sous-réseau {netuid}"
+  he: "שרשרת {chain_id} · תת-רשת {netuid}"
+  hi: "चेन {chain_id} · सबनेट {netuid}"
+  id: "Chain {chain_id} · subnet {netuid}"
+  it: "Catena {chain_id} · subnet {netuid}"
+  ja: "チェーン {chain_id} · サブネット {netuid}"
+  ko: "체인 {chain_id} · 서브넷 {netuid}"
+  nl: "Chain {chain_id} · subnet {netuid}"
+  pl: "Łańcuch {chain_id} · podsieć {netuid}"
+  pt: "Cadeia {chain_id} · sub-rede {netuid}"
+  pt-BR: "Cadeia {chain_id} · sub-rede {netuid}"
+  pt-PT: "Cadeia {chain_id} · sub-rede {netuid}"
+  ru: "Сеть {chain_id} · подсеть {netuid}"
+  sv: "Kedja {chain_id} · subnät {netuid}"
+  sw: "Mnyororo {chain_id} · subnet {netuid}"
+  th: "เชน {chain_id} · ซับเน็ต {netuid}"
+  uk: "Мережа {chain_id} · підмережа {netuid}"
+  vi: "Chuỗi {chain_id} · mạng con {netuid}"
+  zh: "链 {chain_id} · 子网 {netuid}"
+  zh-HK: "鏈 {chain_id} · 子網 {netuid}"

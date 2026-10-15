@@ -1,0 +1,11 @@
+description: "App top200: fleet manifest textarea label"
+source: "Fleet manifest"
+platforms:
+  - site
+localizations:
+  ar: "بيان الأسطول"
+  de: "Flotten-Manifest"
+  en: "Fleet manifest"
+  es: "Manifiesto de flota"
+  ru: "Манифест парка"
+  zh: "设备群清单"

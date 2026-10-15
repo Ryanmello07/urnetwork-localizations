@@ -1,0 +1,11 @@
+description: "App top200: how to get the fleet manifest and where an app shows its member entry"
+source: "Paste your fleet manifest (the JSON that provider fleet manifest prints) and the validity epochs to build each device's binding. The app shows its device's member entry for the manifest under Earnings › Top 200 › Sign fleet binding."
+platforms:
+  - site
+localizations:
+  ar: "الصق بيان أسطولك (JSON الذي يطبعه provider fleet manifest) وحقب الصلاحية لإنشاء ربط كل جهاز. يعرض التطبيق إدخال العضو الخاص بجهازه للبيان في الأرباح › أفضل 200 › توقيع ربط الأسطول."
+  de: "Füge dein Flotten-Manifest (das JSON, das provider fleet manifest ausgibt) und die Gültigkeitsepochen ein, um die Bindung jedes Geräts zu erstellen. Die App zeigt den Mitgliedseintrag ihres Geräts für das Manifest unter Einnahmen › Top 200 › Flottenbindung signieren."
+  en: "Paste your fleet manifest (the JSON that provider fleet manifest prints) and the validity epochs to build each device's binding. The app shows its device's member entry for the manifest under Earnings › Top 200 › Sign fleet binding."
+  es: "Pega tu manifiesto de flota (el JSON que imprime provider fleet manifest) y las épocas de validez para generar la vinculación de cada dispositivo. La app muestra la entrada de miembro de su dispositivo para el manifiesto en Ganancias › Top 200 › Firmar vinculación de flota."
+  ru: "Вставьте манифест парка (JSON, который выводит provider fleet manifest) и эпохи действия, чтобы создать привязку для каждого устройства. Приложение показывает запись участника своего устройства для манифеста в разделе Заработок › Топ-200 › Подписать привязку парка."
+  zh: "粘贴您的设备群清单（provider fleet manifest 输出的 JSON）和有效纪元，即可为每台设备生成绑定。应用会在 收益 › 前 200 名 › 签署设备群绑定 中显示其设备用于清单的成员条目。"

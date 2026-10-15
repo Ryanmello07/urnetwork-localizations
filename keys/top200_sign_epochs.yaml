@@ -1,0 +1,41 @@
+description: "Top 200 sign screen: the binding's validity window (valid_from_epoch, valid_to_epoch), both inclusive."
+source: "Valid from epoch %lld to %lld"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: from
+    type: int
+  - name: to
+    type: int
+localizations:
+  ar: "صالح من الحقبة {from} إلى {to}"
+  cs: "Platí od epochy {from} do {to}"
+  de: "Gültig von Epoche {from} bis {to}"
+  el: "Ισχύει από την εποχή {from} έως {to}"
+  en: "Valid from epoch {from} to {to}"
+  es: "Válida de la época {from} a la {to}"
+  es-419: "Válida de la época {from} a la {to}"
+  es-MX: "Válida de la época {from} a la {to}"
+  fr: "Valide de l’époque {from} à {to}"
+  he: "בתוקף מתקופה {from} עד {to}"
+  hi: "एपॉक {from} से {to} तक मान्य"
+  id: "Berlaku dari epoch {from} hingga {to}"
+  it: "Valido dall’epoca {from} alla {to}"
+  ja: "エポック {from} から {to} まで有効"
+  ko: "에포크 {from}부터 {to}까지 유효"
+  nl: "Geldig van epoch {from} tot en met {to}"
+  pl: "Ważne od epoki {from} do {to}"
+  pt: "Válida da época {from} à {to}"
+  pt-BR: "Válida da época {from} à {to}"
+  pt-PT: "Válida da época {from} à {to}"
+  ru: "Действует с эпохи {from} по {to}"
+  sv: "Giltig från epok {from} till {to}"
+  sw: "Halali kuanzia epoch {from} hadi {to}"
+  th: "ใช้ได้ตั้งแต่ epoch {from} ถึง {to}"
+  uk: "Діє з епохи {from} по {to}"
+  vi: "Hiệu lực từ epoch {from} đến {to}"
+  zh: "有效期：纪元 {from} 至 {to}"
+  zh-HK: "有效期：紀元 {from} 至 {to}"

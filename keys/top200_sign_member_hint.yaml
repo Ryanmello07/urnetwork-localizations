@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: why the operator needs this device's member entry (client ID and client key) for the fleet manifest."
+source: "Your fleet manifest lists this device by its client ID and client key. Copy its member entry and send it to your fleet operator."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يُدرج بيان أسطولك هذا الجهاز بمعرّف العميل ومفتاح العميل الخاصين به. انسخ إدخال العضو الخاص به وأرسله إلى مشغّل أسطولك."
+  cs: "Manifest vaší flotily uvádí toto zařízení podle jeho ID klienta a klientského klíče. Zkopírujte jeho položku člena a pošlete ji provozovateli flotily."
+  de: "Dein Flotten-Manifest führt dieses Gerät mit seiner Client-ID und seinem Client-Schlüssel. Kopiere seinen Mitgliedseintrag und schicke ihn an den Betreiber deiner Flotte."
+  el: "Το μανιφέστο του στόλου σας καταγράφει αυτή τη συσκευή με το ID πελάτη και το κλειδί πελάτη της. Αντιγράψτε την καταχώριση μέλους της και στείλτε την στον διαχειριστή του στόλου σας."
+  en: "Your fleet manifest lists this device by its client ID and client key. Copy its member entry and send it to your fleet operator."
+  es: "El manifiesto de tu flota identifica este dispositivo por su ID de cliente y su clave de cliente. Copia su entrada de miembro y envíasela al operador de tu flota."
+  es-419: "El manifiesto de tu flota identifica este dispositivo por su ID de cliente y su clave de cliente. Copia su entrada de miembro y envíasela al operador de tu flota."
+  es-MX: "El manifiesto de tu flota identifica este dispositivo por su ID de cliente y su clave de cliente. Copia su entrada de miembro y envíasela al operador de tu flota."
+  fr: "Le manifeste de votre flotte identifie cet appareil par son ID client et sa clé client. Copiez son entrée de membre et envoyez-la à l’opérateur de votre flotte."
+  he: "מניפסט הצי שלכם מזהה את המכשיר הזה לפי מזהה הלקוח ומפתח הלקוח שלו. העתיקו את רשומת החבר שלו ושלחו אותה למפעיל הצי שלכם."
+  hi: "आपका फ़्लीट मैनिफ़ेस्ट इस डिवाइस को उसकी क्लाइंट ID और क्लाइंट कुंजी से सूचीबद्ध करता है। इसकी सदस्य प्रविष्टि कॉपी करें और अपने फ़्लीट के संचालक को भेजें।"
+  id: "Manifes armada Anda mencantumkan perangkat ini dengan ID klien dan kunci kliennya. Salin entri anggotanya dan kirimkan ke operator armada Anda."
+  it: "Il manifesto della tua flotta elenca questo dispositivo con il suo ID client e la sua chiave client. Copia la sua voce di membro e inviala all’operatore della tua flotta."
+  ja: "フリートマニフェストには、このデバイスがクライアントIDとクライアントキーで記載されます。メンバーエントリをコピーして、フリートの運営者に送ってください。"
+  ko: "플릿 매니페스트는 이 기기를 클라이언트 ID와 클라이언트 키로 등록합니다. 멤버 항목을 복사해 플릿 운영자에게 보내세요."
+  nl: "Je vlootmanifest vermeldt dit apparaat met zijn client-ID en clientsleutel. Kopieer de ledenvermelding en stuur die naar de beheerder van je vloot."
+  pl: "Manifest twojej floty wymienia to urządzenie po jego ID klienta i kluczu klienta. Skopiuj jego wpis członka i wyślij go operatorowi floty."
+  pt: "O manifesto da sua frota identifica este dispositivo pelo ID do cliente e pela chave de cliente. Copie a entrada de membro dele e envie-a ao operador da sua frota."
+  pt-BR: "O manifesto da sua frota identifica este dispositivo pelo ID do cliente e pela chave de cliente. Copie a entrada de membro dele e envie-a ao operador da sua frota."
+  pt-PT: "O manifesto da sua frota identifica este dispositivo pelo ID do cliente e pela chave de cliente. Copie a respetiva entrada de membro e envie-a ao operador da sua frota."
+  ru: "Манифест вашего парка указывает это устройство по его ID клиента и клиентскому ключу. Скопируйте запись участника и отправьте её оператору парка."
+  sv: "Ditt flottmanifest anger enheten med dess klient-ID och klientnyckel. Kopiera dess medlemspost och skicka den till din flottas operatör."
+  sw: "Orodha ya kundi lako inaorodhesha kifaa hiki kwa kitambulisho cha mteja na ufunguo wa mteja wake. Nakili ingizo lake la mwanachama na umtumie mwendeshaji wa kundi lako."
+  th: "แมนิเฟสต์ของฟลีตระบุอุปกรณ์นี้ด้วย ID ไคลเอ็นต์และคีย์ไคลเอ็นต์ คัดลอกรายการสมาชิกของอุปกรณ์แล้วส่งให้ผู้ดูแลฟลีตของคุณ"
+  uk: "Маніфест вашого парку вказує цей пристрій за його ID клієнта та клієнтським ключем. Скопіюйте запис учасника й надішліть його оператору парку."
+  vi: "Bản kê khai đội máy liệt kê thiết bị này theo ID máy khách và khóa máy khách của nó. Sao chép mục thành viên của thiết bị và gửi cho người vận hành đội máy của bạn."
+  zh: "您的设备群清单通过客户端 ID 和客户端密钥列出这台设备。复制它的成员条目并发送给您的设备群运营者。"
+  zh-HK: "你的裝置群清單以客戶端 ID 和客戶端金鑰列出這部裝置。複製它的成員項目並傳送給你的裝置群營運者。"
