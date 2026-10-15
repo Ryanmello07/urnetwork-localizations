@@ -1,0 +1,37 @@
+description: "Top 200 sign screen: label of the field where the binding JSON from the ur.io Top 200 page is pasted."
+source: "Binding to sign"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "الربط المطلوب توقيعه"
+  cs: "Vazba k podpisu"
+  de: "Zu signierende Bindung"
+  el: "Σύνδεση προς υπογραφή"
+  en: "Binding to sign"
+  es: "Vinculación para firmar"
+  es-419: "Vinculación para firmar"
+  es-MX: "Vinculación para firmar"
+  fr: "Liaison à signer"
+  he: "קישור לחתימה"
+  hi: "हस्ताक्षर के लिए बाइंडिंग"
+  id: "Pengikatan untuk ditandatangani"
+  it: "Collegamento da firmare"
+  ja: "署名するバインディング"
+  ko: "서명할 바인딩"
+  nl: "Te ondertekenen koppeling"
+  pl: "Powiązanie do podpisania"
+  pt: "Vinculação a assinar"
+  pt-BR: "Vinculação a assinar"
+  pt-PT: "Associação a assinar"
+  ru: "Привязка для подписи"
+  sv: "Bindning att signera"
+  sw: "Ufungaji wa kusaini"
+  th: "การผูกที่จะลงนาม"
+  uk: "Прив'язка для підпису"
+  vi: "Liên kết cần ký"
+  zh: "待签署的绑定"
+  zh-HK: "待簽署的綁定"

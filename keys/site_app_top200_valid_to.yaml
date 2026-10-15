@@ -1,0 +1,11 @@
+description: "App top200: last epoch the bindings are valid for (input label)"
+source: "Valid to epoch"
+platforms:
+  - site
+localizations:
+  ar: "صالح حتى الحقبة"
+  de: "Gültig bis Epoche"
+  en: "Valid to epoch"
+  es: "Válida hasta la época"
+  ru: "Последняя эпоха действия"
+  zh: "截止有效纪元"

@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: intro. The binding is built on the ur.io Top 200 page; the app signs it locally and sends nothing."
+source: "Your fleet operator builds this device's binding on the Top 200 page at ur.io. Paste it here to sign it with this device's client key. Nothing is sent: you copy the signed payload back to the page yourself."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يُعِدّ مشغّل أسطولك ربط هذا الجهاز في صفحة أفضل 200 على ur.io. الصقه هنا لتوقيعه بمفتاح العميل لهذا الجهاز. لا يُرسَل أي شيء: أنت من ينسخ الحمولة الموقّعة إلى الصفحة."
+  cs: "Provozovatel vaší flotily připraví vazbu tohoto zařízení na stránce Top 200 na ur.io. Vložte ji sem a podepište ji klientským klíčem tohoto zařízení. Nic se neodesílá: podepsaná data zkopírujete zpět na stránku sami."
+  de: "Der Betreiber deiner Flotte erstellt die Bindung dieses Geräts auf der Top-200-Seite auf ur.io. Füge sie hier ein, um sie mit dem Client-Schlüssel dieses Geräts zu signieren. Es wird nichts gesendet: Du kopierst die signierten Daten selbst zurück auf die Seite."
+  el: "Ο διαχειριστής του στόλου σας δημιουργεί τη σύνδεση αυτής της συσκευής στη σελίδα Top 200 στο ur.io. Επικολλήστε την εδώ για να την υπογράψετε με το κλειδί πελάτη αυτής της συσκευής. Δεν αποστέλλεται τίποτα: αντιγράφετε εσείς τα υπογεγραμμένα δεδομένα πίσω στη σελίδα."
+  en: "Your fleet operator builds this device's binding on the Top 200 page at ur.io. Paste it here to sign it with this device's client key. Nothing is sent: you copy the signed payload back to the page yourself."
+  es: "El operador de tu flota prepara la vinculación de este dispositivo en la página Top 200 de ur.io. Pégala aquí para firmarla con la clave de cliente de este dispositivo. No se envía nada: tú copias de vuelta a la página los datos firmados."
+  es-419: "El operador de tu flota prepara la vinculación de este dispositivo en la página Top 200 de ur.io. Pégala aquí para firmarla con la clave de cliente de este dispositivo. No se envía nada: tú copias de vuelta a la página los datos firmados."
+  es-MX: "El operador de tu flota prepara la vinculación de este dispositivo en la página Top 200 de ur.io. Pégala aquí para firmarla con la clave de cliente de este dispositivo. No se envía nada: tú copias de vuelta a la página los datos firmados."
+  fr: "L’opérateur de votre flotte prépare la liaison de cet appareil sur la page Top 200 de ur.io. Collez-la ici pour la signer avec la clé client de cet appareil. Rien n’est envoyé : vous recopiez vous-même les données signées sur la page."
+  he: "מפעיל הצי שלכם בונה את הקישור של המכשיר הזה בדף Top 200 באתר ur.io. הדביקו אותו כאן כדי לחתום עליו במפתח הלקוח של המכשיר הזה. שום דבר לא נשלח: אתם מעתיקים בעצמכם את הנתונים החתומים בחזרה לדף."
+  hi: "आपके फ़्लीट का संचालक ur.io पर टॉप 200 पेज पर इस डिवाइस की बाइंडिंग बनाता है। इसे इस डिवाइस की क्लाइंट कुंजी से हस्ताक्षरित करने के लिए यहाँ पेस्ट करें। कुछ भी भेजा नहीं जाता: हस्ताक्षरित डेटा आप स्वयं पेज पर वापस कॉपी करते हैं।"
+  id: "Operator armada Anda menyiapkan pengikatan perangkat ini di halaman Top 200 di ur.io. Tempelkan di sini untuk menandatanganinya dengan kunci klien perangkat ini. Tidak ada yang dikirim: Anda sendiri yang menyalin data bertanda tangan kembali ke halaman."
+  it: "L’operatore della tua flotta prepara il collegamento di questo dispositivo nella pagina Top 200 su ur.io. Incollalo qui per firmarlo con la chiave client di questo dispositivo. Non viene inviato nulla: sei tu a copiare i dati firmati di nuovo sulla pagina."
+  ja: "フリートの運営者が ur.io のトップ 200 ページでこのデバイスのバインディングを作成します。ここに貼り付けると、このデバイスのクライアントキーで署名できます。何も送信されません。署名済みのデータはご自身でページにコピーして戻します。"
+  ko: "플릿 운영자가 ur.io의 Top 200 페이지에서 이 기기의 바인딩을 만듭니다. 여기에 붙여 넣으면 이 기기의 클라이언트 키로 서명합니다. 아무것도 전송되지 않으며, 서명된 데이터는 직접 페이지에 다시 복사합니다."
+  nl: "De beheerder van je vloot maakt de koppeling van dit apparaat op de Top 200-pagina op ur.io. Plak hem hier om hem te ondertekenen met de clientsleutel van dit apparaat. Er wordt niets verzonden: je kopieert de ondertekende gegevens zelf terug naar de pagina."
+  pl: "Operator twojej floty przygotowuje powiązanie tego urządzenia na stronie Top 200 w ur.io. Wklej je tutaj, aby podpisać je kluczem klienta tego urządzenia. Nic nie jest wysyłane: podpisane dane sam kopiujesz z powrotem na stronę."
+  pt: "O operador da sua frota prepara a vinculação deste dispositivo na página Top 200 em ur.io. Cole-a aqui para assiná-la com a chave de cliente deste dispositivo. Nada é enviado: você mesmo copia os dados assinados de volta para a página."
+  pt-BR: "O operador da sua frota prepara a vinculação deste dispositivo na página Top 200 em ur.io. Cole-a aqui para assiná-la com a chave de cliente deste dispositivo. Nada é enviado: você mesmo copia os dados assinados de volta para a página."
+  pt-PT: "O operador da sua frota prepara a associação deste dispositivo na página Top 200 em ur.io. Cole-a aqui para a assinar com a chave de cliente deste dispositivo. Nada é enviado: é o próprio utilizador que copia os dados assinados de volta para a página."
+  ru: "Оператор вашего парка готовит привязку этого устройства на странице Топ-200 на ur.io. Вставьте её сюда, чтобы подписать клиентским ключом этого устройства. Ничего не отправляется: подписанные данные вы сами копируете обратно на страницу."
+  sv: "Din flottas operatör skapar enhetens bindning på Topp 200-sidan på ur.io. Klistra in den här för att signera den med enhetens klientnyckel. Inget skickas: du kopierar själv tillbaka den signerade datan till sidan."
+  sw: "Mwendeshaji wa kundi lako huandaa ufungaji wa kifaa hiki kwenye ukurasa wa Top 200 katika ur.io. Ibandike hapa ili uisaini kwa ufunguo wa mteja wa kifaa hiki. Hakuna kinachotumwa: wewe mwenyewe unanakili data iliyosainiwa kurudi kwenye ukurasa."
+  th: "ผู้ดูแลฟลีตของคุณสร้างการผูกของอุปกรณ์นี้ในหน้า Top 200 บน ur.io วางที่นี่เพื่อลงนามด้วยคีย์ไคลเอ็นต์ของอุปกรณ์นี้ ไม่มีการส่งข้อมูลใดๆ คุณคัดลอกข้อมูลที่ลงนามแล้วกลับไปยังหน้าเว็บด้วยตัวเอง"
+  uk: "Оператор вашого парку готує прив'язку цього пристрою на сторінці Топ-200 на ur.io. Вставте її сюди, щоб підписати клієнтським ключем цього пристрою. Нічого не надсилається: підписані дані ви самі копіюєте назад на сторінку."
+  vi: "Người vận hành đội máy của bạn tạo liên kết cho thiết bị này trên trang Top 200 tại ur.io. Dán vào đây để ký bằng khóa máy khách của thiết bị này. Không có gì được gửi đi: bạn tự sao chép dữ liệu đã ký trở lại trang."
+  zh: "您的设备群运营者会在 ur.io 的前 200 名页面上为这台设备生成绑定。将其粘贴到此处，即可用这台设备的客户端密钥签名。不会发送任何内容：签名后的数据由您自己复制回该页面。"
+  zh-HK: "你的裝置群營運者會在 ur.io 的前 200 名頁面為這部裝置產生綁定。將其貼到此處，即可用這部裝置的客戶端金鑰簽署。不會傳送任何內容：簽署後的資料由你自己複製回該頁面。"

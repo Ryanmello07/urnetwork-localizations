@@ -1,0 +1,37 @@
+description: "Top 200: the button that opens the screen where this device signs its fleet binding, and that screen's title. The ur.io Top 200 page names it in its steps (Earnings › Top 200 › Sign fleet binding)."
+source: "Sign fleet binding"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "توقيع ربط الأسطول"
+  cs: "Podepsat vazbu flotily"
+  de: "Flottenbindung signieren"
+  el: "Υπογραφή σύνδεσης στόλου"
+  en: "Sign fleet binding"
+  es: "Firmar vinculación de flota"
+  es-419: "Firmar vinculación de flota"
+  es-MX: "Firmar vinculación de flota"
+  fr: "Signer la liaison de flotte"
+  he: "חתימה על קישור הצי"
+  hi: "फ़्लीट बाइंडिंग पर हस्ताक्षर करें"
+  id: "Tanda tangani pengikatan armada"
+  it: "Firma il collegamento della flotta"
+  ja: "フリートバインディングに署名"
+  ko: "플릿 바인딩 서명"
+  nl: "Vlootkoppeling ondertekenen"
+  pl: "Podpisz powiązanie floty"
+  pt: "Assinar vinculação da frota"
+  pt-BR: "Assinar vinculação da frota"
+  pt-PT: "Assinar associação da frota"
+  ru: "Подписать привязку парка"
+  sv: "Signera flottbindning"
+  sw: "Saini ufungaji wa kundi"
+  th: "ลงนามการผูกฟลีต"
+  uk: "Підписати прив'язку парку"
+  vi: "Ký liên kết đội máy"
+  zh: "签署设备群绑定"
+  zh-HK: "簽署裝置群綁定"

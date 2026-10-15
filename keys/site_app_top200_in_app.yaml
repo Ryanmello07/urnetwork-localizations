@@ -1,0 +1,14 @@
+description: "App top200: where the app signs a binding; {path} is Earnings › Top 200 › Sign fleet binding in the reader's language"
+source: "In the URnetwork app: {path}"
+platforms:
+  - site
+placeholders:
+  - name: path
+    type: string
+localizations:
+  ar: "في تطبيق URnetwork: {path}"
+  de: "In der URnetwork-App: {path}"
+  en: "In the URnetwork app: {path}"
+  es: "En la app URnetwork: {path}"
+  ru: "В приложении URnetwork: {path}"
+  zh: "在 URnetwork 应用中：{path}"

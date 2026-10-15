@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: label of the binding's fleet_id (0x hex)."
+source: "Fleet ID"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "معرّف الأسطول"
+  cs: "ID flotily"
+  de: "Flotten-ID"
+  el: "ID στόλου"
+  en: "Fleet ID"
+  es: "ID de flota"
+  es-419: "ID de flota"
+  es-MX: "ID de flota"
+  fr: "ID de flotte"
+  he: "מזהה הצי"
+  hi: "फ़्लीट ID"
+  id: "ID armada"
+  it: "ID della flotta"
+  ja: "フリートID"
+  ko: "플릿 ID"
+  nl: "Vloot-ID"
+  pl: "ID floty"
+  pt: "ID da frota"
+  pt-BR: "ID da frota"
+  pt-PT: "ID da frota"
+  ru: "ID парка"
+  sv: "Flott-ID"
+  sw: "Kitambulisho cha kundi"
+  th: "ID ฟลีต"
+  uk: "ID парку"
+  vi: "ID đội máy"
+  zh: "设备群 ID"
+  zh-HK: "裝置群 ID"

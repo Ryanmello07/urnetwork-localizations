@@ -1,0 +1,11 @@
+description: "App top200: first epoch the bindings are valid for (input label)"
+source: "Valid from epoch"
+platforms:
+  - site
+localizations:
+  ar: "صالح من الحقبة"
+  de: "Gültig ab Epoche"
+  en: "Valid from epoch"
+  es: "Válida desde la época"
+  ru: "Первая эпоха действия"
+  zh: "起始有效纪元"

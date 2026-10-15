@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: the button that signs the reviewed binding with this device's client key (local only)."
+source: "Sign with this device"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "وقّع بهذا الجهاز"
+  cs: "Podepsat tímto zařízením"
+  de: "Mit diesem Gerät signieren"
+  el: "Υπογραφή με αυτή τη συσκευή"
+  en: "Sign with this device"
+  es: "Firmar con este dispositivo"
+  es-419: "Firmar con este dispositivo"
+  es-MX: "Firmar con este dispositivo"
+  fr: "Signer avec cet appareil"
+  he: "חתימה עם המכשיר הזה"
+  hi: "इस डिवाइस से हस्ताक्षर करें"
+  id: "Tanda tangani dengan perangkat ini"
+  it: "Firma con questo dispositivo"
+  ja: "このデバイスで署名"
+  ko: "이 기기로 서명"
+  nl: "Ondertekenen met dit apparaat"
+  pl: "Podpisz tym urządzeniem"
+  pt: "Assinar com este dispositivo"
+  pt-BR: "Assinar com este dispositivo"
+  pt-PT: "Assinar com este dispositivo"
+  ru: "Подписать этим устройством"
+  sv: "Signera med den här enheten"
+  sw: "Saini kwa kifaa hiki"
+  th: "ลงนามด้วยอุปกรณ์นี้"
+  uk: "Підписати цим пристроєм"
+  vi: "Ký bằng thiết bị này"
+  zh: "用这台设备签名"
+  zh-HK: "用這部裝置簽署"

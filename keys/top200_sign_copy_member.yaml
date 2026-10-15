@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: button that copies this device's fleet manifest member entry {\"client_id\":\"0x…\",\"client_key\":\"0x…\"}."
+source: "Copy member entry"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "انسخ إدخال العضو"
+  cs: "Kopírovat položku člena"
+  de: "Mitgliedseintrag kopieren"
+  el: "Αντιγραφή καταχώρισης μέλους"
+  en: "Copy member entry"
+  es: "Copiar entrada de miembro"
+  es-419: "Copiar entrada de miembro"
+  es-MX: "Copiar entrada de miembro"
+  fr: "Copier l’entrée de membre"
+  he: "העתקת רשומת החבר"
+  hi: "सदस्य प्रविष्टि कॉपी करें"
+  id: "Salin entri anggota"
+  it: "Copia voce di membro"
+  ja: "メンバーエントリをコピー"
+  ko: "멤버 항목 복사"
+  nl: "Ledenvermelding kopiëren"
+  pl: "Kopiuj wpis członka"
+  pt: "Copiar entrada de membro"
+  pt-BR: "Copiar entrada de membro"
+  pt-PT: "Copiar entrada de membro"
+  ru: "Скопировать запись участника"
+  sv: "Kopiera medlemspost"
+  sw: "Nakili ingizo la mwanachama"
+  th: "คัดลอกรายการสมาชิก"
+  uk: "Скопіювати запис учасника"
+  vi: "Sao chép mục thành viên"
+  zh: "复制成员条目"
+  zh-HK: "複製成員項目"

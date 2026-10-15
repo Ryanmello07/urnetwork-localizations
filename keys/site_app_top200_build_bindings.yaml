@@ -1,0 +1,11 @@
+description: "App top200: build each manifest member's binding"
+source: "Build bindings"
+platforms:
+  - site
+localizations:
+  ar: "إنشاء الروابط"
+  de: "Bindungen erstellen"
+  en: "Build bindings"
+  es: "Generar vinculaciones"
+  ru: "Создать привязки"
+  zh: "生成绑定"

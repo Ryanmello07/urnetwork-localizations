@@ -1,0 +1,11 @@
+description: "App top200: the manifest's SHA-256 is not the commitment_sha256 line pasted with it"
+source: "This manifest does not match the commitment_sha256 pasted with it."
+platforms:
+  - site
+localizations:
+  ar: "هذا البيان لا يطابق قيمة commitment_sha256 الملصقة معه."
+  de: "Dieses Manifest passt nicht zu dem mit eingefügten commitment_sha256."
+  en: "This manifest does not match the commitment_sha256 pasted with it."
+  es: "Este manifiesto no coincide con el commitment_sha256 pegado con él."
+  ru: "Этот манифест не совпадает со вставленным вместе с ним commitment_sha256."
+  zh: "此清单与一同粘贴的 commitment_sha256 不一致。"

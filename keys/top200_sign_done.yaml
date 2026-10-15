@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: shown with the signed {binding, client_signature} payload. 'Device signature' is the ur.io page's field label (site_app_top200_device_signature)."
+source: "Signed. Copy the payload and paste it on the Top 200 page under Device signature."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "تم التوقيع. انسخ الحمولة والصقها في صفحة أفضل 200 تحت توقيع الجهاز."
+  cs: "Podepsáno. Zkopírujte data a vložte je na stránce Top 200 do pole Podpis zařízení."
+  de: "Signiert. Kopiere die Daten und füge sie auf der Top-200-Seite unter Gerätesignatur ein."
+  el: "Υπογράφηκε. Αντιγράψτε τα δεδομένα και επικολλήστε τα στη σελίδα Top 200, στο πεδίο Υπογραφή συσκευής."
+  en: "Signed. Copy the payload and paste it on the Top 200 page under Device signature."
+  es: "Firmada. Copia los datos y pégalos en la página Top 200, en Firma del dispositivo."
+  es-419: "Firmada. Copia los datos y pégalos en la página Top 200, en Firma del dispositivo."
+  es-MX: "Firmada. Copia los datos y pégalos en la página Top 200, en Firma del dispositivo."
+  fr: "Signée. Copiez les données et collez-les sur la page Top 200, sous Signature de l’appareil."
+  he: "נחתם. העתיקו את הנתונים והדביקו אותם בדף Top 200 תחת חתימת המכשיר."
+  hi: "हस्ताक्षरित। डेटा कॉपी करें और टॉप 200 पेज पर डिवाइस हस्ताक्षर के अंतर्गत पेस्ट करें।"
+  id: "Ditandatangani. Salin datanya dan tempelkan di halaman Top 200 pada Tanda tangan perangkat."
+  it: "Firmato. Copia i dati e incollali nella pagina Top 200, in Firma del dispositivo."
+  ja: "署名しました。データをコピーし、トップ 200 ページの「デバイスの署名」に貼り付けてください。"
+  ko: "서명했습니다. 데이터를 복사해 Top 200 페이지의 기기 서명에 붙여 넣으세요."
+  nl: "Ondertekend. Kopieer de gegevens en plak ze op de Top 200-pagina onder Apparaathandtekening."
+  pl: "Podpisano. Skopiuj dane i wklej je na stronie Top 200 w polu Podpis urządzenia."
+  pt: "Assinada. Copie os dados e cole-os na página Top 200, em Assinatura do dispositivo."
+  pt-BR: "Assinada. Copie os dados e cole-os na página Top 200, em Assinatura do dispositivo."
+  pt-PT: "Assinada. Copie os dados e cole-os na página Top 200, em Assinatura do dispositivo."
+  ru: "Подписано. Скопируйте данные и вставьте их на странице Топ-200 в поле «Подпись устройства»."
+  sv: "Signerad. Kopiera datan och klistra in den på Topp 200-sidan under Enhetssignatur."
+  sw: "Imesainiwa. Nakili data na uibandike kwenye ukurasa wa Top 200 chini ya Sahihi ya kifaa."
+  th: "ลงนามแล้ว คัดลอกข้อมูลแล้ววางในหน้า Top 200 ที่ช่องลายเซ็นของอุปกรณ์"
+  uk: "Підписано. Скопіюйте дані та вставте їх на сторінці Топ-200 у поле «Підпис пристрою»."
+  vi: "Đã ký. Sao chép dữ liệu và dán vào trang Top 200 ở mục Chữ ký thiết bị."
+  zh: "已签名。复制数据，并粘贴到前 200 名页面的“设备签名”中。"
+  zh-HK: "已簽署。複製資料，並貼到前 200 名頁面的「裝置簽名」中。"

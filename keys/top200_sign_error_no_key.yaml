@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: GetSnClientKey returned nothing (no client key, or the desktop/extension service that holds it is not running)."
+source: "This device's client key is not available right now. Start URnetwork on this device, then try again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "مفتاح العميل لهذا الجهاز غير متاح الآن. شغّل URnetwork على هذا الجهاز، ثم حاول مرة أخرى."
+  cs: "Klientský klíč tohoto zařízení teď není k dispozici. Spusťte na tomto zařízení URnetwork a zkuste to znovu."
+  de: "Der Client-Schlüssel dieses Geräts ist gerade nicht verfügbar. Starte URnetwork auf diesem Gerät und versuche es dann erneut."
+  el: "Το κλειδί πελάτη αυτής της συσκευής δεν είναι διαθέσιμο αυτή τη στιγμή. Εκκινήστε το URnetwork σε αυτή τη συσκευή και δοκιμάστε ξανά."
+  en: "This device's client key is not available right now. Start URnetwork on this device, then try again."
+  es: "La clave de cliente de este dispositivo no está disponible ahora. Inicia URnetwork en este dispositivo y vuelve a intentarlo."
+  es-419: "La clave de cliente de este dispositivo no está disponible ahora. Inicia URnetwork en este dispositivo y vuelve a intentarlo."
+  es-MX: "La clave de cliente de este dispositivo no está disponible ahora. Inicia URnetwork en este dispositivo y vuelve a intentarlo."
+  fr: "La clé client de cet appareil n’est pas disponible pour le moment. Démarrez URnetwork sur cet appareil, puis réessayez."
+  he: "מפתח הלקוח של המכשיר הזה אינו זמין כרגע. הפעילו את URnetwork במכשיר הזה ונסו שוב."
+  hi: "इस डिवाइस की क्लाइंट कुंजी अभी उपलब्ध नहीं है। इस डिवाइस पर URnetwork शुरू करें, फिर दोबारा कोशिश करें।"
+  id: "Kunci klien perangkat ini sedang tidak tersedia. Jalankan URnetwork di perangkat ini, lalu coba lagi."
+  it: "La chiave client di questo dispositivo non è disponibile al momento. Avvia URnetwork su questo dispositivo e riprova."
+  ja: "このデバイスのクライアントキーは現在利用できません。このデバイスで URnetwork を起動してから、もう一度お試しください。"
+  ko: "지금은 이 기기의 클라이언트 키를 사용할 수 없습니다. 이 기기에서 URnetwork를 실행한 후 다시 시도하세요."
+  nl: "De clientsleutel van dit apparaat is nu niet beschikbaar. Start URnetwork op dit apparaat en probeer het opnieuw."
+  pl: "Klucz klienta tego urządzenia jest teraz niedostępny. Uruchom URnetwork na tym urządzeniu i spróbuj ponownie."
+  pt: "A chave de cliente deste dispositivo não está disponível agora. Inicie o URnetwork neste dispositivo e tente novamente."
+  pt-BR: "A chave de cliente deste dispositivo não está disponível agora. Inicie o URnetwork neste dispositivo e tente novamente."
+  pt-PT: "A chave de cliente deste dispositivo não está disponível neste momento. Inicie o URnetwork neste dispositivo e tente novamente."
+  ru: "Клиентский ключ этого устройства сейчас недоступен. Запустите URnetwork на этом устройстве и повторите попытку."
+  sv: "Enhetens klientnyckel är inte tillgänglig just nu. Starta URnetwork på den här enheten och försök igen."
+  sw: "Ufunguo wa mteja wa kifaa hiki haupatikani kwa sasa. Anzisha URnetwork kwenye kifaa hiki, kisha ujaribu tena."
+  th: "คีย์ไคลเอ็นต์ของอุปกรณ์นี้ยังใช้ไม่ได้ในขณะนี้ เปิด URnetwork บนอุปกรณ์นี้ แล้วลองอีกครั้ง"
+  uk: "Клієнтський ключ цього пристрою зараз недоступний. Запустіть URnetwork на цьому пристрої та спробуйте ще раз."
+  vi: "Khóa máy khách của thiết bị này hiện không khả dụng. Hãy khởi động URnetwork trên thiết bị này rồi thử lại."
+  zh: "这台设备的客户端密钥暂时不可用。请在这台设备上启动 URnetwork，然后重试。"
+  zh-HK: "這部裝置的客戶端金鑰暫時無法使用。請在這部裝置上啟動 URnetwork，然後再試一次。"

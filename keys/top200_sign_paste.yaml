@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: button that pastes the binding from the clipboard."
+source: "Paste"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "لصق"
+  cs: "Vložit"
+  de: "Einfügen"
+  el: "Επικόλληση"
+  en: "Paste"
+  es: "Pegar"
+  es-419: "Pegar"
+  es-MX: "Pegar"
+  fr: "Coller"
+  he: "הדבקה"
+  hi: "पेस्ट करें"
+  id: "Tempel"
+  it: "Incolla"
+  ja: "貼り付け"
+  ko: "붙여넣기"
+  nl: "Plakken"
+  pl: "Wklej"
+  pt: "Colar"
+  pt-BR: "Colar"
+  pt-PT: "Colar"
+  ru: "Вставить"
+  sv: "Klistra in"
+  sw: "Bandika"
+  th: "วาง"
+  uk: "Вставити"
+  vi: "Dán"
+  zh: "粘贴"
+  zh-HK: "貼上"

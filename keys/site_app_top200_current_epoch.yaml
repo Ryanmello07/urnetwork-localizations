@@ -1,0 +1,14 @@
+description: "App top200: the current epoch, from GET /sn/head"
+source: "The current epoch is {epoch}."
+platforms:
+  - site
+placeholders:
+  - name: epoch
+    type: int
+localizations:
+  ar: "الحقبة الحالية هي {epoch}."
+  de: "Die aktuelle Epoche ist {epoch}."
+  en: "The current epoch is {epoch}."
+  es: "La época actual es {epoch}."
+  ru: "Текущая эпоха: {epoch}."
+  zh: "当前纪元为 {epoch}。"

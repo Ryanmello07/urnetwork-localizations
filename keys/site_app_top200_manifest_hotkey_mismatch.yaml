@@ -1,0 +1,11 @@
+description: "App top200: the manifest's hotkey is not the ss58 hotkey entered in step 1"
+source: "The manifest's hotkey is not the hotkey entered in step 1."
+platforms:
+  - site
+localizations:
+  ar: "المفتاح الساخن في البيان ليس المفتاح الساخن الذي أُدخل في الخطوة 1."
+  de: "Der Hotkey des Manifests ist nicht der in Schritt 1 eingegebene Hotkey."
+  en: "The manifest's hotkey is not the hotkey entered in step 1."
+  es: "La hotkey del manifiesto no es la hotkey introducida en el paso 1."
+  ru: "Hotkey в манифесте не совпадает с hotkey, указанным на шаге 1."
+  zh: "清单中的 hotkey 与第 1 步中输入的 hotkey 不一致。"

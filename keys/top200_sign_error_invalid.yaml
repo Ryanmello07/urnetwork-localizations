@@ -1,0 +1,36 @@
+description: "Top 200 sign screen: the pasted text is not a fleet binding JSON (or the app link's binding did not decode)."
+source: "This is not a fleet binding. Copy the whole binding from the Top 200 page."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "هذا ليس ربط أسطول. انسخ الربط كاملًا من صفحة أفضل 200."
+  cs: "Toto není vazba flotily. Zkopírujte celou vazbu ze stránky Top 200."
+  de: "Das ist keine Flottenbindung. Kopiere die ganze Bindung von der Top-200-Seite."
+  el: "Αυτή δεν είναι σύνδεση στόλου. Αντιγράψτε ολόκληρη τη σύνδεση από τη σελίδα Top 200."
+  en: "This is not a fleet binding. Copy the whole binding from the Top 200 page."
+  es: "Esto no es una vinculación de flota. Copia la vinculación completa de la página Top 200."
+  es-419: "Esto no es una vinculación de flota. Copia la vinculación completa de la página Top 200."
+  es-MX: "Esto no es una vinculación de flota. Copia la vinculación completa de la página Top 200."
+  fr: "Ce n’est pas une liaison de flotte. Copiez la liaison entière depuis la page Top 200."
+  he: "זה אינו קישור צי. העתיקו את הקישור המלא מדף Top 200."
+  hi: "यह फ़्लीट बाइंडिंग नहीं है। टॉप 200 पेज से पूरी बाइंडिंग कॉपी करें।"
+  id: "Ini bukan pengikatan armada. Salin seluruh pengikatan dari halaman Top 200."
+  it: "Questo non è un collegamento della flotta. Copia l’intero collegamento dalla pagina Top 200."
+  ja: "これはフリートバインディングではありません。トップ 200 ページからバインディング全体をコピーしてください。"
+  ko: "플릿 바인딩이 아닙니다. Top 200 페이지에서 바인딩 전체를 복사하세요."
+  nl: "Dit is geen vlootkoppeling. Kopieer de hele koppeling van de Top 200-pagina."
+  pl: "To nie jest powiązanie floty. Skopiuj całe powiązanie ze strony Top 200."
+  pt: "Isto não é uma vinculação de frota. Copie a vinculação inteira da página Top 200."
+  pt-BR: "Isto não é uma vinculação de frota. Copie a vinculação inteira da página Top 200."
+  pt-PT: "Isto não é uma associação de frota. Copie a associação completa da página Top 200."
+  ru: "Это не привязка парка. Скопируйте привязку целиком со страницы Топ-200."
+  sv: "Det här är ingen flottbindning. Kopiera hela bindningen från Topp 200-sidan."
+  sw: "Huu si ufungaji wa kundi. Nakili ufungaji wote kutoka ukurasa wa Top 200."
+  th: "นี่ไม่ใช่การผูกฟลีต คัดลอกการผูกทั้งหมดจากหน้า Top 200"
+  uk: "Це не прив'язка парку. Скопіюйте прив'язку повністю зі сторінки Топ-200."
+  vi: "Đây không phải là liên kết đội máy. Hãy sao chép toàn bộ liên kết từ trang Top 200."
+  zh: "这不是设备群绑定。请从前 200 名页面复制完整的绑定。"
+  zh-HK: "這不是裝置群綁定。請從前 200 名頁面複製完整的綁定。"
