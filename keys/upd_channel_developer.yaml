@@ -1,0 +1,36 @@
+description: "Update channel line (Windows Developer page): an administrator has moved this PC to developer builds. {repo} is a GitHub repository as owner/name, for example Ryanmello07/urnetwork-windows; keep it as written."
+source: "Update channel: developer builds from {repo}. Official releases are not offered while this is on. This is set for every user of this PC."
+platforms:
+  - windows
+placeholders:
+  - name: repo
+    type: string
+localizations:
+  ar: "قناة التحديث: إصدارات المطوّر من {repo}. لا تُعرض الإصدارات الرسمية ما دام هذا الخيار مفعّلًا. يسري هذا على كل مستخدمي هذا الكمبيوتر."
+  cs: "Kanál aktualizací: vývojářská sestavení z {repo}. Dokud je to zapnuté, oficiální vydání se nenabízejí. Platí to pro všechny uživatele tohoto počítače."
+  de: "Update-Kanal: Entwickler-Builds von {repo}. Solange das eingeschaltet ist, werden keine offiziellen Versionen angeboten. Das gilt für alle Benutzer dieses PCs."
+  el: "Κανάλι ενημερώσεων: εκδόσεις προγραμματιστή από το {repo}. Όσο είναι ενεργό, δεν προσφέρονται επίσημες εκδόσεις. Ισχύει για όλους τους χρήστες αυτού του υπολογιστή."
+  en: "Update channel: developer builds from {repo}. Official releases are not offered while this is on. This is set for every user of this PC."
+  es: "Canal de actualizaciones: compilaciones de desarrollador de {repo}. Mientras esté activado, no se ofrecen versiones oficiales. Se aplica a todos los usuarios de este equipo."
+  es-419: "Canal de actualizaciones: compilaciones de desarrollador de {repo}. Mientras esté activado, no se ofrecen versiones oficiales. Se aplica a todos los usuarios de este equipo."
+  es-MX: "Canal de actualizaciones: compilaciones de desarrollador de {repo}. Mientras esté activado, no se ofrecen versiones oficiales. Se aplica a todos los usuarios de este equipo."
+  fr: "Canal de mise à jour : versions de développeur depuis {repo}. Tant que c’est activé, les versions officielles ne sont pas proposées. Ce réglage s’applique à tous les utilisateurs de ce PC."
+  he: "ערוץ העדכונים: גרסאות מפתחים מ-{repo}. כל עוד זה מופעל, גרסאות רשמיות אינן מוצעות. ההגדרה חלה על כל המשתמשים במחשב הזה."
+  hi: "अपडेट चैनल: {repo} से डेवलपर बिल्ड। जब तक यह चालू है, आधिकारिक रिलीज़ की पेशकश नहीं की जाती। यह इस PC के हर उपयोगकर्ता के लिए सेट है।"
+  id: "Saluran pembaruan: build pengembang dari {repo}. Selama ini aktif, rilis resmi tidak ditawarkan. Ini berlaku untuk setiap pengguna PC ini."
+  it: "Canale di aggiornamento: build per sviluppatori da {repo}. Finché è attivo, le versioni ufficiali non vengono proposte. Vale per tutti gli utenti di questo PC."
+  ja: "アップデートチャンネル: {repo} の開発者ビルド。オンの間は公式リリースは提供されません。この PC のすべてのユーザーに適用されます。"
+  ko: "업데이트 채널: {repo}의 개발자 빌드. 켜져 있는 동안에는 공식 릴리스가 제공되지 않습니다. 이 PC의 모든 사용자에게 적용됩니다."
+  nl: "Updatekanaal: ontwikkelaarsversies van {repo}. Zolang dit aan staat, worden geen officiële releases aangeboden. Dit geldt voor elke gebruiker van deze pc."
+  pl: "Kanał aktualizacji: kompilacje deweloperskie z {repo}. Dopóki jest to włączone, oficjalne wydania nie są oferowane. Dotyczy to wszystkich użytkowników tego komputera."
+  pt: "Canal de atualização: versões de desenvolvedor de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas. Isso vale para todos os usuários deste PC."
+  pt-BR: "Canal de atualização: versões de desenvolvedor de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas. Isso vale para todos os usuários deste PC."
+  pt-PT: "Canal de atualização: versões de programador de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas. Aplica-se a todos os utilizadores deste computador."
+  ru: "Канал обновлений: сборки разработчика из {repo}. Пока это включено, официальные выпуски не предлагаются. Это действует для всех пользователей этого компьютера."
+  sv: "Uppdateringskanal: utvecklarversioner från {repo}. Så länge det är på erbjuds inga officiella versioner. Det gäller alla användare av den här datorn."
+  sw: "Chaneli ya masasisho: matoleo ya msanidi kutoka {repo}. Hili likiwa limewashwa, matoleo rasmi hayatolewi. Hili linatumika kwa kila mtumiaji wa kompyuta hii."
+  th: "ช่องทางการอัปเดต: บิลด์สำหรับนักพัฒนาจาก {repo} ขณะที่เปิดอยู่ จะไม่มีการเสนอรุ่นทางการ การตั้งค่านี้ใช้กับผู้ใช้ทุกคนของพีซีเครื่องนี้"
+  uk: "Канал оновлень: збірки розробника з {repo}. Поки це ввімкнено, офіційні випуски не пропонуються. Це діє для всіх користувачів цього комп’ютера."
+  vi: "Kênh cập nhật: bản dành cho nhà phát triển từ {repo}. Khi tùy chọn này bật, bản phát hành chính thức sẽ không được cung cấp. Thiết lập này áp dụng cho mọi người dùng của máy tính này."
+  zh: "更新渠道：来自 {repo} 的开发者版本。开启期间不会提供正式版本。此设置适用于这台电脑的所有用户。"
+  zh-HK: "更新頻道：來自 {repo} 的開發者版本。開啟期間不會提供正式版本。此設定適用於這部電腦的所有使用者。"
