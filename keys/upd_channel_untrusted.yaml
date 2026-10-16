@@ -20,7 +20,7 @@ localizations:
   ko: "저장된 업데이트 채널을 신뢰할 수 없어 공식 릴리스를 사용합니다. 공식 릴리스로 전환하면 삭제됩니다."
   nl: "Het opgeslagen updatekanaal wordt niet vertrouwd, dus worden officiële releases gebruikt. Overschakelen naar officiële releases verwijdert het."
   pl: "Zapisany kanał aktualizacji nie jest zaufany, więc używane są oficjalne wydania. Przełączenie na oficjalne wydania go usuwa."
-  pt: "O canal de atualização salvo não é confiável, então são usadas as versões oficiais. Mudar para as versões oficiais o remove."
+  pt: "O canal de atualização guardado não é fidedigno, pelo que são usadas as versões oficiais. Mudar para as versões oficiais remove-o."
   pt-BR: "O canal de atualização salvo não é confiável, então são usadas as versões oficiais. Mudar para as versões oficiais o remove."
   pt-PT: "O canal de atualização guardado não é fidedigno, pelo que são usadas as versões oficiais. Mudar para as versões oficiais remove-o."
   ru: "Сохранённому каналу обновлений нельзя доверять, поэтому используются официальные выпуски. Переход на официальные выпуски удалит его."

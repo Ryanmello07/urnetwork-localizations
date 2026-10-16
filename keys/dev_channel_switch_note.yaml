@@ -23,7 +23,7 @@ localizations:
   ko: "공식 릴리스 대신 개발자의 개인 저장소인 {repo}에서 업데이트를 받습니다. 켜려면 Windows가 관리자 권한을 요청하고, 이어서 업데이트 프로그램이 확인을 요청합니다."
   nl: "Updates ontvangen van {repo}, de persoonlijke repository van een ontwikkelaar, in plaats van officiële releases. Om dit in te schakelen vraagt Windows om beheerderstoestemming, en daarna vraagt het updateprogramma je om te bevestigen."
   pl: "Pobieraj aktualizacje z {repo}, osobistego repozytorium dewelopera, a nie z oficjalnych wydań. Aby to włączyć, system Windows poprosi o uprawnienia administratora, a następnie program aktualizujący poprosi o potwierdzenie."
-  pt: "Receber atualizações de {repo}, o repositório pessoal de um desenvolvedor, e não das versões oficiais. Para ativar, o Windows pede permissão de administrador e, em seguida, o atualizador pede que você confirme."
+  pt: "Receber atualizações de {repo}, o repositório pessoal de um programador, e não das versões oficiais. Para ativar, o Windows pede permissão de administrador e, depois, o atualizador pede-lhe que confirme."
   pt-BR: "Receber atualizações de {repo}, o repositório pessoal de um desenvolvedor, e não das versões oficiais. Para ativar, o Windows pede permissão de administrador e, em seguida, o atualizador pede que você confirme."
   pt-PT: "Receber atualizações de {repo}, o repositório pessoal de um programador, e não das versões oficiais. Para ativar, o Windows pede permissão de administrador e, depois, o atualizador pede-lhe que confirme."
   ru: "Получать обновления из {repo}, личного репозитория разработчика, а не официальные выпуски. Чтобы включить это, Windows запросит разрешение администратора, а затем программа обновления попросит вас подтвердить."

@@ -20,7 +20,7 @@ localizations:
   ko: "이 빌드보다 새로운 개발자 빌드가 없습니다"
   nl: "Geen ontwikkelaarsversie is nieuwer dan deze versie"
   pl: "Żadna kompilacja deweloperska nie jest nowsza niż ta"
-  pt: "Nenhuma versão de desenvolvedor é mais nova que esta"
+  pt: "Nenhuma versão de programador é mais recente do que esta"
   pt-BR: "Nenhuma versão de desenvolvedor é mais nova que esta"
   pt-PT: "Nenhuma versão de programador é mais recente do que esta"
   ru: "Нет сборки разработчика новее этой"

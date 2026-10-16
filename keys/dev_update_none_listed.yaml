@@ -20,7 +20,7 @@ localizations:
   ko: "이 PC에 설치할 수 있는 개발자 빌드가 목록에 없습니다"
   nl: "Er staat geen ontwikkelaarsversie in de lijst die deze pc kan installeren"
   pl: "Na liście nie ma kompilacji deweloperskiej, którą ten komputer może zainstalować"
-  pt: "Nenhuma versão de desenvolvedor que este PC possa instalar está listada"
+  pt: "Não está listada nenhuma versão de programador que este computador possa instalar"
   pt-BR: "Nenhuma versão de desenvolvedor que este PC possa instalar está listada"
   pt-PT: "Não está listada nenhuma versão de programador que este computador possa instalar"
   ru: "Нет сборки разработчика, которую можно установить на этот компьютер"

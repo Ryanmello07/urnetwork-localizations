@@ -23,7 +23,7 @@ localizations:
   ko: "이것은 공식 릴리스가 아닌 {repo}의 개발자 빌드입니다."
   nl: "Dit is een ontwikkelaarsversie van {repo}, geen officiële release."
   pl: "To kompilacja deweloperska z {repo}, a nie oficjalne wydanie."
-  pt: "Esta é uma versão de desenvolvedor de {repo}, não uma versão oficial."
+  pt: "Esta é uma versão de programador de {repo}, não uma versão oficial."
   pt-BR: "Esta é uma versão de desenvolvedor de {repo}, não uma versão oficial."
   pt-PT: "Esta é uma versão de programador de {repo}, não uma versão oficial."
   ru: "Это сборка разработчика из {repo}, а не официальный выпуск."

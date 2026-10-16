@@ -23,7 +23,7 @@ localizations:
   ko: "{repo}의 개발자 빌드. 켜져 있는 동안에는 공식 릴리스가 제공되지 않습니다."
   nl: "Ontwikkelaarsversies van {repo}. Zolang dit aan staat, worden geen officiële releases aangeboden."
   pl: "Kompilacje deweloperskie z {repo}. Dopóki jest to włączone, oficjalne wydania nie są oferowane."
-  pt: "Versões de desenvolvedor de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas."
+  pt: "Versões de programador de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas."
   pt-BR: "Versões de desenvolvedor de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas."
   pt-PT: "Versões de programador de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas."
   ru: "Сборки разработчика из {repo}. Пока это включено, официальные выпуски не предлагаются."

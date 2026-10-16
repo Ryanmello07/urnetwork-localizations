@@ -23,7 +23,7 @@ localizations:
   ko: "개발자 빌드 사용 가능: v{version}"
   nl: "Ontwikkelaarsversie beschikbaar: v{version}"
   pl: "Dostępna kompilacja deweloperska: v{version}"
-  pt: "Versão de desenvolvedor disponível: v{version}"
+  pt: "Versão de programador disponível: v{version}"
   pt-BR: "Versão de desenvolvedor disponível: v{version}"
   pt-PT: "Versão de programador disponível: v{version}"
   ru: "Доступна сборка разработчика: v{version}"

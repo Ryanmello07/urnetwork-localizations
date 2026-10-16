@@ -23,7 +23,7 @@ localizations:
   ko: "업데이트 채널: {repo}의 개발자 빌드. 켜져 있는 동안에는 공식 릴리스가 제공되지 않습니다. 이 PC의 모든 사용자에게 적용됩니다."
   nl: "Updatekanaal: ontwikkelaarsversies van {repo}. Zolang dit aan staat, worden geen officiële releases aangeboden. Dit geldt voor elke gebruiker van deze pc."
   pl: "Kanał aktualizacji: kompilacje deweloperskie z {repo}. Dopóki jest to włączone, oficjalne wydania nie są oferowane. Dotyczy to wszystkich użytkowników tego komputera."
-  pt: "Canal de atualização: versões de desenvolvedor de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas. Isso vale para todos os usuários deste PC."
+  pt: "Canal de atualização: versões de programador de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas. Aplica-se a todos os utilizadores deste computador."
   pt-BR: "Canal de atualização: versões de desenvolvedor de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas. Isso vale para todos os usuários deste PC."
   pt-PT: "Canal de atualização: versões de programador de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas. Aplica-se a todos os utilizadores deste computador."
   ru: "Канал обновлений: сборки разработчика из {repo}. Пока это включено, официальные выпуски не предлагаются. Это действует для всех пользователей этого компьютера."

@@ -20,7 +20,7 @@ localizations:
   ko: "개발 빌드(코드 0)는 스스로 업데이트되지 않으므로 업데이트 채널이 없습니다."
   nl: "Een ontwikkelversie (code 0) werkt zichzelf nooit bij en heeft dus geen updatekanaal."
   pl: "Wersja deweloperska (kod 0) nigdy nie aktualizuje się sama, więc nie ma kanału aktualizacji."
-  pt: "Uma versão de desenvolvimento (código 0) nunca se atualiza sozinha, então não tem canal de atualização."
+  pt: "Uma versão de desenvolvimento (código 0) nunca se atualiza sozinha, pelo que não tem canal de atualização."
   pt-BR: "Uma versão de desenvolvimento (código 0) nunca se atualiza sozinha, então não tem canal de atualização."
   pt-PT: "Uma versão de desenvolvimento (código 0) nunca se atualiza sozinha, pelo que não tem canal de atualização."
   ru: "Сборка для разработки (код 0) никогда не обновляется сама, поэтому у неё нет канала обновлений."
