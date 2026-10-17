@@ -1,0 +1,36 @@
+description: "Update channel (Windows): the change failed. {code} is an error code such as 0x2000000B; keep it as written."
+source: "The update channel could not be changed ({code})."
+platforms:
+  - windows
+placeholders:
+  - name: code
+    type: string
+localizations:
+  ar: "تعذّر تغيير قناة التحديث ({code})."
+  cs: "Kanál aktualizací se nepodařilo změnit ({code})."
+  de: "Der Update-Kanal konnte nicht geändert werden ({code})."
+  el: "Δεν ήταν δυνατή η αλλαγή του καναλιού ενημερώσεων ({code})."
+  en: "The update channel could not be changed ({code})."
+  es: "No se pudo cambiar el canal de actualizaciones ({code})."
+  es-419: "No se pudo cambiar el canal de actualizaciones ({code})."
+  es-MX: "No se pudo cambiar el canal de actualizaciones ({code})."
+  fr: "Le canal de mise à jour n’a pas pu être modifié ({code})."
+  he: "לא ניתן היה לשנות את ערוץ העדכונים ({code})."
+  hi: "अपडेट चैनल नहीं बदला जा सका ({code})।"
+  id: "Saluran pembaruan tidak dapat diubah ({code})."
+  it: "Non è stato possibile modificare il canale di aggiornamento ({code})."
+  ja: "アップデートチャンネルを変更できませんでした ({code})。"
+  ko: "업데이트 채널을 변경할 수 없습니다({code})."
+  nl: "Het updatekanaal kon niet worden gewijzigd ({code})."
+  pl: "Nie udało się zmienić kanału aktualizacji ({code})."
+  pt: "Não foi possível alterar o canal de atualização ({code})."
+  pt-BR: "Não foi possível alterar o canal de atualização ({code})."
+  pt-PT: "Não foi possível alterar o canal de atualização ({code})."
+  ru: "Не удалось изменить канал обновлений ({code})."
+  sv: "Uppdateringskanalen kunde inte ändras ({code})."
+  sw: "Chaneli ya masasisho haikuweza kubadilishwa ({code})."
+  th: "เปลี่ยนช่องทางการอัปเดตไม่ได้ ({code})"
+  uk: "Не вдалося змінити канал оновлень ({code})."
+  vi: "Không thể đổi kênh cập nhật ({code})."
+  zh: "无法更改更新渠道（{code}）。"
+  zh-HK: "無法更改更新頻道（{code}）。"

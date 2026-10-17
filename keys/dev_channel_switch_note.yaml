@@ -1,0 +1,36 @@
+description: "Developer page (Windows): note under the developer builds switch. {repo} is a GitHub repository as owner/name, for example Ryanmello07/urnetwork-windows; keep it as written."
+source: "Take updates from {repo}, a developer's personal repository, and not from official releases. To turn this on, Windows asks for administrator permission, and the updater then asks you to confirm."
+platforms:
+  - windows
+placeholders:
+  - name: repo
+    type: string
+localizations:
+  ar: "تلقّي التحديثات من {repo}، وهو مستودع شخصي لأحد المطوّرين، وليس من الإصدارات الرسمية. لتشغيل هذا الخيار، يطلب Windows إذن المسؤول، ثم يطلب منك برنامج التحديث التأكيد."
+  cs: "Přijímat aktualizace z {repo}, osobního repozitáře vývojáře, a ne z oficiálních vydání. Při zapnutí si Windows vyžádá oprávnění správce a program pro aktualizace vás pak požádá o potvrzení."
+  de: "Updates von {repo} beziehen, dem persönlichen Repository eines Entwicklers, statt von offiziellen Versionen. Zum Einschalten fragt Windows nach Administratorrechten, und danach bittet dich das Update-Programm um Bestätigung."
+  el: "Λήψη ενημερώσεων από το {repo}, ένα προσωπικό αποθετήριο προγραμματιστή, και όχι από τις επίσημες εκδόσεις. Για να το ενεργοποιήσετε, τα Windows ζητούν άδεια διαχειριστή και στη συνέχεια το πρόγραμμα ενημέρωσης σας ζητά επιβεβαίωση."
+  en: "Take updates from {repo}, a developer's personal repository, and not from official releases. To turn this on, Windows asks for administrator permission, and the updater then asks you to confirm."
+  es: "Recibir las actualizaciones de {repo}, el repositorio personal de un desarrollador, y no de las versiones oficiales. Para activarlo, Windows pide permiso de administrador y luego el actualizador te pide que lo confirmes."
+  es-419: "Recibir las actualizaciones de {repo}, el repositorio personal de un desarrollador, y no de las versiones oficiales. Para activarlo, Windows pide permiso de administrador y luego el actualizador te pide que lo confirmes."
+  es-MX: "Recibir las actualizaciones de {repo}, el repositorio personal de un desarrollador, y no de las versiones oficiales. Para activarlo, Windows pide permiso de administrador y luego el actualizador te pide que lo confirmes."
+  fr: "Recevoir les mises à jour depuis {repo}, le dépôt personnel d’un développeur, et non depuis les versions officielles. Pour l’activer, Windows demande l’autorisation d’un administrateur, puis le programme de mise à jour vous demande de confirmer."
+  he: "קבלת עדכונים מ-{repo}, מאגר אישי של מפתח, ולא מהגרסאות הרשמיות. כדי להפעיל זאת, Windows מבקש הרשאת מנהל, ולאחר מכן תוכנית העדכון מבקשת ממך לאשר."
+  hi: "आधिकारिक रिलीज़ के बजाय {repo} से अपडेट लें, जो एक डेवलपर की निजी रिपॉज़िटरी है। इसे चालू करने के लिए Windows व्यवस्थापक की अनुमति माँगता है, और फिर अपडेटर आपसे पुष्टि करने को कहता है।"
+  id: "Ambil pembaruan dari {repo}, repositori pribadi seorang pengembang, bukan dari rilis resmi. Untuk mengaktifkannya, Windows meminta izin administrator, lalu pembaru meminta Anda mengonfirmasi."
+  it: "Ricevi gli aggiornamenti da {repo}, il repository personale di uno sviluppatore, e non dalle versioni ufficiali. Per attivarlo, Windows chiede l’autorizzazione di un amministratore e poi il programma di aggiornamento ti chiede di confermare."
+  ja: "公式リリースではなく、開発者の個人リポジトリである {repo} からアップデートを受け取ります。オンにすると、Windows が管理者の許可を求め、続いてアップデーターが確認を求めます。"
+  ko: "공식 릴리스 대신 개발자의 개인 저장소인 {repo}에서 업데이트를 받습니다. 켜려면 Windows가 관리자 권한을 요청하고, 이어서 업데이트 프로그램이 확인을 요청합니다."
+  nl: "Updates ontvangen van {repo}, de persoonlijke repository van een ontwikkelaar, in plaats van officiële releases. Om dit in te schakelen vraagt Windows om beheerderstoestemming, en daarna vraagt het updateprogramma je om te bevestigen."
+  pl: "Pobieraj aktualizacje z {repo}, osobistego repozytorium dewelopera, a nie z oficjalnych wydań. Aby to włączyć, system Windows poprosi o uprawnienia administratora, a następnie program aktualizujący poprosi o potwierdzenie."
+  pt: "Receber atualizações de {repo}, o repositório pessoal de um programador, e não das versões oficiais. Para ativar, o Windows pede permissão de administrador e, depois, o atualizador pede-lhe que confirme."
+  pt-BR: "Receber atualizações de {repo}, o repositório pessoal de um desenvolvedor, e não das versões oficiais. Para ativar, o Windows pede permissão de administrador e, em seguida, o atualizador pede que você confirme."
+  pt-PT: "Receber atualizações de {repo}, o repositório pessoal de um programador, e não das versões oficiais. Para ativar, o Windows pede permissão de administrador e, depois, o atualizador pede-lhe que confirme."
+  ru: "Получать обновления из {repo}, личного репозитория разработчика, а не официальные выпуски. Чтобы включить это, Windows запросит разрешение администратора, а затем программа обновления попросит вас подтвердить."
+  sv: "Hämta uppdateringar från {repo}, en utvecklares personliga kodförråd, i stället för officiella versioner. För att slå på det ber Windows om administratörsbehörighet, och sedan ber uppdateraren dig att bekräfta."
+  sw: "Pokea masasisho kutoka {repo}, hazina binafsi ya msanidi, badala ya matoleo rasmi. Ili kuwasha hili, Windows huomba ruhusa ya msimamizi, kisha kisasishaji hukuomba uthibitishe."
+  th: "รับการอัปเดตจาก {repo} ซึ่งเป็นคลังโค้ดส่วนตัวของนักพัฒนา แทนรุ่นทางการ เมื่อเปิดใช้ Windows จะขอสิทธิ์ผู้ดูแลระบบ แล้วตัวอัปเดตจะขอให้คุณยืนยัน"
+  uk: "Отримувати оновлення з {repo}, особистого репозиторію розробника, а не офіційні випуски. Щоб увімкнути це, Windows попросить дозвіл адміністратора, а потім програма оновлення попросить вас підтвердити."
+  vi: "Nhận bản cập nhật từ {repo}, kho mã cá nhân của một nhà phát triển, thay vì bản phát hành chính thức. Để bật, Windows sẽ yêu cầu quyền quản trị viên, sau đó trình cập nhật sẽ yêu cầu bạn xác nhận."
+  zh: "从开发者的个人仓库 {repo} 而不是正式版本获取更新。开启时，Windows 会请求管理员权限，随后更新程序会请你确认。"
+  zh-HK: "從開發者的個人儲存庫 {repo} 而非正式版本取得更新。開啟時，Windows 會要求管理員權限，之後更新程式會請你確認。"

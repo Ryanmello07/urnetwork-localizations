@@ -1,0 +1,36 @@
+description: "Windows update banner title: a newer developer build is available. {version} is the build's version, for example 2026.10.9-1067431400-beta; keep the \"v\" before it."
+source: "Developer build available: v{version}"
+platforms:
+  - windows
+placeholders:
+  - name: version
+    type: string
+localizations:
+  ar: "يتوفر إصدار مطوّر: v{version}"
+  cs: "Je k dispozici vývojářské sestavení: v{version}"
+  de: "Entwickler-Build verfügbar: v{version}"
+  el: "Διαθέσιμη έκδοση προγραμματιστή: v{version}"
+  en: "Developer build available: v{version}"
+  es: "Compilación de desarrollador disponible: v{version}"
+  es-419: "Compilación de desarrollador disponible: v{version}"
+  es-MX: "Compilación de desarrollador disponible: v{version}"
+  fr: "Version de développeur disponible : v{version}"
+  he: "גרסת מפתחים זמינה: v{version}"
+  hi: "डेवलपर बिल्ड उपलब्ध है: v{version}"
+  id: "Build pengembang tersedia: v{version}"
+  it: "Build per sviluppatori disponibile: v{version}"
+  ja: "開発者ビルドがあります: v{version}"
+  ko: "개발자 빌드 사용 가능: v{version}"
+  nl: "Ontwikkelaarsversie beschikbaar: v{version}"
+  pl: "Dostępna kompilacja deweloperska: v{version}"
+  pt: "Versão de programador disponível: v{version}"
+  pt-BR: "Versão de desenvolvedor disponível: v{version}"
+  pt-PT: "Versão de programador disponível: v{version}"
+  ru: "Доступна сборка разработчика: v{version}"
+  sv: "Utvecklarversion tillgänglig: v{version}"
+  sw: "Toleo la msanidi linapatikana: v{version}"
+  th: "มีบิลด์สำหรับนักพัฒนา: v{version}"
+  uk: "Доступна збірка розробника: v{version}"
+  vi: "Có bản dành cho nhà phát triển: v{version}"
+  zh: "有可用的开发者版本：v{version}"
+  zh-HK: "有可用的開發者版本：v{version}"

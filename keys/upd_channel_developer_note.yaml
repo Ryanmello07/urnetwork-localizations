@@ -1,0 +1,36 @@
+description: "Settings (Windows): the update channel row's note when this PC takes developer builds. {repo} is a GitHub repository as owner/name, for example Ryanmello07/urnetwork-windows; keep it as written."
+source: "Developer builds from {repo}. Official releases are not offered while this is on."
+platforms:
+  - windows
+placeholders:
+  - name: repo
+    type: string
+localizations:
+  ar: "إصدارات المطوّر من {repo}. لا تُعرض الإصدارات الرسمية ما دام هذا الخيار مفعّلًا."
+  cs: "Vývojářská sestavení z {repo}. Dokud je to zapnuté, oficiální vydání se nenabízejí."
+  de: "Entwickler-Builds von {repo}. Solange das eingeschaltet ist, werden keine offiziellen Versionen angeboten."
+  el: "Εκδόσεις προγραμματιστή από το {repo}. Όσο είναι ενεργό, δεν προσφέρονται επίσημες εκδόσεις."
+  en: "Developer builds from {repo}. Official releases are not offered while this is on."
+  es: "Compilaciones de desarrollador de {repo}. Mientras esté activado, no se ofrecen versiones oficiales."
+  es-419: "Compilaciones de desarrollador de {repo}. Mientras esté activado, no se ofrecen versiones oficiales."
+  es-MX: "Compilaciones de desarrollador de {repo}. Mientras esté activado, no se ofrecen versiones oficiales."
+  fr: "Versions de développeur depuis {repo}. Tant que c’est activé, les versions officielles ne sont pas proposées."
+  he: "גרסאות מפתחים מ-{repo}. כל עוד זה מופעל, גרסאות רשמיות אינן מוצעות."
+  hi: "{repo} से डेवलपर बिल्ड। जब तक यह चालू है, आधिकारिक रिलीज़ की पेशकश नहीं की जाती।"
+  id: "Build pengembang dari {repo}. Selama ini aktif, rilis resmi tidak ditawarkan."
+  it: "Build per sviluppatori da {repo}. Finché è attivo, le versioni ufficiali non vengono proposte."
+  ja: "{repo} の開発者ビルド。オンの間は公式リリースは提供されません。"
+  ko: "{repo}의 개발자 빌드. 켜져 있는 동안에는 공식 릴리스가 제공되지 않습니다."
+  nl: "Ontwikkelaarsversies van {repo}. Zolang dit aan staat, worden geen officiële releases aangeboden."
+  pl: "Kompilacje deweloperskie z {repo}. Dopóki jest to włączone, oficjalne wydania nie są oferowane."
+  pt: "Versões de programador de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas."
+  pt-BR: "Versões de desenvolvedor de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas."
+  pt-PT: "Versões de programador de {repo}. Enquanto estiver ativado, as versões oficiais não são oferecidas."
+  ru: "Сборки разработчика из {repo}. Пока это включено, официальные выпуски не предлагаются."
+  sv: "Utvecklarversioner från {repo}. Så länge det är på erbjuds inga officiella versioner."
+  sw: "Matoleo ya msanidi kutoka {repo}. Hili likiwa limewashwa, matoleo rasmi hayatolewi."
+  th: "บิลด์สำหรับนักพัฒนาจาก {repo} ขณะที่เปิดอยู่ จะไม่มีการเสนอรุ่นทางการ"
+  uk: "Збірки розробника з {repo}. Поки це ввімкнено, офіційні випуски не пропонуються."
+  vi: "Bản dành cho nhà phát triển từ {repo}. Khi tùy chọn này bật, bản phát hành chính thức sẽ không được cung cấp."
+  zh: "来自 {repo} 的开发者版本。开启期间不会提供正式版本。"
+  zh-HK: "來自 {repo} 的開發者版本。開啟期間不會提供正式版本。"

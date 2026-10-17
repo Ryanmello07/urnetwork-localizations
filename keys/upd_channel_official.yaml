@@ -1,0 +1,36 @@
+description: "Update channel line (Windows Developer page): this PC takes official releases. {repo} is the official releases' GitHub repository as owner/name, urnetwork/build; keep it as written."
+source: "Update channel: official releases ({repo})."
+platforms:
+  - windows
+placeholders:
+  - name: repo
+    type: string
+localizations:
+  ar: "قناة التحديث: الإصدارات الرسمية ({repo})."
+  cs: "Kanál aktualizací: oficiální vydání ({repo})."
+  de: "Update-Kanal: offizielle Versionen ({repo})."
+  el: "Κανάλι ενημερώσεων: επίσημες εκδόσεις ({repo})."
+  en: "Update channel: official releases ({repo})."
+  es: "Canal de actualizaciones: versiones oficiales ({repo})."
+  es-419: "Canal de actualizaciones: versiones oficiales ({repo})."
+  es-MX: "Canal de actualizaciones: versiones oficiales ({repo})."
+  fr: "Canal de mise à jour : versions officielles ({repo})."
+  he: "ערוץ העדכונים: גרסאות רשמיות ({repo})."
+  hi: "अपडेट चैनल: आधिकारिक रिलीज़ ({repo})।"
+  id: "Saluran pembaruan: rilis resmi ({repo})."
+  it: "Canale di aggiornamento: versioni ufficiali ({repo})."
+  ja: "アップデートチャンネル: 公式リリース ({repo})。"
+  ko: "업데이트 채널: 공식 릴리스({repo})."
+  nl: "Updatekanaal: officiële releases ({repo})."
+  pl: "Kanał aktualizacji: oficjalne wydania ({repo})."
+  pt: "Canal de atualização: versões oficiais ({repo})."
+  pt-BR: "Canal de atualização: versões oficiais ({repo})."
+  pt-PT: "Canal de atualização: versões oficiais ({repo})."
+  ru: "Канал обновлений: официальные выпуски ({repo})."
+  sv: "Uppdateringskanal: officiella versioner ({repo})."
+  sw: "Chaneli ya masasisho: matoleo rasmi ({repo})."
+  th: "ช่องทางการอัปเดต: รุ่นทางการ ({repo})"
+  uk: "Канал оновлень: офіційні випуски ({repo})."
+  vi: "Kênh cập nhật: bản phát hành chính thức ({repo})."
+  zh: "更新渠道：正式版本（{repo}）。"
+  zh-HK: "更新頻道：正式版本（{repo}）。"
