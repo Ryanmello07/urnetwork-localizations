@@ -1,0 +1,36 @@
+description: "Connection region picker: heading of the encrypted (DoH) resolvers the chosen region adds ahead of the defaults."
+source: "Encrypted resolvers"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "خوادم DNS المشفرة"
+  cs: "Šifrované resolvery"
+  de: "Verschlüsselte Resolver"
+  el: "Κρυπτογραφημένοι επιλυτές"
+  en: "Encrypted resolvers"
+  es: "Resolvedores cifrados"
+  es-419: "Resolvedores cifrados"
+  es-MX: "Resolvedores cifrados"
+  fr: "Résolveurs chiffrés"
+  he: "שרתי DNS מוצפנים"
+  hi: "एन्क्रिप्टेड रिज़ॉल्वर"
+  id: "Resolver terenkripsi"
+  it: "Resolver crittografati"
+  ja: "暗号化リゾルバー"
+  ko: "암호화된 리졸버"
+  nl: "Versleutelde resolvers"
+  pl: "Szyfrowane resolwery"
+  pt: "Resolvedores encriptados"
+  pt-BR: "Resolvedores criptografados"
+  pt-PT: "Resolvedores encriptados"
+  ru: "Зашифрованные резолверы"
+  sv: "Krypterade resolvrar"
+  sw: "Visuluhishi vilivyosimbwa"
+  th: "ตัวแปลง DNS ที่เข้ารหัส"
+  uk: "Зашифровані резолвери"
+  vi: "Trình phân giải được mã hóa"
+  zh: "加密解析器"
+  zh-HK: "加密解析器"

@@ -1,0 +1,36 @@
+description: "Connection region picker: the default choice, any region without a recommendation or not saying, which uses the default resolvers."
+source: "Other / Undisclosed"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "أخرى / غير محددة"
+  cs: "Jiná / Neuvedeno"
+  de: "Andere / Keine Angabe"
+  el: "Άλλη / Δεν δηλώνεται"
+  en: "Other / Undisclosed"
+  es: "Otra / Sin especificar"
+  es-419: "Otra / Sin especificar"
+  es-MX: "Otra / Sin especificar"
+  fr: "Autre / Non précisé"
+  he: "אחר / לא צוין"
+  hi: "अन्य / अघोषित"
+  id: "Lainnya / Tidak disebutkan"
+  it: "Altro / Non specificato"
+  ja: "その他 / 非公開"
+  ko: "기타 / 밝히지 않음"
+  nl: "Overig / Niet opgegeven"
+  pl: "Inny / Nie podano"
+  pt: "Outra / Não indicada"
+  pt-BR: "Outra / Não informada"
+  pt-PT: "Outra / Não indicada"
+  ru: "Другой / Не указан"
+  sv: "Annan / Ej angiven"
+  sw: "Nyingine / Haijatajwa"
+  th: "อื่นๆ / ไม่ระบุ"
+  uk: "Інший / Не вказано"
+  vi: "Khác / Không tiết lộ"
+  zh: "其他 / 不透露"
+  zh-HK: "其他 / 不透露"

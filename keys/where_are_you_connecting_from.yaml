@@ -1,0 +1,36 @@
+description: "Title of the Connection region picker opened from the login screen or the can't-reach prompt."
+source: "Where are you connecting from?"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "من أين تتصل؟"
+  cs: "Odkud se připojujete?"
+  de: "Von wo verbindest du dich?"
+  el: "Από πού συνδέεστε;"
+  en: "Where are you connecting from?"
+  es: "¿Desde dónde te conectas?"
+  es-419: "¿Desde dónde te conectas?"
+  es-MX: "¿Desde dónde te conectas?"
+  fr: "D'où vous connectez-vous ?"
+  he: "מאיפה אתה מתחבר?"
+  hi: "आप कहाँ से कनेक्ट कर रहे हैं?"
+  id: "Dari mana Anda terhubung?"
+  it: "Da dove ti connetti?"
+  ja: "どこから接続していますか？"
+  ko: "어디에서 연결하나요?"
+  nl: "Waarvandaan verbind je?"
+  pl: "Skąd się łączysz?"
+  pt: "De onde se está a ligar?"
+  pt-BR: "De onde você está conectando?"
+  pt-PT: "De onde se está a ligar?"
+  ru: "Откуда вы подключаетесь?"
+  sv: "Var ansluter du från?"
+  sw: "Unaunganisha kutoka wapi?"
+  th: "คุณเชื่อมต่อจากที่ไหน?"
+  uk: "Звідки ви підключаєтеся?"
+  vi: "Bạn đang kết nối từ đâu?"
+  zh: "你从哪里连接？"
+  zh-HK: "你從哪裡連線？"
