@@ -1,0 +1,36 @@
+description: "Login screen and DNS settings: the picker of the region the user connects from, which only changes how the app reaches the URnetwork platform (ingress DNS)."
+source: "Connection region"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "منطقة الاتصال"
+  cs: "Oblast připojení"
+  de: "Verbindungsregion"
+  el: "Περιοχή σύνδεσης"
+  en: "Connection region"
+  es: "Región de conexión"
+  es-419: "Región de conexión"
+  es-MX: "Región de conexión"
+  fr: "Région de connexion"
+  he: "אזור החיבור"
+  hi: "कनेक्शन क्षेत्र"
+  id: "Wilayah koneksi"
+  it: "Regione di connessione"
+  ja: "接続地域"
+  ko: "연결 지역"
+  nl: "Verbindingsregio"
+  pl: "Region połączenia"
+  pt: "Região de ligação"
+  pt-BR: "Região de conexão"
+  pt-PT: "Região de ligação"
+  ru: "Регион подключения"
+  sv: "Anslutningsregion"
+  sw: "Eneo la muunganisho"
+  th: "ภูมิภาคการเชื่อมต่อ"
+  uk: "Регіон підключення"
+  vi: "Khu vực kết nối"
+  zh: "连接地区"
+  zh-HK: "連線地區"

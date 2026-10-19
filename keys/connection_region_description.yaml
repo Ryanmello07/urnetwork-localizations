@@ -1,0 +1,36 @@
+description: "DNS settings: one line under the Connection region picker explaining its scope."
+source: "Only affects how the app reaches URnetwork, not your traffic."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "يؤثر فقط على كيفية وصول التطبيق إلى URnetwork، وليس على حركة بياناتك."
+  cs: "Ovlivňuje jen to, jak se aplikace připojuje k URnetwork, ne váš provoz."
+  de: "Betrifft nur, wie die App URnetwork erreicht, nicht deinen Datenverkehr."
+  el: "Επηρεάζει μόνο τον τρόπο που η εφαρμογή φτάνει στο URnetwork, όχι την κίνησή σας."
+  en: "Only affects how the app reaches URnetwork, not your traffic."
+  es: "Solo afecta a cómo la app llega a URnetwork, no a tu tráfico."
+  es-419: "Solo afecta cómo la app llega a URnetwork, no tu tráfico."
+  es-MX: "Solo afecta cómo la app llega a URnetwork, no tu tráfico."
+  fr: "Ne change que la façon dont l'app joint URnetwork, pas votre trafic."
+  he: "משפיע רק על האופן שבו האפליקציה מגיעה ל-URnetwork, לא על התעבורה שלך."
+  hi: "केवल यह बदलता है कि ऐप URnetwork तक कैसे पहुँचता है, आपका ट्रैफ़िक नहीं।"
+  id: "Hanya memengaruhi cara aplikasi menjangkau URnetwork, bukan lalu lintas Anda."
+  it: "Influisce solo su come l'app raggiunge URnetwork, non sul tuo traffico."
+  ja: "アプリがURnetworkに接続する方法にのみ影響し、通信内容には影響しません。"
+  ko: "앱이 URnetwork에 연결하는 방식에만 영향을 주며 트래픽에는 영향을 주지 않습니다."
+  nl: "Bepaalt alleen hoe de app URnetwork bereikt, niet je verkeer."
+  pl: "Wpływa tylko na to, jak aplikacja łączy się z URnetwork, a nie na Twój ruch."
+  pt: "Afeta apenas a forma como a app chega à URnetwork, não o seu tráfego."
+  pt-BR: "Afeta apenas como o app chega à URnetwork, não o seu tráfego."
+  pt-PT: "Afeta apenas a forma como a app chega à URnetwork, não o seu tráfego."
+  ru: "Влияет только на то, как приложение связывается с URnetwork, а не на ваш трафик."
+  sv: "Påverkar bara hur appen når URnetwork, inte din trafik."
+  sw: "Huathiri tu jinsi programu inavyofikia URnetwork, si trafiki yako."
+  th: "มีผลเฉพาะวิธีที่แอปเชื่อมต่อกับ URnetwork ไม่ใช่ทราฟฟิกของคุณ"
+  uk: "Впливає лише на те, як застосунок зв'язується з URnetwork, а не на ваш трафік."
+  vi: "Chỉ ảnh hưởng đến cách ứng dụng kết nối tới URnetwork, không ảnh hưởng lưu lượng của bạn."
+  zh: "只影响应用连接 URnetwork 的方式，不影响你的流量。"
+  zh-HK: "只影響應用程式連線 URnetwork 的方式，不影響你的流量。"

@@ -1,0 +1,36 @@
+description: "Connection region picker: shown when the chosen region uses only the default resolvers (Other / Undisclosed)."
+source: "Default resolvers"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "خوادم DNS الافتراضية"
+  cs: "Výchozí resolvery"
+  de: "Standard-Resolver"
+  el: "Προεπιλεγμένοι επιλυτές"
+  en: "Default resolvers"
+  es: "Resolvedores predeterminados"
+  es-419: "Resolvedores predeterminados"
+  es-MX: "Resolvedores predeterminados"
+  fr: "Résolveurs par défaut"
+  he: "שרתי DNS ברירת מחדל"
+  hi: "डिफ़ॉल्ट रिज़ॉल्वर"
+  id: "Resolver bawaan"
+  it: "Resolver predefiniti"
+  ja: "既定のリゾルバー"
+  ko: "기본 리졸버"
+  nl: "Standaardresolvers"
+  pl: "Domyślne resolwery"
+  pt: "Resolvedores predefinidos"
+  pt-BR: "Resolvedores padrão"
+  pt-PT: "Resolvedores predefinidos"
+  ru: "Резолверы по умолчанию"
+  sv: "Standardresolvrar"
+  sw: "Visuluhishi chaguo-msingi"
+  th: "ตัวแปลง DNS เริ่มต้น"
+  uk: "Резолвери за замовчуванням"
+  vi: "Trình phân giải mặc định"
+  zh: "默认解析器"
+  zh-HK: "預設解析器"

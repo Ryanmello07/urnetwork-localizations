@@ -1,0 +1,36 @@
+description: "Shown when the app cannot reach the URnetwork platform; tapping it opens the Connection region picker."
+source: "Can't reach URnetwork — choose where you're connecting from"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "تعذّر الوصول إلى URnetwork — اختر المكان الذي تتصل منه"
+  cs: "URnetwork je nedostupný — vyberte, odkud se připojujete"
+  de: "URnetwork nicht erreichbar – wähle, von wo du dich verbindest"
+  el: "Δεν είναι δυνατή η πρόσβαση στο URnetwork — επιλέξτε από πού συνδέεστε"
+  en: "Can't reach URnetwork — choose where you're connecting from"
+  es: "No se puede contactar con URnetwork: elige desde dónde te conectas"
+  es-419: "No se puede conectar con URnetwork: elige desde dónde te conectas"
+  es-MX: "No se puede conectar con URnetwork: elige desde dónde te conectas"
+  fr: "Impossible de joindre URnetwork — choisissez d'où vous vous connectez"
+  he: "אין גישה ל-URnetwork — בחר מאיפה אתה מתחבר"
+  hi: "URnetwork तक नहीं पहुँच सके — चुनें कि आप कहाँ से कनेक्ट कर रहे हैं"
+  id: "Tidak dapat menjangkau URnetwork — pilih dari mana Anda terhubung"
+  it: "Impossibile raggiungere URnetwork — scegli da dove ti connetti"
+  ja: "URnetworkに接続できません — 接続元を選んでください"
+  ko: "URnetwork에 연결할 수 없습니다 — 연결 위치를 선택하세요"
+  nl: "URnetwork is niet bereikbaar — kies waarvandaan je verbindt"
+  pl: "Nie można połączyć się z URnetwork — wybierz, skąd się łączysz"
+  pt: "Não é possível chegar à URnetwork — escolha de onde se está a ligar"
+  pt-BR: "Não foi possível acessar a URnetwork — escolha de onde você está conectando"
+  pt-PT: "Não é possível chegar à URnetwork — escolha de onde se está a ligar"
+  ru: "Не удаётся связаться с URnetwork — выберите, откуда вы подключаетесь"
+  sv: "Kan inte nå URnetwork – välj var du ansluter från"
+  sw: "Haiwezi kufikia URnetwork — chagua unakounganisha kutoka wapi"
+  th: "เชื่อมต่อ URnetwork ไม่ได้ — เลือกตำแหน่งที่คุณเชื่อมต่อ"
+  uk: "Не вдається зв'язатися з URnetwork — виберіть, звідки ви підключаєтеся"
+  vi: "Không thể kết nối URnetwork — hãy chọn nơi bạn đang kết nối"
+  zh: "无法连接 URnetwork — 请选择你的连接位置"
+  zh-HK: "無法連線 URnetwork — 請選擇你的連線位置"

@@ -1,0 +1,36 @@
+description: "DNS settings: heading of the existing egress DNS controls (the DNS used for the user's traffic through the tunnel), to tell them apart from the Connection region."
+source: "Traffic DNS"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "DNS لحركة البيانات"
+  cs: "DNS pro provoz"
+  de: "DNS für Datenverkehr"
+  el: "DNS κίνησης"
+  en: "Traffic DNS"
+  es: "DNS del tráfico"
+  es-419: "DNS del tráfico"
+  es-MX: "DNS del tráfico"
+  fr: "DNS du trafic"
+  he: "DNS לתעבורה"
+  hi: "ट्रैफ़िक DNS"
+  id: "DNS lalu lintas"
+  it: "DNS del traffico"
+  ja: "通信のDNS"
+  ko: "트래픽 DNS"
+  nl: "DNS voor verkeer"
+  pl: "DNS ruchu"
+  pt: "DNS do tráfego"
+  pt-BR: "DNS do tráfego"
+  pt-PT: "DNS do tráfego"
+  ru: "DNS для трафика"
+  sv: "DNS för trafik"
+  sw: "DNS ya trafiki"
+  th: "DNS ของทราฟฟิก"
+  uk: "DNS для трафіку"
+  vi: "DNS cho lưu lượng"
+  zh: "流量 DNS"
+  zh-HK: "流量 DNS"

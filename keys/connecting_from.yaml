@@ -1,0 +1,36 @@
+description: "Login screen: the label of the small optional control showing the chosen connection region, followed by the region name (or Other / Undisclosed)."
+source: "Connecting from"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "الاتصال من"
+  cs: "Připojení z"
+  de: "Verbindung aus"
+  el: "Σύνδεση από"
+  en: "Connecting from"
+  es: "Conectando desde"
+  es-419: "Conectando desde"
+  es-MX: "Conectando desde"
+  fr: "Connexion depuis"
+  he: "מתחבר מ"
+  hi: "यहाँ से कनेक्ट"
+  id: "Terhubung dari"
+  it: "Connessione da"
+  ja: "接続元"
+  ko: "연결 위치"
+  nl: "Verbinden vanuit"
+  pl: "Łączenie z"
+  pt: "A ligar a partir de"
+  pt-BR: "Conectando de"
+  pt-PT: "A ligar a partir de"
+  ru: "Подключение из"
+  sv: "Ansluter från"
+  sw: "Kuunganisha kutoka"
+  th: "เชื่อมต่อจาก"
+  uk: "Підключення з"
+  vi: "Kết nối từ"
+  zh: "连接位置"
+  zh-HK: "連線位置"

@@ -1,0 +1,36 @@
+description: "Connection region picker: heading of the plain DNS servers used only as a last resort, only for URnetwork's own names, when every encrypted resolver fails."
+source: "Unencrypted fallback (URnetwork names only)"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "احتياطي غير مشفر (أسماء URnetwork فقط)"
+  cs: "Nešifrovaná záloha (jen názvy URnetwork)"
+  de: "Unverschlüsselter Notbehelf (nur URnetwork-Namen)"
+  el: "Μη κρυπτογραφημένη εφεδρεία (μόνο ονόματα URnetwork)"
+  en: "Unencrypted fallback (URnetwork names only)"
+  es: "Respaldo sin cifrar (solo nombres de URnetwork)"
+  es-419: "Respaldo sin cifrar (solo nombres de URnetwork)"
+  es-MX: "Respaldo sin cifrar (solo nombres de URnetwork)"
+  fr: "Secours non chiffré (noms URnetwork uniquement)"
+  he: "גיבוי לא מוצפן (שמות URnetwork בלבד)"
+  hi: "बिना एन्क्रिप्शन वाला फ़ॉलबैक (केवल URnetwork नाम)"
+  id: "Cadangan tidak terenkripsi (hanya nama URnetwork)"
+  it: "Riserva non crittografata (solo nomi URnetwork)"
+  ja: "暗号化なしのフォールバック（URnetworkの名前のみ）"
+  ko: "암호화되지 않은 대체 경로 (URnetwork 이름만)"
+  nl: "Onversleutelde terugval (alleen URnetwork-namen)"
+  pl: "Nieszyfrowana rezerwa (tylko nazwy URnetwork)"
+  pt: "Alternativa não encriptada (apenas nomes da URnetwork)"
+  pt-BR: "Alternativa sem criptografia (apenas nomes da URnetwork)"
+  pt-PT: "Alternativa não encriptada (apenas nomes da URnetwork)"
+  ru: "Незашифрованный резерв (только имена URnetwork)"
+  sv: "Okrypterad reserv (endast URnetwork-namn)"
+  sw: "Mbadala usiosimbwa (majina ya URnetwork pekee)"
+  th: "สำรองแบบไม่เข้ารหัส (เฉพาะชื่อของ URnetwork)"
+  uk: "Незашифрований резерв (лише імена URnetwork)"
+  vi: "Dự phòng không mã hóa (chỉ tên của URnetwork)"
+  zh: "未加密的备用方式（仅限 URnetwork 名称）"
+  zh-HK: "未加密的後備方式（僅限 URnetwork 名稱）"
