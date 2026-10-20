@@ -1,6 +1,7 @@
 description: "Developer tools screen: explanatory subtext under the hard fresh-flow affinity control."
 source: "Assign each new connection to the exit its IP or domain already uses. Off is the default: every ordinary fresh connection reaches the provider race. Existing connections and explicit pins always stay fixed"
-platforms:
+platforms: []
+deprecated:
   - android
 localizations:
   ar: "يُسند كل اتصال جديد إلى المخرج الذي يستخدمه عنوان IP أو النطاق الخاص به بالفعل. الإيقاف هو الإعداد الافتراضي: كل اتصال جديد عادي يدخل سباق المزودين. تبقى الاتصالات الحالية والتثبيتات الصريحة دون تغيير دائمًا"

@@ -1,6 +1,7 @@
 description: "Developer tools screen (reliability surface): hard fresh-flow affinity control label."
 source: "Hard fresh-flow affinity"
-platforms:
+platforms: []
+deprecated:
   - android
 localizations:
   ar: "تقارب صارم للتدفقات الجديدة"

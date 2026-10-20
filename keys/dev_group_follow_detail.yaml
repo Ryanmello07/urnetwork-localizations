@@ -1,8 +1,9 @@
 description: "Developer tools screen: explanatory subtext under the 'group follow' control."
 source: "A quarantined exit keeps its own sites' new connections through the early bench, when the verdict is least proven, so a bench does not split the site's egress IP. New sites still avoid it. Off scatters them"
 platforms:
-  - android
   - apple
+deprecated:
+  - android
 localizations:
   ar: "يحتفظ المخرج المحجور بالاتصالات الجديدة لمواقعه خلال بداية الحجر، حين يكون الحكم في أضعف حالاته، كي لا يؤدي الحجر إلى تقسيم عنوان IP للخروج الخاص بالموقع. تظل المواقع الجديدة تتجنبه. عند الإيقاف، تُوزَّع تلك الاتصالات"
   cs: "Výstup v karanténě si ponechá nová připojení svých vlastních webů během začátku pobytu na lavičce, kdy je verdikt nejméně prokázaný, aby lavička nerozdělila výstupní IP webu. Nové weby se mu dál vyhýbají. Vypnuto je rozptýlí"
