@@ -1,0 +1,11 @@
+description: "Payment method row: the option to pay in Zcash (ZEC). A product name: never translated."
+source: "Zcash"
+translatable: false
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Zcash"

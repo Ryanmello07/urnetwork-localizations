@@ -1,0 +1,37 @@
+description: "Fine print under the buy button when a coin pays for the yearly Pro plan: a coin payment is a one-time payment for one year, it never auto-renews, and the free trial is card only."
+source: "A one-time payment for a year of Pro. It doesn't renew, and there's no free trial."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "دفعة لمرة واحدة مقابل عام من Pro. لا تتجدد تلقائيًا، ولا تتضمن تجربة مجانية."
+  cs: "Jednorázová platba za rok Pro. Neobnovuje se a nezahrnuje zkušební období zdarma."
+  de: "Eine einmalige Zahlung für ein Jahr Pro. Sie verlängert sich nicht, und es gibt keine kostenlose Testphase."
+  el: "Εφάπαξ πληρωμή για ένα έτος Pro. Δεν ανανεώνεται και δεν περιλαμβάνει δωρεάν δοκιμή."
+  en: "A one-time payment for a year of Pro. It doesn't renew, and there's no free trial."
+  es: "Un pago único por un año de Pro. No se renueva y no incluye prueba gratuita."
+  es-419: "Un pago único por un año de Pro. No se renueva y no incluye prueba gratuita."
+  es-MX: "Un pago único por un año de Pro. No se renueva y no incluye prueba gratuita."
+  fr: "Un paiement unique pour un an de Pro. Il ne se renouvelle pas et il n’y a pas d’essai gratuit."
+  he: "תשלום חד-פעמי עבור שנה של Pro. הוא לא מתחדש, ואין תקופת ניסיון חינם."
+  hi: "Pro के एक साल के लिए एक बार का भुगतान। यह नवीनीकृत नहीं होता, और इसमें मुफ़्त ट्रायल नहीं है।"
+  id: "Pembayaran sekali bayar untuk satu tahun Pro. Tidak diperpanjang otomatis, dan tidak ada uji coba gratis."
+  it: "Un pagamento una tantum per un anno di Pro. Non si rinnova e non include una prova gratuita."
+  ja: "Pro 1 年分の一括払いです。自動更新はされず、無料トライアルもありません。"
+  ko: "Pro 1년 이용을 위한 일회성 결제입니다. 자동 갱신되지 않으며 무료 체험이 없습니다."
+  nl: "Een eenmalige betaling voor een jaar Pro. Wordt niet verlengd, en er is geen gratis proefperiode."
+  pl: "Jednorazowa płatność za rok Pro. Nie odnawia się i nie obejmuje bezpłatnego okresu próbnego."
+  pt: "Um pagamento único por um ano de Pro. Não renova e não tem teste grátis."
+  pt-BR: "Um pagamento único por um ano de Pro. Não renova e não tem teste grátis."
+  pt-PT: "Um pagamento único por um ano de Pro. Não renova e não tem teste grátis."
+  ru: "Разовый платёж за год Pro. Не продлевается, бесплатного пробного периода нет."
+  sv: "En engångsbetalning för ett år med Pro. Den förnyas inte, och det finns ingen gratis provperiod."
+  sw: "Malipo ya mara moja kwa mwaka mmoja wa Pro. Hayasasishwi, na hakuna jaribio la bila malipo."
+  th: "ชำระครั้งเดียวสำหรับ Pro หนึ่งปี ไม่ต่ออายุอัตโนมัติ และไม่มีช่วงทดลองใช้ฟรี"
+  uk: "Одноразовий платіж за рік Pro. Не продовжується, безкоштовного пробного періоду немає."
+  vi: "Thanh toán một lần cho một năm Pro. Không tự gia hạn và không có dùng thử miễn phí."
+  zh: "一次性支付一年 Pro 费用。不会自动续订，也不含免费试用。"
+  zh-HK: "一次性支付一年 Pro 費用。不會自動續訂，亦不設免費試用。"

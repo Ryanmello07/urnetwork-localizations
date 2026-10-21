@@ -1,0 +1,10 @@
+description: "Crypto invoice: its first line, naming the coin (Monero has a single network). A product name: never translated. Apple shows this text through pay_method_monero, which has the same source."
+source: "Monero"
+translatable: false
+platforms:
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Monero"

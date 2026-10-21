@@ -222,7 +222,10 @@ export function validate(keys) {
 	}
 }
 
-export const PRODUCT_NAMES = ["URnetwork", "Bittensor", "Solana", "USDC", "TAO", "Polygon", "Stripe"];
+export const PRODUCT_NAMES = [
+	"URnetwork", "Bittensor", "Solana", "USDC", "TAO", "Polygon", "Stripe",
+	"Zcash", "Monero", "ZEC", "XMR",
+];
 
 // placeholder description for keys we have no context for; not worth emitting as
 // a developer comment

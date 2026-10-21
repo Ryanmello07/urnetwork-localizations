@@ -1,0 +1,37 @@
+description: "Crypto invoice: link that closes the invoice and goes back to the payment methods."
+source: "Pay another way"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "الدفع بطريقة أخرى"
+  cs: "Zaplatit jinak"
+  de: "Anders bezahlen"
+  el: "Πληρωμή με άλλον τρόπο"
+  en: "Pay another way"
+  es: "Pagar de otra forma"
+  es-419: "Pagar de otra forma"
+  es-MX: "Pagar de otra forma"
+  fr: "Payer autrement"
+  he: "תשלום בדרך אחרת"
+  hi: "दूसरे तरीके से भुगतान करें"
+  id: "Bayar dengan cara lain"
+  it: "Paga in altro modo"
+  ja: "別の方法で支払う"
+  ko: "다른 방법으로 결제"
+  nl: "Op een andere manier betalen"
+  pl: "Zapłać w inny sposób"
+  pt: "Pagar de outra forma"
+  pt-BR: "Pagar de outra forma"
+  pt-PT: "Pagar de outra forma"
+  ru: "Оплатить другим способом"
+  sv: "Betala på annat sätt"
+  sw: "Lipa kwa njia nyingine"
+  th: "ชำระด้วยวิธีอื่น"
+  uk: "Оплатити іншим способом"
+  vi: "Thanh toán cách khác"
+  zh: "使用其他方式支付"
+  zh-HK: "使用其他方式付款"

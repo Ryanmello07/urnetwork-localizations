@@ -1,0 +1,37 @@
+description: "Payment method row: the note under a coin that is switched on but cannot be quoted right now (exchange rates or the payment service are unavailable). The coin can't be chosen until it clears."
+source: "Temporarily unavailable"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "غير متاح مؤقتًا"
+  cs: "Dočasně nedostupné"
+  de: "Vorübergehend nicht verfügbar"
+  el: "Προσωρινά μη διαθέσιμο"
+  en: "Temporarily unavailable"
+  es: "No disponible temporalmente"
+  es-419: "No disponible temporalmente"
+  es-MX: "No disponible temporalmente"
+  fr: "Temporairement indisponible"
+  he: "לא זמין זמנית"
+  hi: "अस्थायी रूप से उपलब्ध नहीं"
+  id: "Tidak tersedia untuk sementara"
+  it: "Temporaneamente non disponibile"
+  ja: "一時的に利用できません"
+  ko: "일시적으로 사용할 수 없음"
+  nl: "Tijdelijk niet beschikbaar"
+  pl: "Chwilowo niedostępne"
+  pt: "Temporariamente indisponível"
+  pt-BR: "Temporariamente indisponível"
+  pt-PT: "Temporariamente indisponível"
+  ru: "Временно недоступно"
+  sv: "Tillfälligt otillgänglig"
+  sw: "Haipatikani kwa muda"
+  th: "ไม่พร้อมใช้งานชั่วคราว"
+  uk: "Тимчасово недоступно"
+  vi: "Tạm thời không khả dụng"
+  zh: "暂时不可用"
+  zh-HK: "暫時無法使用"

@@ -1,0 +1,36 @@
+description: "Crypto invoice: button that copies the amount or the address beside it to the clipboard. Apple shows this text through the copy key, which has the same source."
+source: "Copy"
+platforms:
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "نسخ"
+  cs: "Kopírovat"
+  de: "Kopieren"
+  el: "Αντιγραφή"
+  en: "Copy"
+  es: "Copiar"
+  es-419: "Copiar"
+  es-MX: "Copiar"
+  fr: "Copier"
+  he: "העתקה"
+  hi: "कॉपी करें"
+  id: "Salin"
+  it: "Copia"
+  ja: "コピー"
+  ko: "복사"
+  nl: "Kopiëren"
+  pl: "Kopiuj"
+  pt: "Copiar"
+  pt-BR: "Copiar"
+  pt-PT: "Copiar"
+  ru: "Копировать"
+  sv: "Kopiera"
+  sw: "Nakili"
+  th: "คัดลอก"
+  uk: "Копіювати"
+  vi: "Sao chép"
+  zh: "复制"
+  zh-HK: "複製"

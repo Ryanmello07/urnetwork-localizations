@@ -1,0 +1,37 @@
+description: "Wherever subscriptions are listed (account, subscription details): the note under a plan paid once in crypto (USDC, Zcash or Monero). It never auto-renews and there is nothing to cancel; the payer buys another term when this one ends. The method-neutral counterpart of site_sub_solana_no_renew, worded the same way."
+source: "Does not renew. Pay again when it ends."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "لا يتجدد. ادفع مجددًا عند انتهائه."
+  cs: "Neobnovuje se. Po skončení zaplaťte znovu."
+  de: "Verlängert sich nicht. Bezahle nach Ablauf erneut."
+  el: "Δεν ανανεώνεται. Πληρώστε ξανά όταν λήξει."
+  en: "Does not renew. Pay again when it ends."
+  es: "No se renueva. Vuelve a pagar cuando termine."
+  es-419: "No se renueva. Vuelve a pagar cuando termine."
+  es-MX: "No se renueva. Vuelve a pagar cuando termine."
+  fr: "Ne se renouvelle pas. Payez à nouveau à la fin."
+  he: "לא מתחדש. שלמו שוב כשהוא מסתיים."
+  hi: "नवीनीकृत नहीं होता। समाप्त होने पर फिर से भुगतान करें।"
+  id: "Tidak diperpanjang. Bayar lagi saat berakhir."
+  it: "Non si rinnova. Paga di nuovo alla scadenza."
+  ja: "自動更新はされません。終了時に再度お支払いください。"
+  ko: "자동 갱신되지 않습니다. 종료 시 다시 결제하세요."
+  nl: "Wordt niet verlengd. Betaal opnieuw als het afloopt."
+  pl: "Nie odnawia się. Po zakończeniu zapłać ponownie."
+  pt: "Não renova. Pague de novo quando terminar."
+  pt-BR: "Não renova. Pague novamente quando terminar."
+  pt-PT: "Não renova. Pague de novo quando terminar."
+  ru: "Не продлевается. По окончании оплатите снова."
+  sv: "Förnyas inte. Betala igen när den tar slut."
+  sw: "Haisasishwi. Lipa tena ikiisha."
+  th: "ไม่ต่ออายุอัตโนมัติ ชำระอีกครั้งเมื่อสิ้นสุด"
+  uk: "Не продовжується. Після закінчення оплатіть знову."
+  vi: "Không tự gia hạn. Thanh toán lại khi kết thúc."
+  zh: "不会自动续订。到期后请再次支付。"
+  zh-HK: "不會自動續訂。到期後請再次支付。"

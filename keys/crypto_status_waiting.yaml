@@ -1,0 +1,37 @@
+description: "Crypto invoice status: no payment has arrived yet."
+source: "Waiting for your payment"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "بانتظار دفعتك"
+  cs: "Čekáme na vaši platbu"
+  de: "Warten auf deine Zahlung"
+  el: "Αναμονή για την πληρωμή σας"
+  en: "Waiting for your payment"
+  es: "Esperando tu pago"
+  es-419: "Esperando tu pago"
+  es-MX: "Esperando tu pago"
+  fr: "En attente de votre paiement"
+  he: "ממתינים לתשלום שלכם"
+  hi: "आपके भुगतान का इंतज़ार है"
+  id: "Menunggu pembayaran Anda"
+  it: "In attesa del tuo pagamento"
+  ja: "お支払いを待っています"
+  ko: "결제를 기다리는 중"
+  nl: "Wachten op je betaling"
+  pl: "Czekamy na Twoją płatność"
+  pt: "A aguardar o seu pagamento"
+  pt-BR: "Aguardando seu pagamento"
+  pt-PT: "A aguardar o seu pagamento"
+  ru: "Ожидаем ваш платёж"
+  sv: "Väntar på din betalning"
+  sw: "Tunasubiri malipo yako"
+  th: "กำลังรอการชำระเงินของคุณ"
+  uk: "Очікуємо ваш платіж"
+  vi: "Đang chờ thanh toán của bạn"
+  zh: "正在等待您的付款"
+  zh-HK: "正在等待你的付款"

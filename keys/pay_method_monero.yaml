@@ -1,0 +1,11 @@
+description: "Payment method row: the option to pay in Monero (XMR). A product name: never translated. On apple it also serves the invoice's first line (crypto_network_monero), which has the same text."
+source: "Monero"
+translatable: false
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Monero"

@@ -1,0 +1,37 @@
+description: "Crypto invoice status: a payment has appeared on the network but is not confirmed yet, or is not the full amount yet. Nothing has been credited."
+source: "Payment seen"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تم رصد الدفعة"
+  cs: "Platba zachycena"
+  de: "Zahlung erkannt"
+  el: "Η πληρωμή εντοπίστηκε"
+  en: "Payment seen"
+  es: "Pago detectado"
+  es-419: "Pago detectado"
+  es-MX: "Pago detectado"
+  fr: "Paiement détecté"
+  he: "התשלום זוהה"
+  hi: "भुगतान दिखाई दिया"
+  id: "Pembayaran terdeteksi"
+  it: "Pagamento rilevato"
+  ja: "支払いを検出しました"
+  ko: "결제 감지됨"
+  nl: "Betaling gedetecteerd"
+  pl: "Wykryto płatność"
+  pt: "Pagamento detetado"
+  pt-BR: "Pagamento detectado"
+  pt-PT: "Pagamento detetado"
+  ru: "Платёж обнаружен"
+  sv: "Betalning upptäckt"
+  sw: "Malipo yameonekana"
+  th: "พบการชำระเงินแล้ว"
+  uk: "Платіж виявлено"
+  vi: "Đã phát hiện thanh toán"
+  zh: "已检测到付款"
+  zh-HK: "已偵測到付款"

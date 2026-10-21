@@ -1,0 +1,37 @@
+description: "Plan picker: the note on the monthly plan, which is greyed out while a coin (USDC, Zcash or Monero) is the chosen payment method. Coins sell the yearly plan and data packs only; monthly is paid by card."
+source: "Monthly is card only"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "الاشتراك الشهري بالبطاقة فقط"
+  cs: "Měsíčně jen kartou"
+  de: "Monatlich nur mit Karte"
+  el: "Μηνιαία μόνο με κάρτα"
+  en: "Monthly is card only"
+  es: "Mensual solo con tarjeta"
+  es-419: "Mensual solo con tarjeta"
+  es-MX: "Mensual solo con tarjeta"
+  fr: "Mensuel : carte uniquement"
+  he: "מנוי חודשי בכרטיס בלבד"
+  hi: "मासिक केवल कार्ड से"
+  id: "Bulanan hanya dengan kartu"
+  it: "Mensile solo con carta"
+  ja: "月払いはカードのみ"
+  ko: "월간은 카드 결제만 가능"
+  nl: "Maandelijks alleen met kaart"
+  pl: "Miesięcznie tylko kartą"
+  pt: "Mensal só com cartão"
+  pt-BR: "Mensal só no cartão"
+  pt-PT: "Mensal só com cartão"
+  ru: "Ежемесячно — только картой"
+  sv: "Månadsvis endast med kort"
+  sw: "Kila mwezi ni kwa kadi pekee"
+  th: "รายเดือนชำระด้วยบัตรเท่านั้น"
+  uk: "Щомісяця — лише карткою"
+  vi: "Gói tháng chỉ thanh toán bằng thẻ"
+  zh: "按月仅支持银行卡"
+  zh-HK: "按月只限信用卡"

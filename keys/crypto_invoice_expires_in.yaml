@@ -1,0 +1,40 @@
+description: "Crypto invoice: countdown under the amount. The amount of the coin is quoted at the current exchange rate and held for a limited time. {time} is the time left as minutes and seconds (m:ss, e.g. 29:59)."
+source: "Quote expires in %@"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: time
+    type: string
+localizations:
+  ar: "ينتهي عرض السعر خلال {time}"
+  cs: "Kurz platí ještě {time}"
+  de: "Kurs gilt noch {time}"
+  el: "Η ισοτιμία λήγει σε {time}"
+  en: "Quote expires in {time}"
+  es: "La cotización caduca en {time}"
+  es-419: "La cotización vence en {time}"
+  es-MX: "La cotización vence en {time}"
+  fr: "La cotation expire dans {time}"
+  he: "הצעת המחיר תפוג בעוד {time}"
+  hi: "दर {time} में समाप्त होगी"
+  id: "Kurs berakhir dalam {time}"
+  it: "La quotazione scade tra {time}"
+  ja: "見積もりの有効期限まであと {time}"
+  ko: "견적 만료까지 {time}"
+  nl: "Koers verloopt over {time}"
+  pl: "Kurs wygasa za {time}"
+  pt: "A cotação expira dentro de {time}"
+  pt-BR: "A cotação expira em {time}"
+  pt-PT: "A cotação expira dentro de {time}"
+  ru: "Курс действует ещё {time}"
+  sv: "Kursen löper ut om {time}"
+  sw: "Bei inaisha baada ya {time}"
+  th: "ราคาเสนอจะหมดอายุใน {time}"
+  uk: "Курс діє ще {time}"
+  vi: "Báo giá hết hạn sau {time}"
+  zh: "报价将在 {time} 后过期"
+  zh-HK: "報價將於 {time} 後到期"

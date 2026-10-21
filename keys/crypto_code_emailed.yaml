@@ -1,0 +1,36 @@
+description: "ur.io Buy data, under the data code: shown when the buyer gave an email address, which the code was also sent to. {email} is that address."
+source: "We also emailed it to {email}."
+platforms:
+  - site
+placeholders:
+  - name: email
+    type: string
+localizations:
+  ar: "أرسلناه أيضًا إلى {email}."
+  cs: "Poslali jsme ho také na {email}."
+  de: "Wir haben ihn dir auch an {email} geschickt."
+  el: "Τον στείλαμε επίσης με email στο {email}."
+  en: "We also emailed it to {email}."
+  es: "También te lo hemos enviado a {email}."
+  es-419: "También te lo enviamos a {email}."
+  es-MX: "También te lo enviamos a {email}."
+  fr: "Nous l’avons aussi envoyé à {email}."
+  he: "שלחנו אותו גם לכתובת {email}."
+  hi: "हमने इसे {email} पर भी ईमेल कर दिया है।"
+  id: "Kami juga sudah mengirimkannya ke {email}."
+  it: "Te l’abbiamo inviato anche a {email}."
+  ja: "{email} にもメールでお送りしました。"
+  ko: "{email} 주소로도 이메일을 보냈습니다."
+  nl: "We hebben hem ook naar {email} gemaild."
+  pl: "Wysłaliśmy go też na adres {email}."
+  pt: "Também o enviámos para {email}."
+  pt-BR: "Também enviamos o código para {email}."
+  pt-PT: "Também o enviámos para {email}."
+  ru: "Мы также отправили его на {email}."
+  sv: "Vi har också mejlat den till {email}."
+  sw: "Pia tumeutuma kwa {email}."
+  th: "เราส่งรหัสนี้ไปที่ {email} ด้วยแล้ว"
+  uk: "Ми також надіслали його на {email}."
+  vi: "Chúng tôi cũng đã gửi mã này đến {email}."
+  zh: "我们也已将其发送至 {email}。"
+  zh-HK: "我們亦已將其發送至 {email}。"

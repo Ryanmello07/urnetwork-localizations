@@ -1,0 +1,37 @@
+description: "Crypto invoice status: the payment is confirmed and the plan or the data has been credited."
+source: "Paid. Thank you!"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تم الدفع. شكرًا لك!"
+  cs: "Zaplaceno. Děkujeme!"
+  de: "Bezahlt. Danke!"
+  el: "Πληρώθηκε. Ευχαριστούμε!"
+  en: "Paid. Thank you!"
+  es: "Pagado. ¡Gracias!"
+  es-419: "Pagado. ¡Gracias!"
+  es-MX: "Pagado. ¡Gracias!"
+  fr: "Payé. Merci !"
+  he: "שולם. תודה!"
+  hi: "भुगतान हो गया। धन्यवाद!"
+  id: "Lunas. Terima kasih!"
+  it: "Pagato. Grazie!"
+  ja: "お支払いが完了しました。ありがとうございます！"
+  ko: "결제가 완료되었습니다. 감사합니다!"
+  nl: "Betaald. Bedankt!"
+  pl: "Opłacono. Dziękujemy!"
+  pt: "Pago. Obrigado!"
+  pt-BR: "Pago. Obrigado!"
+  pt-PT: "Pago. Obrigado!"
+  ru: "Оплачено. Спасибо!"
+  sv: "Betalt. Tack!"
+  sw: "Imelipwa. Asante!"
+  th: "ชำระเงินแล้ว ขอบคุณ!"
+  uk: "Оплачено. Дякуємо!"
+  vi: "Đã thanh toán. Cảm ơn bạn!"
+  zh: "已付款。谢谢！"
+  zh-HK: "已付款。多謝！"
