@@ -1,0 +1,40 @@
+description: "Crypto invoice: shown when an invoice can't be started or its quote refreshed because the coin can't be quoted right now. {method} is the coin's name: USDC, Zcash or Monero."
+source: "Paying with %@ is temporarily unavailable. Try again later, or pay another way."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: method
+    type: string
+localizations:
+  ar: "الدفع بـ {method} غير متاح مؤقتًا. حاول مرة أخرى لاحقًا، أو ادفع بطريقة أخرى."
+  cs: "Platba v {method} je dočasně nedostupná. Zkuste to později, nebo zaplaťte jinak."
+  de: "Bezahlen mit {method} ist vorübergehend nicht möglich. Versuche es später erneut oder bezahle anders."
+  el: "Η πληρωμή με {method} δεν είναι διαθέσιμη προσωρινά. Δοκιμάστε ξανά αργότερα ή πληρώστε με άλλον τρόπο."
+  en: "Paying with {method} is temporarily unavailable. Try again later, or pay another way."
+  es: "El pago con {method} no está disponible temporalmente. Inténtalo más tarde o paga de otra forma."
+  es-419: "El pago con {method} no está disponible temporalmente. Inténtalo más tarde o paga de otra forma."
+  es-MX: "El pago con {method} no está disponible temporalmente. Inténtalo más tarde o paga de otra forma."
+  fr: "Le paiement en {method} est temporairement indisponible. Réessayez plus tard ou payez autrement."
+  he: "תשלום ב-{method} לא זמין זמנית. נסו שוב מאוחר יותר או שלמו בדרך אחרת."
+  hi: "{method} से भुगतान अस्थायी रूप से उपलब्ध नहीं है। बाद में फिर से कोशिश करें, या दूसरे तरीके से भुगतान करें।"
+  id: "Pembayaran dengan {method} sedang tidak tersedia untuk sementara. Coba lagi nanti, atau bayar dengan cara lain."
+  it: "Il pagamento con {method} è temporaneamente non disponibile. Riprova più tardi o paga in altro modo."
+  ja: "{method} での支払いは一時的にご利用いただけません。しばらくしてからもう一度お試しいただくか、別の方法でお支払いください。"
+  ko: "{method} 결제를 일시적으로 이용할 수 없습니다. 나중에 다시 시도하거나 다른 방법으로 결제하세요."
+  nl: "Betalen met {method} is tijdelijk niet mogelijk. Probeer het later opnieuw of betaal op een andere manier."
+  pl: "Płatność w {method} jest chwilowo niedostępna. Spróbuj ponownie później lub zapłać w inny sposób."
+  pt: "O pagamento com {method} está temporariamente indisponível. Tente novamente mais tarde ou pague de outra forma."
+  pt-BR: "O pagamento com {method} está temporariamente indisponível. Tente novamente mais tarde ou pague de outra forma."
+  pt-PT: "O pagamento com {method} está temporariamente indisponível. Tente novamente mais tarde ou pague de outra forma."
+  ru: "Оплата в {method} временно недоступна. Повторите попытку позже или оплатите другим способом."
+  sv: "Det går tillfälligt inte att betala med {method}. Försök igen senare eller betala på annat sätt."
+  sw: "Kulipa kwa {method} hakupatikani kwa muda. Jaribu tena baadaye, au lipa kwa njia nyingine."
+  th: "ไม่สามารถชำระด้วย {method} ได้ชั่วคราว โปรดลองอีกครั้งภายหลัง หรือชำระด้วยวิธีอื่น"
+  uk: "Оплата в {method} тимчасово недоступна. Спробуйте пізніше або оплатіть іншим способом."
+  vi: "Thanh toán bằng {method} tạm thời không khả dụng. Hãy thử lại sau hoặc thanh toán cách khác."
+  zh: "暂时无法使用 {method} 支付。请稍后重试，或使用其他方式支付。"
+  zh-HK: "暫時無法使用 {method} 付款。請稍後再試，或使用其他方式付款。"

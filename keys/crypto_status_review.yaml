@@ -1,0 +1,37 @@
+description: "Crypto invoice status: a payment needs a person to review it (it was short when the quote expired, a second payment arrived, or a payment dropped off the chain). Nothing is lost; support settles it."
+source: "We received a payment that needs a manual check. Contact support and we'll sort it out."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تلقّينا دفعة تحتاج إلى مراجعة يدوية. تواصل مع الدعم وسنحلّ الأمر."
+  cs: "Obdrželi jsme platbu, kterou je potřeba ručně zkontrolovat. Kontaktujte podporu a vyřešíme to."
+  de: "Wir haben eine Zahlung erhalten, die manuell geprüft werden muss. Wende dich an den Support, dann klären wir das."
+  el: "Λάβαμε μια πληρωμή που χρειάζεται χειροκίνητο έλεγχο. Επικοινωνήστε με την υποστήριξη και θα το τακτοποιήσουμε."
+  en: "We received a payment that needs a manual check. Contact support and we'll sort it out."
+  es: "Hemos recibido un pago que necesita una revisión manual. Contacta con el soporte y lo solucionaremos."
+  es-419: "Recibimos un pago que necesita una revisión manual. Comunícate con soporte y lo resolveremos."
+  es-MX: "Recibimos un pago que necesita una revisión manual. Comunícate con soporte y lo resolveremos."
+  fr: "Nous avons reçu un paiement qui nécessite une vérification manuelle. Contactez l’assistance et nous réglerons le problème."
+  he: "קיבלנו תשלום שדורש בדיקה ידנית. פנו לתמיכה ונסדר את זה."
+  hi: "हमें एक भुगतान मिला है जिसकी मैन्युअल जाँच ज़रूरी है। सपोर्ट से संपर्क करें, हम इसे सुलझा देंगे।"
+  id: "Kami menerima pembayaran yang perlu diperiksa secara manual. Hubungi dukungan dan kami akan menyelesaikannya."
+  it: "Abbiamo ricevuto un pagamento che richiede un controllo manuale. Contatta l’assistenza e risolveremo il problema."
+  ja: "手動での確認が必要なお支払いを受け取りました。サポートにお問い合わせいただければ対応いたします。"
+  ko: "수동 확인이 필요한 결제를 받았습니다. 지원팀에 문의하시면 해결해 드리겠습니다."
+  nl: "We hebben een betaling ontvangen die handmatig gecontroleerd moet worden. Neem contact op met support, dan lossen we het op."
+  pl: "Otrzymaliśmy płatność, która wymaga ręcznego sprawdzenia. Skontaktuj się z pomocą techniczną, a wszystko wyjaśnimy."
+  pt: "Recebemos um pagamento que precisa de uma verificação manual. Contacte o suporte e resolveremos a situação."
+  pt-BR: "Recebemos um pagamento que precisa de verificação manual. Entre em contato com o suporte e vamos resolver."
+  pt-PT: "Recebemos um pagamento que precisa de uma verificação manual. Contacte o suporte e resolveremos a situação."
+  ru: "Мы получили платёж, который нужно проверить вручную. Обратитесь в поддержку, и мы всё уладим."
+  sv: "Vi har tagit emot en betalning som behöver kontrolleras manuellt. Kontakta supporten så löser vi det."
+  sw: "Tumepokea malipo yanayohitaji kukaguliwa kwa mkono. Wasiliana na usaidizi nasi tutalitatua."
+  th: "เราได้รับการชำระเงินที่ต้องตรวจสอบด้วยตนเอง โปรดติดต่อฝ่ายสนับสนุน แล้วเราจะจัดการให้"
+  uk: "Ми отримали платіж, який потрібно перевірити вручну. Зверніться до підтримки, і ми все владнаємо."
+  vi: "Chúng tôi đã nhận được một khoản thanh toán cần kiểm tra thủ công. Hãy liên hệ bộ phận hỗ trợ, chúng tôi sẽ xử lý."
+  zh: "我们收到了一笔需要人工核查的付款。请联系客户支持，我们会为您处理。"
+  zh-HK: "我們收到一筆需要人手核對的付款。請聯絡支援團隊，我們會為你處理。"

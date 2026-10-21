@@ -1,0 +1,37 @@
+description: "Crypto invoice: its first line, naming the coin and saying the receiving address is a shielded (private) Zcash address. Use the word Zcash wallets in the language use for shielded; the same word appears in the Zcash exchange note."
+source: "Zcash, shielded"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "Zcash، محمي"
+  cs: "Zcash, stíněný"
+  de: "Zcash, abgeschirmt"
+  el: "Zcash, θωρακισμένο"
+  en: "Zcash, shielded"
+  es: "Zcash, blindado"
+  es-419: "Zcash, blindado"
+  es-MX: "Zcash, blindado"
+  fr: "Zcash, blindé"
+  he: "Zcash, מוגן"
+  hi: "Zcash, शील्डेड"
+  id: "Zcash, terlindungi"
+  it: "Zcash, schermato"
+  ja: "Zcash（シールド）"
+  ko: "Zcash(차폐)"
+  nl: "Zcash, afgeschermd"
+  pl: "Zcash, osłonięty"
+  pt: "Zcash, blindado"
+  pt-BR: "Zcash, blindado"
+  pt-PT: "Zcash, blindado"
+  ru: "Zcash, экранированный"
+  sv: "Zcash, skyddad"
+  sw: "Zcash, iliyolindwa"
+  th: "Zcash แบบชิลด์"
+  uk: "Zcash, екранований"
+  vi: "Zcash, được che chắn"
+  zh: "Zcash（屏蔽）"
+  zh-HK: "Zcash（屏蔽）"

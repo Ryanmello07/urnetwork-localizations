@@ -1,0 +1,40 @@
+description: "Crypto invoice: wallet apps known to pay this coin. {wallets} is a comma-separated list of wallet app names (e.g. Cake, Feather, Monerujo), which are never translated."
+source: "Wallets that work: %@"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: wallets
+    type: string
+localizations:
+  ar: "المحافظ المتوافقة: {wallets}"
+  cs: "Vhodné peněženky: {wallets}"
+  de: "Geeignete Wallets: {wallets}"
+  el: "Συμβατά πορτοφόλια: {wallets}"
+  en: "Wallets that work: {wallets}"
+  es: "Billeteras compatibles: {wallets}"
+  es-419: "Billeteras compatibles: {wallets}"
+  es-MX: "Billeteras compatibles: {wallets}"
+  fr: "Portefeuilles compatibles : {wallets}"
+  he: "ארנקים מתאימים: {wallets}"
+  hi: "काम करने वाले वॉलेट: {wallets}"
+  id: "Dompet yang bisa digunakan: {wallets}"
+  it: "Portafogli compatibili: {wallets}"
+  ja: "対応ウォレット：{wallets}"
+  ko: "사용 가능한 지갑: {wallets}"
+  nl: "Geschikte wallets: {wallets}"
+  pl: "Działające portfele: {wallets}"
+  pt: "Carteiras compatíveis: {wallets}"
+  pt-BR: "Carteiras compatíveis: {wallets}"
+  pt-PT: "Carteiras compatíveis: {wallets}"
+  ru: "Подходящие кошельки: {wallets}"
+  sv: "Plånböcker som fungerar: {wallets}"
+  sw: "Pochi zinazofanya kazi: {wallets}"
+  th: "กระเป๋าเงินที่ใช้ได้: {wallets}"
+  uk: "Відповідні гаманці: {wallets}"
+  vi: "Ví dùng được: {wallets}"
+  zh: "适用的钱包：{wallets}"
+  zh-HK: "適用的錢包：{wallets}"

@@ -1,0 +1,37 @@
+description: "Payment method row: the option to pay by credit or debit card (processed by Stripe). A payment card, not a UI card."
+source: "Card"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "بطاقة"
+  cs: "Karta"
+  de: "Karte"
+  el: "Κάρτα"
+  en: "Card"
+  es: "Tarjeta"
+  es-419: "Tarjeta"
+  es-MX: "Tarjeta"
+  fr: "Carte"
+  he: "כרטיס"
+  hi: "कार्ड"
+  id: "Kartu"
+  it: "Carta"
+  ja: "カード"
+  ko: "카드"
+  nl: "Kaart"
+  pl: "Karta"
+  pt: "Cartão"
+  pt-BR: "Cartão"
+  pt-PT: "Cartão"
+  ru: "Карта"
+  sv: "Kort"
+  sw: "Kadi"
+  th: "บัตร"
+  uk: "Картка"
+  vi: "Thẻ"
+  zh: "银行卡"
+  zh-HK: "信用卡"

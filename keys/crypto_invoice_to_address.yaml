@@ -1,0 +1,37 @@
+description: "Crypto invoice: the label above the receiving address, which has a copy button."
+source: "To this address"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "إلى هذا العنوان"
+  cs: "Na tuto adresu"
+  de: "An diese Adresse"
+  el: "Σε αυτή τη διεύθυνση"
+  en: "To this address"
+  es: "A esta dirección"
+  es-419: "A esta dirección"
+  es-MX: "A esta dirección"
+  fr: "À cette adresse"
+  he: "לכתובת הזו"
+  hi: "इस पते पर"
+  id: "Ke alamat ini"
+  it: "A questo indirizzo"
+  ja: "送金先アドレス"
+  ko: "이 주소로"
+  nl: "Naar dit adres"
+  pl: "Na ten adres"
+  pt: "Para este endereço"
+  pt-BR: "Para este endereço"
+  pt-PT: "Para este endereço"
+  ru: "На этот адрес"
+  sv: "Till den här adressen"
+  sw: "Kwenye anwani hii"
+  th: "ไปยังที่อยู่นี้"
+  uk: "На цю адресу"
+  vi: "Đến địa chỉ này"
+  zh: "发送到此地址"
+  zh-HK: "發送到此地址"

@@ -1,0 +1,37 @@
+description: "Crypto invoice: button that opens the payment request (address and exact amount) in a wallet app on this device."
+source: "Open in wallet"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "فتح في المحفظة"
+  cs: "Otevřít v peněžence"
+  de: "In Wallet öffnen"
+  el: "Άνοιγμα στο πορτοφόλι"
+  en: "Open in wallet"
+  es: "Abrir en la billetera"
+  es-419: "Abrir en la billetera"
+  es-MX: "Abrir en la billetera"
+  fr: "Ouvrir dans le portefeuille"
+  he: "פתיחה בארנק"
+  hi: "वॉलेट में खोलें"
+  id: "Buka di dompet"
+  it: "Apri nel portafoglio"
+  ja: "ウォレットで開く"
+  ko: "지갑에서 열기"
+  nl: "Openen in wallet"
+  pl: "Otwórz w portfelu"
+  pt: "Abrir na carteira"
+  pt-BR: "Abrir na carteira"
+  pt-PT: "Abrir na carteira"
+  ru: "Открыть в кошельке"
+  sv: "Öppna i plånbok"
+  sw: "Fungua kwenye pochi"
+  th: "เปิดในกระเป๋าเงิน"
+  uk: "Відкрити в гаманці"
+  vi: "Mở trong ví"
+  zh: "在钱包中打开"
+  zh-HK: "在錢包中開啟"

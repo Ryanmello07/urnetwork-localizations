@@ -1,0 +1,42 @@
+description: "Crypto invoice status: the full payment arrived and is collecting block confirmations. {count} is the confirmations so far and {required} the number needed before the purchase is credited (e.g. 3 of 10). Numbers only follow, so no plural forms."
+source: "Confirming: %lld of %lld"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: count
+    type: int
+  - name: required
+    type: int
+localizations:
+  ar: "جارٍ التأكيد: {count} من {required}"
+  cs: "Potvrzování: {count} z {required}"
+  de: "Wird bestätigt: {count} von {required}"
+  el: "Επιβεβαίωση: {count} από {required}"
+  en: "Confirming: {count} of {required}"
+  es: "Confirmando: {count} de {required}"
+  es-419: "Confirmando: {count} de {required}"
+  es-MX: "Confirmando: {count} de {required}"
+  fr: "Confirmation : {count} sur {required}"
+  he: "בתהליך אישור: {count} מתוך {required}"
+  hi: "पुष्टि हो रही है: {required} में से {count}"
+  id: "Mengonfirmasi: {count} dari {required}"
+  it: "Conferma in corso: {count} di {required}"
+  ja: "承認中：{count} / {required}"
+  ko: "확인 중: {count}/{required}"
+  nl: "Bevestigen: {count} van {required}"
+  pl: "Potwierdzanie: {count} z {required}"
+  pt: "A confirmar: {count} de {required}"
+  pt-BR: "Confirmando: {count} de {required}"
+  pt-PT: "A confirmar: {count} de {required}"
+  ru: "Подтверждение: {count} из {required}"
+  sv: "Bekräftas: {count} av {required}"
+  sw: "Inathibitishwa: {count} kati ya {required}"
+  th: "กำลังยืนยัน: {count} จาก {required}"
+  uk: "Підтвердження: {count} з {required}"
+  vi: "Đang xác nhận: {count}/{required}"
+  zh: "确认中：{count}/{required}"
+  zh-HK: "確認中：{count}/{required}"

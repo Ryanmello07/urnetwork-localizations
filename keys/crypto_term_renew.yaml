@@ -1,0 +1,37 @@
+description: "Button on the notice that a crypto-paid year of Pro has ended: opens the plan picker to pay for another year."
+source: "Renew"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تجديد"
+  cs: "Prodloužit"
+  de: "Verlängern"
+  el: "Ανανέωση"
+  en: "Renew"
+  es: "Renovar"
+  es-419: "Renovar"
+  es-MX: "Renovar"
+  fr: "Renouveler"
+  he: "חידוש"
+  hi: "नवीनीकरण करें"
+  id: "Perpanjang"
+  it: "Rinnova"
+  ja: "更新する"
+  ko: "갱신"
+  nl: "Verlengen"
+  pl: "Odnów"
+  pt: "Renovar"
+  pt-BR: "Renovar"
+  pt-PT: "Renovar"
+  ru: "Продлить"
+  sv: "Förnya"
+  sw: "Sasisha"
+  th: "ต่ออายุ"
+  uk: "Продовжити"
+  vi: "Gia hạn"
+  zh: "续订"
+  zh-HK: "續訂"

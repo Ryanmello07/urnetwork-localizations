@@ -1,0 +1,40 @@
+description: "In-app notice once a year of Pro paid once in crypto (it never auto-renews) has ended and its 30-day grace period has begun. {date} is the last day of the grace period, formatted by the app for the reader's locale. Renew by = no later than."
+source: "Your paid year of Pro has ended. Renew by %@ to keep Pro."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: date
+    type: string
+localizations:
+  ar: "انتهى عامك المدفوع من Pro. جدّد بحلول {date} للاحتفاظ بـ Pro."
+  cs: "Váš zaplacený rok Pro skončil. Prodlužte ho nejpozději {date}, abyste si Pro ponechali."
+  de: "Dein bezahltes Pro-Jahr ist abgelaufen. Verlängere bis spätestens {date}, um Pro zu behalten."
+  el: "Το πληρωμένο έτος Pro σας έληξε. Ανανεώστε έως {date} για να διατηρήσετε το Pro."
+  en: "Your paid year of Pro has ended. Renew by {date} to keep Pro."
+  es: "Tu año de Pro pagado ha terminado. Renueva antes del {date} para mantener Pro."
+  es-419: "Tu año de Pro pagado terminó. Renueva antes del {date} para conservar Pro."
+  es-MX: "Tu año de Pro pagado terminó. Renueva antes del {date} para conservar Pro."
+  fr: "Votre année de Pro payée est terminée. Renouvelez d’ici le {date} pour conserver Pro."
+  he: "שנת ה-Pro ששילמתם עליה הסתיימה. חדשו עד {date} כדי לשמור על Pro."
+  hi: "Pro का आपका भुगतान किया हुआ साल खत्म हो गया है। Pro बनाए रखने के लिए {date} तक नवीनीकरण करें।"
+  id: "Tahun Pro berbayar Anda telah berakhir. Perpanjang paling lambat {date} agar tetap menggunakan Pro."
+  it: "Il tuo anno di Pro pagato è terminato. Rinnova entro il {date} per mantenere Pro."
+  ja: "お支払い済みの Pro の 1 年間が終了しました。Pro を継続するには、{date} までに更新してください。"
+  ko: "결제한 Pro 1년 기간이 끝났습니다. Pro를 계속 이용하려면 {date}까지 갱신하세요."
+  nl: "Je betaalde jaar Pro is afgelopen. Verleng vóór {date} om Pro te houden."
+  pl: "Twój opłacony rok Pro dobiegł końca. Odnów do {date}, aby zachować Pro."
+  pt: "O seu ano pago de Pro terminou. Renove até {date} para manter o Pro."
+  pt-BR: "Seu ano pago de Pro terminou. Renove até {date} para continuar com o Pro."
+  pt-PT: "O seu ano pago de Pro terminou. Renove até {date} para manter o Pro."
+  ru: "Ваш оплаченный год Pro закончился. Продлите не позднее {date}, чтобы сохранить Pro."
+  sv: "Ditt betalda år med Pro har tagit slut. Förnya senast {date} för att behålla Pro."
+  sw: "Mwaka wako wa Pro uliolipiwa umeisha. Sasisha kabla ya {date} ili kuendelea na Pro."
+  th: "Pro หนึ่งปีที่คุณชำระไว้สิ้นสุดแล้ว ต่ออายุภายใน {date} เพื่อใช้ Pro ต่อ"
+  uk: "Ваш оплачений рік Pro закінчився. Продовжте не пізніше {date}, щоб зберегти Pro."
+  vi: "Năm Pro bạn đã thanh toán đã kết thúc. Hãy gia hạn trước {date} để giữ Pro."
+  zh: "您已付费的一年 Pro 已结束。请在 {date} 前续订以保留 Pro。"
+  zh-HK: "你已付費的一年 Pro 已結束。請在 {date} 前續訂以保留 Pro。"

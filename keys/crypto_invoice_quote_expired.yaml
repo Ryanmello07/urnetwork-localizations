@@ -1,0 +1,37 @@
+description: "Crypto invoice: shown when the quote's time ran out before any payment arrived. Refreshing keeps the same address and changes only the amount."
+source: "This quote expired. Refresh it for a new amount."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "انتهت صلاحية عرض السعر هذا. حدّثه للحصول على مبلغ جديد."
+  cs: "Platnost tohoto kurzu vypršela. Obnovte ho a získáte novou částku."
+  de: "Dieser Kurs ist abgelaufen. Aktualisiere ihn für einen neuen Betrag."
+  el: "Αυτή η ισοτιμία έληξε. Ανανεώστε την για νέο ποσό."
+  en: "This quote expired. Refresh it for a new amount."
+  es: "Esta cotización ha caducado. Actualízala para obtener un nuevo importe."
+  es-419: "Esta cotización venció. Actualízala para obtener un nuevo monto."
+  es-MX: "Esta cotización venció. Actualízala para obtener un nuevo monto."
+  fr: "Cette cotation a expiré. Actualisez-la pour obtenir un nouveau montant."
+  he: "הצעת המחיר הזו פגה. רעננו אותה כדי לקבל סכום חדש."
+  hi: "यह दर समाप्त हो गई है। नई राशि के लिए इसे रीफ़्रेश करें।"
+  id: "Kurs ini sudah berakhir. Perbarui untuk mendapatkan jumlah baru."
+  it: "Questa quotazione è scaduta. Aggiornala per ottenere un nuovo importo."
+  ja: "この見積もりは期限切れです。更新すると新しい金額が表示されます。"
+  ko: "이 견적은 만료되었습니다. 새로고침하면 새 금액을 받을 수 있습니다."
+  nl: "Deze koers is verlopen. Vernieuw hem voor een nieuw bedrag."
+  pl: "Ten kurs wygasł. Odśwież go, aby otrzymać nową kwotę."
+  pt: "Esta cotação expirou. Atualize-a para obter um novo montante."
+  pt-BR: "Esta cotação expirou. Atualize para receber um novo valor."
+  pt-PT: "Esta cotação expirou. Atualize-a para obter um novo montante."
+  ru: "Срок действия курса истёк. Обновите его, чтобы получить новую сумму."
+  sv: "Den här kursen har gått ut. Uppdatera den för att få ett nytt belopp."
+  sw: "Muda wa bei hii umeisha. Isasishe upate kiasi kipya."
+  th: "ราคาเสนอนี้หมดอายุแล้ว รีเฟรชเพื่อรับจำนวนเงินใหม่"
+  uk: "Термін дії курсу минув. Оновіть його, щоб отримати нову суму."
+  vi: "Báo giá này đã hết hạn. Hãy làm mới để nhận số tiền mới."
+  zh: "此报价已过期。请刷新以获取新金额。"
+  zh-HK: "此報價已過期。請重新整理以取得新金額。"

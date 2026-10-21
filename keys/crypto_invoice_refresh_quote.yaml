@@ -1,0 +1,37 @@
+description: "Crypto invoice: button shown once the quote has expired. It gets a new amount of the coin at the current exchange rate, for the same address."
+source: "Refresh quote"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تحديث عرض السعر"
+  cs: "Obnovit kurz"
+  de: "Kurs aktualisieren"
+  el: "Ανανέωση ισοτιμίας"
+  en: "Refresh quote"
+  es: "Actualizar cotización"
+  es-419: "Actualizar cotización"
+  es-MX: "Actualizar cotización"
+  fr: "Actualiser la cotation"
+  he: "רענון הצעת המחיר"
+  hi: "दर रीफ़्रेश करें"
+  id: "Perbarui kurs"
+  it: "Aggiorna quotazione"
+  ja: "見積もりを更新"
+  ko: "견적 새로고침"
+  nl: "Koers vernieuwen"
+  pl: "Odśwież kurs"
+  pt: "Atualizar cotação"
+  pt-BR: "Atualizar cotação"
+  pt-PT: "Atualizar cotação"
+  ru: "Обновить курс"
+  sv: "Uppdatera kurs"
+  sw: "Sasisha bei"
+  th: "รีเฟรชราคาเสนอ"
+  uk: "Оновити курс"
+  vi: "Làm mới báo giá"
+  zh: "刷新报价"
+  zh-HK: "重新整理報價"

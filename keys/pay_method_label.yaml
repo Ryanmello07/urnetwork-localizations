@@ -1,0 +1,37 @@
+description: "Payment method row, directly above the buy button (plan picker, upgrade sheet, onboarding, Buy data): the label of the row of methods (Card, USDC, Zcash, Monero). Screen readers read it before the selected method, and a platform may also show it as the row's visible label."
+source: "Pay with"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "طريقة الدفع"
+  cs: "Způsob platby"
+  de: "Bezahlen mit"
+  el: "Πληρωμή με"
+  en: "Pay with"
+  es: "Pagar con"
+  es-419: "Pagar con"
+  es-MX: "Pagar con"
+  fr: "Payer avec"
+  he: "תשלום באמצעות"
+  hi: "भुगतान का तरीका"
+  id: "Bayar dengan"
+  it: "Paga con"
+  ja: "支払い方法"
+  ko: "결제 수단"
+  nl: "Betalen met"
+  pl: "Metoda płatności"
+  pt: "Pagar com"
+  pt-BR: "Pagar com"
+  pt-PT: "Pagar com"
+  ru: "Способ оплаты"
+  sv: "Betala med"
+  sw: "Lipa kwa"
+  th: "ชำระเงินด้วย"
+  uk: "Спосіб оплати"
+  vi: "Thanh toán bằng"
+  zh: "支付方式"
+  zh-HK: "付款方式"

@@ -2,12 +2,15 @@ description: "Payment: the chain to send on. Shown wherever a USDC payment is re
 source: "Send USDC on the Solana network only. USDC sent on any other network will not arrive."
 platforms:
   - android
+  - apple
+  - windows
+  - linux
   - site
 localizations:
   en: "Send USDC on the Solana network only. USDC sent on any other network will not arrive."
   ar: "أرسل USDC على شبكة Solana فقط. لن تصل عملات USDC المُرسَلة عبر أي شبكة أخرى."
   cs: "USDC posílejte pouze v síti Solana. USDC odeslané v jiné síti nedorazí."
-  de: "Senden Sie USDC nur über das Solana-Netzwerk. USDC, die über ein anderes Netzwerk gesendet werden, kommen nicht an."
+  de: "Sende USDC nur über das Solana-Netzwerk. USDC, die über ein anderes Netzwerk gesendet werden, kommen nicht an."
   el: "Στείλτε USDC μόνο στο δίκτυο Solana. Τα USDC που στέλνονται σε άλλο δίκτυο δεν θα φτάσουν."
   es: "Envía USDC solo por la red Solana. Los USDC enviados por cualquier otra red no llegarán."
   es-419: "Envía USDC solo por la red Solana. Los USDC enviados por cualquier otra red no llegarán."

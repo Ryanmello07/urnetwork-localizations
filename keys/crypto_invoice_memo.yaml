@@ -1,0 +1,37 @@
+description: "Crypto invoice, USDC only: the label above the payment's reference (memo). A payer who types the transfer into a wallet by hand must include it; paying from the QR code or Open in wallet fills it in."
+source: "Memo, if you send by hand"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "المذكرة (Memo)، إذا أرسلت يدويًا"
+  cs: "Memo, pokud posíláte ručně"
+  de: "Memo, falls du manuell sendest"
+  el: "Memo, αν στέλνετε χειροκίνητα"
+  en: "Memo, if you send by hand"
+  es: "Memo, si lo envías manualmente"
+  es-419: "Memo, si lo envías manualmente"
+  es-MX: "Memo, si lo envías manualmente"
+  fr: "Mémo, si vous envoyez manuellement"
+  he: "Memo, אם שולחים ידנית"
+  hi: "मेमो, अगर आप मैन्युअल रूप से भेजते हैं"
+  id: "Memo, jika Anda mengirim secara manual"
+  it: "Memo, se invii manualmente"
+  ja: "メモ（手動で送金する場合）"
+  ko: "메모(직접 보내는 경우)"
+  nl: "Memo, als je handmatig verstuurt"
+  pl: "Memo, jeśli wysyłasz ręcznie"
+  pt: "Memo, se enviar manualmente"
+  pt-BR: "Memo, se você enviar manualmente"
+  pt-PT: "Memo, se enviar manualmente"
+  ru: "Memo, если отправляете вручную"
+  sv: "Memo, om du skickar manuellt"
+  sw: "Memo, ukituma mwenyewe"
+  th: "บันทึก (Memo) หากคุณส่งเอง"
+  uk: "Memo, якщо надсилаєте вручну"
+  vi: "Memo, nếu bạn gửi thủ công"
+  zh: "备注（Memo），手动发送时填写"
+  zh-HK: "備註（Memo），手動發送時填寫"

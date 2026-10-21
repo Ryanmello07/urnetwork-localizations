@@ -1,0 +1,40 @@
+description: "Crypto invoice: shown when a payment arrived but was short of the amount. {amount} is what is still to send, with the coin's ticker (e.g. 0.0012 XMR)."
+source: "%@ more to send"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  ar: "يتبقى إرسال {amount}"
+  cs: "Zbývá poslat {amount}"
+  de: "Noch {amount} zu senden"
+  el: "Απομένει να στείλετε {amount}"
+  en: "{amount} more to send"
+  es: "Falta enviar {amount}"
+  es-419: "Falta enviar {amount}"
+  es-MX: "Falta enviar {amount}"
+  fr: "Encore {amount} à envoyer"
+  he: "נותר לשלוח {amount}"
+  hi: "{amount} और भेजना बाकी है"
+  id: "Masih perlu mengirim {amount}"
+  it: "Ancora {amount} da inviare"
+  ja: "あと {amount} の送金が必要です"
+  ko: "{amount} 더 보내야 합니다"
+  nl: "Nog {amount} te versturen"
+  pl: "Pozostało do wysłania: {amount}"
+  pt: "Falta enviar {amount}"
+  pt-BR: "Falta enviar {amount}"
+  pt-PT: "Falta enviar {amount}"
+  ru: "Осталось отправить {amount}"
+  sv: "{amount} kvar att skicka"
+  sw: "Kiasi kilichobaki kutuma: {amount}"
+  th: "ต้องส่งเพิ่มอีก {amount}"
+  uk: "Залишилося надіслати {amount}"
+  vi: "Cần gửi thêm {amount}"
+  zh: "还需发送 {amount}"
+  zh-HK: "仍需發送 {amount}"

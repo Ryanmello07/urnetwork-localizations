@@ -1,0 +1,37 @@
+description: "Account screen and plan area: the label of the row or banner that reopens a crypto invoice (USDC, Zcash or Monero) saved on this device and not paid yet. Tapping it opens the invoice."
+source: "Payment in progress"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "دفعة قيد التنفيذ"
+  cs: "Probíhající platba"
+  de: "Zahlung läuft"
+  el: "Πληρωμή σε εξέλιξη"
+  en: "Payment in progress"
+  es: "Pago en curso"
+  es-419: "Pago en curso"
+  es-MX: "Pago en curso"
+  fr: "Paiement en cours"
+  he: "תשלום בתהליך"
+  hi: "भुगतान जारी है"
+  id: "Pembayaran sedang berlangsung"
+  it: "Pagamento in corso"
+  ja: "支払い手続き中"
+  ko: "결제 진행 중"
+  nl: "Lopende betaling"
+  pl: "Płatność w toku"
+  pt: "Pagamento em curso"
+  pt-BR: "Pagamento em andamento"
+  pt-PT: "Pagamento em curso"
+  ru: "Платёж в процессе"
+  sv: "Betalning pågår"
+  sw: "Malipo yanaendelea"
+  th: "การชำระเงินกำลังดำเนินการ"
+  uk: "Платіж у процесі"
+  vi: "Thanh toán đang diễn ra"
+  zh: "付款进行中"
+  zh-HK: "付款進行中"

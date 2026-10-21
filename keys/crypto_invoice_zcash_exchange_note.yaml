@@ -1,0 +1,37 @@
+description: "Crypto invoice, Zcash only: warning that exchange accounts cannot pay a shielded address, so the payer must send from a wallet that supports shielded Zcash addresses. Coinbase and Robinhood are company names. Use the same word for shielded as in crypto_network_zcash."
+source: "Exchanges such as Coinbase and Robinhood can't send to this shielded address. Send from a shielded wallet."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "لا يمكن لمنصات التداول مثل Coinbase و Robinhood الإرسال إلى هذا العنوان المحمي. أرسل من محفظة تدعم العناوين المحمية."
+  cs: "Burzy jako Coinbase a Robinhood nemohou posílat na tuto stíněnou adresu. Pošlete platbu z peněženky, která stíněné adresy podporuje."
+  de: "Börsen wie Coinbase und Robinhood können nicht an diese abgeschirmte Adresse senden. Sende von einer Wallet, die abgeschirmte Adressen unterstützt."
+  el: "Ανταλλακτήρια όπως το Coinbase και το Robinhood δεν μπορούν να στείλουν σε αυτή τη θωρακισμένη διεύθυνση. Στείλτε από πορτοφόλι που υποστηρίζει θωρακισμένες διευθύνσεις."
+  en: "Exchanges such as Coinbase and Robinhood can't send to this shielded address. Send from a shielded wallet."
+  es: "Los exchanges como Coinbase y Robinhood no pueden enviar a esta dirección blindada. Envía desde una billetera compatible con direcciones blindadas."
+  es-419: "Los exchanges como Coinbase y Robinhood no pueden enviar a esta dirección blindada. Envía desde una billetera compatible con direcciones blindadas."
+  es-MX: "Los exchanges como Coinbase y Robinhood no pueden enviar a esta dirección blindada. Envía desde una billetera compatible con direcciones blindadas."
+  fr: "Les plateformes d’échange comme Coinbase et Robinhood ne peuvent pas envoyer vers cette adresse blindée. Envoyez depuis un portefeuille compatible avec les adresses blindées."
+  he: "בורסות כמו Coinbase ו-Robinhood לא יכולות לשלוח לכתובת המוגנת הזו. שלחו מארנק שתומך בכתובות מוגנות."
+  hi: "Coinbase और Robinhood जैसे एक्सचेंज इस शील्डेड पते पर नहीं भेज सकते। ऐसे वॉलेट से भेजें जो शील्डेड पते सपोर्ट करता हो।"
+  id: "Exchange seperti Coinbase dan Robinhood tidak bisa mengirim ke alamat terlindungi ini. Kirim dari dompet yang mendukung alamat terlindungi."
+  it: "Exchange come Coinbase e Robinhood non possono inviare a questo indirizzo schermato. Invia da un portafoglio che supporta gli indirizzi schermati."
+  ja: "Coinbase や Robinhood などの取引所からは、このシールドアドレスに送金できません。シールドアドレスに対応したウォレットから送金してください。"
+  ko: "Coinbase, Robinhood 같은 거래소에서는 이 차폐 주소로 보낼 수 없습니다. 차폐 주소를 지원하는 지갑에서 보내세요."
+  nl: "Exchanges zoals Coinbase en Robinhood kunnen niet naar dit afgeschermde adres versturen. Verstuur vanuit een wallet die afgeschermde adressen ondersteunt."
+  pl: "Giełdy takie jak Coinbase i Robinhood nie mogą wysyłać na ten osłonięty adres. Wyślij z portfela, który obsługuje adresy osłonięte."
+  pt: "Plataformas como a Coinbase e a Robinhood não conseguem enviar para este endereço blindado. Envie a partir de uma carteira compatível com endereços blindados."
+  pt-BR: "Corretoras como Coinbase e Robinhood não conseguem enviar para este endereço blindado. Envie de uma carteira compatível com endereços blindados."
+  pt-PT: "Plataformas como a Coinbase e a Robinhood não conseguem enviar para este endereço blindado. Envie a partir de uma carteira compatível com endereços blindados."
+  ru: "Биржи вроде Coinbase и Robinhood не могут отправлять средства на этот экранированный адрес. Отправьте платёж из кошелька с поддержкой экранированных адресов."
+  sv: "Kryptobörser som Coinbase och Robinhood kan inte skicka till den här skyddade adressen. Skicka från en plånbok som stöder skyddade adresser."
+  sw: "Masoko ya kubadilisha sarafu kama Coinbase na Robinhood hayawezi kutuma kwenye anwani hii iliyolindwa. Tuma kutoka kwenye pochi inayotumia anwani zilizolindwa."
+  th: "กระดานเทรดอย่าง Coinbase และ Robinhood ส่งไปยังที่อยู่แบบชิลด์นี้ไม่ได้ โปรดส่งจากกระเป๋าเงินที่รองรับที่อยู่แบบชิลด์"
+  uk: "Біржі на кшталт Coinbase і Robinhood не можуть надсилати кошти на цю екрановану адресу. Надішліть платіж із гаманця з підтримкою екранованих адрес."
+  vi: "Các sàn như Coinbase và Robinhood không thể gửi đến địa chỉ được che chắn này. Hãy gửi từ ví hỗ trợ địa chỉ được che chắn."
+  zh: "Coinbase、Robinhood 等交易所无法向此屏蔽地址付款。请使用支持屏蔽地址的钱包发送。"
+  zh-HK: "Coinbase、Robinhood 等交易所無法向此屏蔽地址付款。請使用支援屏蔽地址的錢包發送。"

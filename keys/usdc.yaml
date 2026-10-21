@@ -1,9 +1,8 @@
-description: "Used in Main/Account/AccountRootView.swift."
+description: "Used in Main/Account/AccountRootView.swift. Retired: pay_method_usdc carries the apple catalog's \"USDC\" entry now."
 source: "USDC"
 translatable: false
+platforms: []
 deprecated:
-  - apple
-platforms:
   - apple
 localizations:
   en: "USDC"

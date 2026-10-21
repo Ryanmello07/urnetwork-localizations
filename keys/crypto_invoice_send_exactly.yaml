@@ -1,0 +1,37 @@
+description: "Crypto invoice: the label above the exact amount of the coin to send (e.g. 0.072387 XMR), which has a copy button."
+source: "Send exactly"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "أرسل المبلغ بالضبط"
+  cs: "Pošlete přesně"
+  de: "Sende genau"
+  el: "Στείλτε ακριβώς"
+  en: "Send exactly"
+  es: "Envía exactamente"
+  es-419: "Envía exactamente"
+  es-MX: "Envía exactamente"
+  fr: "Envoyez exactement"
+  he: "שלחו בדיוק"
+  hi: "ठीक इतनी राशि भेजें"
+  id: "Kirim tepat sejumlah"
+  it: "Invia esattamente"
+  ja: "この金額を正確に送金"
+  ko: "정확히 이 금액을 보내세요"
+  nl: "Stuur precies"
+  pl: "Wyślij dokładnie"
+  pt: "Envie exatamente"
+  pt-BR: "Envie exatamente"
+  pt-PT: "Envie exatamente"
+  ru: "Отправьте ровно"
+  sv: "Skicka exakt"
+  sw: "Tuma kiasi hiki kamili"
+  th: "ส่งจำนวนนี้ให้ตรงพอดี"
+  uk: "Надішліть рівно"
+  vi: "Gửi chính xác"
+  zh: "请准确发送"
+  zh-HK: "請準確發送"
