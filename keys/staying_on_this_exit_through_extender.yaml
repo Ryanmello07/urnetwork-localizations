@@ -1,0 +1,36 @@
+description: "Muted line on the provider the connection stays on through a pinned extender (after Stay on this exit on a row reached through one), in the Provider Locations sheet. The placeholder is the extender's IP address (EXTENDER.md K10)."
+source: "Staying on this exit through extender %@. If either goes offline, choose another location."
+platforms:
+  - apple
+placeholders:
+  - name: address
+    type: string
+localizations:
+  ar: "أنت باقٍ على هذا المخرج عبر الموسّع {address}. إذا أصبح أيٌّ منهما غير متصل، فاختر موقعًا آخر."
+  cs: "Zůstáváte na tomto výstupu přes extender {address}. Pokud jeden z nich přejde do režimu offline, vyberte jinou lokalitu."
+  de: "Du bleibst bei diesem Exit über den Extender {address}. Wenn einer von beiden offline geht, wähle einen anderen Standort."
+  el: "Παραμένετε σε αυτή την έξοδο μέσω του επεκτατή {address}. Αν αποσυνδεθεί κάποιος από τους δύο, επιλέξτε άλλη τοποθεσία."
+  en: "Staying on this exit through extender {address}. If either goes offline, choose another location."
+  es: "Te quedas en esta salida a través del extensor {address}. Si alguno de los dos se desconecta, elige otra ubicación."
+  es-419: "Te quedas en esta salida a través del extensor {address}. Si alguno de los dos se desconecta, elige otra ubicación."
+  es-MX: "Te quedas en esta salida a través del extensor {address}. Si alguno de los dos se desconecta, elige otra ubicación."
+  fr: "Vous restez sur cette sortie via l'extendeur {address}. Si l'un des deux se déconnecte, choisissez un autre emplacement."
+  he: "אתה נשאר ביציאה הזו דרך המרחיב {address}. אם אחד מהם יתנתק, בחר מיקום אחר."
+  hi: "आप एक्सटेंडर {address} के ज़रिए इसी एग्ज़िट पर बने हुए हैं। अगर इनमें से कोई ऑफ़लाइन हो जाए, तो कोई दूसरी लोकेशन चुनें।"
+  id: "Tetap di titik keluar ini melalui extender {address}. Jika salah satunya offline, pilih lokasi lain."
+  it: "Resti su questa uscita tramite l'extender {address}. Se uno dei due va offline, scegli un'altra posizione."
+  ja: "エクステンダー {address} 経由でこの出口を使い続けています。どちらかがオフラインになった場合は、別の場所を選択してください。"
+  ko: "익스텐더 {address}를 통해 이 출구를 유지하는 중입니다. 둘 중 하나가 오프라인이 되면 다른 위치를 선택하세요."
+  nl: "Je blijft bij deze exit via extender {address}. Als een van beide offline gaat, kies dan een andere locatie."
+  pl: "Pozostajesz przy tym wyjściu przez extender {address}. Jeśli któryś z nich przejdzie w tryb offline, wybierz inną lokalizację."
+  pt: "Está a ficar nesta saída através do extensor {address}. Se um deles ficar offline, escolha outra localização."
+  pt-BR: "Você está ficando nesta saída pelo extensor {address}. Se um deles ficar offline, escolha outro local."
+  pt-PT: "Está a ficar nesta saída através do extensor {address}. Se um deles ficar offline, escolha outra localização."
+  ru: "Вы остаётесь на этом выходе через экстендер {address}. Если один из них отключится, выберите другую локацию."
+  sv: "Du stannar på den här utgången via extendern {address}. Om någon av dem går offline väljer du en annan plats."
+  sw: "Unabaki kwenye njia hii ya kutoka kupitia kipanuzi {address}. Ikiwa kimojawapo kitakuwa nje ya mtandao, chagua eneo lingine."
+  th: "กำลังใช้ทางออกนี้ต่อไปผ่านตัวขยาย {address} หากอย่างใดอย่างหนึ่งออฟไลน์ ให้เลือกตำแหน่งอื่น"
+  uk: "Ви залишаєтеся на цьому виході через екстендер {address}. Якщо один із них вимкнеться, виберіть іншу локацію."
+  vi: "Đang giữ điểm thoát này qua bộ mở rộng {address}. Nếu một trong hai ngoại tuyến, hãy chọn vị trí khác."
+  zh: "正在通过扩展器 {address} 固定使用此出口。如果其中任一离线，请选择其他位置。"
+  zh-HK: "正在透過擴展器 {address} 固定使用此出口。如果其中任一離線，請選擇其他位置。"
