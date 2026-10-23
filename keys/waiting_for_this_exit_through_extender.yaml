@@ -1,0 +1,36 @@
+description: "Shown in the Provider Locations sheet when the connection stays on an exit through a pinned extender and that exit is not connected right now. The placeholder is the extender's IP address (EXTENDER.md K10)."
+source: "Waiting for this exit through extender %@."
+platforms:
+  - apple
+placeholders:
+  - name: address
+    type: string
+localizations:
+  ar: "في انتظار هذا المخرج عبر الموسّع {address}."
+  cs: "Čeká se na tento výstup přes extender {address}."
+  de: "Warte auf diesen Exit über den Extender {address}."
+  el: "Αναμονή για αυτή την έξοδο μέσω του επεκτατή {address}."
+  en: "Waiting for this exit through extender {address}."
+  es: "Esperando esta salida a través del extensor {address}."
+  es-419: "Esperando esta salida a través del extensor {address}."
+  es-MX: "Esperando esta salida a través del extensor {address}."
+  fr: "En attente de cette sortie via l'extendeur {address}."
+  he: "ממתין ליציאה הזו דרך המרחיב {address}."
+  hi: "एक्सटेंडर {address} के ज़रिए इस एग्ज़िट का इंतज़ार किया जा रहा है।"
+  id: "Menunggu titik keluar ini melalui extender {address}."
+  it: "In attesa di questa uscita tramite l'extender {address}."
+  ja: "エクステンダー {address} 経由でこの出口を待っています。"
+  ko: "익스텐더 {address}를 통해 이 출구를 기다리는 중입니다."
+  nl: "Wachten op deze exit via extender {address}."
+  pl: "Oczekiwanie na to wyjście przez extender {address}."
+  pt: "A aguardar esta saída através do extensor {address}."
+  pt-BR: "Aguardando esta saída pelo extensor {address}."
+  pt-PT: "A aguardar esta saída através do extensor {address}."
+  ru: "Ожидание этого выхода через экстендер {address}."
+  sv: "Väntar på den här utgången via extendern {address}."
+  sw: "Inasubiri njia hii ya kutoka kupitia kipanuzi {address}."
+  th: "กำลังรอทางออกนี้ผ่านตัวขยาย {address}"
+  uk: "Очікування цього виходу через екстендер {address}."
+  vi: "Đang chờ điểm thoát này qua bộ mở rộng {address}."
+  zh: "正在通过扩展器 {address} 等待此出口。"
+  zh-HK: "正在透過擴展器 {address} 等待此出口。"
