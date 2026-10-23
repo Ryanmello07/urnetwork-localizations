@@ -1,0 +1,37 @@
+description: "Context menu item on a provider row in the provider details sheet that copies the address of the extender carrying it (EXTENDER.md K9)."
+source: "Copy extender address"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "نسخ عنوان الموسّع"
+  cs: "Kopírovat adresu extenderu"
+  de: "Extender-Adresse kopieren"
+  el: "Αντιγραφή διεύθυνσης επεκτατή"
+  en: "Copy extender address"
+  es: "Copiar dirección del extensor"
+  es-419: "Copiar dirección del extensor"
+  es-MX: "Copiar dirección del extensor"
+  fr: "Copier l’adresse de l’extendeur"
+  he: "העתקת כתובת המרחיב"
+  hi: "एक्सटेंडर का पता कॉपी करें"
+  id: "Salin alamat extender"
+  it: "Copia indirizzo dell’extender"
+  ja: "エクステンダーのアドレスをコピー"
+  ko: "익스텐더 주소 복사"
+  nl: "Extender-adres kopiëren"
+  pl: "Kopiuj adres extendera"
+  pt: "Copiar endereço do extensor"
+  pt-BR: "Copiar endereço do extensor"
+  pt-PT: "Copiar endereço do extensor"
+  ru: "Скопировать адрес экстендера"
+  sv: "Kopiera extenderns adress"
+  sw: "Nakili anwani ya kipanuzi"
+  th: "คัดลอกที่อยู่ของตัวขยาย"
+  uk: "Копіювати адресу екстендера"
+  vi: "Sao chép địa chỉ bộ mở rộng"
+  zh: "复制扩展器地址"
+  zh-HK: "複製擴展器地址"

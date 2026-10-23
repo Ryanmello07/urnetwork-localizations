@@ -1,0 +1,37 @@
+description: "Snackbar after tapping an extender address on a provider row in the provider details sheet (EXTENDER.md K9)."
+source: "Extender address copied"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تم نسخ عنوان الموسّع"
+  cs: "Adresa extenderu zkopírována"
+  de: "Extender-Adresse kopiert"
+  el: "Η διεύθυνση του επεκτατή αντιγράφηκε"
+  en: "Extender address copied"
+  es: "Dirección del extensor copiada"
+  es-419: "Dirección del extensor copiada"
+  es-MX: "Dirección del extensor copiada"
+  fr: "Adresse de l’extendeur copiée"
+  he: "כתובת המרחיב הועתקה"
+  hi: "एक्सटेंडर का पता कॉपी किया गया"
+  id: "Alamat extender disalin"
+  it: "Indirizzo dell’extender copiato"
+  ja: "エクステンダーのアドレスをコピーしました"
+  ko: "익스텐더 주소가 복사되었습니다"
+  nl: "Extender-adres gekopieerd"
+  pl: "Skopiowano adres extendera"
+  pt: "Endereço do extensor copiado"
+  pt-BR: "Endereço do extensor copiado"
+  pt-PT: "Endereço do extensor copiado"
+  ru: "Адрес экстендера скопирован"
+  sv: "Extenderns adress kopierad"
+  sw: "Anwani ya kipanuzi imenakiliwa"
+  th: "คัดลอกที่อยู่ของตัวขยายแล้ว"
+  uk: "Адресу екстендера скопійовано"
+  vi: "Đã sao chép địa chỉ bộ mở rộng"
+  zh: "扩展器地址已复制"
+  zh-HK: "擴展器地址已複製"
