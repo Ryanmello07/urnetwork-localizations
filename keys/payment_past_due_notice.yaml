@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - windows
+  - linux
 localizations:
   ar: "لم تنجح عملية الدفع لاشتراك UR Pro. حدّث طريقة الدفع للاحتفاظ بـ Pro."
   cs: "Platba za UR Pro neproběhla. Aktualizujte způsob platby, abyste si Pro ponechali."
