@@ -2,6 +2,7 @@ description: "In-app notice while the renewal payment of a UR Pro subscription h
 source: "Your UR Pro payment didn't go through. Update your payment method to keep Pro."
 platforms:
   - android
+  - apple
 localizations:
   ar: "لم تنجح عملية الدفع لاشتراك UR Pro. حدّث طريقة الدفع للاحتفاظ بـ Pro."
   cs: "Platba za UR Pro neproběhla. Aktualizujte způsob platby, abyste si Pro ponechali."

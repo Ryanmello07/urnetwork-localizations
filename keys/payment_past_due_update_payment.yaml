@@ -2,6 +2,7 @@ description: "Button on the notice that a UR Pro payment didn't go through: open
 source: "Update payment method"
 platforms:
   - android
+  - apple
 localizations:
   ar: "تحديث طريقة الدفع"
   cs: "Aktualizovat způsob platby"
