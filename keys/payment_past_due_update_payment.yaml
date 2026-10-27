@@ -1,6 +1,7 @@
 description: "Button on the notice that a UR Pro payment didn't go through: opens the subscription page on ur.io in the browser, where the payment method (a card, for example) is updated."
 source: "Update payment method"
 platforms:
+  - android
   - apple
 localizations:
   ar: "تحديث طريقة الدفع"
