@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - linux
+  - site
 localizations:
   ar: "تحديث طريقة الدفع"
   cs: "Aktualizovat způsob platby"
