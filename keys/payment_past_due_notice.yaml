@@ -1,6 +1,7 @@
 description: "In-app notice while the renewal payment of a UR Pro subscription has failed (a declined card, for example) and the store is still retrying it. If no payment goes through before the retries end, the subscription is cancelled. Keep UR Pro and Pro (the plan's name) unchanged. Didn't go through = failed."
 source: "Your UR Pro payment didn't go through. Update your payment method to keep Pro."
 platforms:
+  - apple
   - windows
 localizations:
   ar: "لم تنجح عملية الدفع لاشتراك UR Pro. حدّث طريقة الدفع للاحتفاظ بـ Pro."
