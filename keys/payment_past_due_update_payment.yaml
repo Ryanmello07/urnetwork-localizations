@@ -3,6 +3,7 @@ source: "Update payment method"
 platforms:
   - android
   - apple
+  - linux
 localizations:
   ar: "تحديث طريقة الدفع"
   cs: "Aktualizovat způsob platby"
