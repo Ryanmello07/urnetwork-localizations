@@ -3,6 +3,7 @@ source: "Update payment method"
 platforms:
   - android
   - apple
+  - windows
   - linux
   - site
 localizations:

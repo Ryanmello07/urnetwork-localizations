@@ -3,6 +3,7 @@ source: "Your UR Pro payment didn't go through. Update your payment method to ke
 platforms:
   - android
   - apple
+  - windows
   - linux
 localizations:
   ar: "لم تنجح عملية الدفع لاشتراك UR Pro. حدّث طريقة الدفع للاحتفاظ بـ Pro."
