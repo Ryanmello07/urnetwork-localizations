@@ -1,0 +1,36 @@
+description: "Replaces \"Poor signal\" in the small pill at the top right of the connect screen on iPhone, iPad, Mac, Android, Windows and Linux while URnetwork carries the traffic over a slower fallback (backup) connection, because its usual connection is blocked or unavailable on this network. A status tag beside a small tunnel icon and the delay numbers: one short word, two at most."
+source: "Fallback"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+localizations:
+  ar: "احتياطي"
+  cs: "Záložní režim"
+  de: "Ausweichmodus"
+  el: "Εφεδρική σύνδεση"
+  en: "Fallback"
+  es: "Respaldo"
+  es-419: "Respaldo"
+  es-MX: "Respaldo"
+  fr: "Mode secours"
+  he: "גיבוי"
+  hi: "बैकअप"
+  id: "Cadangan"
+  it: "Riserva"
+  ja: "代替接続"
+  ko: "대체 연결"
+  nl: "Reserve"
+  pl: "Tryb zapasowy"
+  pt: "Modo de recurso"
+  pt-BR: "Modo alternativo"
+  pt-PT: "Modo de recurso"
+  ru: "Резерв"
+  sv: "Reserv"
+  sw: "Mbadala"
+  th: "สำรอง"
+  uk: "Резерв"
+  vi: "Dự phòng"
+  zh: "备用连接"
+  zh-HK: "後備連線"

@@ -1,0 +1,36 @@
+description: "Label for the measured upload delay (for example 640 ms or 1.2 s, with the upload rate when it is limited) in the slow-internet details sheet, the expanded Dynamic Island and Lock Screen Live Activity, the Android VPN notification, and the Windows and Linux tray and notification. Upload = traffic this device sends. Keep it short: it labels a number in a small box."
+source: "Upload delay"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+localizations:
+  ar: "تأخير الرفع"
+  cs: "Zpoždění nahrávání"
+  de: "Upload-Verzögerung"
+  el: "Καθυστέρηση αποστολής"
+  en: "Upload delay"
+  es: "Retraso de subida"
+  es-419: "Retraso de carga"
+  es-MX: "Retraso de subida"
+  fr: "Retard d’envoi"
+  he: "השהיית העלאה"
+  hi: "अपलोड में देरी"
+  id: "Keterlambatan unggah"
+  it: "Ritardo in upload"
+  ja: "アップロードの遅延"
+  ko: "업로드 지연"
+  nl: "Uploadvertraging"
+  pl: "Opóźnienie wysyłania"
+  pt: "Atraso no envio"
+  pt-BR: "Atraso no upload"
+  pt-PT: "Atraso no envio"
+  ru: "Задержка отправки"
+  sv: "Uppladdningsfördröjning"
+  sw: "Ucheleweshaji wa kupakia"
+  th: "ความล่าช้าในการอัปโหลด"
+  uk: "Затримка надсилання"
+  vi: "Độ trễ tải lên"
+  zh: "上传延迟"
+  zh-HK: "上載延遲"

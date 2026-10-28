@@ -1,0 +1,36 @@
+description: "Label in the small pill at the top right of the connect screen on iPhone, iPad, Mac, Android, Windows and Linux, shown while the user's own internet connection is slow or congested: URnetwork measured a long upload or download delay. It sits in amber beside a small tunnel icon and the delay numbers (for example ↑ 800 ms ↓ 1.9 s). It describes the user's network, Wi-Fi, cellular or wired alike, not a URnetwork fault. Use your language's usual short phrase for a poor connection signal, one or two words: the pill has very little room."
+source: "Poor signal"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+localizations:
+  ar: "إشارة ضعيفة"
+  cs: "Slabý signál"
+  de: "Schwaches Signal"
+  el: "Ασθενές σήμα"
+  en: "Poor signal"
+  es: "Señal débil"
+  es-419: "Señal débil"
+  es-MX: "Señal débil"
+  fr: "Signal faible"
+  he: "אות חלש"
+  hi: "कमज़ोर सिग्नल"
+  id: "Sinyal lemah"
+  it: "Segnale debole"
+  ja: "通信状態が悪い"
+  ko: "신호 약함"
+  nl: "Zwak signaal"
+  pl: "Słaby sygnał"
+  pt: "Sinal fraco"
+  pt-BR: "Sinal fraco"
+  pt-PT: "Sinal fraco"
+  ru: "Слабый сигнал"
+  sv: "Svag signal"
+  sw: "Mtandao dhaifu"
+  th: "สัญญาณอ่อน"
+  uk: "Слабкий сигнал"
+  vi: "Tín hiệu yếu"
+  zh: "信号差"
+  zh-HK: "訊號差"

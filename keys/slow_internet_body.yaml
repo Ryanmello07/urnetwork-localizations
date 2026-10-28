@@ -1,0 +1,43 @@
+description: "Body text of the slow-internet details sheet (a flyout on Windows and Linux): the user's own network is adding delay to the traffic, so the slowness is not caused by URnetwork, and the VPN is still connected."
+source: "Your network is delaying traffic. URnetwork is still connected."
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+# the details went with the pill's redesign, variant A+, in every app
+# (apple/DELAY.md §5.2, §7.1, §8, §9)
+deprecated:
+  - apple
+  - android
+  - windows
+  - linux
+localizations:
+  ar: "شبكتك تؤخّر حركة البيانات. لا يزال URnetwork متصلًا."
+  cs: "Vaše síť zpožďuje provoz. URnetwork je stále připojen."
+  de: "Dein Netzwerk verzögert den Datenverkehr. URnetwork ist weiterhin verbunden."
+  el: "Το δίκτυό σας καθυστερεί την κίνηση. Το URnetwork παραμένει συνδεδεμένο."
+  en: "Your network is delaying traffic. URnetwork is still connected."
+  es: "Tu red está retrasando el tráfico. URnetwork sigue conectado."
+  es-419: "Tu red está retrasando el tráfico. URnetwork sigue conectado."
+  es-MX: "Tu red está retrasando el tráfico. URnetwork sigue conectado."
+  fr: "Votre réseau retarde le trafic. URnetwork est toujours connecté."
+  he: "הרשת שלכם מעכבת את התעבורה. URnetwork עדיין מחובר."
+  hi: "आपका नेटवर्क ट्रैफ़िक में देरी कर रहा है। URnetwork अब भी कनेक्टेड है।"
+  id: "Jaringan Anda menyebabkan keterlambatan lalu lintas data. URnetwork masih terhubung."
+  it: "La tua rete sta rallentando il traffico. URnetwork è ancora connesso."
+  ja: "お使いのネットワークで通信に遅延が発生しています。URnetwork は引き続き接続されています。"
+  ko: "사용 중인 네트워크에서 트래픽 지연이 발생하고 있습니다. URnetwork는 계속 연결되어 있습니다."
+  nl: "Je netwerk vertraagt het verkeer. URnetwork is nog steeds verbonden."
+  pl: "Twoja sieć opóźnia ruch. URnetwork jest nadal połączony."
+  pt: "A sua rede está a atrasar o tráfego. A URnetwork continua ligada."
+  pt-BR: "Sua rede está atrasando o tráfego. A URnetwork continua conectada."
+  pt-PT: "A sua rede está a atrasar o tráfego. A URnetwork continua ligada."
+  ru: "Ваша сеть задерживает трафик. URnetwork по-прежнему подключён."
+  sv: "Ditt nätverk fördröjer trafiken. URnetwork är fortfarande ansluten."
+  sw: "Mtandao wako unachelewesha trafiki. URnetwork bado imeunganishwa."
+  th: "เครือข่ายของคุณทำให้การรับส่งข้อมูลล่าช้า URnetwork ยังเชื่อมต่ออยู่"
+  uk: "Ваша мережа затримує трафік. URnetwork досі підключено."
+  vi: "Mạng của bạn đang gây trễ lưu lượng. URnetwork vẫn đang kết nối."
+  zh: "您的网络出现流量延迟。URnetwork 仍保持连接。"
+  zh-HK: "你的網絡出現流量延遲。URnetwork 仍保持連線。"

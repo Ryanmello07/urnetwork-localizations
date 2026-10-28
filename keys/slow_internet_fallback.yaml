@@ -1,0 +1,41 @@
+description: "Replaces \"Slow internet\" in the connect-screen pill when URnetwork itself is the reason traffic is slower: it switched to a slower fallback (backup) connection because its usual connection is blocked or unavailable on this network. Keep it short: it sits in a small pill beside an icon."
+source: "Fallback connection"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+# the pill reads "Fallback" now (slow_internet_fallback_short); the Mac menu
+# bar row and linux still use this
+deprecated:
+  - android
+  - windows
+localizations:
+  ar: "اتصال احتياطي"
+  cs: "Záložní připojení"
+  de: "Ausweichverbindung"
+  el: "Εφεδρική σύνδεση"
+  en: "Fallback connection"
+  es: "Conexión de reserva"
+  es-419: "Conexión de respaldo"
+  es-MX: "Conexión de respaldo"
+  fr: "Connexion de secours"
+  he: "חיבור גיבוי"
+  hi: "बैकअप कनेक्शन"
+  id: "Koneksi cadangan"
+  it: "Connessione di riserva"
+  ja: "代替接続"
+  ko: "대체 연결"
+  nl: "Reserveverbinding"
+  pl: "Połączenie zapasowe"
+  pt: "Ligação de recurso"
+  pt-BR: "Conexão alternativa"
+  pt-PT: "Ligação de recurso"
+  ru: "Резервное подключение"
+  sv: "Reservanslutning"
+  sw: "Muunganisho mbadala"
+  th: "การเชื่อมต่อสำรอง"
+  uk: "Резервне підключення"
+  vi: "Kết nối dự phòng"
+  zh: "备用连接"
+  zh-HK: "後備連線"

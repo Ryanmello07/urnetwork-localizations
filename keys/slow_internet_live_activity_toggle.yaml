@@ -1,0 +1,36 @@
+description: "Switch in the slow-internet details sheet and in Settings on iPhone that turns the slow-internet Live Activity on or off. Use Apple's own names for the Lock Screen and the Dynamic Island in this language (Dynamic Island stays in English in most languages)."
+source: "Show on Lock Screen and Dynamic Island"
+platforms:
+  - apple
+# off until the Live Activity returns with server pushes (apple/DELAY.md §5.5)
+deprecated:
+  - apple
+localizations:
+  ar: "إظهار على شاشة القفل وفي Dynamic Island"
+  cs: "Zobrazovat na zamčené obrazovce a v Dynamic Islandu"
+  de: "Auf dem Sperrbildschirm und in der Dynamic Island anzeigen"
+  el: "Εμφάνιση στην οθόνη κλειδώματος και στο Dynamic Island"
+  en: "Show on Lock Screen and Dynamic Island"
+  es: "Mostrar en la pantalla bloqueada y en la Dynamic Island"
+  es-419: "Mostrar en la pantalla bloqueada y en la Dynamic Island"
+  es-MX: "Mostrar en la pantalla bloqueada y en la Dynamic Island"
+  fr: "Afficher sur l’écran verrouillé et dans la Dynamic Island"
+  he: "הצגה במסך הנעילה וב-Dynamic Island"
+  hi: "लॉक स्क्रीन और Dynamic Island पर दिखाएँ"
+  id: "Tampilkan di Layar Terkunci dan Dynamic Island"
+  it: "Mostra sulla schermata di blocco e nella Dynamic Island"
+  ja: "ロック画面と Dynamic Island に表示"
+  ko: "잠금 화면 및 Dynamic Island에 표시"
+  nl: "Toon op het toegangsscherm en in het Dynamic Island"
+  pl: "Pokazuj na ekranie blokady i w Dynamic Island"
+  pt: "Mostrar no ecrã bloqueado e na Dynamic Island"
+  pt-BR: "Mostrar na Tela Bloqueada e na Dynamic Island"
+  pt-PT: "Mostrar no ecrã bloqueado e na Dynamic Island"
+  ru: "Показывать на экране блокировки и в Dynamic Island"
+  sv: "Visa på låsskärmen och i Dynamic Island"
+  sw: "Onyesha kwenye skrini iliyofungwa na Dynamic Island"
+  th: "แสดงบนหน้าจอล็อคและ Dynamic Island"
+  uk: "Показувати на замкненому екрані та в Dynamic Island"
+  vi: "Hiển thị trên Màn hình khóa và Dynamic Island"
+  zh: "在锁定屏幕和灵动岛上显示"
+  zh-HK: "在鎖定畫面和動態島上顯示"
