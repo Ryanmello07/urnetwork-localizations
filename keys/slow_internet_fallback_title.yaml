@@ -1,0 +1,36 @@
+description: "Title of the slow-internet details sheet, the iPhone Live Activity and the Android VPN notification while URnetwork is on a slower fallback (backup) connection because its usual connection isn't available on the current network. Replaces \"Slow internet\" in that case."
+source: "Using a slower fallback connection"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+localizations:
+  ar: "يتم استخدام اتصال احتياطي أبطأ"
+  cs: "Používá se pomalejší záložní připojení"
+  de: "Langsamere Ausweichverbindung wird genutzt"
+  el: "Χρησιμοποιείται πιο αργή εφεδρική σύνδεση"
+  en: "Using a slower fallback connection"
+  es: "Usando una conexión de reserva más lenta"
+  es-419: "Usando una conexión de respaldo más lenta"
+  es-MX: "Usando una conexión de respaldo más lenta"
+  fr: "Utilisation d’une connexion de secours plus lente"
+  he: "נעשה שימוש בחיבור גיבוי איטי יותר"
+  hi: "धीमे बैकअप कनेक्शन का उपयोग हो रहा है"
+  id: "Menggunakan koneksi cadangan yang lebih lambat"
+  it: "Connessione di riserva più lenta in uso"
+  ja: "低速な代替接続を使用中"
+  ko: "더 느린 대체 연결 사용 중"
+  nl: "Tragere reserveverbinding in gebruik"
+  pl: "Używane jest wolniejsze połączenie zapasowe"
+  pt: "A utilizar uma ligação de recurso mais lenta"
+  pt-BR: "Usando uma conexão alternativa mais lenta"
+  pt-PT: "A utilizar uma ligação de recurso mais lenta"
+  ru: "Используется более медленное резервное подключение"
+  sv: "Använder en långsammare reservanslutning"
+  sw: "Inatumia muunganisho mbadala wa polepole zaidi"
+  th: "กำลังใช้การเชื่อมต่อสำรองที่ช้ากว่า"
+  uk: "Використовується повільніше резервне підключення"
+  vi: "Đang dùng kết nối dự phòng chậm hơn"
+  zh: "正在使用较慢的备用连接"
+  zh-HK: "正在使用較慢的後備連線"

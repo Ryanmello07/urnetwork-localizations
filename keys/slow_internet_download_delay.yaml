@@ -1,0 +1,36 @@
+description: "Label for the measured download delay (for example 640 ms or 1.2 s, with the download rate when it is limited) in the slow-internet details sheet, the expanded Dynamic Island and Lock Screen Live Activity, the Android VPN notification, and the Windows and Linux tray and notification. Download = traffic this device receives. Keep it short: it labels a number in a small box."
+source: "Download delay"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+localizations:
+  ar: "تأخير التنزيل"
+  cs: "Zpoždění stahování"
+  de: "Download-Verzögerung"
+  el: "Καθυστέρηση λήψης"
+  en: "Download delay"
+  es: "Retraso de descarga"
+  es-419: "Retraso de descarga"
+  es-MX: "Retraso de descarga"
+  fr: "Retard de réception"
+  he: "השהיית הורדה"
+  hi: "डाउनलोड में देरी"
+  id: "Keterlambatan unduh"
+  it: "Ritardo in download"
+  ja: "ダウンロードの遅延"
+  ko: "다운로드 지연"
+  nl: "Downloadvertraging"
+  pl: "Opóźnienie pobierania"
+  pt: "Atraso na receção"
+  pt-BR: "Atraso no download"
+  pt-PT: "Atraso na receção"
+  ru: "Задержка получения"
+  sv: "Nedladdningsfördröjning"
+  sw: "Ucheleweshaji wa kupakua"
+  th: "ความล่าช้าในการดาวน์โหลด"
+  uk: "Затримка отримання"
+  vi: "Độ trễ tải xuống"
+  zh: "下载延迟"
+  zh-HK: "下載延遲"

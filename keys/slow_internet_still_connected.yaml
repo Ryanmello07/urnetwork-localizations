@@ -1,0 +1,36 @@
+description: "Subtitle under the slow-internet title in the iPhone Live Activity and the Android VPN notification: reassures the user that the VPN has not dropped even though traffic is slow."
+source: "URnetwork is still connected"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+localizations:
+  ar: "لا يزال URnetwork متصلًا"
+  cs: "URnetwork je stále připojen"
+  de: "URnetwork ist weiterhin verbunden"
+  el: "Το URnetwork παραμένει συνδεδεμένο"
+  en: "URnetwork is still connected"
+  es: "URnetwork sigue conectado"
+  es-419: "URnetwork sigue conectado"
+  es-MX: "URnetwork sigue conectado"
+  fr: "URnetwork est toujours connecté"
+  he: "URnetwork עדיין מחובר"
+  hi: "URnetwork अब भी कनेक्टेड है"
+  id: "URnetwork masih terhubung"
+  it: "URnetwork è ancora connesso"
+  ja: "URnetwork は引き続き接続されています"
+  ko: "URnetwork는 계속 연결되어 있습니다"
+  nl: "URnetwork is nog steeds verbonden"
+  pl: "URnetwork jest nadal połączony"
+  pt: "A URnetwork continua ligada"
+  pt-BR: "A URnetwork continua conectada"
+  pt-PT: "A URnetwork continua ligada"
+  ru: "URnetwork по-прежнему подключён"
+  sv: "URnetwork är fortfarande ansluten"
+  sw: "URnetwork bado imeunganishwa"
+  th: "URnetwork ยังเชื่อมต่ออยู่"
+  uk: "URnetwork досі підключено"
+  vi: "URnetwork vẫn đang kết nối"
+  zh: "URnetwork 仍保持连接"
+  zh-HK: "URnetwork 仍保持連線"

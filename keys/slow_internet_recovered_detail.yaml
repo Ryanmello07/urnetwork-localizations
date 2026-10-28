@@ -1,0 +1,39 @@
+description: "Subtitle under \"Internet back to normal\" in the brief recovered state at the end of a slow-internet episode: the upload and download delays URnetwork measured are gone."
+source: "Delays cleared"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+# the windows pill's flyout went with the redesign, variant A+ (apple/DELAY.md §8)
+deprecated:
+  - windows
+localizations:
+  ar: "زال التأخير"
+  cs: "Zpoždění odezněla"
+  de: "Keine Verzögerungen mehr"
+  el: "Οι καθυστερήσεις υποχώρησαν"
+  en: "Delays cleared"
+  es: "Ya no hay retrasos"
+  es-419: "Ya no hay retrasos"
+  es-MX: "Ya no hay retrasos"
+  fr: "Plus aucun retard"
+  he: "ההשהיות חלפו"
+  hi: "देरी दूर हो गई"
+  id: "Keterlambatan sudah teratasi"
+  it: "Ritardi risolti"
+  ja: "遅延は解消されました"
+  ko: "지연이 해소되었습니다"
+  nl: "Geen vertragingen meer"
+  pl: "Opóźnienia ustąpiły"
+  pt: "Já não há atrasos"
+  pt-BR: "Os atrasos acabaram"
+  pt-PT: "Já não há atrasos"
+  ru: "Задержек больше нет"
+  sv: "Inga fördröjningar längre"
+  sw: "Ucheleweshaji umeisha"
+  th: "ไม่มีความล่าช้าแล้ว"
+  uk: "Затримок більше немає"
+  vi: "Không còn bị trễ"
+  zh: "延迟已消除"
+  zh-HK: "延遲已消除"

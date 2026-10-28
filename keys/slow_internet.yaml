@@ -1,0 +1,36 @@
+description: "Status label while the user's own network is slowing traffic (URnetwork measured a high upload or download delay). Shown in the amber pill at the top of the connect screen (also the Mac toolbar and menu bar, and the Windows and Linux connect page), as the title of the details sheet that pill opens, as the Live Activity title on the iPhone Lock Screen and expanded Dynamic Island, and as the Android VPN notification title. It describes the user's internet connection, not a URnetwork fault. Keep it short: it sits in a small pill beside an icon."
+source: "Slow internet"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+localizations:
+  ar: "الإنترنت بطيء"
+  cs: "Pomalý internet"
+  de: "Langsames Internet"
+  el: "Αργό διαδίκτυο"
+  en: "Slow internet"
+  es: "Internet lento"
+  es-419: "Internet lento"
+  es-MX: "Internet lento"
+  fr: "Internet lent"
+  he: "אינטרנט איטי"
+  hi: "धीमा इंटरनेट"
+  id: "Internet lambat"
+  it: "Internet lento"
+  ja: "通信速度の低下"
+  ko: "인터넷 속도 느림"
+  nl: "Traag internet"
+  pl: "Wolny internet"
+  pt: "Internet lenta"
+  pt-BR: "Internet lenta"
+  pt-PT: "Internet lenta"
+  ru: "Медленный интернет"
+  sv: "Långsamt internet"
+  sw: "Intaneti ya polepole"
+  th: "อินเทอร์เน็ตช้า"
+  uk: "Повільний інтернет"
+  vi: "Internet chậm"
+  zh: "网速较慢"
+  zh-HK: "網速較慢"

@@ -1,0 +1,36 @@
+description: "Title shown for about 3 seconds when a slow-internet episode ends, just before the indicator goes away: in the iPhone Live Activity (Lock Screen and Dynamic Island), the Android VPN notification, and the Windows and Linux notification."
+source: "Internet back to normal"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+localizations:
+  ar: "عاد الإنترنت إلى طبيعته"
+  cs: "Internet je zase v pořádku"
+  de: "Internet wieder normal"
+  el: "Το διαδίκτυο λειτουργεί ξανά κανονικά"
+  en: "Internet back to normal"
+  es: "Internet ha vuelto a la normalidad"
+  es-419: "Internet volvió a la normalidad"
+  es-MX: "Internet volvió a la normalidad"
+  fr: "Internet revenu à la normale"
+  he: "האינטרנט חזר לפעול כרגיל"
+  hi: "इंटरनेट फिर से सामान्य है"
+  id: "Internet kembali normal"
+  it: "Internet tornato alla normalità"
+  ja: "通信速度が正常に戻りました"
+  ko: "인터넷 속도가 정상으로 돌아왔습니다"
+  nl: "Internet weer normaal"
+  pl: "Internet znów działa normalnie"
+  pt: "A internet voltou ao normal"
+  pt-BR: "A internet voltou ao normal"
+  pt-PT: "A internet voltou ao normal"
+  ru: "Интернет снова в норме"
+  sv: "Internet fungerar normalt igen"
+  sw: "Intaneti imerudi kuwa ya kawaida"
+  th: "อินเทอร์เน็ตกลับมาเป็นปกติแล้ว"
+  uk: "Інтернет знову в нормі"
+  vi: "Internet đã trở lại bình thường"
+  zh: "网速已恢复正常"
+  zh-HK: "網速已回復正常"

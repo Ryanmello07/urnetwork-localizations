@@ -1,0 +1,42 @@
+description: "Body text of the slow-internet details sheet (a flyout on Windows and Linux) while URnetwork is on a slower fallback (backup) connection. Its usual connection = the way URnetwork normally connects, which this network blocks or does not support."
+source: "URnetwork is using a slower fallback connection because its usual connection isn't available on this network."
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+# the details went with the pill's redesign, variant A+ (apple/DELAY.md
+# §5.2, §7.1, §9); windows still uses it outside the pill
+deprecated:
+  - apple
+  - android
+  - linux
+localizations:
+  ar: "يستخدم URnetwork اتصالًا احتياطيًا أبطأ لأن اتصاله المعتاد غير متاح على هذه الشبكة."
+  cs: "URnetwork používá pomalejší záložní připojení, protože jeho obvyklé připojení není v této síti k dispozici."
+  de: "URnetwork nutzt eine langsamere Ausweichverbindung, weil die übliche Verbindung in diesem Netzwerk nicht verfügbar ist."
+  el: "Το URnetwork χρησιμοποιεί μια πιο αργή εφεδρική σύνδεση, επειδή η συνηθισμένη σύνδεσή του δεν είναι διαθέσιμη σε αυτό το δίκτυο."
+  en: "URnetwork is using a slower fallback connection because its usual connection isn't available on this network."
+  es: "URnetwork está usando una conexión de reserva más lenta porque su conexión habitual no está disponible en esta red."
+  es-419: "URnetwork está usando una conexión de respaldo más lenta porque su conexión habitual no está disponible en esta red."
+  es-MX: "URnetwork está usando una conexión de respaldo más lenta porque su conexión habitual no está disponible en esta red."
+  fr: "URnetwork utilise une connexion de secours plus lente, car sa connexion habituelle n’est pas disponible sur ce réseau."
+  he: "URnetwork משתמש בחיבור גיבוי איטי יותר, כי החיבור הרגיל שלו לא זמין ברשת הזו."
+  hi: "URnetwork धीमे बैकअप कनेक्शन का उपयोग कर रहा है, क्योंकि इस नेटवर्क पर उसका सामान्य कनेक्शन उपलब्ध नहीं है।"
+  id: "URnetwork menggunakan koneksi cadangan yang lebih lambat karena koneksi biasanya tidak tersedia di jaringan ini."
+  it: "URnetwork sta usando una connessione di riserva più lenta perché la sua connessione abituale non è disponibile su questa rete."
+  ja: "このネットワークでは通常の接続を利用できないため、URnetwork は低速な代替接続を使用しています。"
+  ko: "이 네트워크에서는 평소 연결을 사용할 수 없어 URnetwork가 더 느린 대체 연결을 사용하고 있습니다."
+  nl: "URnetwork gebruikt een tragere reserveverbinding, omdat de gebruikelijke verbinding op dit netwerk niet beschikbaar is."
+  pl: "URnetwork korzysta z wolniejszego połączenia zapasowego, ponieważ zwykłe połączenie jest niedostępne w tej sieci."
+  pt: "A URnetwork está a utilizar uma ligação de recurso mais lenta, porque a ligação habitual não está disponível nesta rede."
+  pt-BR: "A URnetwork está usando uma conexão alternativa mais lenta porque a conexão habitual não está disponível nesta rede."
+  pt-PT: "A URnetwork está a utilizar uma ligação de recurso mais lenta, porque a ligação habitual não está disponível nesta rede."
+  ru: "URnetwork использует более медленное резервное подключение, потому что обычное подключение недоступно в этой сети."
+  sv: "URnetwork använder en långsammare reservanslutning eftersom den vanliga anslutningen inte är tillgänglig i det här nätverket."
+  sw: "URnetwork inatumia muunganisho mbadala wa polepole zaidi kwa sababu muunganisho wake wa kawaida haupatikani kwenye mtandao huu."
+  th: "URnetwork กำลังใช้การเชื่อมต่อสำรองที่ช้ากว่า เนื่องจากการเชื่อมต่อปกติใช้งานไม่ได้บนเครือข่ายนี้"
+  uk: "URnetwork використовує повільніше резервне підключення, бо звичайне підключення недоступне в цій мережі."
+  vi: "URnetwork đang dùng kết nối dự phòng chậm hơn vì kết nối thông thường không khả dụng trên mạng này."
+  zh: "由于此网络无法使用常规连接，URnetwork 正在使用较慢的备用连接。"
+  zh-HK: "由於此網絡無法使用一般連線，URnetwork 正在使用較慢的後備連線。"
