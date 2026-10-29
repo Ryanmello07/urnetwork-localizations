@@ -1,0 +1,37 @@
+description: "Protocol leaderboard (Leaderboard > Protocol): claimed row sheet, the value of Claim valid until. {epoch} is the settlement epoch number, inserted as is. Apple reads this English from the epoch_row_title entry (\"Epoch %lld\", one catalog entry per English text), so this key is not tagged apple."
+source: "Epoch %lld"
+platforms:
+  - android
+  - site
+placeholders:
+  - name: epoch
+    type: int
+localizations:
+  ar: "الفترة {epoch}"
+  cs: "Epocha {epoch}"
+  de: "Epoche {epoch}"
+  el: "Εποχή {epoch}"
+  en: "Epoch {epoch}"
+  es: "Época {epoch}"
+  es-419: "Época {epoch}"
+  es-MX: "Época {epoch}"
+  fr: "Époque {epoch}"
+  he: "תקופה {epoch}"
+  hi: "एपोक {epoch}"
+  id: "Epoch {epoch}"
+  it: "Epoca {epoch}"
+  ja: "エポック {epoch}"
+  ko: "에포크 {epoch}"
+  nl: "Epoch {epoch}"
+  pl: "Epoka {epoch}"
+  pt: "Época {epoch}"
+  pt-BR: "Época {epoch}"
+  pt-PT: "Época {epoch}"
+  ru: "Эпоха {epoch}"
+  sv: "Epok {epoch}"
+  sw: "Kipindi {epoch}"
+  th: "อีพอค {epoch}"
+  uk: "Епоха {epoch}"
+  vi: "Epoch {epoch}"
+  zh: "周期 {epoch}"
+  zh-HK: "週期 {epoch}"

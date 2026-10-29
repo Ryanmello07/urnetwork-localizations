@@ -1,0 +1,38 @@
+description: "Protocol leaderboard (Leaderboard > Protocol): banner on top of the tab when the rankings are stale, last computed more than 3 tempos (about 3.5 hours) ago. {time} is when they were computed, already formatted by the app, a relative time (\"4h ago\") or a date (\"Oct 29\"), inserted as is, so the wording must read with either."
+source: "Rankings last updated %@."
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: time
+    type: string
+localizations:
+  ar: "آخر تحديث للترتيب: {time}."
+  cs: "Pořadí naposledy aktualizováno: {time}."
+  de: "Rangliste zuletzt aktualisiert: {time}."
+  el: "Τελευταία ενημέρωση κατάταξης: {time}."
+  en: "Rankings last updated {time}."
+  es: "Última actualización de la clasificación: {time}."
+  es-419: "Última actualización de la clasificación: {time}."
+  es-MX: "Última actualización de la clasificación: {time}."
+  fr: "Dernière mise à jour du classement : {time}."
+  he: "הדירוג עודכן לאחרונה: {time}."
+  hi: "रैंकिंग पिछली बार अपडेट हुई: {time}।"
+  id: "Peringkat terakhir diperbarui {time}."
+  it: "Ultimo aggiornamento della classifica: {time}."
+  ja: "ランキングの最終更新: {time}"
+  ko: "순위 마지막 업데이트: {time}"
+  nl: "Ranglijst laatst bijgewerkt: {time}."
+  pl: "Ostatnia aktualizacja rankingu: {time}."
+  pt: "Última atualização da classificação: {time}."
+  pt-BR: "Ranking atualizado pela última vez: {time}."
+  pt-PT: "Última atualização da classificação: {time}."
+  ru: "Рейтинг последний раз обновлён: {time}."
+  sv: "Rankningen uppdaterades senast {time}."
+  sw: "Viwango vilisasishwa mwisho {time}."
+  th: "อันดับอัปเดตล่าสุด {time}"
+  uk: "Рейтинг востаннє оновлено: {time}."
+  vi: "Bảng xếp hạng cập nhật lần cuối {time}."
+  zh: "排名上次更新：{time}。"
+  zh-HK: "排名上次更新：{time}。"

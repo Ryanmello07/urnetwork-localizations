@@ -1,0 +1,38 @@
+description: "Earnings Top 200 tile: the line under the network's projected position (\"#173\"), the same projection the Protocol leaderboard shows. {margin} is the margin to the Top 200 line, already formatted by the app with its sign and percent sign (\"+12%\" above the line, \"−8%\" below), inserted as is."
+source: "projected · %@"
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: margin
+    type: string
+localizations:
+  ar: "متوقع · {margin}"
+  cs: "podle prognózy · {margin}"
+  de: "prognostiziert · {margin}"
+  el: "κατά πρόβλεψη · {margin}"
+  en: "projected · {margin}"
+  es: "previsto · {margin}"
+  es-419: "previsto · {margin}"
+  es-MX: "previsto · {margin}"
+  fr: "prévu · {margin}"
+  he: "לפי התחזית · {margin}"
+  hi: "अनुमानित · {margin}"
+  id: "proyeksi · {margin}"
+  it: "previsto · {margin}"
+  ja: "予測 · {margin}"
+  ko: "예상 · {margin}"
+  nl: "verwacht · {margin}"
+  pl: "według prognozy · {margin}"
+  pt: "previsto · {margin}"
+  pt-BR: "previsto · {margin}"
+  pt-PT: "previsto · {margin}"
+  ru: "по прогнозу · {margin}"
+  sv: "enligt prognos · {margin}"
+  sw: "inayotarajiwa · {margin}"
+  th: "คาดการณ์ · {margin}"
+  uk: "за прогнозом · {margin}"
+  vi: "dự kiến · {margin}"
+  zh: "预计 · {margin}"
+  zh-HK: "預計 · {margin}"

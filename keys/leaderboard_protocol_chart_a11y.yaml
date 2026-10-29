@@ -1,0 +1,38 @@
+description: "Protocol leaderboard (Leaderboard > Protocol): accessibility summary of the progress chart, read by VoiceOver and TalkBack. {rank} is today's projected position, a number, inserted as is."
+source: "Projected rank over 90 days, now %lld"
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: rank
+    type: int
+localizations:
+  ar: "الترتيب المتوقع خلال 90 يومًا، الآن {rank}"
+  cs: "Předpokládané pořadí za 90 dní, nyní {rank}"
+  de: "Prognostizierter Rang über 90 Tage, jetzt {rank}"
+  el: "Προβλεπόμενη θέση σε 90 ημέρες, τώρα {rank}"
+  en: "Projected rank over 90 days, now {rank}"
+  es: "Posición prevista en 90 días, ahora {rank}"
+  es-419: "Posición prevista en 90 días, ahora {rank}"
+  es-MX: "Posición prevista en 90 días, ahora {rank}"
+  fr: "Rang prévu sur 90 jours, actuellement {rank}"
+  he: "דירוג צפוי לאורך 90 יום, כעת {rank}"
+  hi: "90 दिनों में अनुमानित रैंक, अभी {rank}"
+  id: "Perkiraan peringkat selama 90 hari, sekarang {rank}"
+  it: "Posizione prevista negli ultimi 90 giorni, ora {rank}"
+  ja: "90 日間の予測順位、現在 {rank} 位"
+  ko: "90일간 예상 순위, 현재 {rank}위"
+  nl: "Verwachte plaats over 90 dagen, nu {rank}"
+  pl: "Przewidywane miejsce w ciągu 90 dni, teraz {rank}"
+  pt: "Posição prevista em 90 dias, agora {rank}"
+  pt-BR: "Posição prevista em 90 dias, agora {rank}"
+  pt-PT: "Posição prevista em 90 dias, agora {rank}"
+  ru: "Прогнозируемое место за 90 дней, сейчас {rank}"
+  sv: "Förväntad placering under 90 dagar, nu {rank}"
+  sw: "Nafasi inayotarajiwa kwa siku 90, sasa {rank}"
+  th: "อันดับที่คาดการณ์ตลอด 90 วัน ตอนนี้อันดับ {rank}"
+  uk: "Прогнозоване місце за 90 днів, зараз {rank}"
+  vi: "Hạng dự kiến trong 90 ngày, hiện tại {rank}"
+  zh: "90 天预计排名，目前第 {rank} 名"
+  zh-HK: "90 天預計排名，目前第 {rank} 名"

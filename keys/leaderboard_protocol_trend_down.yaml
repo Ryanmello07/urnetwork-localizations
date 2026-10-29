@@ -1,0 +1,38 @@
+description: "Protocol leaderboard (Leaderboard > Protocol): own-status card, next to the trend arrow after the margin to the Top 200 line: how many positions the network moved down since the previous update (once per tempo, about every 72 minutes). {count} is the number of positions, inserted as is, so the wording must read with any number. Lowercase in English: it continues the margin line."
+source: "down %lld since the last update"
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "تراجع بمقدار {count} منذ آخر تحديث"
+  cs: "o {count} níž od poslední aktualizace"
+  de: "seit der letzten Aktualisierung um {count} gefallen"
+  el: "πτώση κατά {count} από την τελευταία ενημέρωση"
+  en: "down {count} since the last update"
+  es: "baja {count} desde la última actualización"
+  es-419: "baja {count} desde la última actualización"
+  es-MX: "baja {count} desde la última actualización"
+  fr: "en baisse de {count} depuis la dernière mise à jour"
+  he: "ירידה של {count} מאז העדכון האחרון"
+  hi: "पिछले अपडेट से {count} नीचे"
+  id: "turun {count} sejak pembaruan terakhir"
+  it: "in calo di {count} dall’ultimo aggiornamento"
+  ja: "前回の更新から {count} 位下降"
+  ko: "지난 업데이트 이후 {count}계단 하락"
+  nl: "gedaald met {count} sinds de laatste update"
+  pl: "w dół o {count} od ostatniej aktualizacji"
+  pt: "desceu {count} desde a última atualização"
+  pt-BR: "desceu {count} desde a última atualização"
+  pt-PT: "desceu {count} desde a última atualização"
+  ru: "вниз на {count} с последнего обновления"
+  sv: "ner {count} sedan senaste uppdateringen"
+  sw: "chini kwa {count} tangu usasishaji uliopita"
+  th: "ลง {count} อันดับตั้งแต่อัปเดตล่าสุด"
+  uk: "вниз на {count} з останнього оновлення"
+  vi: "giảm {count} hạng từ lần cập nhật trước"
+  zh: "较上次更新下降 {count} 位"
+  zh-HK: "較上次更新下降 {count} 位"

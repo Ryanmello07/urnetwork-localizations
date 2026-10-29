@@ -1,0 +1,38 @@
+description: "Protocol leaderboard (Leaderboard > Protocol): own-status card, next to the trend arrow after the margin to the Top 200 line: how many positions the network moved up since the previous update (once per tempo, about every 72 minutes). {count} is the number of positions, inserted as is, so the wording must read with any number. Lowercase in English: it continues the margin line."
+source: "up %lld since the last update"
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "تقدّم بمقدار {count} منذ آخر تحديث"
+  cs: "o {count} výš od poslední aktualizace"
+  de: "seit der letzten Aktualisierung um {count} gestiegen"
+  el: "άνοδος κατά {count} από την τελευταία ενημέρωση"
+  en: "up {count} since the last update"
+  es: "sube {count} desde la última actualización"
+  es-419: "sube {count} desde la última actualización"
+  es-MX: "sube {count} desde la última actualización"
+  fr: "en hausse de {count} depuis la dernière mise à jour"
+  he: "עלייה של {count} מאז העדכון האחרון"
+  hi: "पिछले अपडेट से {count} ऊपर"
+  id: "naik {count} sejak pembaruan terakhir"
+  it: "in rialzo di {count} dall’ultimo aggiornamento"
+  ja: "前回の更新から {count} 位上昇"
+  ko: "지난 업데이트 이후 {count}계단 상승"
+  nl: "gestegen met {count} sinds de laatste update"
+  pl: "w górę o {count} od ostatniej aktualizacji"
+  pt: "subiu {count} desde a última atualização"
+  pt-BR: "subiu {count} desde a última atualização"
+  pt-PT: "subiu {count} desde a última atualização"
+  ru: "вверх на {count} с последнего обновления"
+  sv: "upp {count} sedan senaste uppdateringen"
+  sw: "juu kwa {count} tangu usasishaji uliopita"
+  th: "ขึ้น {count} อันดับตั้งแต่อัปเดตล่าสุด"
+  uk: "вгору на {count} з останнього оновлення"
+  vi: "tăng {count} hạng từ lần cập nhật trước"
+  zh: "较上次更新上升 {count} 位"
+  zh-HK: "較上次更新上升 {count} 位"

@@ -1,0 +1,40 @@
+description: "Protocol leaderboard (Leaderboard > Protocol): claimed row sheet, the value of Validator rank: where the SN25 validator ranked this fleet among the claimed fleets it scored last tempo. {rank} is the position and {count} the number of claimed fleets, both numbers inserted as is, so the wording must read with any number."
+source: "#%lld of %lld claimed"
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: rank
+    type: int
+  - name: count
+    type: int
+localizations:
+  ar: "#{rank} من أصل {count} من الأساطيل الحاجزة"
+  cs: "#{rank} z {count} se zajištěným místem"
+  de: "#{rank} von {count} mit gesichertem Platz"
+  el: "#{rank} από {count} με κλεισμένη θέση"
+  en: "#{rank} of {count} claimed"
+  es: "#{rank} de {count} con puesto reclamado"
+  es-419: "#{rank} de {count} con lugar reclamado"
+  es-MX: "#{rank} de {count} con lugar reclamado"
+  fr: "#{rank} sur {count} avec place réservée"
+  he: "#{rank} מתוך {count} שתפסו מקום"
+  hi: "जगह पक्की कर चुके {count} में से #{rank}"
+  id: "#{rank} dari {count} yang sudah mengamankan tempat"
+  it: "#{rank} su {count} con il posto preso"
+  ja: "確保済み {count} 件中 #{rank}"
+  ko: "확보한 {count}개 중 #{rank}"
+  nl: "#{rank} van {count} met geclaimde plek"
+  pl: "#{rank} z {count} z zajętym miejscem"
+  pt: "#{rank} de {count} com lugar garantido"
+  pt-BR: "#{rank} de {count} com vaga garantida"
+  pt-PT: "#{rank} de {count} com lugar garantido"
+  ru: "#{rank} из {count} с занятым местом"
+  sv: "#{rank} av {count} med tagen plats"
+  sw: "#{rank} kati ya makundi {count} yenye nafasi"
+  th: "#{rank} จาก {count} ที่จองแล้ว"
+  uk: "#{rank} з {count} із зайнятим місцем"
+  vi: "#{rank} trên {count} đã giành chỗ"
+  zh: "已获席位的 {count} 个设备群中第 {rank} 名"
+  zh-HK: "已取得席位的 {count} 個裝置群中第 {rank} 名"

@@ -1,0 +1,38 @@
+description: "Protocol leaderboard (Leaderboard > Protocol): own-status card, why this score: the score the network would have today if it claimed a Top 200 spot and no other network sharing its IP prefixes claimed. {score} is that score, already formatted by the app (\"41.2\"), inserted as is."
+source: "If you claimed alone today: %@."
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: score
+    type: string
+localizations:
+  ar: "لو حجزت مكانك وحدك اليوم: {score}."
+  cs: "Kdybyste si dnes zajistili místo sami: {score}."
+  de: "Wenn du dir heute allein einen Platz sichern würdest: {score}."
+  el: "Αν κλείνατε θέση μόνοι σας σήμερα: {score}."
+  en: "If you claimed alone today: {score}."
+  es: "Si hoy solo reclamaras tú: {score}."
+  es-419: "Si hoy solo reclamaras tú: {score}."
+  es-MX: "Si hoy solo reclamaras tú: {score}."
+  fr: "Si vous réserviez aujourd’hui sans personne d’autre : {score}."
+  he: "אם הייתם תופסים מקום לבד היום: {score}."
+  hi: "अगर आज सिर्फ़ आप जगह पक्की करते: {score}।"
+  id: "Jika hari ini hanya Anda yang mengamankan tempat: {score}."
+  it: "Se oggi prendessi il posto solo tu: {score}."
+  ja: "今日あなただけが枠を確保した場合: {score}"
+  ko: "오늘 혼자 자리를 확보한다면: {score}"
+  nl: "Als je vandaag als enige zou claimen: {score}."
+  pl: "Gdyby dziś miejsce zajęła tylko twoja sieć: {score}."
+  pt: "Se hoje só a sua rede garantisse lugar: {score}."
+  pt-BR: "Se hoje só a sua rede garantisse vaga: {score}."
+  pt-PT: "Se hoje só a sua rede garantisse lugar: {score}."
+  ru: "Если бы сегодня место заняла только ваша сеть: {score}."
+  sv: "Om bara du tog en plats i dag: {score}."
+  sw: "Kama ungepata nafasi peke yako leo: {score}."
+  th: "ถ้าวันนี้คุณจองที่เพียงผู้เดียว: {score}"
+  uk: "Якби сьогодні місце зайняла лише ваша мережа: {score}."
+  vi: "Nếu hôm nay chỉ mình bạn giành chỗ: {score}."
+  zh: "如果今天只有您获取席位：{score}。"
+  zh-HK: "如果今天只有你取得席位：{score}。"
