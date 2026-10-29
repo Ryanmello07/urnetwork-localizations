@@ -1,0 +1,38 @@
+description: "Protocol leaderboard (Leaderboard > Protocol): the badge on a row whose network has claimed a Top 200 spot, and the name shown for an anonymous network that has. {uid} is the fleet's miner UID on SN25, a number, inserted as is. UID is the Bittensor term and stays as is."
+source: "UID %lld"
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: uid
+    type: int
+localizations:
+  ar: "UID {uid}"
+  cs: "UID {uid}"
+  de: "UID {uid}"
+  el: "UID {uid}"
+  en: "UID {uid}"
+  es: "UID {uid}"
+  es-419: "UID {uid}"
+  es-MX: "UID {uid}"
+  fr: "UID {uid}"
+  he: "UID {uid}"
+  hi: "UID {uid}"
+  id: "UID {uid}"
+  it: "UID {uid}"
+  ja: "UID {uid}"
+  ko: "UID {uid}"
+  nl: "UID {uid}"
+  pl: "UID {uid}"
+  pt: "UID {uid}"
+  pt-BR: "UID {uid}"
+  pt-PT: "UID {uid}"
+  ru: "UID {uid}"
+  sv: "UID {uid}"
+  sw: "UID {uid}"
+  th: "UID {uid}"
+  uk: "UID {uid}"
+  vi: "UID {uid}"
+  zh: "UID {uid}"
+  zh-HK: "UID {uid}"

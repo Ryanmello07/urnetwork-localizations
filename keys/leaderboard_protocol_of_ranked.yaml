@@ -1,0 +1,38 @@
+description: "Protocol leaderboard (Leaderboard > Protocol): own-status card, under \"#173 projected\": how many networks the board ranks. {count} is that number (hundreds or thousands), inserted as is, so the wording must read with any number."
+source: "of %lld ranked networks"
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "من أصل {count} شبكة مصنّفة"
+  cs: "z {count} hodnocených sítí"
+  de: "von {count} gerankten Netzwerken"
+  el: "από {count} δίκτυα στην κατάταξη"
+  en: "of {count} ranked networks"
+  es: "de {count} redes clasificadas"
+  es-419: "de {count} redes clasificadas"
+  es-MX: "de {count} redes clasificadas"
+  fr: "sur {count} réseaux classés"
+  he: "מתוך {count} רשתות מדורגות"
+  hi: "{count} रैंक किए गए नेटवर्क में से"
+  id: "dari {count} jaringan yang diperingkat"
+  it: "su {count} reti in classifica"
+  ja: "ランキング対象 {count} ネットワーク中"
+  ko: "순위에 오른 {count}개 네트워크 중"
+  nl: "van {count} gerangschikte netwerken"
+  pl: "z {count} sieci w rankingu"
+  pt: "de {count} redes classificadas"
+  pt-BR: "de {count} redes no ranking"
+  pt-PT: "de {count} redes classificadas"
+  ru: "из {count} в рейтинге"
+  sv: "av {count} rankade nätverk"
+  sw: "kati ya mitandao {count} iliyo kwenye viwango"
+  th: "จาก {count} เครือข่ายที่จัดอันดับ"
+  uk: "з {count} у рейтингу"
+  vi: "trên {count} mạng được xếp hạng"
+  zh: "共 {count} 个网络参与排名"
+  zh-HK: "共 {count} 個網絡參與排名"

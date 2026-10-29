@@ -1,0 +1,38 @@
+description: "Protocol leaderboard (Leaderboard > Protocol): own-status card, how far the network's projected score is above the Top 200 line (the score at position 200, the cutoff for a head spot). {percent} is the margin, already formatted by the app with its percent sign (\"12%\"), inserted as is."
+source: "%@ above the Top 200 line"
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: percent
+    type: string
+localizations:
+  ar: "أعلى من حد أفضل 200 بنسبة {percent}"
+  cs: "o {percent} nad hranicí Top 200"
+  de: "{percent} über der Top-200-Linie"
+  el: "{percent} πάνω από το όριο του Top 200"
+  en: "{percent} above the Top 200 line"
+  es: "{percent} por encima de la línea del Top 200"
+  es-419: "{percent} por encima de la línea del Top 200"
+  es-MX: "{percent} por encima de la línea del Top 200"
+  fr: "{percent} au-dessus de la ligne du Top 200"
+  he: "{percent} מעל קו ה-Top 200"
+  hi: "टॉप 200 की सीमा से {percent} ऊपर"
+  id: "{percent} di atas batas Top 200"
+  it: "{percent} sopra la soglia della Top 200"
+  ja: "トップ 200 ラインより {percent} 上"
+  ko: "Top 200 기준선보다 {percent} 위"
+  nl: "{percent} boven de Top 200-grens"
+  pl: "{percent} powyżej granicy Top 200"
+  pt: "{percent} acima da linha do Top 200"
+  pt-BR: "{percent} acima da linha do Top 200"
+  pt-PT: "{percent} acima da linha do Top 200"
+  ru: "на {percent} выше границы Топ-200"
+  sv: "{percent} över Topp 200-gränsen"
+  sw: "{percent} juu ya mstari wa Top 200"
+  th: "สูงกว่าเส้น Top 200 อยู่ {percent}"
+  uk: "на {percent} вище межі Топ-200"
+  vi: "cao hơn ngưỡng Top 200 {percent}"
+  zh: "高于前 200 名分界线 {percent}"
+  zh-HK: "高於前 200 名分界線 {percent}"

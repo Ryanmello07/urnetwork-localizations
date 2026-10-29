@@ -1,0 +1,40 @@
+description: "Protocol leaderboard (Leaderboard > Protocol): own-status card, why this score: how many distinct IP prefixes the network's devices provide from, and how many of those other networks provide from too (a shared prefix's credit is split between the networks on it). {prefixes} and {shared} are counts, inserted as is, so the wording must read with any number, 0 and 1 included. Counts only, never addresses."
+source: "%lld distinct IP prefixes, %lld shared with other networks."
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: prefixes
+    type: int
+  - name: shared
+    type: int
+localizations:
+  ar: "بادئات IP المميزة: {prefixes}، منها {shared} مشتركة مع شبكات أخرى."
+  cs: "Různé IP prefixy: {prefixes}, z toho sdílené s jinými sítěmi: {shared}."
+  de: "Verschiedene IP-Präfixe: {prefixes}, davon mit anderen Netzwerken geteilt: {shared}."
+  el: "Διακριτά προθέματα IP: {prefixes}, από τα οποία κοινά με άλλα δίκτυα: {shared}."
+  en: "{prefixes} distinct IP prefixes, {shared} shared with other networks."
+  es: "Prefijos de IP distintos: {prefixes}; compartidos con otras redes: {shared}."
+  es-419: "Prefijos de IP distintos: {prefixes}; compartidos con otras redes: {shared}."
+  es-MX: "Prefijos de IP distintos: {prefixes}; compartidos con otras redes: {shared}."
+  fr: "Préfixes IP distincts : {prefixes}, dont partagés avec d’autres réseaux : {shared}."
+  he: "קידומות IP ייחודיות: {prefixes}, מהן משותפות עם רשתות אחרות: {shared}."
+  hi: "अलग-अलग IP प्रीफ़िक्स: {prefixes}, इनमें से दूसरे नेटवर्क के साथ साझा: {shared}।"
+  id: "Prefiks IP berbeda: {prefixes}, yang dipakai bersama jaringan lain: {shared}."
+  it: "Prefissi IP distinti: {prefixes}, di cui condivisi con altre reti: {shared}."
+  ja: "異なる IP プレフィックス: {prefixes}、うち他のネットワークと共有: {shared}"
+  ko: "고유 IP 프리픽스: {prefixes}개, 그중 다른 네트워크와 공유: {shared}개"
+  nl: "Verschillende IP-prefixen: {prefixes}, waarvan gedeeld met andere netwerken: {shared}."
+  pl: "Różne prefiksy IP: {prefixes}, w tym współdzielone z innymi sieciami: {shared}."
+  pt: "Prefixos de IP distintos: {prefixes}, dos quais partilhados com outras redes: {shared}."
+  pt-BR: "Prefixos de IP distintos: {prefixes}, dos quais compartilhados com outras redes: {shared}."
+  pt-PT: "Prefixos de IP distintos: {prefixes}, dos quais partilhados com outras redes: {shared}."
+  ru: "Уникальных IP-префиксов: {prefixes}, из них общих с другими сетями: {shared}."
+  sv: "Olika IP-prefix: {prefixes}, varav delade med andra nätverk: {shared}."
+  sw: "Viambishi awali vya IP tofauti: {prefixes}, kati yake vinavyoshirikiwa na mitandao mingine: {shared}."
+  th: "พรีฟิกซ์ IP ที่ไม่ซ้ำกัน: {prefixes} รายการ ใช้ร่วมกับเครือข่ายอื่น: {shared} รายการ"
+  uk: "Унікальних IP-префіксів: {prefixes}, з них спільних з іншими мережами: {shared}."
+  vi: "Tiền tố IP khác nhau: {prefixes}, trong đó dùng chung với mạng khác: {shared}."
+  zh: "不同的 IP 前缀：{prefixes} 个，其中与其他网络共享：{shared} 个。"
+  zh-HK: "不同的 IP 前綴：{prefixes} 個，其中與其他網絡共用：{shared} 個。"
