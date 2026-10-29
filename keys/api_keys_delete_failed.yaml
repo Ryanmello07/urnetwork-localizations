@@ -3,6 +3,7 @@ source: "Couldn't delete the API key. Try again."
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

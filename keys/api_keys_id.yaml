@@ -2,6 +2,7 @@ description: "API keys screen (Account > API keys): a key's row, the line with t
 source: "ID %@"
 platforms:
   - android
+  - windows
   - site
   - linux
 placeholders:

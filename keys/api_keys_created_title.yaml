@@ -3,6 +3,7 @@ source: "Your new API key"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

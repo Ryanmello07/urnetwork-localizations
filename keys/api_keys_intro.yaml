@@ -3,6 +3,7 @@ source: "API keys let your own tools and scripts use your URnetwork account thro
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

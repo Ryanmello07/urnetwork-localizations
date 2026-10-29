@@ -3,6 +3,7 @@ source: "Copy this key now. It won't be shown again, and anyone who has it can u
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

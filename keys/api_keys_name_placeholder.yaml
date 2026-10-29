@@ -3,6 +3,7 @@ source: "For example, home server"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:
