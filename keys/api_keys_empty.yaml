@@ -3,6 +3,7 @@ source: "You don't have any API keys."
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "ليس لديك أي مفاتيح API."

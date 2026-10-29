@@ -3,6 +3,7 @@ source: "How to use API keys"
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "كيفية استخدام مفاتيح API"

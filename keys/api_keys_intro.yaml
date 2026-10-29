@@ -3,6 +3,7 @@ source: "API keys let your own tools and scripts use your URnetwork account thro
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "تتيح مفاتيح API لأدواتك ونصوصك البرمجية الخاصة استخدام حسابك على URnetwork من خلال API. يحصل أي شخص لديه مفتاح على وصول كامل إلى حسابك إلى أن تحذفه."

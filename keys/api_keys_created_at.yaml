@@ -3,6 +3,7 @@ source: "Created %@"
 platforms:
   - apple
   - android
+  - windows
   - site
 placeholders:
   - name: date

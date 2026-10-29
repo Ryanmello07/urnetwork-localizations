@@ -2,6 +2,7 @@ description: "API keys screen (Account > API keys): the action on a key's row th
 source: "Delete"
 platforms:
   - android
+  - windows
   - site
 localizations:
   ar: "حذف"

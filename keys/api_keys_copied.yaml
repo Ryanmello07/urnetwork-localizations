@@ -2,6 +2,7 @@ description: "API keys screen (Account > API keys): shown briefly in place of Co
 source: "Copied"
 platforms:
   - android
+  - windows
   - site
 localizations:
   ar: "تم النسخ"

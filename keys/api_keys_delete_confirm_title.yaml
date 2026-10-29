@@ -3,6 +3,7 @@ source: "Delete this API key?"
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "هل تريد حذف مفتاح API هذا؟"

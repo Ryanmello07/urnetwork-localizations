@@ -3,6 +3,7 @@ source: "Copy this key now. It won't be shown again, and anyone who has it can u
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "انسخ هذا المفتاح الآن. لن يظهر مرة أخرى، ويمكن لأي شخص يملكه استخدام حسابك."

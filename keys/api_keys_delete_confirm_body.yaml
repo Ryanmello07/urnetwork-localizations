@@ -3,6 +3,7 @@ source: "\"%@\" will stop working right away, and anything using it will lose ac
 platforms:
   - apple
   - android
+  - windows
   - site
 placeholders:
   - name: name

@@ -3,6 +3,7 @@ source: "Couldn't load your API keys. Try again."
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "تعذّر تحميل مفاتيح API الخاصة بك. حاول مرة أخرى."
