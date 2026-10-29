@@ -1,0 +1,36 @@
+description: "Title of the Android VPN notification while the VPN is connected. Samsung's Flip cover screen, the lock screen and other small screens show it in a narrow row and cut off what does not fit, so keep it short and keep the status first: a narrow screen then loses the end of the place, never the status. \"Protected\" means this device's internet traffic goes through URnetwork, the same word as the \"Protected\" row of the desktop apps' connection inspector. {location} is where the connection goes: a country, region or city name (for example Germany), or \"Best available provider\"."
+source: "Protected · {location}"
+platforms:
+  - android
+placeholders:
+  - name: location
+    type: string
+localizations:
+  ar: "محمي · {location}"
+  cs: "Chráněno · {location}"
+  de: "Geschützt · {location}"
+  el: "Προστατευμένο · {location}"
+  en: "Protected · {location}"
+  es: "Protegido · {location}"
+  es-419: "Protegido · {location}"
+  es-MX: "Protegido · {location}"
+  fr: "Protégé · {location}"
+  he: "מוגן · {location}"
+  hi: "सुरक्षित · {location}"
+  id: "Terlindungi · {location}"
+  it: "Protetto · {location}"
+  ja: "保護中 · {location}"
+  ko: "보호됨 · {location}"
+  nl: "Beschermd · {location}"
+  pl: "Chronione · {location}"
+  pt: "Protegido · {location}"
+  pt-BR: "Protegido · {location}"
+  pt-PT: "Protegido · {location}"
+  ru: "Защищено · {location}"
+  sv: "Skyddad · {location}"
+  sw: "Imelindwa · {location}"
+  th: "ได้รับการป้องกัน · {location}"
+  uk: "Захищено · {location}"
+  vi: "Được bảo vệ · {location}"
+  zh: "受保护 · {location}"
+  zh-HK: "受保護 · {location}"
