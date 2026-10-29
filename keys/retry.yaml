@@ -6,6 +6,7 @@ platforms:
   - web
   - windows
   - linux
+  - site
 localizations:
   ar: "إعادة المحاولة"
   cs: "Zkusit znovu"
