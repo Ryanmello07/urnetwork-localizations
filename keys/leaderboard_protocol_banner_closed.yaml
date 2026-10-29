@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "حجز الأماكن غير متاح بعد. يمكنك الآن رؤية المرتبة التي ستحتلها."
   cs: "Zajištění míst zatím není otevřené. Už teď ale uvidíte, kde byste se umístili."

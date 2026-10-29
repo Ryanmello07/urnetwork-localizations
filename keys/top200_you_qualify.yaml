@@ -1,10 +1,11 @@
 description: "Headline of the Top 200 tile when eligible."
 source: "You qualify"
+deprecated:
+  - linux
 platforms:
   - android
   - apple
   - windows
-  - linux
   - site
 localizations:
   ar: "أنت مؤهل"

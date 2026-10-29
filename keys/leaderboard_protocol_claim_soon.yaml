@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "سيُتاح حجز الأماكن قريبًا في صفحة الأرباح."
   cs: "Zajištění míst se brzy otevře na stránce Výdělky."

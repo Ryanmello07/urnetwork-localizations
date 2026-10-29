@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "مُرتَّب كترتيب أفضل 200 لدى مُدقِّق SN25، حسب بادئات IP المميزة التي توفّر منها أجهزتك. يكسب كبار المعدِّنين SN25α في كل tempo."
   cs: "Pořadí jako u Top 200 validátoru SN25, podle různých IP prefixů, ze kterých vaše zařízení poskytují. Přední těžaři získávají SN25α v každém tempu."

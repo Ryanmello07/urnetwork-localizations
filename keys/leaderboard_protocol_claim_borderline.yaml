@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "أنت قريب من الحد، والترتيب يتغير في كل tempo."
   cs: "Jste blízko hranice a pořadí se mění v každém tempu."

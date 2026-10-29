@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "الحافز على السلسلة"
   cs: "Incentiva na řetězci"

@@ -3,6 +3,7 @@ source: "You"
 platforms:
   - android
   - site
+  - linux
 localizations:
   ar: "أنت"
   cs: "Vy"

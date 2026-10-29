@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "سنُعلمك عندما يمكنك حجز مكانك. الأسطول الذي حجز مكانًا ويأتي في المرتبة 201 أو أدنى لا يكسب شيئًا."
   cs: "Dáme vám vědět, až si budete moct místo zajistit. Flotila se zajištěným místem, která skončí na 201. místě nebo níž, nevydělá nic."

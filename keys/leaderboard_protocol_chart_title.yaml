@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "الترتيب المتوقع، آخر 90 يومًا"
   cs: "Předpokládané pořadí za posledních 90 dní"
