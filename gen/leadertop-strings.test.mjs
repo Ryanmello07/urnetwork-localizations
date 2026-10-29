@@ -21,7 +21,8 @@ const CONTRACT = {
 	leaderboard_protocol_below_line: ["{percent} below the Top 200 line", "percent:string"],
 	leaderboard_protocol_trend_up: ["up {count} since the last update", "count:int"],
 	leaderboard_protocol_trend_down: ["down {count} since the last update", "count:int"],
-	leaderboard_protocol_why: ["{prefixes} distinct IP prefixes, {shared} shared with other networks.", "prefixes:int shared:int"],
+	// each count follows its label, so the line reads with any number (no plural key)
+	leaderboard_protocol_why: ["Distinct IP prefixes: {prefixes}. Shared with other networks: {shared}.", "prefixes:int shared:int"],
 	leaderboard_protocol_solo: ["If you claimed alone today: {score}.", "score:string"],
 	leaderboard_protocol_you: ["You", ""],
 	leaderboard_protocol_label_estimate: ["Estimate", ""],
