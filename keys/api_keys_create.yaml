@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "إنشاء مفتاح API"
   cs: "Vytvořit klíč API"

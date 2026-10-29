@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "انسخ هذا المفتاح الآن. لن يظهر مرة أخرى، ويمكن لأي شخص يملكه استخدام حسابك."
   cs: "Zkopírujte si tento klíč hned teď. Znovu se už nezobrazí a kdokoli, kdo ho má, může používat váš účet."

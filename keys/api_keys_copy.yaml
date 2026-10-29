@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "نسخ المفتاح"
   cs: "Kopírovat klíč"
