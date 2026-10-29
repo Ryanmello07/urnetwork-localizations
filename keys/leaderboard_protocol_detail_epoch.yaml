@@ -2,6 +2,7 @@ description: "Protocol leaderboard (Leaderboard > Protocol): claimed row sheet, 
 source: "Epoch %lld"
 platforms:
   - android
+  - windows
   - site
   - linux
 placeholders:

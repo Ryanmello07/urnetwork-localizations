@@ -3,6 +3,7 @@ source: "Validator rank"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

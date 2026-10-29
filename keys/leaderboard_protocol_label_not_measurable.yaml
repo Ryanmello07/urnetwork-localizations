@@ -3,6 +3,7 @@ source: "Not measurable"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

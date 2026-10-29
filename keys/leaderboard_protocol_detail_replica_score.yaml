@@ -3,6 +3,7 @@ source: "Board replica score"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

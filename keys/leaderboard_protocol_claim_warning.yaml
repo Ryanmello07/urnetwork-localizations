@@ -3,6 +3,7 @@ source: "A claimed fleet that ranks 201 or lower earns nothing."
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

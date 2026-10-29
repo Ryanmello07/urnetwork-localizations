@@ -3,6 +3,7 @@ source: "Claim valid until"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

@@ -2,6 +2,7 @@ description: "Protocol leaderboard (Leaderboard > Protocol): the marker on the s
 source: "You"
 platforms:
   - android
+  - windows
   - site
   - linux
 localizations:

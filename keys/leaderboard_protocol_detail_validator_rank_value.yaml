@@ -3,6 +3,7 @@ source: "#%lld of %lld claimed"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 placeholders:

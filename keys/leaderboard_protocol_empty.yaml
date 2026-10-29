@@ -3,6 +3,7 @@ source: "Rankings will appear after the next update."
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

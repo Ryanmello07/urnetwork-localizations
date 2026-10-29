@@ -3,6 +3,7 @@ source: "projected · %@"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 placeholders:

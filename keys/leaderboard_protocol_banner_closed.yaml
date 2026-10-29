@@ -3,6 +3,7 @@ source: "Claiming isn't open yet. You can see where you'd rank now."
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

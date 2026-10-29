@@ -3,6 +3,7 @@ source: "Validator score"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

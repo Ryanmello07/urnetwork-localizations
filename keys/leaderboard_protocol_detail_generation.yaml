@@ -3,6 +3,7 @@ source: "Generation"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

@@ -3,6 +3,7 @@ source: "Ranked the way the SN25 validator picks its Top 200: by how many distin
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

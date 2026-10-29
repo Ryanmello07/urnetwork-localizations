@@ -3,6 +3,7 @@ source: "On-chain incentive"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

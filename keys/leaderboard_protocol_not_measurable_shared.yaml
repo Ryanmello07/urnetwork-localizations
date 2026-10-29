@@ -3,6 +3,7 @@ source: "Your devices share an IP with another network."
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

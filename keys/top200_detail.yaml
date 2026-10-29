@@ -2,10 +2,10 @@ description: "Detail of the Top 200 tile when eligible."
 source: "Your network's routable IP breadth ranks about #%lld of %lld head spots. Head miners earn SN25α natively, every tempo."
 deprecated:
   - linux
+  - windows
 platforms:
   - android
   - apple
-  - windows
   - site
 placeholders:
   - name: rank

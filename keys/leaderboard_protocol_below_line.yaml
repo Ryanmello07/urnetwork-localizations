@@ -3,6 +3,7 @@ source: "%@ below the Top 200 line"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 placeholders:

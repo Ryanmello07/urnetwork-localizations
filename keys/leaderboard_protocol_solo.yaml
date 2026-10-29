@@ -3,6 +3,7 @@ source: "If you claimed alone today: %@."
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 placeholders:

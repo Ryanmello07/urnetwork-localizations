@@ -3,6 +3,7 @@ source: "See the Protocol leaderboard"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

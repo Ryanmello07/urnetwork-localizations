@@ -3,6 +3,7 @@ source: "down %lld since the last update"
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 placeholders:

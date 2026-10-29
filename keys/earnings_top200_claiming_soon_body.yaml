@@ -3,6 +3,7 @@ source: "We'll let you know when you can claim your spot. A claimed fleet that r
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:

@@ -3,6 +3,7 @@ source: "Ranked like the SN25 validator's Top 200, by the distinct IP prefixes y
 platforms:
   - apple
   - android
+  - windows
   - site
   - linux
 localizations:
