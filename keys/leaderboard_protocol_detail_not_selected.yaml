@@ -3,6 +3,7 @@ source: "Not selected"
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "غير مُختار"

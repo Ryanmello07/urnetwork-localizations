@@ -3,6 +3,7 @@ source: "of %lld ranked networks"
 platforms:
   - apple
   - android
+  - windows
   - site
 placeholders:
   - name: count

@@ -3,6 +3,7 @@ source: "You're projected in the top 200."
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "من المتوقع أن تكون ضمن أفضل 200."

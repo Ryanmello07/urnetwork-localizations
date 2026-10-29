@@ -3,6 +3,7 @@ source: "Your devices aren't measured by the validator yet."
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "لا يقيس المدقِّق أجهزتك بعد."

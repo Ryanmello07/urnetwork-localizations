@@ -3,6 +3,7 @@ source: "up %lld since the last update"
 platforms:
   - apple
   - android
+  - windows
   - site
 placeholders:
   - name: count

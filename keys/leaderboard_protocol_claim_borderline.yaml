@@ -3,6 +3,7 @@ source: "You're close to the line, and rankings change every tempo."
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "أنت قريب من الحد، والترتيب يتغير في كل tempo."

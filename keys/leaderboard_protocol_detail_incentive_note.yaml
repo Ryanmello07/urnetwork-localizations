@@ -3,6 +3,7 @@ source: "On-chain incentive lags the validator's ranking."
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "يتأخر الحافز على السلسلة عن ترتيب المدقِّق."

@@ -3,6 +3,7 @@ source: "Ranked the way the SN25 validator picks its Top 200: by how many distin
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "يُرتَّب كما يختار مُدقِّق SN25 أفضل 200 لديه: حسب عدد بادئات IP المميزة التي توفّر منها أجهزتك، مع تقسيم البادئات المشتركة بين الشبكات التي تستخدمها. يُحدَّث كل 72 دقيقة تقريبًا. هذه توقعات إلى أن تحجز مكانك."

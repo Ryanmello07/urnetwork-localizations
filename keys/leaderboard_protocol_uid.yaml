@@ -3,6 +3,7 @@ source: "UID %lld"
 platforms:
   - apple
   - android
+  - windows
   - site
 placeholders:
   - name: uid

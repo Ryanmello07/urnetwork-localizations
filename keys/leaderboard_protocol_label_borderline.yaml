@@ -3,6 +3,7 @@ source: "Borderline"
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "على الحد"

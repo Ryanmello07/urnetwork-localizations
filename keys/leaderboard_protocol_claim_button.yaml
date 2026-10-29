@@ -3,6 +3,7 @@ source: "Claim on Earnings"
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "احجز مكانك في الأرباح"

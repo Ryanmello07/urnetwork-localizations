@@ -3,6 +3,7 @@ source: "%@ above the Top 200 line"
 platforms:
   - apple
   - android
+  - windows
   - site
 placeholders:
   - name: percent

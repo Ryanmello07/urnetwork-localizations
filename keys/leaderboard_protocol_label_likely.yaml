@@ -3,6 +3,7 @@ source: "Likely"
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "مرجّح"

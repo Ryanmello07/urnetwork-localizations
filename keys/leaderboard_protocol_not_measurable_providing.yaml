@@ -3,6 +3,7 @@ source: "Turn on providing to be ranked."
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "شغّل التوفير لتدخل في الترتيب."

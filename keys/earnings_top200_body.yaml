@@ -3,6 +3,7 @@ source: "Ranked like the SN25 validator's Top 200, by the distinct IP prefixes y
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "مُرتَّب كترتيب أفضل 200 لدى مُدقِّق SN25، حسب بادئات IP المميزة التي توفّر منها أجهزتك. يكسب كبار المعدِّنين SN25α في كل tempo."

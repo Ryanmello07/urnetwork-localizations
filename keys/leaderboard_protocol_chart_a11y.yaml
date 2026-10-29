@@ -3,6 +3,7 @@ source: "Projected rank over 90 days, now %lld"
 platforms:
   - apple
   - android
+  - windows
   - site
 placeholders:
   - name: rank

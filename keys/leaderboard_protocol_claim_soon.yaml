@@ -3,6 +3,7 @@ source: "Claiming opens soon on the Earnings page."
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "سيُتاح حجز الأماكن قريبًا في صفحة الأرباح."

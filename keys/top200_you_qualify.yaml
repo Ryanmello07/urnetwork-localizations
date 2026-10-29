@@ -1,9 +1,10 @@
 description: "Headline of the Top 200 tile when eligible."
 source: "You qualify"
+deprecated:
+  - windows
 platforms:
   - android
   - apple
-  - windows
   - linux
   - site
 localizations:

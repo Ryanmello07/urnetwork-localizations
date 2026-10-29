@@ -3,6 +3,7 @@ source: "Projected rank, last 90 days"
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "الترتيب المتوقع، آخر 90 يومًا"

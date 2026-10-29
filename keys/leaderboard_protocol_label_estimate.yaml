@@ -3,6 +3,7 @@ source: "Estimate"
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "تقدير"

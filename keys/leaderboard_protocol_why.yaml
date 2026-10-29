@@ -3,6 +3,7 @@ source: "Distinct IP prefixes: %lld. Shared with other networks: %lld."
 platforms:
   - apple
   - android
+  - windows
   - site
 placeholders:
   - name: prefixes

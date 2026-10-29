@@ -3,6 +3,7 @@ source: "Rankings last updated %@."
 platforms:
   - apple
   - android
+  - windows
   - site
 placeholders:
   - name: time

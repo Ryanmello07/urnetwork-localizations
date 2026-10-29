@@ -3,6 +3,7 @@ source: "stale"
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "قديم"

@@ -3,6 +3,7 @@ source: "Top 200 line"
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "حد أفضل 200"

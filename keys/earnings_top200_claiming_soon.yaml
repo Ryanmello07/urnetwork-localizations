@@ -3,6 +3,7 @@ source: "Claiming opens soon"
 platforms:
   - apple
   - android
+  - windows
   - site
 localizations:
   ar: "يُتاح الحجز قريبًا"
