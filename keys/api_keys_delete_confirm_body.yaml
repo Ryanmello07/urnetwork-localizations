@@ -1,0 +1,38 @@
+description: "API keys screen (Account > API keys): body of the confirmation before a key is deleted. {name} is the key's name as the user gave it (\"home server\"), or api_keys_unnamed (\"Unnamed key\") for a key without one, inserted as is between quotes, so no case ending or article can attach to it, and the sentence must read with either."
+source: "\"%@\" will stop working right away, and anything using it will lose access."
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: name
+    type: string
+localizations:
+  ar: "سيتوقف «{name}» عن العمل فورًا، وسيفقد كل ما يستخدمه إمكانية الوصول."
+  cs: "„{name}“ okamžitě přestane fungovat a vše, co ho používá, ztratí přístup."
+  de: "„{name}“ funktioniert sofort nicht mehr, und alles, was ihn verwendet, verliert den Zugriff."
+  el: "Το «{name}» θα σταματήσει να λειτουργεί αμέσως και ό,τι το χρησιμοποιεί θα χάσει την πρόσβαση."
+  en: "\"{name}\" will stop working right away, and anything using it will lose access."
+  es: "“{name}” dejará de funcionar de inmediato y todo lo que la use perderá el acceso."
+  es-419: "“{name}” dejará de funcionar de inmediato y todo lo que la use perderá el acceso."
+  es-MX: "“{name}” dejará de funcionar de inmediato y todo lo que la use perderá el acceso."
+  fr: "« {name} » cessera immédiatement de fonctionner, et tout ce qui l’utilise perdra l’accès."
+  he: "\"{name}\" יפסיק לפעול מיד, וכל מה שמשתמש בו יאבד את הגישה."
+  hi: "“{name}” तुरंत काम करना बंद कर देगी, और इसका उपयोग करने वाली हर चीज़ की पहुँच खत्म हो जाएगी।"
+  id: "“{name}” akan langsung berhenti berfungsi, dan apa pun yang menggunakannya akan kehilangan akses."
+  it: "“{name}” smetterà subito di funzionare e tutto ciò che la usa perderà l’accesso."
+  ja: "「{name}」はすぐに使えなくなり、このキーを使用しているものはすべてアクセスできなくなります。"
+  ko: "‘{name}’의 작동이 즉시 중지되며, 이 키를 사용하는 모든 항목의 액세스 권한이 사라집니다."
+  nl: "‘{name}’ werkt meteen niet meer en alles wat deze sleutel gebruikt, verliest de toegang."
+  pl: "„{name}” natychmiast przestanie działać, a wszystko, co z niego korzysta, straci dostęp."
+  pt: "«{name}» deixará de funcionar de imediato e tudo o que a utiliza perderá o acesso."
+  pt-BR: "“{name}” vai parar de funcionar imediatamente, e tudo o que a usa perderá o acesso."
+  pt-PT: "«{name}» deixará de funcionar de imediato e tudo o que a utiliza perderá o acesso."
+  ru: "«{name}» сразу перестанет работать, и всё, что его использует, потеряет доступ."
+  sv: "”{name}” slutar fungera direkt, och allt som använder den förlorar åtkomsten."
+  sw: "“{name}” utaacha kufanya kazi mara moja, na chochote kinachoutumia kitapoteza ufikiaji."
+  th: "“{name}” จะหยุดทำงานทันที และทุกอย่างที่ใช้คีย์นี้จะเสียสิทธิ์การเข้าถึง"
+  uk: "«{name}» одразу перестане працювати, і все, що його використовує, втратить доступ."
+  vi: "“{name}” sẽ ngừng hoạt động ngay lập tức và mọi thứ đang dùng khóa này sẽ mất quyền truy cập."
+  zh: "“{name}”将立即失效，所有使用它的应用或工具都将失去访问权限。"
+  zh-HK: "「{name}」將立即失效，所有使用它的程式或工具都會失去存取權。"

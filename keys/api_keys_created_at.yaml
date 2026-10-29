@@ -1,0 +1,38 @@
+description: "API keys screen (Account > API keys): a key's row, the line under its name. {date} is the date the key was created, already formatted by the app (\"Oct 29, 2026\"), inserted as is, so no case ending or preposition can attach to it."
+source: "Created %@"
+platforms:
+  - apple
+  - android
+  - site
+placeholders:
+  - name: date
+    type: string
+localizations:
+  ar: "تاريخ الإنشاء: {date}"
+  cs: "Vytvořeno: {date}"
+  de: "Erstellt: {date}"
+  el: "Δημιουργήθηκε: {date}"
+  en: "Created {date}"
+  es: "Creada: {date}"
+  es-419: "Creada: {date}"
+  es-MX: "Creada: {date}"
+  fr: "Créée : {date}"
+  he: "נוצר: {date}"
+  hi: "बनाई गई: {date}"
+  id: "Dibuat {date}"
+  it: "Creata: {date}"
+  ja: "作成日: {date}"
+  ko: "생성일: {date}"
+  nl: "Aangemaakt: {date}"
+  pl: "Utworzono: {date}"
+  pt: "Criada: {date}"
+  pt-BR: "Criada: {date}"
+  pt-PT: "Criada: {date}"
+  ru: "Создан: {date}"
+  sv: "Skapad {date}"
+  sw: "Uliundwa {date}"
+  th: "สร้างเมื่อ {date}"
+  uk: "Створено: {date}"
+  vi: "Ngày tạo: {date}"
+  zh: "创建于 {date}"
+  zh-HK: "建立於 {date}"

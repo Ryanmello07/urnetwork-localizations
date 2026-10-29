@@ -3,6 +3,7 @@ description_auto: true
 source: "Done"
 platforms:
   - apple
+  - android
   - site
   - linux
 localizations:

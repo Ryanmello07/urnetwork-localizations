@@ -1,0 +1,37 @@
+description: "API keys screen (Account > API keys): a key's row, the line with the key's ID, shown so the user can use the ID with the API. {id} is the ID as is. Apple reads this English from the sessions_id entry (\"ID %@\", one catalog entry per English text), so this key is not tagged apple."
+source: "ID %@"
+platforms:
+  - android
+  - site
+placeholders:
+  - name: id
+    type: string
+localizations:
+  ar: "المعرّف {id}"
+  cs: "ID {id}"
+  de: "ID {id}"
+  el: "ID {id}"
+  en: "ID {id}"
+  es: "ID {id}"
+  es-419: "ID {id}"
+  es-MX: "ID {id}"
+  fr: "ID {id}"
+  he: "מזהה {id}"
+  hi: "ID {id}"
+  id: "ID {id}"
+  it: "ID {id}"
+  ja: "ID {id}"
+  ko: "ID {id}"
+  nl: "ID {id}"
+  pl: "ID {id}"
+  pt: "ID {id}"
+  pt-BR: "ID {id}"
+  pt-PT: "ID {id}"
+  ru: "ID {id}"
+  sv: "ID {id}"
+  sw: "Kitambulisho {id}"
+  th: "ID {id}"
+  uk: "ID {id}"
+  vi: "ID {id}"
+  zh: "ID {id}"
+  zh-HK: "ID {id}"
