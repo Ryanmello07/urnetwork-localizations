@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "يُرتَّب كما يختار مُدقِّق SN25 أفضل 200 لديه: حسب عدد بادئات IP المميزة التي توفّر منها أجهزتك، مع تقسيم البادئات المشتركة بين الشبكات التي تستخدمها. يُحدَّث كل 72 دقيقة تقريبًا. هذه توقعات إلى أن تحجز مكانك."
   cs: "Pořadí odpovídá tomu, jak validátor SN25 vybírá svých Top 200: podle počtu různých IP prefixů, ze kterých vaše zařízení poskytují, přičemž sdílené prefixy se dělí mezi sítě, které je používají. Aktualizuje se zhruba každých 72 minut. Dokud si místo nezajistíte, jde o prognózy."

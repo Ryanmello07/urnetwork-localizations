@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "حد أفضل 200"
   cs: "Hranice Top 200"

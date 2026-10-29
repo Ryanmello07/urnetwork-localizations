@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "نتيجة المدقِّق"
   cs: "Skóre od validátoru"

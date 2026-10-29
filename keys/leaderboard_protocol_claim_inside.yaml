@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "من المتوقع أن تكون ضمن أفضل 200."
   cs: "Podle prognózy jste v Top 200."

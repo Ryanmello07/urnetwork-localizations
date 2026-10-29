@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "يتأخر الحافز على السلسلة عن ترتيب المدقِّق."
   cs: "Incentiva na řetězci se oproti pořadí validátoru zpožďuje."

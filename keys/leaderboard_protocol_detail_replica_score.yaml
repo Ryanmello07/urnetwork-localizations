@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "النتيجة وفق نسخة اللوحة"
   cs: "Skóre podle repliky žebříčku"

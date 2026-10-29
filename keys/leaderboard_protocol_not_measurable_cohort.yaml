@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "لا يقيس المدقِّق أجهزتك بعد."
   cs: "Validátor vaše zařízení zatím neměří."

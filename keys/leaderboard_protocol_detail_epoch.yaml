@@ -3,6 +3,7 @@ source: "Epoch %lld"
 platforms:
   - android
   - site
+  - linux
 placeholders:
   - name: epoch
     type: int

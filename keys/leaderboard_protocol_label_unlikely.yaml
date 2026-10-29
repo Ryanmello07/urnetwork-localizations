@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "غير مرجّح"
   cs: "Nepravděpodobné"

@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "الأسطول الذي حجز مكانًا ويأتي في المرتبة 201 أو أدنى لا يكسب شيئًا."
   cs: "Flotila se zajištěným místem, která skončí na 201. místě nebo níž, nevydělá nic."

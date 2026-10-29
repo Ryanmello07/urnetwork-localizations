@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "شغّل التوفير لتدخل في الترتيب."
   cs: "Zapněte poskytování, abyste se dostali do pořadí."

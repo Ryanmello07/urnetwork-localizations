@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "تتشارك أجهزتك عنوان IP مع شبكة أخرى."
   cs: "Vaše zařízení sdílejí IP adresu s jinou sítí."
