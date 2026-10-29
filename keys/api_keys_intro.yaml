@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "تتيح مفاتيح API لأدواتك ونصوصك البرمجية الخاصة استخدام حسابك على URnetwork من خلال API. يحصل أي شخص لديه مفتاح على وصول كامل إلى حسابك إلى أن تحذفه."
   cs: "Klíče API umožňují vašim vlastním nástrojům a skriptům používat váš účet URnetwork přes API. Kdokoli, kdo má klíč, má k vašemu účtu plný přístup, dokud ho neodstraníte."

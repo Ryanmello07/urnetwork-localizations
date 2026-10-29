@@ -3,6 +3,7 @@ source: "Delete"
 platforms:
   - android
   - site
+  - linux
 localizations:
   ar: "حذف"
   cs: "Odstranit"

@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "كيفية استخدام مفاتيح API"
   cs: "Jak používat klíče API"

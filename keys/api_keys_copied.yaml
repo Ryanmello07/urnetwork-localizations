@@ -3,6 +3,7 @@ source: "Copied"
 platforms:
   - android
   - site
+  - linux
 localizations:
   ar: "تم النسخ"
   cs: "Zkopírováno"

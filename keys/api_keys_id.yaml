@@ -3,6 +3,7 @@ source: "ID %@"
 platforms:
   - android
   - site
+  - linux
 placeholders:
   - name: id
     type: string

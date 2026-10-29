@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "ليس لديك أي مفاتيح API."
   cs: "Nemáte žádné klíče API."

@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "تعذّر تحميل مفاتيح API الخاصة بك. حاول مرة أخرى."
   cs: "Klíče API se nepodařilo načíst. Zkuste to znovu."

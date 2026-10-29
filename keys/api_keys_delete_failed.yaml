@@ -4,6 +4,7 @@ platforms:
   - apple
   - android
   - site
+  - linux
 localizations:
   ar: "تعذّر حذف مفتاح API. حاول مرة أخرى."
   cs: "Klíč API se nepodařilo odstranit. Zkuste to znovu."
