@@ -5,6 +5,7 @@ platforms:
   - apple
   - windows
   - linux
+  - site
 localizations:
   ar: "تم رفض الطلب في محفظتك. ابدأ من جديد ووافق عليه للمتابعة."
   cs: "Požadavek byl ve vaší peněžence zamítnut. Začněte znovu a schvalte ho, abyste mohli pokračovat."
