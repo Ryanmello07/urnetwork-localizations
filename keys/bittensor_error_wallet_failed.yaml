@@ -1,0 +1,14 @@
+description: "ur.io Bittensor wallet error (Earnings wallet card and payout consent, sign-in, add sign-in): the wallet (the Talisman extension, or a WalletConnect wallet) failed in a way the page has no specific message for, so nothing was signed. The wallet's own English text is only logged. The argument is the wallet product name (Talisman or WalletConnect)."
+source: "Your {wallet} wallet couldn't finish the request. Check the wallet, then try again."
+platforms:
+  - site
+placeholders:
+  - name: wallet
+    type: string
+localizations:
+  ar: "تعذّر على محفظة {wallet} إكمال الطلب. تحقّق من المحفظة، ثم حاول مرة أخرى."
+  de: "Deine {wallet}-Wallet konnte die Anfrage nicht abschließen. Prüfe die Wallet und versuche es dann erneut."
+  en: "Your {wallet} wallet couldn't finish the request. Check the wallet, then try again."
+  es: "Tu billetera {wallet} no pudo completar la solicitud. Revisa la billetera y vuelve a intentarlo."
+  ru: "Кошельку {wallet} не удалось выполнить запрос. Проверьте кошелек и повторите попытку."
+  zh: "您的 {wallet} 钱包未能完成该请求。请检查钱包，然后重试。"

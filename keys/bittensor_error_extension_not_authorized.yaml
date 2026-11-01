@@ -1,0 +1,14 @@
+description: "ur.io Bittensor wallet error (Earnings wallet card and payout consent, sign-in, add sign-in): the browser extension has not allowed the site to use an account yet, so nothing was signed. The user rejected or closed the extension's connect window, has no Polkadot/Bittensor account in the extension, removed the site's accounts in the extension's connected sites, or a connect request is still open in it. Talisman says \"Site <url> has not been authorised for Talisman yet\"; polkadot{.js} and SubWallet say \"The source <url> has not been enabled yet\" or \"is not allowed to interact with this extension\". The argument is the wallet product name (Talisman). \"Connected Sites\" is the extension's settings page that lists the sites allowed to use its accounts: use the extension's own name for it (Talisman: de Verbundene Seiten, es Sitios Conectados, ru Подключенные сайты, zh 连接网站; Talisman has no Arabic, so ar keeps the English name)."
+source: "{wallet} hasn't allowed ur.io to use your Bittensor account yet. Approve the connection request in the wallet, or allow ur.io under Connected Sites in its settings, then try again."
+platforms:
+  - site
+placeholders:
+  - name: wallet
+    type: string
+localizations:
+  ar: "لم يسمح {wallet} بعد لموقع ur.io باستخدام حساب Bittensor الخاص بك. وافق على طلب الاتصال في المحفظة، أو اسمح لموقع ur.io ضمن «Connected Sites» (المواقع المتصلة) في إعداداتها، ثم حاول مرة أخرى."
+  de: "{wallet} hat ur.io noch nicht erlaubt, dein Bittensor-Konto zu verwenden. Bestätige die Verbindungsanfrage in der Wallet oder erlaube ur.io in ihren Einstellungen unter „Verbundene Seiten“ und versuche es dann erneut."
+  en: "{wallet} hasn't allowed ur.io to use your Bittensor account yet. Approve the connection request in the wallet, or allow ur.io under Connected Sites in its settings, then try again."
+  es: "{wallet} todavía no ha permitido que ur.io use tu cuenta de Bittensor. Aprueba la solicitud de conexión en la billetera o permite ur.io en «Sitios Conectados» de su configuración, y vuelve a intentarlo."
+  ru: "В {wallet} еще нет разрешения для ur.io на использование вашего аккаунта Bittensor. Подтвердите запрос на подключение в кошельке или разрешите ur.io в его настройках в разделе «Подключенные сайты», затем повторите попытку."
+  zh: "{wallet} 尚未允许 ur.io 使用您的 Bittensor 账户。请在钱包中批准连接请求，或在其设置的“连接网站”中允许 ur.io，然后重试。"

@@ -5,6 +5,7 @@ platforms:
   - apple
   - windows
   - linux
+  - site
 localizations:
   ar: "انتهت صلاحية طلب WalletConnect قبل أن تستجيب المحفظة. ابدأ من جديد."
   cs: "Požadavek WalletConnect vypršel dříve, než peněženka odpověděla. Začněte znovu."
