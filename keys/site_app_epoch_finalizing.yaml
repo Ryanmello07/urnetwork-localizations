@@ -1,5 +1,7 @@
-description: "App claim: epoch status before finalization"
+description: "App claim: epoch status before finalization. Retired: the site showed it for the SDK's not-finalized status, an epoch the vault had already finalized without a payout; that status now reads sn_status_not_finalized."
 source: "Finalizing"
+deprecated:
+  - site
 platforms:
   - site
 localizations:
