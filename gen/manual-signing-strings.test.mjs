@@ -15,7 +15,6 @@ const FORM = {
 	bittensor_wallet_extension_hint: "Browser extension. Connects directly and asks you to approve.",
 	bittensor_manual_choice: "Sign manually",
 	bittensor_manual_choice_hint: "btcli, or any wallet that can sign a pasted message",
-	bittensor_taocom_not_direct: "The TAO.com extension can't sign on this page yet. Choose another wallet here, or sign manually with btcli.",
 	bittensor_manual_no_popup: "No wallet window opens for this. You sign the message yourself, then paste the signature below.",
 	bittensor_manual_btcli_label: "With btcli",
 	bittensor_manual_btcli_steps:
@@ -54,7 +53,6 @@ test("each is translated, keeping what a reader must type or find", () => {
 		bittensor_manual_btcli_steps: ["btcli", "WSL", " n"],
 		bittensor_manual_signature_help: ["btcli", "signed_message", "Signature:"],
 		bittensor_manual_choice_hint: ["btcli"],
-		bittensor_taocom_not_direct: ["TAO.com", "btcli"],
 		bittensor_error_signature_not_sr25519: ["sr25519", "ed25519", "Ledger"],
 	};
 	for (const id of Object.keys(FORM)) {
