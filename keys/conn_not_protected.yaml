@@ -1,7 +1,10 @@
-description: "Connect page: warning that the internet traffic is not protected."
+description: "Connect page and the out-of-balance or data-limit alert: warning that the internet traffic is not protected, shown when the tunnel is not capturing traffic."
 source: "Your internet traffic is not protected."
 platforms:
+  - android
+  - apple
   - linux
+  - windows
 localizations:
   ar: "حركة الإنترنت لديك غير محمية."
   cs: "Váš internetový provoz není chráněn."
