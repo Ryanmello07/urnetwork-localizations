@@ -1,0 +1,36 @@
+description: "Alert title and status line on the connect screen, and the title of a local notification, when the server refuses a paying account's connection because a data limit was reached (a per-device data cap or the plan's data), not because the account has no balance. Short."
+source: "Data limit reached"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "تم بلوغ حد البيانات"
+  cs: "Dosažen limit dat"
+  de: "Datenlimit erreicht"
+  el: "Συμπληρώθηκε το όριο δεδομένων"
+  en: "Data limit reached"
+  es: "Límite de datos alcanzado"
+  es-419: "Límite de datos alcanzado"
+  es-MX: "Límite de datos alcanzado"
+  fr: "Limite de données atteinte"
+  he: "הגעת למגבלת הנתונים"
+  hi: "डेटा सीमा पूरी हो गई"
+  id: "Batas data tercapai"
+  it: "Limite dati raggiunto"
+  ja: "データ上限に達しました"
+  ko: "데이터 한도에 도달했습니다"
+  nl: "Datalimiet bereikt"
+  pl: "Osiągnięto limit danych"
+  pt: "Limite de dados atingido"
+  pt-BR: "Limite de dados atingido"
+  pt-PT: "Limite de dados atingido"
+  ru: "Достигнут лимит данных"
+  sv: "Datagränsen är nådd"
+  sw: "Kikomo cha data kimefikiwa"
+  th: "ถึงขีดจำกัดข้อมูลแล้ว"
+  uk: "Досягнуто ліміту даних"
+  vi: "Đã đạt giới hạn dữ liệu"
+  zh: "已达到数据上限"
+  zh-HK: "已達到數據上限"
