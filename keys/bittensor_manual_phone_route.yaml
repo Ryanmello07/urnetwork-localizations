@@ -1,0 +1,37 @@
+description: "The phone apps' manual signing sheet: what to do when the wallet can't sign a pasted message. WalletConnect and Nova are product names, and ur.io/app/account/earnings is a web address: keep them as they are."
+source: "If your wallet can't sign a pasted message, go back and choose WalletConnect (Nova and others), or sign at ur.io/app/account/earnings in a computer's browser."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "إذا لم تتمكن محفظتك من توقيع رسالة ملصقة، فارجع واختر WalletConnect (Nova وغيرها)، أو وقّع من خلال ur.io/app/account/earnings في متصفح على الكمبيوتر."
+  cs: "Pokud vaše peněženka neumí podepsat vloženou zprávu, vraťte se a zvolte WalletConnect (Nova a další), nebo podepište na ur.io/app/account/earnings v prohlížeči na počítači."
+  de: "Wenn deine Wallet keine eingefügte Nachricht signieren kann, gehe zurück und wähle WalletConnect (Nova und andere), oder signiere auf ur.io/app/account/earnings im Browser eines Computers."
+  el: "Αν το πορτοφόλι σας δεν μπορεί να υπογράψει επικολλημένο μήνυμα, επιστρέψτε και επιλέξτε WalletConnect (Nova και άλλα) ή υπογράψτε στο ur.io/app/account/earnings από το πρόγραμμα περιήγησης ενός υπολογιστή."
+  en: "If your wallet can't sign a pasted message, go back and choose WalletConnect (Nova and others), or sign at ur.io/app/account/earnings in a computer's browser."
+  es: "Si tu billetera no puede firmar un mensaje pegado, vuelve atrás y elige WalletConnect (Nova y otras), o firma en ur.io/app/account/earnings en el navegador de un ordenador."
+  es-419: "Si tu billetera no puede firmar un mensaje pegado, vuelve atrás y elige WalletConnect (Nova y otras), o firma en ur.io/app/account/earnings en el navegador de una computadora."
+  es-MX: "Si tu cartera no puede firmar un mensaje pegado, regresa y elige WalletConnect (Nova y otras), o firma en ur.io/app/account/earnings en el navegador de una computadora."
+  fr: "Si votre portefeuille ne peut pas signer un message collé, revenez en arrière et choisissez WalletConnect (Nova et d'autres), ou signez sur ur.io/app/account/earnings dans le navigateur d'un ordinateur."
+  he: "אם הארנק שלכם לא יכול לחתום על הודעה מודבקת, חזרו ובחרו ב-WalletConnect (Nova ואחרים), או חתמו ב-ur.io/app/account/earnings בדפדפן של מחשב."
+  hi: "यदि आपका वॉलेट चिपकाए गए संदेश पर हस्ताक्षर नहीं कर सकता, तो वापस जाएँ और WalletConnect (Nova और अन्य) चुनें, या कंप्यूटर के ब्राउज़र में ur.io/app/account/earnings पर हस्ताक्षर करें।"
+  id: "Jika dompet Anda tidak dapat menandatangani pesan yang ditempel, kembali dan pilih WalletConnect (Nova dan lainnya), atau tanda tangani di ur.io/app/account/earnings pada browser komputer."
+  it: "Se il tuo portafoglio non può firmare un messaggio incollato, torna indietro e scegli WalletConnect (Nova e altri), oppure firma su ur.io/app/account/earnings nel browser di un computer."
+  ja: "ウォレットが貼り付けたメッセージに署名できない場合は、戻って WalletConnect（Nova など）を選ぶか、コンピューターのブラウザで ur.io/app/account/earnings から署名してください。"
+  ko: "지갑에서 붙여 넣은 메시지에 서명할 수 없다면 뒤로 돌아가 WalletConnect(Nova 등)를 선택하거나, 컴퓨터 브라우저의 ur.io/app/account/earnings에서 서명하세요."
+  nl: "Kan je wallet geen geplakt bericht ondertekenen, ga dan terug en kies WalletConnect (Nova en andere), of onderteken op ur.io/app/account/earnings in de browser van een computer."
+  pl: "Jeśli Twój portfel nie może podpisać wklejonej wiadomości, wróć i wybierz WalletConnect (Nova i inne) albo podpisz na ur.io/app/account/earnings w przeglądarce na komputerze."
+  pt: "Se a sua carteira não conseguir assinar uma mensagem colada, volte atrás e escolha WalletConnect (Nova e outras) ou assine em ur.io/app/account/earnings no navegador de um computador."
+  pt-BR: "Se sua carteira não puder assinar uma mensagem colada, volte e escolha WalletConnect (Nova e outras) ou assine em ur.io/app/account/earnings no navegador de um computador."
+  pt-PT: "Se a sua carteira não conseguir assinar uma mensagem colada, volte atrás e escolha WalletConnect (Nova e outras) ou assine em ur.io/app/account/earnings no navegador de um computador."
+  ru: "Если ваш кошелек не может подписать вставленное сообщение, вернитесь и выберите WalletConnect (Nova и другие) или подпишите на ur.io/app/account/earnings в браузере на компьютере."
+  sv: "Om din plånbok inte kan signera ett inklistrat meddelande, gå tillbaka och välj WalletConnect (Nova med flera), eller signera på ur.io/app/account/earnings i en webbläsare på en dator."
+  sw: "Ikiwa pochi yako haiwezi kusaini ujumbe uliobandikwa, rudi nyuma uchague WalletConnect (Nova na nyingine), au saini kwenye ur.io/app/account/earnings katika kivinjari cha kompyuta."
+  th: "หากกระเป๋าเงินของคุณลงนามข้อความที่วางไม่ได้ ให้ย้อนกลับแล้วเลือก WalletConnect (Nova และอื่น ๆ) หรือลงนามที่ ur.io/app/account/earnings ในเบราว์เซอร์บนคอมพิวเตอร์"
+  uk: "Якщо ваш гаманець не може підписати вставлене повідомлення, поверніться й виберіть WalletConnect (Nova та інші) або підпишіть на ur.io/app/account/earnings у браузері на комп'ютері."
+  vi: "Nếu ví của bạn không thể ký tin nhắn đã dán, hãy quay lại và chọn WalletConnect (Nova và các ví khác), hoặc ký tại ur.io/app/account/earnings trong trình duyệt trên máy tính."
+  zh: "如果您的钱包无法对粘贴的消息签名，请返回并选择 WalletConnect（Nova 等），或在电脑浏览器中前往 ur.io/app/account/earnings 签名。"
+  zh-HK: "如果你的錢包無法為貼上的訊息簽名，請返回並選擇 WalletConnect（Nova 等），或在電腦瀏覽器中前往 ur.io/app/account/earnings 簽名。"
