@@ -1,0 +1,36 @@
+description: "Win-back email W1 (offer) preheader. {offer_expires_at} is a localized date and time: the real end of the offer, enforced by the store or checkout."
+source: "Pro on the monthly plan, until {offer_expires_at}."
+platforms:
+  - email
+placeholders:
+  - name: offer_expires_at
+    type: string
+localizations:
+  en: "Pro on the monthly plan, until {offer_expires_at}."
+  ar: "خطة Pro الشهرية، حتى {offer_expires_at}."
+  cs: "Měsíční předplatné Pro, platí do {offer_expires_at}."
+  de: "Pro im Monatsabo, gültig bis {offer_expires_at}."
+  el: "Pro με το μηνιαίο πρόγραμμα, ισχύει μέχρι {offer_expires_at}."
+  es: "Pro en el plan mensual, hasta {offer_expires_at}."
+  es-419: "Pro en el plan mensual, hasta {offer_expires_at}."
+  es-MX: "Pro en el plan mensual, hasta {offer_expires_at}."
+  fr: "Pro avec l'abonnement mensuel, jusqu'au {offer_expires_at}."
+  he: "תוכנית Pro החודשית, עד {offer_expires_at}."
+  hi: "मासिक योजना पर Pro, {offer_expires_at} तक।"
+  id: "Pro dengan paket bulanan, sampai {offer_expires_at}."
+  it: "Pro con il piano mensile, fino al {offer_expires_at}."
+  ja: "月払いプランの Pro、{offer_expires_at} まで。"
+  ko: "월간 플랜 Pro, {offer_expires_at}까지."
+  nl: "Pro met maandabonnement, beschikbaar tot {offer_expires_at}."
+  pl: "Pro w planie miesięcznym, dostępne do {offer_expires_at}."
+  pt: "Pro no plano mensal, até {offer_expires_at}."
+  pt-BR: "Pro no plano mensal, até {offer_expires_at}."
+  pt-PT: "Pro no plano mensal, até {offer_expires_at}."
+  ru: "Pro на месячном тарифе, действует до {offer_expires_at}."
+  sv: "Pro med månadsabonnemang, gäller till {offer_expires_at}."
+  sw: "Pro kwenye mpango wa kila mwezi, hadi {offer_expires_at}."
+  th: "Pro แพ็กเกจรายเดือน ใช้ได้ถึง {offer_expires_at}"
+  uk: "Pro зі щомісячною підпискою, діє до {offer_expires_at}."
+  vi: "Pro theo gói hằng tháng, đến {offer_expires_at}."
+  zh: "按月方案的 Pro，截至 {offer_expires_at}。"
+  zh-HK: "按月計劃的 Pro，截至 {offer_expires_at}。"

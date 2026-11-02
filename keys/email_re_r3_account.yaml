@@ -1,0 +1,36 @@
+description: "Re-engagement email R3: reassurance that nothing about the account changes. {daily_data_gb} e.g. \"30 GB\"."
+source: "Your account stays as it is, with {daily_data_gb} of free data every day whenever you come back."
+platforms:
+  - email
+placeholders:
+  - name: daily_data_gb
+    type: string
+localizations:
+  en: "Your account stays as it is, with {daily_data_gb} of free data every day whenever you come back."
+  ar: "يبقى حسابك كما هو، مع {daily_data_gb} من البيانات المجانية كل يوم متى عدت."
+  cs: "Váš účet zůstává tak, jak je, s {daily_data_gb} dat zdarma každý den, kdykoli se vrátíte."
+  de: "Dein Konto bleibt, wie es ist, mit {daily_data_gb} kostenlosem Datenvolumen pro Tag, wann immer du zurückkommst."
+  el: "Ο λογαριασμός σου μένει ως έχει, με {daily_data_gb} δωρεάν δεδομένα κάθε μέρα, όποτε κι αν επιστρέψεις."
+  es: "Tu cuenta sigue igual, con {daily_data_gb} de datos gratis cada día cuando quieras volver."
+  es-419: "Tu cuenta sigue igual, con {daily_data_gb} de datos gratis cada día cuando quieras volver."
+  es-MX: "Tu cuenta sigue igual, con {daily_data_gb} de datos gratis cada día cuando quieras volver."
+  fr: "Ton compte reste tel quel, avec {daily_data_gb} de données gratuites chaque jour, quand tu voudras revenir."
+  he: "החשבון שלכם נשאר כמו שהוא, עם {daily_data_gb} של נתונים בחינם בכל יום, מתי שתחזרו."
+  hi: "आपका खाता जैसा है वैसा ही रहेगा, और जब भी आप लौटें, हर दिन {daily_data_gb} मुफ़्त डेटा मिलेगा।"
+  id: "Akunmu tetap seperti sekarang, dengan {daily_data_gb} data gratis setiap hari kapan pun kamu kembali."
+  it: "Il tuo account resta com'è, con {daily_data_gb} di dati gratis ogni giorno quando vorrai tornare."
+  ja: "アカウントはそのまま残ります。いつ戻ってきても、毎日 {daily_data_gb} の無料データが使えます。"
+  ko: "계정은 그대로 유지되며, 언제 돌아오시든 매일 {daily_data_gb}의 무료 데이터를 쓸 수 있습니다."
+  nl: "Je account blijft zoals het is, met elke dag {daily_data_gb} gratis data, wanneer je ook terugkomt."
+  pl: "Twoje konto pozostaje bez zmian, z {daily_data_gb} darmowych danych dziennie, kiedykolwiek wrócisz."
+  pt: "Sua conta continua como está, com {daily_data_gb} de dados grátis todo dia quando você quiser voltar."
+  pt-BR: "Sua conta continua como está, com {daily_data_gb} de dados grátis todo dia quando você quiser voltar."
+  pt-PT: "A sua conta mantém-se como está, com {daily_data_gb} de dados grátis todos os dias quando quiser voltar."
+  ru: "Ваш аккаунт остаётся как есть, с {daily_data_gb} бесплатного трафика каждый день, когда бы вы ни вернулись."
+  sv: "Ditt konto förblir som det är, med {daily_data_gb} gratis data varje dag när du än kommer tillbaka."
+  sw: "Akaunti yako inabaki kama ilivyo, na {daily_data_gb} za data bila malipo kila siku wakati wowote utakaporudi."
+  th: "บัญชีของคุณยังคงอยู่เหมือนเดิม พร้อมข้อมูลฟรี {daily_data_gb} ทุกวันเมื่อไรก็ตามที่คุณกลับมา"
+  uk: "Ваш акаунт залишається як є, з {daily_data_gb} безкоштовного трафіку щодня, хоч би коли ви повернулися."
+  vi: "Tài khoản của bạn vẫn giữ nguyên, với {daily_data_gb} dữ liệu miễn phí mỗi ngày bất cứ khi nào bạn quay lại."
+  zh: "你的账户会保持原样，无论你什么时候回来，每天都有 {daily_data_gb} 的免费流量。"
+  zh-HK: "你的帳戶會保持原樣，無論你什麼時候回來，每天都有 {daily_data_gb} 的免費流量。"

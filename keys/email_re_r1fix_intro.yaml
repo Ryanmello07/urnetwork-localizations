@@ -1,0 +1,36 @@
+description: "Re-engagement email R1 (fix follow-up) opening. {reason_date} is a localized date, e.g. \"Oct 3\". The list of changes follows."
+source: "On {reason_date} you told me URnetwork didn't work for you. Thank you for saying so. A new version of the app has come out since, and this is what it changes:"
+platforms:
+  - email
+placeholders:
+  - name: reason_date
+    type: string
+localizations:
+  en: "On {reason_date} you told me URnetwork didn't work for you. Thank you for saying so. A new version of the app has come out since, and this is what it changes:"
+  ar: "في {reason_date} أخبرتني أن URnetwork لم يعمل معك. شكراً لإخباري بذلك. صدر منذ ذلك الحين إصدار جديد من التطبيق، وهذا ما يغيّره:"
+  cs: "{reason_date} jste mi dali vědět, že vám URnetwork nefungoval. Díky, že jste se ozvali. Od té doby vyšla nová verze aplikace a tohle mění:"
+  de: "Am {reason_date} hast du mir gesagt, dass URnetwork bei dir nicht funktioniert hat. Danke, dass du Bescheid gesagt hast. Seitdem ist eine neue Version der App erschienen, und das ändert sie:"
+  el: "Στις {reason_date} μου είπες ότι το URnetwork δεν δούλεψε για σένα. Σε ευχαριστώ που το ανέφερες. Από τότε κυκλοφόρησε νέα έκδοση της εφαρμογής, και να τι αλλάζει:"
+  es: "El {reason_date} me dijiste que URnetwork no te funcionaba. Gracias por decírmelo. Desde entonces ha salido una nueva versión de la app, y esto es lo que cambia:"
+  es-419: "El {reason_date} me dijiste que URnetwork no te funcionaba. Gracias por decírmelo. Desde entonces ha salido una nueva versión de la app, y esto es lo que cambia:"
+  es-MX: "El {reason_date} me dijiste que URnetwork no te funcionaba. Gracias por decírmelo. Desde entonces ha salido una nueva versión de la app, y esto es lo que cambia:"
+  fr: "Le {reason_date}, tu m'as dit qu'URnetwork ne fonctionnait pas chez toi. Merci de me l'avoir dit. Une nouvelle version de l'app est sortie depuis, et voici ce qu'elle change :"
+  he: "ב-{reason_date} סיפרתם לי ש-URnetwork לא עבד אצלכם. תודה שאמרתם. מאז יצאה גרסה חדשה של האפליקציה, וזה מה שהיא משנה:"
+  hi: "{reason_date} को आपने मुझे बताया था कि URnetwork आपके लिए काम नहीं कर रहा था। यह बताने के लिए धन्यवाद। तब से ऐप का नया संस्करण आ चुका है, और उसमें ये बदलाव हैं:"
+  id: "Pada {reason_date} kamu memberi tahu saya bahwa URnetwork tidak berfungsi untukmu. Terima kasih sudah menyampaikannya. Sejak itu sudah keluar versi baru aplikasi, dan inilah yang diubahnya:"
+  it: "Il {reason_date} mi hai detto che URnetwork non ti funzionava. Grazie per avermelo detto. Da allora è uscita una nuova versione dell'app, ed ecco cosa cambia:"
+  ja: "{reason_date} に、URnetwork がうまく動かなかったと教えていただきました。伝えてくださって、ありがとうございます。その後、アプリの新しいバージョンが出ました。変わったのは次の点です："
+  ko: "{reason_date}에 URnetwork가 작동하지 않았다고 알려 주셨죠. 말씀해 주셔서 감사합니다. 그 뒤로 새 버전의 앱이 나왔고, 바뀐 점은 다음과 같습니다:"
+  nl: "Op {reason_date} vertelde je me dat URnetwork bij jou niet werkte. Bedankt dat je het liet weten. Sindsdien is er een nieuwe versie van de app uitgekomen, en dit is wat die verandert:"
+  pl: "{reason_date} dałeś mi znać, że URnetwork u ciebie nie działał. Dzięki za informację. Od tamtej pory wyszła nowa wersja aplikacji, a oto, co zmienia:"
+  pt: "Em {reason_date} você me disse que a URnetwork não estava funcionando para você. Obrigado por me contar. Desde então saiu uma nova versão do app, e é isto que ela muda:"
+  pt-BR: "Em {reason_date} você me disse que a URnetwork não estava funcionando para você. Obrigado por me contar. Desde então saiu uma nova versão do app, e é isto que ela muda:"
+  pt-PT: "A {reason_date} disse-me que a URnetwork não estava a funcionar no seu caso. Obrigado por me dizer. Desde então saiu uma nova versão da app, e é isto que ela muda:"
+  ru: "{reason_date} вы сказали мне, что URnetwork у вас не работала. Спасибо, что сообщили. С тех пор вышла новая версия приложения, и вот что она меняет:"
+  sv: "Den {reason_date} sa du att URnetwork inte fungerade för dig. Tack för att du sa till. Sedan dess har en ny version av appen kommit ut, och det här är vad den ändrar:"
+  sw: "Mnamo {reason_date} uliniambia kuwa URnetwork haikukufanyia kazi. Asante kwa kuniambia. Toleo jipya la programu limetoka tangu wakati huo, na haya ndiyo linayobadilisha:"
+  th: "เมื่อ {reason_date} คุณบอกผมว่า URnetwork ใช้งานไม่ได้สำหรับคุณ ขอบคุณที่บอกให้ทราบ ตั้งแต่นั้นแอปมีเวอร์ชันใหม่ออกมาแล้ว และนี่คือสิ่งที่เปลี่ยนไป:"
+  uk: "{reason_date} ви сказали мені, що URnetwork у вас не працювала. Дякую, що повідомили. Відтоді вийшла нова версія застосунку, і ось що вона змінює:"
+  vi: "Vào {reason_date}, bạn cho tôi biết URnetwork không hoạt động với bạn. Cảm ơn bạn đã nói ra. Từ đó đến nay đã có phiên bản mới của ứng dụng, và đây là những gì nó thay đổi:"
+  zh: "你在 {reason_date} 告诉我，URnetwork 在你那里用不了。谢谢你说出来。之后应用推出了新版本，下面是它带来的变化："
+  zh-HK: "你在 {reason_date} 告訴我，URnetwork 在你那裡用不了。謝謝你說出來。之後應用程式推出了新版本，以下是它帶來的改變："

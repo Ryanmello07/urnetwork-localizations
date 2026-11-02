@@ -1,0 +1,36 @@
+description: "Win-back email W1 (offer): the comeback offer and its real deadline. No amounts: the store or checkout shows the exact local price before payment."
+source: "If you'd like Pro back, your first month on the monthly plan is half price until {offer_expires_at}. After that it's the regular monthly price, and you can cancel anytime."
+platforms:
+  - email
+placeholders:
+  - name: offer_expires_at
+    type: string
+localizations:
+  en: "If you'd like Pro back, your first month on the monthly plan is half price until {offer_expires_at}. After that it's the regular monthly price, and you can cancel anytime."
+  ar: "إذا أردت استعادة Pro، فشهرك الأول على الخطة الشهرية بنصف السعر حتى {offer_expires_at}. بعد ذلك يُطبَّق السعر الشهري المعتاد، ويمكنك الإلغاء في أي وقت."
+  cs: "Pokud chcete Pro zpátky, do {offer_expires_at} máte první měsíc měsíčního předplatného za poloviční cenu. Pak platí běžná měsíční cena a zrušit můžete kdykoli."
+  de: "Wenn du Pro zurückhaben möchtest: Bis {offer_expires_at} bekommst du deinen ersten Monat im Monatsabo zum halben Preis. Danach gilt der reguläre Monatspreis, und du kannst jederzeit kündigen."
+  el: "Αν θέλεις πίσω το Pro, μέχρι {offer_expires_at} ο πρώτος σου μήνας στο μηνιαίο πρόγραμμα κοστίζει τη μισή τιμή. Μετά ισχύει η κανονική μηνιαία τιμή, και μπορείς να ακυρώσεις οποιαδήποτε στιγμή."
+  es: "Si quieres recuperar Pro, tu primer mes en el plan mensual cuesta la mitad hasta {offer_expires_at}. Después pasa al precio mensual normal, y puedes cancelar cuando quieras."
+  es-419: "Si quieres recuperar Pro, tu primer mes en el plan mensual cuesta la mitad hasta {offer_expires_at}. Después pasa al precio mensual normal, y puedes cancelar cuando quieras."
+  es-MX: "Si quieres recuperar Pro, tu primer mes en el plan mensual cuesta la mitad hasta {offer_expires_at}. Después pasa al precio mensual normal, y puedes cancelar cuando quieras."
+  fr: "Si tu veux retrouver Pro, ton premier mois avec l'abonnement mensuel est à moitié prix jusqu'au {offer_expires_at}. Ensuite, c'est le prix mensuel habituel, et tu peux annuler à tout moment."
+  he: "אם תרצו את Pro בחזרה, החודש הראשון שלכם בתוכנית החודשית הוא בחצי מחיר עד {offer_expires_at}. אחר כך חל המחיר החודשי הרגיל, ואפשר לבטל בכל עת."
+  hi: "अगर आप Pro वापस चाहते हैं, तो {offer_expires_at} तक मासिक योजना पर आपका पहला महीना आधी कीमत पर है। उसके बाद सामान्य मासिक कीमत लगेगी, और आप कभी भी रद्द कर सकते हैं।"
+  id: "Kalau kamu ingin kembali ke Pro, bulan pertamamu di paket bulanan setengah harga sampai {offer_expires_at}. Setelah itu berlaku harga bulanan biasa, dan kamu bisa membatalkan kapan saja."
+  it: "Se vuoi riavere Pro, il tuo primo mese sul piano mensile è a metà prezzo fino al {offer_expires_at}. Dopo si passa al prezzo mensile normale, e puoi annullare quando vuoi."
+  ja: "Pro をまた使いたい場合は、{offer_expires_at} までなら、月払いプランの最初の1か月が半額になります。その後は通常の月額料金で、いつでもキャンセルできます。"
+  ko: "Pro를 다시 이용하고 싶으시다면, {offer_expires_at}까지 월간 플랜의 첫 달이 반값입니다. 그다음부터는 정상 월 요금이 적용되며, 언제든 취소할 수 있습니다."
+  nl: "Als je Pro terug wilt, krijg je tot {offer_expires_at} je eerste maand met het maandabonnement voor de halve prijs. Daarna betaal je de normale maandprijs, en je kunt altijd opzeggen."
+  pl: "Jeśli chcesz wrócić do Pro, do {offer_expires_at} pierwszy miesiąc w planie miesięcznym kosztuje połowę ceny. Potem obowiązuje zwykła cena miesięczna, a anulować możesz w każdej chwili."
+  pt: "Se quiser o Pro de volta, seu primeiro mês no plano mensal sai pela metade do preço até {offer_expires_at}. Depois disso, é o preço mensal normal, e você pode cancelar quando quiser."
+  pt-BR: "Se quiser o Pro de volta, seu primeiro mês no plano mensal sai pela metade do preço até {offer_expires_at}. Depois disso, é o preço mensal normal, e você pode cancelar quando quiser."
+  pt-PT: "Se quiser o Pro de volta, o seu primeiro mês no plano mensal custa metade do preço até {offer_expires_at}. Depois disso, passa ao preço mensal normal, e pode cancelar quando quiser."
+  ru: "Если хотите вернуть Pro, до {offer_expires_at} первый месяц на месячном тарифе стоит вдвое дешевле. Затем действует обычная месячная цена, и отменить можно в любое время."
+  sv: "Om du vill ha tillbaka Pro får du fram till {offer_expires_at} din första månad med månadsabonnemang till halva priset. Därefter gäller ordinarie månadspris, och du kan avsluta när som helst."
+  sw: "Ikiwa ungependa kurudisha Pro, mwezi wako wa kwanza kwenye mpango wa kila mwezi ni nusu bei hadi {offer_expires_at}. Baada ya hapo ni bei ya kawaida ya kila mwezi, na unaweza kughairi wakati wowote."
+  th: "ถ้าคุณอยากกลับมาใช้ Pro เดือนแรกของคุณในแพ็กเกจรายเดือนจะลดครึ่งราคาจนถึง {offer_expires_at} หลังจากนั้นเป็นราคารายเดือนปกติ และคุณยกเลิกได้ทุกเมื่อ"
+  uk: "Якщо хочете повернути Pro, до {offer_expires_at} перший місяць щомісячної підписки коштує вдвічі менше. Потім діє звичайна місячна ціна, і скасувати можна будь-коли."
+  vi: "Nếu bạn muốn dùng lại Pro, tháng đầu tiên của bạn trên gói hằng tháng được giảm nửa giá cho đến {offer_expires_at}. Sau đó là giá hằng tháng thông thường, và bạn có thể hủy bất cứ lúc nào."
+  zh: "如果你想重新用 Pro，在 {offer_expires_at} 之前，按月方案的首月半价。之后按常规月费计费，你可以随时取消。"
+  zh-HK: "如果你想重新用 Pro，在 {offer_expires_at} 之前，按月計劃的首月半價。之後按正常月費收費，你可以隨時取消。"

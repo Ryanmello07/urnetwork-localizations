@@ -1,0 +1,36 @@
+description: "Re-engagement emails: reminder of the free daily data. {daily_data_gb} is preformatted, e.g. \"30 GB\"."
+source: "Your free plan hasn't changed: {daily_data_gb} of data every day."
+platforms:
+  - email
+placeholders:
+  - name: daily_data_gb
+    type: string
+localizations:
+  en: "Your free plan hasn't changed: {daily_data_gb} of data every day."
+  ar: "خطتك المجانية لم تتغيّر: {daily_data_gb} من البيانات كل يوم."
+  cs: "Váš bezplatný plán se nezměnil: každý den {daily_data_gb} dat."
+  de: "Dein kostenloser Tarif ist unverändert: jeden Tag {daily_data_gb} Datenvolumen."
+  el: "Το δωρεάν πρόγραμμά σου δεν έχει αλλάξει: {daily_data_gb} δεδομένα κάθε μέρα."
+  es: "Tu plan gratuito no ha cambiado: {daily_data_gb} de datos cada día."
+  es-419: "Tu plan gratuito no ha cambiado: {daily_data_gb} de datos cada día."
+  es-MX: "Tu plan gratuito no ha cambiado: {daily_data_gb} de datos cada día."
+  fr: "Ton offre gratuite n'a pas changé : {daily_data_gb} de données chaque jour."
+  he: "התוכנית החינמית שלכם לא השתנתה: {daily_data_gb} של נתונים בכל יום."
+  hi: "आपकी मुफ़्त योजना नहीं बदली है: हर दिन {daily_data_gb} डेटा।"
+  id: "Paket gratismu tidak berubah: {daily_data_gb} data setiap hari."
+  it: "Il tuo piano gratuito non è cambiato: {daily_data_gb} di dati ogni giorno."
+  ja: "無料プランは変わっていません。毎日 {daily_data_gb} のデータが使えます。"
+  ko: "무료 플랜은 그대로입니다. 매일 {daily_data_gb}의 데이터가 제공됩니다."
+  nl: "Je gratis abonnement is niet veranderd: elke dag {daily_data_gb} data."
+  pl: "Twój darmowy plan się nie zmienił: codziennie {daily_data_gb} danych."
+  pt: "Seu plano gratuito não mudou: {daily_data_gb} de dados todo dia."
+  pt-BR: "Seu plano gratuito não mudou: {daily_data_gb} de dados todo dia."
+  pt-PT: "O seu plano gratuito não mudou: {daily_data_gb} de dados todos os dias."
+  ru: "Ваш бесплатный тариф не изменился: {daily_data_gb} трафика каждый день."
+  sv: "Din gratisplan har inte ändrats: {daily_data_gb} data varje dag."
+  sw: "Mpango wako wa bure haujabadilika: {daily_data_gb} za data kila siku."
+  th: "แพ็กเกจฟรีของคุณยังเหมือนเดิม: ข้อมูล {daily_data_gb} ทุกวัน"
+  uk: "Ваш безкоштовний план не змінився: {daily_data_gb} трафіку щодня."
+  vi: "Gói miễn phí của bạn không thay đổi: {daily_data_gb} dữ liệu mỗi ngày."
+  zh: "你的免费方案没有变：每天 {daily_data_gb} 流量。"
+  zh-HK: "你的免費方案沒有變：每天 {daily_data_gb} 流量。"

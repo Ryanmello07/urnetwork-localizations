@@ -1,0 +1,36 @@
+description: "Re-engagement email N1: the free plan. {daily_data_gb} e.g. \"30 GB\"."
+source: "It stays free: {daily_data_gb} of data every day, no card needed."
+platforms:
+  - email
+placeholders:
+  - name: daily_data_gb
+    type: string
+localizations:
+  en: "It stays free: {daily_data_gb} of data every day, no card needed."
+  ar: "يبقى مجانياً: {daily_data_gb} من البيانات كل يوم، دون الحاجة إلى بطاقة."
+  cs: "Zůstává to zdarma: každý den {daily_data_gb} dat a karta není potřeba."
+  de: "Es bleibt kostenlos: jeden Tag {daily_data_gb} Datenvolumen, keine Karte nötig."
+  el: "Παραμένει δωρεάν: {daily_data_gb} δεδομένα κάθε μέρα, χωρίς να χρειάζεται κάρτα."
+  es: "Sigue siendo gratis: {daily_data_gb} de datos cada día, sin necesidad de tarjeta."
+  es-419: "Sigue siendo gratis: {daily_data_gb} de datos cada día, sin necesidad de tarjeta."
+  es-MX: "Sigue siendo gratis: {daily_data_gb} de datos cada día, sin necesidad de tarjeta."
+  fr: "Ça reste gratuit : {daily_data_gb} de données chaque jour, sans carte bancaire."
+  he: "זה נשאר בחינם: {daily_data_gb} של נתונים בכל יום, בלי צורך בכרטיס אשראי."
+  hi: "यह मुफ़्त ही रहता है: हर दिन {daily_data_gb} डेटा, किसी कार्ड की ज़रूरत नहीं।"
+  id: "Tetap gratis: {daily_data_gb} data setiap hari, tanpa perlu kartu."
+  it: "Resta gratis: {daily_data_gb} di dati ogni giorno, senza bisogno di una carta."
+  ja: "無料のままです。毎日 {daily_data_gb} のデータが使えて、カードも不要です。"
+  ko: "계속 무료입니다. 매일 {daily_data_gb}의 데이터를 쓸 수 있고, 카드도 필요 없습니다."
+  nl: "Het blijft gratis: elke dag {daily_data_gb} data, geen kaart nodig."
+  pl: "Nadal za darmo: codziennie {daily_data_gb} danych, karta nie jest potrzebna."
+  pt: "Continua grátis: {daily_data_gb} de dados todo dia, sem precisar de cartão."
+  pt-BR: "Continua grátis: {daily_data_gb} de dados todo dia, sem precisar de cartão."
+  pt-PT: "Continua grátis: {daily_data_gb} de dados todos os dias, sem precisar de cartão."
+  ru: "Это по-прежнему бесплатно: {daily_data_gb} трафика каждый день, карта не нужна."
+  sv: "Det förblir gratis: {daily_data_gb} data varje dag, inget kort behövs."
+  sw: "Inabaki bila malipo: {daily_data_gb} za data kila siku, bila kuhitaji kadi."
+  th: "ยังคงฟรี: ข้อมูล {daily_data_gb} ทุกวัน ไม่ต้องใช้บัตร"
+  uk: "Це й надалі безкоштовно: {daily_data_gb} трафіку щодня, картка не потрібна."
+  vi: "Vẫn miễn phí: {daily_data_gb} dữ liệu mỗi ngày, không cần thẻ."
+  zh: "它依然免费：每天 {daily_data_gb} 流量，无需银行卡。"
+  zh-HK: "它依然免費：每天 {daily_data_gb} 流量，無需信用卡。"

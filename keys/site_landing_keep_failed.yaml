@@ -1,0 +1,11 @@
+description: "Email landing page for the re-engagement \"Keep me posted\" button: shown when the choice could not be recorded; replying to the email is the fallback."
+source: "That didn't go through. Reply to the email and we'll keep you on the list."
+platforms:
+- site
+localizations:
+  ar: "لم يكتمل ذلك. ردّ على الرسالة وسنُبقيك على القائمة."
+  de: "Das hat nicht geklappt. Antworte auf die E-Mail, dann bleibst du auf der Liste."
+  en: "That didn't go through. Reply to the email and we'll keep you on the list."
+  es: "No se pudo completar. Responde al correo y te mantendremos en la lista."
+  ru: "Не получилось. Ответьте на письмо, и мы оставим вас в списке."
+  zh: "没有成功。回复那封邮件，我们会把你留在名单上。"

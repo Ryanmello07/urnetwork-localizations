@@ -1,0 +1,36 @@
+description: "Re-engagement email R1 opening line. {last_connect_date} is a localized date, e.g. \"Sep 28\"."
+source: "You last connected on {last_connect_date}."
+platforms:
+  - email
+placeholders:
+  - name: last_connect_date
+    type: string
+localizations:
+  en: "You last connected on {last_connect_date}."
+  ar: "آخر مرة اتصلت فيها كانت في {last_connect_date}."
+  cs: "Naposledy jste se připojili {last_connect_date}."
+  de: "Du hast dich zuletzt am {last_connect_date} verbunden."
+  el: "Συνδέθηκες τελευταία φορά στις {last_connect_date}."
+  es: "Te conectaste por última vez el {last_connect_date}."
+  es-419: "Te conectaste por última vez el {last_connect_date}."
+  es-MX: "Te conectaste por última vez el {last_connect_date}."
+  fr: "Ta dernière connexion date du {last_connect_date}."
+  he: "התחברתם בפעם האחרונה ב-{last_connect_date}."
+  hi: "आपने आख़िरी बार {last_connect_date} को कनेक्ट किया था।"
+  id: "Terakhir kali kamu terhubung pada {last_connect_date}."
+  it: "La tua ultima connessione risale al {last_connect_date}."
+  ja: "最後に接続したのは {last_connect_date} でした。"
+  ko: "{last_connect_date}에 마지막으로 연결하셨습니다."
+  nl: "Je hebt voor het laatst verbinding gemaakt op {last_connect_date}."
+  pl: "Ostatni raz połączyłeś się {last_connect_date}."
+  pt: "Sua última conexão foi em {last_connect_date}."
+  pt-BR: "Sua última conexão foi em {last_connect_date}."
+  pt-PT: "A sua última ligação foi a {last_connect_date}."
+  ru: "В последний раз вы подключались {last_connect_date}."
+  sv: "Du anslöt senast den {last_connect_date}."
+  sw: "Uliunganisha mara ya mwisho mnamo {last_connect_date}."
+  th: "คุณเชื่อมต่อครั้งล่าสุดเมื่อ {last_connect_date}"
+  uk: "Востаннє ви підключалися {last_connect_date}."
+  vi: "Lần cuối bạn kết nối là vào {last_connect_date}."
+  zh: "你上一次连接是在 {last_connect_date}。"
+  zh-HK: "你上一次連接是在 {last_connect_date}。"
