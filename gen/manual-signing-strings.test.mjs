@@ -37,10 +37,13 @@ const FORM = {
 };
 
 // the words the phone apps' manual sheet shares with the site, and its own, in
-// every locale: on a phone neither Talisman nor TAO.com has a way to sign directly
+// every locale: on a phone neither Talisman nor TAO.com has a way to sign directly.
+// No desktop tags: on Windows and Linux every chooser wallet opens the bridge page,
+// so neither app looks these up, and its catalog test fails on a tag nothing looks up
 const SHARED_WITH_APPS = ["bittensor_manual_choice", "bittensor_manual_no_popup"];
 const PHONE_ROUTE = "If your wallet can't sign a pasted message, go back and choose WalletConnect (Nova and others), or sign at ur.io/app/account/earnings in a computer's browser.";
-const TAGGED_FOR_APPS = ["android", "apple", "windows", "linux", "site"];
+const SHARED_TAGS = ["android", "apple", "site"];
+const PHONE_ROUTE_TAGS = ["android", "apple"];
 
 test("the form's strings carry their English, are tagged for the site, and have the site's locales", () => {
 	for (const [id, en] of Object.entries(FORM)) {
@@ -49,7 +52,7 @@ test("the form's strings carry their English, are tagged for the site, and have 
 		assert.equal(k.localizations.en, en, id);
 		assert.equal(k.source, en, `${id}: source is the English`);
 		const shared = SHARED_WITH_APPS.includes(id);
-		assert.deepEqual(k.platforms, shared ? TAGGED_FOR_APPS : ["site"], id);
+		assert.deepEqual(k.platforms, shared ? SHARED_TAGS : ["site"], id);
 		assert.deepEqual(Object.keys(k.localizations).sort(), [...(shared ? LOCALES : SITE_LOCALES)].sort(), id);
 	}
 });
@@ -58,7 +61,7 @@ test("the phone sheet's way out is in every locale, with what a reader must find
 	const k = keys.get("bittensor_manual_phone_route");
 	assert.equal(k.localizations.en, PHONE_ROUTE);
 	assert.equal(k.source, PHONE_ROUTE);
-	assert.deepEqual(k.platforms, TAGGED_FOR_APPS);
+	assert.deepEqual(k.platforms, PHONE_ROUTE_TAGS);
 	assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort());
 	for (const [l, v] of Object.entries(k.localizations)) {
 		for (const word of ["WalletConnect", "Nova", "ur.io/app/account/earnings"]) assert.ok(v.includes(word), `[${l}] keeps ${word}: ${v}`);
