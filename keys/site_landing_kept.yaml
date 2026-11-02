@@ -1,0 +1,11 @@
+description: "Email landing page for the re-engagement \"Keep me posted\" button: shown once the choice is recorded. Nothing opens; the page stays."
+source: "Thanks. You'll keep getting an occasional note from us."
+platforms:
+- site
+localizations:
+  ar: "شكرًا. ستستمر في تلقّي رسالة منا بين الحين والآخر."
+  de: "Danke. Du bekommst weiterhin ab und zu eine Nachricht von uns."
+  en: "Thanks. You'll keep getting an occasional note from us."
+  es: "Gracias. Seguirás recibiendo un mensaje nuestro de vez en cuando."
+  ru: "Спасибо. Мы будем иногда присылать вам письма."
+  zh: "谢谢。我们会不时给你发来消息。"

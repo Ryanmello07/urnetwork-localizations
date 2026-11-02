@@ -1,0 +1,36 @@
+description: "Re-engagement email R2 opening, before the one-tap reason buttons. {last_connect_date} is a localized date."
+source: "You haven't connected since {last_connect_date}. That's fine: most people use a VPN when they need one. If something made you stop, one tap tells me what:"
+platforms:
+  - email
+placeholders:
+  - name: last_connect_date
+    type: string
+localizations:
+  en: "You haven't connected since {last_connect_date}. That's fine: most people use a VPN when they need one. If something made you stop, one tap tells me what:"
+  ar: "لم تتصل منذ {last_connect_date}. لا بأس: معظم الناس يستخدمون VPN عندما يحتاجون إليه. إذا كان هناك ما جعلك تتوقف، فضغطة واحدة تخبرني ما هو:"
+  cs: "Od {last_connect_date} jste se nepřipojili. To je v pořádku: většina lidí používá VPN, když ji potřebuje. Pokud vás něco přimělo přestat, jedním klepnutím mi řeknete co:"
+  de: "Du hast dich seit dem {last_connect_date} nicht mehr verbunden. Das ist in Ordnung: Die meisten nutzen ein VPN, wenn sie eins brauchen. Wenn dich etwas zum Aufhören gebracht hat, sag es mir mit einem Tipp:"
+  el: "Δεν έχεις συνδεθεί από τις {last_connect_date}. Δεν πειράζει: οι περισσότεροι χρησιμοποιούν VPN όταν το χρειάζονται. Αν κάτι σε έκανε να σταματήσεις, ένα πάτημα μού λέει τι:"
+  es: "No te has conectado desde el {last_connect_date}. No pasa nada: la mayoría de la gente usa una VPN cuando la necesita. Si algo hizo que dejaras de conectarte, con un toque me dices qué fue:"
+  es-419: "No te has conectado desde el {last_connect_date}. No pasa nada: la mayoría de la gente usa una VPN cuando la necesita. Si algo hizo que dejaras de conectarte, con un toque me dices qué fue:"
+  es-MX: "No te has conectado desde el {last_connect_date}. No pasa nada: la mayoría de la gente usa una VPN cuando la necesita. Si algo hizo que dejaras de conectarte, con un toque me dices qué fue:"
+  fr: "Ta dernière connexion remonte au {last_connect_date}. Pas de souci : la plupart des gens utilisent un VPN quand ils en ont besoin. Si quelque chose t'a fait arrêter, un geste suffit pour me dire ce que c'était :"
+  he: "לא התחברתם מאז {last_connect_date}. זה בסדר: רוב האנשים משתמשים ב-VPN כשהם צריכים אותו. אם משהו גרם לכם להפסיק, הקשה אחת תספר לי מה:"
+  hi: "आपने {last_connect_date} से कनेक्ट नहीं किया है। कोई बात नहीं: ज़्यादातर लोग VPN का इस्तेमाल तब करते हैं जब उन्हें इसकी ज़रूरत होती है। अगर किसी वजह से आपने इस्तेमाल बंद किया, तो एक टैप से मुझे पता चल जाएगा कि वजह क्या थी:"
+  id: "Kamu belum terhubung lagi sejak {last_connect_date}. Tidak apa-apa: kebanyakan orang memakai VPN saat mereka membutuhkannya. Kalau ada yang membuatmu berhenti, satu ketukan memberi tahu saya apa itu:"
+  it: "Non ti connetti dal {last_connect_date}. Nessun problema: la maggior parte delle persone usa una VPN quando ne ha bisogno. Se qualcosa ti ha fatto smettere, basta un tocco per dirmi cos'è stato:"
+  ja: "{last_connect_date} から接続がありませんね。それで大丈夫です。VPN は必要なときに使う、という人がほとんどですから。何かが理由で使わなくなったのなら、それが何か、ワンタップで教えてください："
+  ko: "{last_connect_date} 이후로 연결하지 않으셨네요. 괜찮습니다. 대부분은 필요할 때 VPN을 쓰니까요. 그만 쓰시게 된 이유가 있다면, 한 번만 눌러 알려 주세요:"
+  nl: "Je hebt sinds {last_connect_date} geen verbinding meer gemaakt. Dat is prima: de meeste mensen gebruiken een VPN als ze er een nodig hebben. Als je om een bepaalde reden bent gestopt, vertelt één tik me welke:"
+  pl: "Nie łączyłeś się od {last_connect_date}. To w porządku: większość ludzi używa VPN-a, kiedy go potrzebuje. Jeśli coś sprawiło, że przestałeś, jedno dotknięcie powie mi co:"
+  pt: "Você não se conecta desde {last_connect_date}. Tudo bem: a maioria das pessoas usa uma VPN quando precisa. Se algo fez você parar, um toque me diz o quê:"
+  pt-BR: "Você não se conecta desde {last_connect_date}. Tudo bem: a maioria das pessoas usa uma VPN quando precisa. Se algo fez você parar, um toque me diz o quê:"
+  pt-PT: "Desde {last_connect_date} que não se liga. Não faz mal: a maioria das pessoas usa uma VPN quando precisa. Se alguma coisa fez com que parasse, um toque diz-me o quê:"
+  ru: "Вы не подключались с {last_connect_date}. Это нормально: большинство людей пользуются VPN, когда он нужен. Если что-то заставило вас перестать, одно касание подскажет мне, что именно:"
+  sv: "Du har inte anslutit sedan den {last_connect_date}. Det är helt okej: de flesta använder en VPN när de behöver en. Om något fick dig att sluta berättar ett tryck för mig vad:"
+  sw: "Hujaunganisha tangu {last_connect_date}. Hiyo ni sawa: watu wengi hutumia VPN wanapoihitaji. Ikiwa kuna kitu kilichokufanya uache, mguso mmoja unaniambia ni nini:"
+  th: "คุณไม่ได้เชื่อมต่อตั้งแต่ {last_connect_date} ไม่เป็นไร: คนส่วนใหญ่ใช้ VPN เมื่อจำเป็นต้องใช้ ถ้ามีอะไรทำให้คุณเลิกใช้ แตะครั้งเดียวก็บอกผมได้ว่าคืออะไร:"
+  uk: "Ви не підключалися з {last_connect_date}. Це нормально: більшість людей користується VPN, коли він потрібен. Якщо щось змусило вас перестати, один дотик підкаже мені, що саме:"
+  vi: "Bạn chưa kết nối kể từ {last_connect_date}. Không sao cả: hầu hết mọi người dùng VPN khi họ cần. Nếu có điều gì khiến bạn ngừng dùng, một chạm sẽ cho tôi biết đó là gì:"
+  zh: "你自 {last_connect_date} 以来就没有再连接过。没关系：大多数人都是需要时才用 VPN。如果有什么原因让你不再使用，点一下告诉我是什么："
+  zh-HK: "你自 {last_connect_date} 以來就沒有再連接過。沒關係：大部分人都是有需要時才用 VPN。如果有什麼原因令你停用，點一下告訴我是什麼："
