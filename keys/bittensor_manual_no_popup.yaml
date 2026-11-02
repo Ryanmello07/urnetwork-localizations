@@ -3,8 +3,6 @@ source: "No wallet window opens for this. You sign the message yourself, then pa
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 localizations:
   ar: "لن تُفتح نافذة محفظة هنا. وقّع الرسالة بنفسك، ثم الصق التوقيع أدناه."

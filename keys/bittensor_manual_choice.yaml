@@ -3,8 +3,6 @@ source: "Sign manually"
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 localizations:
   ar: "التوقيع يدويًا"

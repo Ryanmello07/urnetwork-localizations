@@ -3,9 +3,6 @@ source: "If your wallet can't sign a pasted message, go back and choose WalletCo
 platforms:
   - android
   - apple
-  - windows
-  - linux
-  - site
 localizations:
   ar: "إذا لم تتمكن محفظتك من توقيع رسالة ملصقة، فارجع واختر WalletConnect (Nova وغيرها)، أو وقّع من خلال ur.io/app/account/earnings في متصفح على الكمبيوتر."
   cs: "Pokud vaše peněženka neumí podepsat vloženou zprávu, vraťte se a zvolte WalletConnect (Nova a další), nebo podepište na ur.io/app/account/earnings v prohlížeči na počítači."
