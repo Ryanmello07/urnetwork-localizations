@@ -1,0 +1,38 @@
+description: "Upgrade sheet: the win-back offer line while a returning subscriber's offer is active (the monthly plan's first month at a discount). {percent} whole number, {when} a local date and time."
+source: "Welcome back: {percent}% off your first month, until {when}"
+platforms:
+  - site
+placeholders:
+  - name: percent
+    type: string
+  - name: when
+    type: string
+localizations:
+  en: "Welcome back: {percent}% off your first month, until {when}"
+  ar: "عرض العودة: خصم {percent}% على شهرك الأول حتى {when}"
+  cs: "Vítejte zpět: {percent} % sleva na první měsíc, do {when}"
+  de: "Willkommen zurück: {percent}% Rabatt auf deinen ersten Monat, bis {when}"
+  el: "Καλώς ήρθες ξανά: {percent}% έκπτωση στον πρώτο μήνα, έως {when}"
+  es: "Oferta de regreso: {percent}% de descuento en tu primer mes, hasta el {when}"
+  es-419: "Oferta de regreso: {percent}% de descuento en tu primer mes, hasta el {when}"
+  es-MX: "Oferta de regreso: {percent}% de descuento en tu primer mes, hasta el {when}"
+  fr: "Bon retour : {percent} % de réduction sur votre premier mois, jusqu'au {when}"
+  he: "מבצע חזרה: {percent}% הנחה על החודש הראשון, עד {when}"
+  hi: "वापसी पर स्वागत है: पहले महीने पर {percent}% की छूट, {when} तक"
+  id: "Selamat datang kembali: diskon {percent}% untuk bulan pertama, hingga {when}"
+  it: "Offerta di ritorno: {percent}% di sconto sul primo mese, fino al {when}"
+  ja: "おかえりなさい：初月{percent}%オフ（{when}まで）"
+  ko: "다시 오신 것을 환영합니다: 첫 달 {percent}% 할인, {when}까지"
+  nl: "Welkom terug: {percent}% korting op je eerste maand, tot {when}"
+  pl: "Witaj ponownie: {percent}% zniżki na pierwszy miesiąc, do {when}"
+  pt: "Oferta de retorno: {percent}% de desconto no primeiro mês, até {when}"
+  pt-BR: "Oferta de retorno: {percent}% de desconto no primeiro mês, até {when}"
+  pt-PT: "Oferta de regresso: {percent}% de desconto no primeiro mês, até {when}"
+  ru: "С возвращением: скидка {percent}% на первый месяц до {when}"
+  sv: "Välkommen tillbaka: {percent} % rabatt på din första månad, till {when}"
+  sw: "Karibu tena: punguzo la {percent}% kwa mwezi wako wa kwanza, hadi {when}"
+  th: "ยินดีต้อนรับกลับ: ลด {percent}% สำหรับเดือนแรก ถึง {when}"
+  uk: "З поверненням: знижка {percent}% на перший місяць до {when}"
+  vi: "Chào mừng bạn quay lại: giảm {percent}% cho tháng đầu tiên, đến {when}"
+  zh: "欢迎回来：首月立减 {percent}%，有效期至 {when}"
+  zh-HK: "歡迎回來：首月減 {percent}%，有效期至 {when}"

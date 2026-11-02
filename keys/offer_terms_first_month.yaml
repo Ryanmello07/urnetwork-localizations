@@ -1,0 +1,39 @@
+description: "Plan picker with the win-back offer and the monthly plan chosen: the terms line under the button (the discounted first month, then the regular monthly price)."
+source: "{offer_price} for your first month, then {regular_price}/month. Cancel anytime."
+platforms:
+  - android
+  - site
+placeholders:
+  - name: offer_price
+    type: string
+  - name: regular_price
+    type: string
+localizations:
+  en: "{offer_price} for your first month, then {regular_price}/month. Cancel anytime."
+  ar: "{offer_price} لشهرك الأول، ثم {regular_price}/شهر. يمكنك الإلغاء في أي وقت."
+  cs: "{offer_price} za první měsíc, poté {regular_price}/měsíc. Zrušit lze kdykoli."
+  de: "{offer_price} für deinen ersten Monat, danach {regular_price}/Monat. Jederzeit kündbar."
+  el: "{offer_price} για τον πρώτο μήνα, έπειτα {regular_price}/μήνα. Ακύρωση οποτεδήποτε."
+  es: "{offer_price} tu primer mes, después {regular_price}/mes. Cancela cuando quieras."
+  es-419: "{offer_price} tu primer mes, después {regular_price}/mes. Cancela cuando quieras."
+  es-MX: "{offer_price} tu primer mes, después {regular_price}/mes. Cancela cuando quieras."
+  fr: "{offer_price} le premier mois, puis {regular_price}/mois. Annulable à tout moment."
+  he: "{offer_price} לחודש הראשון, ואז {regular_price} לחודש. אפשר לבטל בכל עת."
+  hi: "पहले महीने {offer_price}, फिर {regular_price}/महीना। कभी भी रद्द करें।"
+  id: "{offer_price} untuk bulan pertama, lalu {regular_price}/bulan. Batalkan kapan saja."
+  it: "{offer_price} per il primo mese, poi {regular_price}/mese. Annulla quando vuoi."
+  ja: "初月 {offer_price}、その後 {regular_price}/月。いつでもキャンセル可。"
+  ko: "첫 달 {offer_price}, 이후 {regular_price}/월. 언제든 취소 가능."
+  nl: "{offer_price} voor je eerste maand, daarna {regular_price}/maand. Altijd opzegbaar."
+  pl: "{offer_price} za pierwszy miesiąc, potem {regular_price}/mies. Anuluj w każdej chwili."
+  pt: "{offer_price} no primeiro mês, depois {regular_price}/mês. Cancele quando quiser."
+  pt-BR: "{offer_price} no primeiro mês, depois {regular_price}/mês. Cancele quando quiser."
+  pt-PT: "{offer_price} no primeiro mês, depois {regular_price}/mês. Cancele quando quiser."
+  ru: "{offer_price} за первый месяц, затем {regular_price}/месяц. Отмена в любой момент."
+  sv: "{offer_price} för din första månad, sedan {regular_price}/månad. Avbryt när som helst."
+  sw: "{offer_price} kwa mwezi wa kwanza, kisha {regular_price}/mwezi. Ghairi wakati wowote."
+  th: "{offer_price} สำหรับเดือนแรก จากนั้น {regular_price}/เดือน ยกเลิกได้ทุกเมื่อ"
+  uk: "{offer_price} за перший місяць, потім {regular_price}/міс. Скасування будь-коли."
+  vi: "{offer_price} cho tháng đầu, sau đó {regular_price}/tháng. Hủy bất cứ lúc nào."
+  zh: "首月 {offer_price}，之后 {regular_price}/月。可随时取消。"
+  zh-HK: "首月 {offer_price}，之後 {regular_price}/月。可隨時取消。"

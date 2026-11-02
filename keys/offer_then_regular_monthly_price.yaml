@@ -1,0 +1,37 @@
+description: "Plan card with the win-back offer: the regular monthly price line under the first-month amount."
+source: "then {price}/month"
+platforms:
+  - android
+  - site
+placeholders:
+  - name: price
+    type: string
+localizations:
+  en: "then {price}/month"
+  ar: "ثم {price}/شهر"
+  cs: "poté {price}/měsíc"
+  de: "danach {price}/Monat"
+  el: "έπειτα {price}/μήνα"
+  es: "después {price}/mes"
+  es-419: "después {price}/mes"
+  es-MX: "después {price}/mes"
+  fr: "puis {price}/mois"
+  he: "לאחר מכן {price} לחודש"
+  hi: "फिर {price}/महीना"
+  id: "lalu {price}/bulan"
+  it: "poi {price}/mese"
+  ja: "その後 {price}/月"
+  ko: "이후 {price}/월"
+  nl: "daarna {price}/maand"
+  pl: "potem {price}/mies."
+  pt: "depois {price}/mês"
+  pt-BR: "depois {price}/mês"
+  pt-PT: "depois {price}/mês"
+  ru: "далее {price}/месяц"
+  sv: "därefter {price}/månad"
+  sw: "kisha {price}/mwezi"
+  th: "จากนั้น {price}/เดือน"
+  uk: "далі {price}/міс."
+  vi: "sau đó {price}/tháng"
+  zh: "之后 {price}/月"
+  zh-HK: "之後 {price}/月"

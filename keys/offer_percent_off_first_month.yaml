@@ -1,0 +1,37 @@
+description: "Win-back offer line on the monthly plan card and the account plan row. The number is the percent off the first month of the monthly plan."
+source: "{percent}% off your first month"
+platforms:
+  - android
+  - site
+placeholders:
+  - name: percent
+    type: int
+localizations:
+  en: "{percent}% off your first month"
+  ar: "خصم {percent}% على شهرك الأول"
+  cs: "{percent} % sleva na první měsíc"
+  de: "{percent} % Rabatt auf deinen ersten Monat"
+  el: "{percent}% έκπτωση στον πρώτο μήνα"
+  es: "{percent}% de descuento en tu primer mes"
+  es-419: "{percent}% de descuento en tu primer mes"
+  es-MX: "{percent}% de descuento en tu primer mes"
+  fr: "{percent} % de réduction sur votre premier mois"
+  he: "{percent}% הנחה על החודש הראשון"
+  hi: "पहले महीने पर {percent}% की छूट"
+  id: "Diskon {percent}% untuk bulan pertama"
+  it: "{percent}% di sconto sul primo mese"
+  ja: "初月{percent}%オフ"
+  ko: "첫 달 {percent}% 할인"
+  nl: "{percent}% korting op je eerste maand"
+  pl: "{percent}% zniżki na pierwszy miesiąc"
+  pt: "{percent}% de desconto no primeiro mês"
+  pt-BR: "{percent}% de desconto no primeiro mês"
+  pt-PT: "{percent}% de desconto no primeiro mês"
+  ru: "Скидка {percent}% на первый месяц"
+  sv: "{percent} % rabatt på din första månad"
+  sw: "Punguzo la {percent}% kwa mwezi wako wa kwanza"
+  th: "ลด {percent}% สำหรับเดือนแรก"
+  uk: "Знижка {percent}% на перший місяць"
+  vi: "Giảm {percent}% cho tháng đầu tiên"
+  zh: "首月立减 {percent}%"
+  zh-HK: "首月減 {percent}%"

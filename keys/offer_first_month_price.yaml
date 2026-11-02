@@ -1,0 +1,37 @@
+description: "Plan card with the win-back offer (a returning subscriber's first month of the monthly plan at a discount): the billed first-month amount on the monthly card (most prominent line)."
+source: "{price} for your first month"
+platforms:
+  - android
+  - site
+placeholders:
+  - name: price
+    type: string
+localizations:
+  en: "{price} for your first month"
+  ar: "{price} لشهرك الأول"
+  cs: "{price} za první měsíc"
+  de: "{price} für deinen ersten Monat"
+  el: "{price} για τον πρώτο μήνα"
+  es: "{price} tu primer mes"
+  es-419: "{price} tu primer mes"
+  es-MX: "{price} tu primer mes"
+  fr: "{price} le premier mois"
+  he: "{price} לחודש הראשון"
+  hi: "पहले महीने के लिए {price}"
+  id: "{price} untuk bulan pertama"
+  it: "{price} per il primo mese"
+  ja: "初月 {price}"
+  ko: "첫 달 {price}"
+  nl: "{price} voor je eerste maand"
+  pl: "{price} za pierwszy miesiąc"
+  pt: "{price} no primeiro mês"
+  pt-BR: "{price} no primeiro mês"
+  pt-PT: "{price} no primeiro mês"
+  ru: "{price} за первый месяц"
+  sv: "{price} för din första månad"
+  sw: "{price} kwa mwezi wako wa kwanza"
+  th: "{price} สำหรับเดือนแรก"
+  uk: "{price} за перший місяць"
+  vi: "{price} cho tháng đầu tiên"
+  zh: "首月 {price}"
+  zh-HK: "首月 {price}"
