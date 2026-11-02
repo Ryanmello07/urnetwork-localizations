@@ -1,0 +1,11 @@
+description: "Subtitle of a browser-extension wallet (Talisman) in ur.io's Bittensor wallet chooser: the wallet connects directly, and the extension opens a window to approve."
+source: "Browser extension. Connects directly and asks you to approve."
+platforms:
+  - site
+localizations:
+  ar: "إضافة للمتصفح. تتصل مباشرة وتطلب منك الموافقة."
+  de: "Browser-Erweiterung. Verbindet sich direkt und bittet dich um Bestätigung."
+  en: "Browser extension. Connects directly and asks you to approve."
+  es: "Extensión del navegador. Se conecta directamente y te pide que apruebes."
+  ru: "Расширение браузера. Подключается напрямую и просит вас подтвердить."
+  zh: "浏览器扩展。直接连接，并请您批准。"

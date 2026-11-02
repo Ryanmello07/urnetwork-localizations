@@ -1,0 +1,11 @@
+description: "The manual signing option in ur.io's Bittensor wallet chooser: the user signs a message outside the page, for example with the btcli command line tool, and pastes the signature back."
+source: "Sign manually"
+platforms:
+  - site
+localizations:
+  ar: "التوقيع يدويًا"
+  de: "Manuell signieren"
+  en: "Sign manually"
+  es: "Firmar manualmente"
+  ru: "Подписать вручную"
+  zh: "手动签名"

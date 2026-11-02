@@ -1,0 +1,11 @@
+description: "ur.io's manual signing form: the signature is from the entered address's key, but over a changed copy of the message, such as an added or changed line break, or only the first line. Copy btcli command is the button whose label is bittensor_manual_copy_command: use the same words."
+source: "This signature is from the right address, but over a changed copy of the message: a line break or space differs, or only part of it was signed. Sign it again. With btcli, use Copy btcli command."
+platforms:
+  - site
+localizations:
+  ar: "هذا التوقيع من العنوان الصحيح، لكنه على نسخة معدّلة من الرسالة: يختلف فاصل أسطر أو مسافة، أو تم توقيع جزء منها فقط. وقّعها مرة أخرى. مع btcli، استخدم «نسخ أمر btcli»."
+  de: "Diese Signatur stammt von der richtigen Adresse, aber über eine veränderte Kopie der Nachricht: Ein Zeilenumbruch oder Leerzeichen weicht ab, oder nur ein Teil wurde signiert. Signiere sie erneut. Verwende bei btcli „btcli-Befehl kopieren“."
+  en: "This signature is from the right address, but over a changed copy of the message: a line break or space differs, or only part of it was signed. Sign it again. With btcli, use Copy btcli command."
+  es: "Esta firma es de la dirección correcta, pero sobre una copia modificada del mensaje: cambia un salto de línea o un espacio, o solo se firmó una parte. Fírmalo de nuevo. Con btcli, usa «Copiar comando de btcli»."
+  ru: "Эта подпись сделана нужным адресом, но для измененной копии сообщения: отличается перевод строки или пробел либо подписана только часть. Подпишите его снова. Для btcli используйте кнопку «Скопировать команду btcli»."
+  zh: "此签名来自正确的地址，但签名的是被改动过的消息副本：换行或空格不同，或只签了其中一部分。请重新签名。使用 btcli 时，请点击“复制 btcli 命令”。"

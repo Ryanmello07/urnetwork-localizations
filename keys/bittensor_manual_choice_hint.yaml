@@ -1,0 +1,11 @@
+description: "Subtitle of the manual signing option in ur.io's Bittensor wallet chooser: what can sign. btcli is the Bittensor command line tool, a product name."
+source: "btcli, or any wallet that can sign a pasted message"
+platforms:
+  - site
+localizations:
+  ar: "btcli أو أي محفظة يمكنها توقيع رسالة تلصقها فيها"
+  de: "btcli oder jede Wallet, die eine eingefügte Nachricht signieren kann"
+  en: "btcli, or any wallet that can sign a pasted message"
+  es: "btcli o cualquier billetera que pueda firmar un mensaje pegado"
+  ru: "btcli или любой кошелек, который может подписать вставленное сообщение"
+  zh: "btcli，或任何能够对粘贴的消息进行签名的钱包"

@@ -1,0 +1,11 @@
+description: "Button in ur.io's manual signing form: copies the message to sign."
+source: "Copy message"
+platforms:
+  - site
+localizations:
+  ar: "نسخ الرسالة"
+  de: "Nachricht kopieren"
+  en: "Copy message"
+  es: "Copiar mensaje"
+  ru: "Скопировать сообщение"
+  zh: "复制消息"

@@ -1,0 +1,11 @@
+description: "ur.io's manual signing form: the pasted text holds no hex value, so it is not a signature. Nothing was sent."
+source: "That isn't a signature. Paste the long hex value from btcli or your wallet."
+platforms:
+  - site
+localizations:
+  ar: "هذا ليس توقيعًا. الصق القيمة السداسية العشرية الطويلة من btcli أو من محفظتك."
+  de: "Das ist keine Signatur. Füge den langen Hex-Wert aus btcli oder deiner Wallet ein."
+  en: "That isn't a signature. Paste the long hex value from btcli or your wallet."
+  es: "Eso no es una firma. Pega el valor hexadecimal largo de btcli o de tu billetera."
+  ru: "Это не подпись. Вставьте длинное шестнадцатеричное значение из btcli или вашего кошелька."
+  zh: "这不是签名。请粘贴 btcli 或您的钱包给出的长十六进制值。"

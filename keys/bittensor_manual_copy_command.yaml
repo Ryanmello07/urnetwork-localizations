@@ -1,0 +1,11 @@
+description: "Button in ur.io's manual signing form: copies the full btcli command, which contains the message to sign."
+source: "Copy btcli command"
+platforms:
+  - site
+localizations:
+  ar: "نسخ أمر btcli"
+  de: "btcli-Befehl kopieren"
+  en: "Copy btcli command"
+  es: "Copiar comando de btcli"
+  ru: "Скопировать команду btcli"
+  zh: "复制 btcli 命令"

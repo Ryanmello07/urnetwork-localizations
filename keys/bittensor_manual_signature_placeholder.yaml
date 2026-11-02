@@ -1,0 +1,11 @@
+description: "Placeholder of the signature field in ur.io's manual signing form."
+source: "Paste the signature"
+platforms:
+  - site
+localizations:
+  ar: "الصق التوقيع"
+  de: "Signatur einfügen"
+  en: "Paste the signature"
+  es: "Pega la firma"
+  ru: "Вставьте подпись"
+  zh: "粘贴签名"

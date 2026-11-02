@@ -1,0 +1,11 @@
+description: "ur.io's manual signing form on the payout consent: the signature is not sr25519 (for example ed25519, from a Ledger account), and the consent verifies only sr25519."
+source: "This signature isn't sr25519, the key type the payout consent needs. Ledger accounts use ed25519 and can't sign it. Choose another wallet."
+platforms:
+  - site
+localizations:
+  ar: "هذا التوقيع ليس sr25519، وهو نوع المفتاح الذي تتطلبه موافقة الدفع. تستخدم حسابات Ledger ‏ed25519 ولا يمكنها توقيعها. اختر محفظة أخرى."
+  de: "Diese Signatur ist nicht sr25519, der Schlüsseltyp, den die Zustimmung zur Auszahlung braucht. Ledger-Konten verwenden ed25519 und können sie nicht signieren. Wähle eine andere Wallet."
+  en: "This signature isn't sr25519, the key type the payout consent needs. Ledger accounts use ed25519 and can't sign it. Choose another wallet."
+  es: "Esta firma no es sr25519, el tipo de clave que necesita el consentimiento de pago. Las cuentas de Ledger usan ed25519 y no pueden firmarlo. Elige otra billetera."
+  ru: "Эта подпись не sr25519, а именно этот тип ключа нужен для согласия на выплаты. Учетные записи Ledger используют ed25519 и не могут его подписать. Выберите другой кошелек."
+  zh: "此签名不是 sr25519，而收益支付授权需要这种密钥类型。Ledger 账户使用 ed25519，无法对其签名。请选择其他钱包。"

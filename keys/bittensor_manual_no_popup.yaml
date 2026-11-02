@@ -1,0 +1,11 @@
+description: "First line of ur.io's manual signing form. Support inbox 8167: a user waited for a wallet window that never comes on this path."
+source: "No wallet window opens for this. You sign the message yourself, then paste the signature below."
+platforms:
+  - site
+localizations:
+  ar: "لن تُفتح نافذة محفظة هنا. وقّع الرسالة بنفسك، ثم الصق التوقيع أدناه."
+  de: "Hierfür öffnet sich kein Wallet-Fenster. Du signierst die Nachricht selbst und fügst die Signatur dann unten ein."
+  en: "No wallet window opens for this. You sign the message yourself, then paste the signature below."
+  es: "Aquí no se abre ninguna ventana de billetera. Tú mismo firmas el mensaje y luego pegas la firma abajo."
+  ru: "Окно кошелька здесь не откроется. Вы подписываете сообщение сами, а затем вставляете подпись ниже."
+  zh: "此处不会打开钱包窗口。请您自行对消息签名，然后将签名粘贴到下方。"

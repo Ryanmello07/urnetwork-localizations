@@ -1,0 +1,11 @@
+description: "ur.io's manual signing form: how to sign with a wallet that has a tool for signing a pasted message. The address is in the field below, and the message has one line break that must be kept."
+source: "Use its sign message tool with the address below. Copy the message exactly, with its line break."
+platforms:
+  - site
+localizations:
+  ar: "استخدم أداة توقيع الرسائل فيها مع العنوان أدناه. انسخ الرسالة كما هي تمامًا، مع فاصل الأسطر الموجود فيها."
+  de: "Verwende das Werkzeug zum Signieren von Nachrichten mit der Adresse unten. Kopiere die Nachricht genau so, mit ihrem Zeilenumbruch."
+  en: "Use its sign message tool with the address below. Copy the message exactly, with its line break."
+  es: "Usa su herramienta para firmar mensajes con la dirección de abajo. Copia el mensaje tal cual, con su salto de línea."
+  ru: "Используйте его инструмент подписи сообщений с адресом ниже. Скопируйте сообщение точно, вместе с переводом строки."
+  zh: "使用其消息签名工具和下方的地址。请原样复制消息，包括其中的换行。"

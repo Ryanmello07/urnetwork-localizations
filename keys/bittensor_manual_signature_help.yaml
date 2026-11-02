@@ -1,0 +1,11 @@
+description: "ur.io's manual signing form, above the signature field: what to paste back. signed_message and Signature: are btcli's own output labels, in English: keep them as they are. btcli 9 breaks the value across two lines in a narrow terminal."
+source: "Paste the long hex value, all of it, even if it wraps onto a second line. btcli prints it after signed_message or Signature:."
+platforms:
+  - site
+localizations:
+  ar: "الصق القيمة السداسية العشرية الطويلة كاملة، حتى لو امتدت إلى سطر ثانٍ. يعرضها btcli بعد signed_message أو Signature:."
+  de: "Füge den langen Hex-Wert vollständig ein, auch wenn er in eine zweite Zeile umbricht. btcli gibt ihn nach signed_message oder Signature: aus."
+  en: "Paste the long hex value, all of it, even if it wraps onto a second line. btcli prints it after signed_message or Signature:."
+  es: "Pega el valor hexadecimal largo, completo, aunque ocupe una segunda línea. btcli lo muestra después de signed_message o Signature:."
+  ru: "Вставьте длинное шестнадцатеричное значение целиком, даже если оно переносится на вторую строку. btcli выводит его после signed_message или Signature:."
+  zh: "粘贴完整的长十六进制值，即使它换到第二行。btcli 会在 signed_message 或 Signature: 之后显示它。"

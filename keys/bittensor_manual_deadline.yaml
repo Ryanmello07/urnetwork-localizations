@@ -1,0 +1,14 @@
+description: "ur.io's manual signing form: the message to sign is valid for 5 minutes. The argument is a local clock time such as 14:32."
+source: "This message is valid until {time}. After that, start again for a new one."
+platforms:
+  - site
+placeholders:
+  - name: time
+    type: string
+localizations:
+  ar: "هذه الرسالة صالحة حتى {time}. بعد ذلك، ابدأ من جديد للحصول على رسالة جديدة."
+  de: "Diese Nachricht ist bis {time} gültig. Danach beginne erneut, um eine neue zu erhalten."
+  en: "This message is valid until {time}. After that, start again for a new one."
+  es: "Este mensaje es válido hasta las {time}. Después, empieza de nuevo para obtener otro."
+  ru: "Это сообщение действительно до {time}. После этого начните заново, чтобы получить новое."
+  zh: "此消息的有效期至 {time}。之后请重新开始以获取新消息。"

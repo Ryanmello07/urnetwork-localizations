@@ -1,0 +1,11 @@
+description: "Heading in ur.io's manual signing form: signing with a wallet other than btcli that has its own tool for signing a pasted message."
+source: "With another wallet"
+platforms:
+  - site
+localizations:
+  ar: "باستخدام محفظة أخرى"
+  de: "Mit einer anderen Wallet"
+  en: "With another wallet"
+  es: "Con otra billetera"
+  ru: "С помощью другого кошелька"
+  zh: "使用其他钱包"
