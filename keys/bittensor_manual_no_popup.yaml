@@ -1,11 +1,37 @@
-description: "First line of ur.io's manual signing form. Support inbox 8167: a user waited for a wallet window that never comes on this path."
+description: "First line of the manual signing form, on ur.io and in the apps' sheet. Support inbox 8167: a user waited for a wallet window that never comes on this path."
 source: "No wallet window opens for this. You sign the message yourself, then paste the signature below."
 platforms:
+  - android
+  - apple
+  - windows
+  - linux
   - site
 localizations:
   ar: "لن تُفتح نافذة محفظة هنا. وقّع الرسالة بنفسك، ثم الصق التوقيع أدناه."
+  cs: "Žádné okno peněženky se neotevře. Zprávu podepíšete sami a podpis pak vložíte níže."
   de: "Hierfür öffnet sich kein Wallet-Fenster. Du signierst die Nachricht selbst und fügst die Signatur dann unten ein."
+  el: "Δεν ανοίγει παράθυρο πορτοφολιού για αυτό. Υπογράφετε το μήνυμα μόνοι σας και, στη συνέχεια, επικολλάτε την υπογραφή παρακάτω."
   en: "No wallet window opens for this. You sign the message yourself, then paste the signature below."
   es: "Aquí no se abre ninguna ventana de billetera. Tú mismo firmas el mensaje y luego pegas la firma abajo."
+  es-419: "Aquí no se abre ninguna ventana de billetera. Tú firmas el mensaje y luego pegas la firma abajo."
+  es-MX: "Aquí no se abre ninguna ventana de cartera. Tú firmas el mensaje y luego pegas la firma abajo."
+  fr: "Aucune fenêtre de portefeuille ne s'ouvre ici. Vous signez le message vous-même, puis vous collez la signature ci-dessous."
+  he: "לא ייפתח כאן חלון ארנק. אתם חותמים על ההודעה בעצמכם, ואז מדביקים את החתימה למטה."
+  hi: "इसके लिए कोई वॉलेट विंडो नहीं खुलेगी। आप संदेश पर स्वयं हस्ताक्षर करें, फिर हस्ताक्षर नीचे चिपकाएँ।"
+  id: "Tidak ada jendela dompet yang terbuka untuk ini. Tanda tangani pesan sendiri, lalu tempel tanda tangannya di bawah."
+  it: "Qui non si apre alcuna finestra del portafoglio. Firmi tu il messaggio, poi incolli la firma qui sotto."
+  ja: "ここではウォレットのウィンドウは開きません。メッセージにご自身で署名し、署名を下に貼り付けてください。"
+  ko: "여기서는 지갑 창이 열리지 않습니다. 메시지에 직접 서명한 다음 아래에 서명을 붙여 넣으세요."
+  nl: "Hiervoor wordt geen walletvenster geopend. Je ondertekent het bericht zelf en plakt de handtekening hieronder."
+  pl: "Okno portfela się tu nie otworzy. Podpisujesz wiadomość samodzielnie, a następnie wklejasz podpis poniżej."
+  pt: "Aqui não se abre nenhuma janela da carteira. Assine a mensagem por si e cole a assinatura abaixo."
+  pt-BR: "Nenhuma janela da carteira é aberta aqui. Você mesmo assina a mensagem e depois cola a assinatura abaixo."
+  pt-PT: "Aqui não se abre nenhuma janela da carteira. Assine a mensagem por si e cole a assinatura abaixo."
   ru: "Окно кошелька здесь не откроется. Вы подписываете сообщение сами, а затем вставляете подпись ниже."
+  sv: "Inget plånboksfönster öppnas för detta. Du signerar meddelandet själv och klistrar sedan in signaturen nedan."
+  sw: "Hakuna dirisha la pochi litakalofunguka hapa. Unasaini ujumbe mwenyewe, kisha ubandike saini hapa chini."
+  th: "จะไม่มีหน้าต่างกระเป๋าเงินเปิดขึ้นสำหรับขั้นตอนนี้ คุณต้องลงนามข้อความด้วยตนเอง แล้ววางลายเซ็นด้านล่าง"
+  uk: "Вікно гаманця тут не відкриється. Ви підписуєте повідомлення самі, а потім вставляєте підпис нижче."
+  vi: "Không có cửa sổ ví nào mở ra ở đây. Bạn tự ký tin nhắn, rồi dán chữ ký vào bên dưới."
   zh: "此处不会打开钱包窗口。请您自行对消息签名，然后将签名粘贴到下方。"
+  zh-HK: "此處不會開啟錢包視窗。請你自行為訊息簽名，然後將簽名貼到下方。"

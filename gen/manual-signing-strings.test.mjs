@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { SITE_LOCALES, loadStore } from "./store.mjs";
+import { LOCALES, SITE_LOCALES, loadStore } from "./store.mjs";
 
 // ur.io's manual Bittensor signing form and its checks on a paste (mmm
 // ur.io/react/src/components/BittensorWalletPanel.jsx, src/auth/manualSignature.js).
@@ -36,14 +36,38 @@ const FORM = {
 	bittensor_error_signature_not_sr25519: "This signature isn't sr25519, the key type the payout consent needs. Ledger accounts use ed25519 and can't sign it. Choose another wallet.",
 };
 
+// the words the phone apps' manual sheet shares with the site, and its own, in
+// every locale: on a phone neither Talisman nor TAO.com has a way to sign directly
+const SHARED_WITH_APPS = ["bittensor_manual_choice", "bittensor_manual_no_popup"];
+const PHONE_ROUTE = "If your wallet can't sign a pasted message, go back and choose WalletConnect (Nova and others), or sign at ur.io/app/account/earnings in a computer's browser.";
+const TAGGED_FOR_APPS = ["android", "apple", "windows", "linux", "site"];
+
 test("the form's strings carry their English, are tagged for the site, and have the site's locales", () => {
 	for (const [id, en] of Object.entries(FORM)) {
 		const k = keys.get(id);
 		assert.ok(k, `${id} is in the store`);
 		assert.equal(k.localizations.en, en, id);
 		assert.equal(k.source, en, `${id}: source is the English`);
-		assert.deepEqual(k.platforms, ["site"], id);
-		assert.deepEqual(Object.keys(k.localizations).sort(), [...SITE_LOCALES].sort(), id);
+		const shared = SHARED_WITH_APPS.includes(id);
+		assert.deepEqual(k.platforms, shared ? TAGGED_FOR_APPS : ["site"], id);
+		assert.deepEqual(Object.keys(k.localizations).sort(), [...(shared ? LOCALES : SITE_LOCALES)].sort(), id);
+	}
+});
+
+test("the phone sheet's way out is in every locale, with what a reader must find as printed", () => {
+	const k = keys.get("bittensor_manual_phone_route");
+	assert.equal(k.localizations.en, PHONE_ROUTE);
+	assert.equal(k.source, PHONE_ROUTE);
+	assert.deepEqual(k.platforms, TAGGED_FOR_APPS);
+	assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort());
+	for (const [l, v] of Object.entries(k.localizations)) {
+		for (const word of ["WalletConnect", "Nova", "ur.io/app/account/earnings"]) assert.ok(v.includes(word), `[${l}] keeps ${word}: ${v}`);
+		if (l !== "en") assert.notEqual(v, PHONE_ROUTE, `[${l}] is translated`);
+	}
+	for (const id of SHARED_WITH_APPS) {
+		for (const [l, v] of Object.entries(keys.get(id).localizations)) {
+			if (l !== "en" && !(id === "bittensor_manual_choice" && ["es", "es-419", "es-MX"].includes(l))) assert.notEqual(v, FORM[id], `${id}[${l}] is translated`);
+		}
 	}
 });
 
