@@ -54,3 +54,23 @@ test("the payout wallet's no-wallet messages are tagged for the apps that show t
 	assert.deepEqual(keys.get("no_wallets_found_enter_address_manually")?.platforms, ["android", "apple"]);
 	assert.deepEqual(keys.get("solana_wallet_error_extension_not_found")?.platforms, ["apple", "windows", "linux"]);
 });
+
+// The out-of-balance alert on a build whose checkout goes through the tunnel: the
+// reader is told to press the Disconnect beside the line, by that button's label.
+test("the out-of-balance alert's disconnect-first line names Disconnect in every locale", () => {
+	const k = keys.get("insufficient_balance_disconnect_first");
+	assert.ok(k, "insufficient_balance_disconnect_first is not in the store");
+	const wrong = [];
+	for (const [loc, label] of Object.entries(keys.get("disconnect").localizations)) {
+		const text = k.localizations[loc];
+		if (text == null) wrong.push(`[${loc}]: missing`);
+		else if (!text.includes(label)) wrong.push(`[${loc}]: does not name ${JSON.stringify(label)}: ${text}`);
+	}
+	assert.deepEqual(wrong, []);
+});
+
+test("the disconnect-first line is tagged for the apps whose alert can show it", () => {
+	// iOS and the other android flavors never show it, but they share these
+	// catalogs with the builds that do
+	assert.deepEqual(keys.get("insufficient_balance_disconnect_first")?.platforms, ["android", "apple", "linux", "windows"]);
+});
