@@ -1,0 +1,14 @@
+description: "ur.io's manual signing form: the pasted hex value has the wrong length, usually because only the first line of a wrapped value was copied. A signature has 128 hex characters. The argument is how many were pasted."
+source: "That signature is the wrong length: a signature has 128 hex characters, and this paste has {count}. Copy all of it, including any second line."
+platforms:
+  - site
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "طول هذا التوقيع غير صحيح: يتكون التوقيع من 128 حرفًا سداسيًا عشريًا، وما لصقته يتكون من {count}. انسخه كاملًا، بما في ذلك أي سطر ثانٍ."
+  de: "Diese Signatur hat die falsche Länge: Eine Signatur hat 128 Hex-Zeichen, und diese Eingabe hat {count}. Kopiere sie vollständig, auch eine eventuelle zweite Zeile."
+  en: "That signature is the wrong length: a signature has 128 hex characters, and this paste has {count}. Copy all of it, including any second line."
+  es: "Esa firma tiene una longitud incorrecta: una firma tiene 128 caracteres hexadecimales y lo que has pegado tiene {count}. Cópiala completa, incluida cualquier segunda línea."
+  ru: "У этой подписи неверная длина: в подписи 128 шестнадцатеричных символов, а во вставленном тексте их {count}. Скопируйте ее целиком, включая вторую строку, если она есть."
+  zh: "该签名的长度不正确：签名有 128 个十六进制字符，而您粘贴的内容有 {count} 个。请完整复制，包括可能存在的第二行。"

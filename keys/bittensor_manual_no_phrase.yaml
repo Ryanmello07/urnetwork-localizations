@@ -1,0 +1,11 @@
+description: "ur.io's manual signing form: safety line. The recovery phrase is the wallet's seed phrase."
+source: "You never need your recovery phrase here. Don't paste it on this page or anywhere else."
+platforms:
+  - site
+localizations:
+  ar: "لا تحتاج هنا أبدًا إلى عبارة الاسترداد الخاصة بك. لا تلصقها في هذه الصفحة ولا في أي مكان آخر."
+  de: "Deine Seedphrase brauchst du hier nie. Füge sie weder auf dieser Seite noch anderswo ein."
+  en: "You never need your recovery phrase here. Don't paste it on this page or anywhere else."
+  es: "Aquí nunca necesitas tu frase semilla. No la pegues en esta página ni en ningún otro sitio."
+  ru: "Сид-фраза здесь никогда не нужна. Не вставляйте ее ни на этой странице, ни где-либо еще."
+  zh: "此处绝不需要您的助记词。请勿将其粘贴到此页面或其他任何地方。"

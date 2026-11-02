@@ -1,0 +1,11 @@
+description: "Heading in ur.io's manual signing form: signing with btcli, the Bittensor command line tool (a product name)."
+source: "With btcli"
+platforms:
+  - site
+localizations:
+  ar: "باستخدام btcli"
+  de: "Mit btcli"
+  en: "With btcli"
+  es: "Con btcli"
+  ru: "С помощью btcli"
+  zh: "使用 btcli"

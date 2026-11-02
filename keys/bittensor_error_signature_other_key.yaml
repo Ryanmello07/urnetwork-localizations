@@ -1,0 +1,11 @@
+description: "ur.io's manual signing form, or the server's refusal of a pasted signature: it does not verify for the address the user entered. Usually another account signed, such as a hotkey or another wallet. An sr25519 signature cannot name the key that made it."
+source: "This signature doesn't match the address you entered. Sign with that address's coldkey, not a hotkey or another wallet, then paste the new signature."
+platforms:
+  - site
+localizations:
+  ar: "لا يطابق هذا التوقيع العنوان الذي أدخلته. وقّع باستخدام coldkey لهذا العنوان، وليس hotkey أو محفظة أخرى، ثم الصق التوقيع الجديد."
+  de: "Diese Signatur passt nicht zu der eingegebenen Adresse. Signiere mit dem Coldkey dieser Adresse, nicht mit einem Hotkey oder einer anderen Wallet, und füge dann die neue Signatur ein."
+  en: "This signature doesn't match the address you entered. Sign with that address's coldkey, not a hotkey or another wallet, then paste the new signature."
+  es: "Esta firma no coincide con la dirección que has introducido. Firma con la coldkey de esa dirección, no con una hotkey ni con otra billetera, y pega la firma nueva."
+  ru: "Эта подпись не соответствует введенному адресу. Подпишите coldkey этого адреса, а не hotkey и не другим кошельком, затем вставьте новую подпись."
+  zh: "此签名与您输入的地址不匹配。请使用该地址的 coldkey（而不是 hotkey 或其他钱包）签名，然后粘贴新的签名。"

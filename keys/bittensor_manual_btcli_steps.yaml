@@ -1,0 +1,11 @@
+description: "ur.io's manual signing form: how to sign with btcli, the Bittensor command line tool. The command comes from the button below this text. btcli 9 asks whether to sign with the hotkey (y/n), and the answer must be n; btcli 11 asks only for the wallet name and password. WSL is Windows Subsystem for Linux. Keep n as the letter to type."
+source: "On the computer that holds your coldkey (macOS, Linux or WSL), copy this command, paste it into a terminal and press Enter. btcli asks for the wallet name and its password. If it asks about the hotkey, answer n: the coldkey has to sign."
+platforms:
+  - site
+localizations:
+  ar: "على الكمبيوتر الذي يحتوي على coldkey الخاص بك (macOS أو Linux أو WSL)، انسخ هذا الأمر، والصقه في الطرفية واضغط Enter. سيطلب btcli اسم المحفظة وكلمة مرورها. إذا سأل عن hotkey، فأجب بـ n: يجب أن يوقّع coldkey."
+  de: "Kopiere diesen Befehl auf dem Computer mit deinem Coldkey (macOS, Linux oder WSL), füge ihn in ein Terminal ein und drücke die Eingabetaste. btcli fragt nach dem Wallet-Namen und seinem Passwort. Fragt es nach dem Hotkey, antworte mit n: Der Coldkey muss signieren."
+  en: "On the computer that holds your coldkey (macOS, Linux or WSL), copy this command, paste it into a terminal and press Enter. btcli asks for the wallet name and its password. If it asks about the hotkey, answer n: the coldkey has to sign."
+  es: "En el ordenador que guarda tu coldkey (macOS, Linux o WSL), copia este comando, pégalo en una terminal y pulsa Intro. btcli te pide el nombre de la billetera y su contraseña. Si pregunta por la hotkey, responde n: tiene que firmar la coldkey."
+  ru: "На компьютере, где находится ваш coldkey (macOS, Linux или WSL), скопируйте эту команду, вставьте ее в терминал и нажмите Enter. btcli спросит имя кошелька и его пароль. Если он спросит про hotkey, ответьте n: подписать должен coldkey."
+  zh: "在保存您的 coldkey 的电脑上（macOS、Linux 或 WSL），复制此命令，粘贴到终端并按回车键。btcli 会询问钱包名称及其密码。如果询问是否使用 hotkey，请回答 n：必须由 coldkey 签名。"

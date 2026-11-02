@@ -1,0 +1,11 @@
+description: "ur.io's manual signing form: the user pasted 12 to 24 lowercase words, which looks like a wallet's recovery phrase. The page empties the field and sends nothing."
+source: "That looks like a recovery phrase, not a signature. We cleared it and sent nothing. Never paste your recovery phrase into a website."
+platforms:
+  - site
+localizations:
+  ar: "يبدو هذا كعبارة استرداد وليس توقيعًا. لقد مسحناها ولم نرسل أي شيء. لا تلصق عبارة الاسترداد الخاصة بك في أي موقع ويب أبدًا."
+  de: "Das sieht nach einer Seedphrase aus, nicht nach einer Signatur. Wir haben sie gelöscht und nichts gesendet. Füge deine Seedphrase niemals auf einer Website ein."
+  en: "That looks like a recovery phrase, not a signature. We cleared it and sent nothing. Never paste your recovery phrase into a website."
+  es: "Eso parece una frase semilla, no una firma. La hemos borrado y no hemos enviado nada. Nunca pegues tu frase semilla en un sitio web."
+  ru: "Это похоже на сид-фразу, а не на подпись. Мы удалили ее и ничего не отправили. Никогда не вставляйте сид-фразу на сайтах."
+  zh: "这看起来像助记词，而不是签名。我们已将其清除，未发送任何内容。切勿将您的助记词粘贴到任何网站。"
