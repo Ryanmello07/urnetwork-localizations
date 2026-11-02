@@ -1,11 +1,37 @@
-description: "The manual signing option in ur.io's Bittensor wallet chooser: the user signs a message outside the page, for example with the btcli command line tool, and pastes the signature back."
+description: "The manual signing option in a Bittensor wallet chooser: on ur.io its own entry, and in the phone apps the line under a wallet that has no way to sign here directly. The user signs a message outside the page or app, for example with the btcli command line tool, and pastes the signature back."
 source: "Sign manually"
 platforms:
+  - android
+  - apple
+  - windows
+  - linux
   - site
 localizations:
   ar: "التوقيع يدويًا"
+  cs: "Podepsat ručně"
   de: "Manuell signieren"
+  el: "Χειροκίνητη υπογραφή"
   en: "Sign manually"
   es: "Firmar manualmente"
+  es-419: "Firmar manualmente"
+  es-MX: "Firmar manualmente"
+  fr: "Signer manuellement"
+  he: "חתימה ידנית"
+  hi: "मैन्युअल रूप से हस्ताक्षर करें"
+  id: "Tanda tangani secara manual"
+  it: "Firma manualmente"
+  ja: "手動で署名"
+  ko: "수동으로 서명"
+  nl: "Handmatig ondertekenen"
+  pl: "Podpisz ręcznie"
+  pt: "Assinar manualmente"
+  pt-BR: "Assinar manualmente"
+  pt-PT: "Assinar manualmente"
   ru: "Подписать вручную"
+  sv: "Signera manuellt"
+  sw: "Saini mwenyewe"
+  th: "ลงนามด้วยตนเอง"
+  uk: "Підписати вручну"
+  vi: "Ký thủ công"
   zh: "手动签名"
+  zh-HK: "手動簽名"
