@@ -2,6 +2,7 @@ description: "Key screen, the confirmation when the user saved the recovery phra
 source: "Convert to TAO needs this key, so it won't be available in this app."
 platforms:
   - apple
+  - android
 localizations:
   ar: "يحتاج التحويل إلى TAO إلى هذا المفتاح، لذا لن يكون متاحًا في هذا التطبيق."
   cs: "Převod na TAO potřebuje tento klíč, takže v této aplikaci nebude k dispozici."

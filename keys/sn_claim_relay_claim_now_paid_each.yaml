@@ -2,6 +2,7 @@ description: "Earnings claim sheet, under the Claim now button: URnetwork pays t
 source: "Paid by URnetwork, once every %lld days for each coldkey."
 platforms:
   - apple
+  - android
 placeholders:
   - name: days
     type: int

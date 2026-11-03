@@ -2,6 +2,7 @@ description: "Key screen, a small label above the recovery phrase's words: that 
 source: "12 words · address %@"
 platforms:
   - apple
+  - android
 placeholders:
   - name: address
     type: string

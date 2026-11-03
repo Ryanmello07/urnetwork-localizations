@@ -2,6 +2,7 @@ description: "Earnings claim sheet: the Claim now button, disabled, after the cl
 source: "Queued"
 platforms:
   - apple
+  - android
 localizations:
   ar: "في قائمة الانتظار"
   cs: "Ve frontě"

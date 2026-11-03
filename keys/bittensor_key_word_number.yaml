@@ -2,6 +2,7 @@ description: "Key screen, the confirmation before the key leaves the app, where 
 source: "Word %lld"
 platforms:
   - apple
+  - android
 placeholders:
   - name: position
     type: int

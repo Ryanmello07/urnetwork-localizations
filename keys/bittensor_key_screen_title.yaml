@@ -2,6 +2,7 @@ description: "Key screen: the screen that shows the Bittensor recovery phrase, a
 source: "Bittensor recovery phrase"
 platforms:
   - apple
+  - android
 localizations:
   ar: "عبارة النسخ الاحتياطي لـ Bittensor"
   cs: "Obnovovací fráze Bittensor"

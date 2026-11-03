@@ -2,6 +2,7 @@ description: "Earnings, the settlement v2 tile and the claim sheet, after the us
 source: "Claim now is queued. URnetwork sends it first, within today's budget."
 platforms:
   - apple
+  - android
 localizations:
   ar: "«المطالبة الآن» في قائمة الانتظار. سيرسلها URnetwork أولًا، ضمن ميزانية اليوم."
   cs: "„Vyzvednout hned“ je ve frontě. URnetwork ho odešle jako první, v rámci dnešního rozpočtu."
