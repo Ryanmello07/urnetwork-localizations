@@ -1,5 +1,7 @@
 description: "A local notification, the title. It arrives once, when the first epoch's earnings can be claimed."
 source: "Back up your Bittensor key"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

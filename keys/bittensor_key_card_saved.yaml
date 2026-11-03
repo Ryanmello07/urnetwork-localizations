@@ -1,5 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. The user proved they saved the phrase and chose to keep the key on the device."
 source: "Your recovery phrase is saved, and the key stays on this device."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

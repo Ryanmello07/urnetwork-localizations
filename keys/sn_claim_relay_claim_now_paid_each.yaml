@@ -1,0 +1,36 @@
+description: "Earnings claim sheet, under the Claim now button: URnetwork pays the gas, once in this many days (30) for each Bittensor address (coldkey). Keep coldkey as the app writes it elsewhere."
+source: "Paid by URnetwork, once every %lld days for each coldkey."
+platforms:
+  - apple
+placeholders:
+  - name: days
+    type: int
+localizations:
+  ar: "على حساب URnetwork، مرة كل {days} يومًا لكل coldkey."
+  cs: "Hradí URnetwork, jednou za {days} dní pro každý coldkey."
+  de: "Bezahlt von URnetwork, einmal alle {days} Tage für jeden Coldkey."
+  el: "Πληρώνεται από το URnetwork, μία φορά κάθε {days} ημέρες για κάθε coldkey."
+  en: "Paid by URnetwork, once every {days} days for each coldkey."
+  es: "Lo paga URnetwork, una vez cada {days} días por cada coldkey."
+  es-419: "Lo paga URnetwork, una vez cada {days} días por cada coldkey."
+  es-MX: "Lo paga URnetwork, una vez cada {days} días por cada coldkey."
+  fr: "Payé par URnetwork, une fois tous les {days} jours pour chaque coldkey."
+  he: "משולם על ידי URnetwork, פעם ב-{days} ימים לכל coldkey."
+  hi: "भुगतान URnetwork करता है, हर coldkey के लिए हर {days} दिन में एक बार।"
+  id: "Dibayar oleh URnetwork, sekali setiap {days} hari untuk setiap coldkey."
+  it: "Pagato da URnetwork, una volta ogni {days} giorni per ogni coldkey."
+  ja: "URnetwork の負担で、coldkey ごとに {days} 日に 1 回利用できます。"
+  ko: "URnetwork가 비용을 부담하며, coldkey마다 {days}일에 한 번 사용할 수 있습니다."
+  nl: "Betaald door URnetwork, één keer per {days} dagen per coldkey."
+  pl: "Płaci URnetwork, raz na {days} dni dla każdego coldkeya."
+  pt: "Pago pelo URnetwork, uma vez a cada {days} dias por cada coldkey."
+  pt-BR: "Pago pelo URnetwork, uma vez a cada {days} dias para cada coldkey."
+  pt-PT: "Pago pelo URnetwork, uma vez a cada {days} dias por cada coldkey."
+  ru: "Оплачивается URnetwork, раз в {days} дн. для каждого coldkey."
+  sv: "Betalas av URnetwork, en gång per {days} dagar för varje coldkey."
+  sw: "Linalipiwa na URnetwork, mara moja kila siku {days} kwa kila coldkey."
+  th: "ออกค่าใช้จ่ายโดย URnetwork ใช้ได้ {days} วันต่อครั้งสำหรับแต่ละ coldkey"
+  uk: "Оплачується URnetwork, раз на {days} дн. для кожного coldkey."
+  vi: "Do URnetwork chi trả, {days} ngày một lần cho mỗi coldkey."
+  zh: "由 URnetwork 支付费用，每个 coldkey 每 {days} 天一次。"
+  zh-HK: "由 URnetwork 支付費用，每個 coldkey 每 {days} 日一次。"

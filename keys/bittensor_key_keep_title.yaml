@@ -1,5 +1,7 @@
 description: "Key screen, the check before the key stays on the device: the user enters two of its words."
 source: "Keep this key on this device?"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

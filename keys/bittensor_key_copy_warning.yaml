@@ -1,5 +1,7 @@
 description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. Next to the Copy button."
 source: "Other apps may be able to read the clipboard. It's cleared after 60 seconds."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

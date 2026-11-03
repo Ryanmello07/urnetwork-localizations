@@ -1,5 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. The short form of the warning, read before the one tap."
 source: "URnetwork is not a wallet. To transfer or use your SN25α, you enter the key's recovery phrase into a Bittensor wallet or btcli. If you lose this device before saving it, your SN25α can't be reached."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

@@ -1,5 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. Explains the one tap, read before it. A miner is a device on the network that earns; this is the Bittensor sense of the word."
 source: "URnetwork creates a Bittensor key on this device and pays every miner on your network to it, from the next epoch."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

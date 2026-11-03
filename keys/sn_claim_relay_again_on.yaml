@@ -1,0 +1,36 @@
+description: "Earnings, the settlement v2 tile and the claim sheet: Claim now was used for this address, and works again from this date. The placeholder is a date, as Dec 3."
+source: "Claim now is available again on %@."
+platforms:
+  - apple
+placeholders:
+  - name: date
+    type: string
+localizations:
+  ar: "ستتوفر «المطالبة الآن» مجددًا في {date}."
+  cs: "„Vyzvednout hned“ bude znovu k dispozici {date}."
+  de: "„Jetzt einlösen“ ist am {date} wieder verfügbar."
+  el: "Το «Διεκδίκηση τώρα» θα είναι ξανά διαθέσιμο στις {date}."
+  en: "Claim now is available again on {date}."
+  es: "«Reclamar ahora» vuelve a estar disponible el {date}."
+  es-419: "“Reclamar ahora” vuelve a estar disponible el {date}."
+  es-MX: "“Reclamar ahora” vuelve a estar disponible el {date}."
+  fr: "« Réclamer maintenant » sera de nouveau disponible le {date}."
+  he: "«מימוש עכשיו» יהיה זמין שוב ב-{date}."
+  hi: "“अभी दावा करें” {date} को फिर से उपलब्ध होगा।"
+  id: "“Klaim sekarang” tersedia lagi pada {date}."
+  it: "«Riscatta ora» sarà di nuovo disponibile il {date}."
+  ja: "「今すぐ受け取る」は {date} に再び利用できるようになります。"
+  ko: "“지금 받기”는 {date}에 다시 사용할 수 있습니다."
+  nl: "‘Nu opeisen’ is weer beschikbaar op {date}."
+  pl: "„Odbierz teraz” będzie znowu dostępne {date}."
+  pt: "«Reivindicar agora» volta a estar disponível a {date}."
+  pt-BR: "“Resgatar agora” estará disponível novamente em {date}."
+  pt-PT: "«Reivindicar agora» volta a estar disponível a {date}."
+  ru: "«Получить сейчас» снова будет доступно {date}."
+  sv: "”Hämta ut nu” är tillgängligt igen den {date}."
+  sw: "“Dai sasa” litapatikana tena tarehe {date}."
+  th: "“รับตอนนี้” จะใช้ได้อีกครั้งในวันที่ {date}"
+  uk: "«Отримати зараз» знову буде доступно {date}."
+  vi: "“Nhận ngay” sẽ khả dụng trở lại vào {date}."
+  zh: "“立即领取”将于 {date} 再次可用。"
+  zh-HK: "「立即領取」將於 {date} 再次可用。"

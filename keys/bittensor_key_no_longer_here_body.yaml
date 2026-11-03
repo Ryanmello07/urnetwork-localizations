@@ -1,5 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. Under: This app no longer has the key."
 source: "Your earnings keep going to this address. To transfer or use your SN25α, enter your recovery phrase into a Bittensor wallet such as Talisman or Nova, or into btcli."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

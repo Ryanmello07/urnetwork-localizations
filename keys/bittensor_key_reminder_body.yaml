@@ -1,5 +1,7 @@
 description: "A local notification, the body."
 source: "Your first epoch of earnings can now be claimed. If you lose this device before saving your recovery phrase, your SN25α can't be reached."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:
