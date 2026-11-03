@@ -1,6 +1,7 @@
 description: "Earnings, the settlement v2 tile and the claim sheet: a link to claim the balance from this device, paying the gas with the user's gas key (a small TAO account on this device). Keep gas key as the app writes it elsewhere."
 source: "Claim it yourself with your gas key"
 platforms:
+  - linux
   - apple
   - android
 localizations:

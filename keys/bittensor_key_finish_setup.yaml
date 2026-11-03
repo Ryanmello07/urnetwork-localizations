@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. Button that retries the link between the key on this device and the network's payouts."
 source: "Finish setup"
 platforms:
+  - linux
   - apple
   - android
 localizations:

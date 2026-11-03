@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. A small link when payouts go to another wallet. A warning follows before anything changes."
 source: "Create a key on this device"
 platforms:
+  - linux
   - apple
   - android
 localizations:

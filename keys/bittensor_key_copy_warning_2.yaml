@@ -1,6 +1,7 @@
 description: "Key screen, under the Copy button for the recovery phrase: a warning about the clipboard. The copy isn't shared to the user's other devices and is removed after 60 seconds; 60 s is 60 seconds, abbreviate seconds as usual."
 source: "Other apps may be able to read the clipboard. The copy stays on this device and is cleared after 60 s."
 platforms:
+  - linux
   - apple
   - android
 localizations:

@@ -1,6 +1,7 @@
 description: "Key screen, the delete confirmation: one point of a short list, after Earnings keep going to this address. Them is the earnings."
 source: "Only the recovery phrase can move them."
 platforms:
+  - linux
   - apple
   - android
 localizations:

@@ -1,6 +1,7 @@
 description: "The one local notification, sent when the network's first earnings on the Bittensor key can be claimed while its recovery phrase still isn't saved: the title."
 source: "Your first SN25α is claimable"
 platforms:
+  - linux
   - apple
   - android
 localizations:

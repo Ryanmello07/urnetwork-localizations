@@ -1,6 +1,7 @@
 description: "Key screen, while the recovery phrase's words show: a countdown until they hide by themselves. The placeholder is minutes and seconds, as 0:58."
 source: "Hides again in %@"
 platforms:
+  - linux
   - apple
   - android
 placeholders:

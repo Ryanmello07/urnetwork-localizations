@@ -1,6 +1,7 @@
 description: "Earnings, the settlement v2 tile and the claim sheet, after the user tapped Claim now: the claim is in line and goes out before the automatic ones, as long as the day's gas budget lasts."
 source: "Claim now is queued. URnetwork sends it first, within today's budget."
 platforms:
+  - linux
   - apple
   - android
 localizations:

@@ -1,6 +1,7 @@
 description: "Key screen, the button that sets up payouts with the key and then drops it, after the user entered two words of the recovery phrase. Short: a button."
 source: "Set up payouts and delete key"
 platforms:
+  - linux
   - apple
   - android
 localizations:

@@ -1,6 +1,7 @@
 description: "Key screen, the keep sheet's button, enabled once the two words are right. Short: a button. It is the key that stays."
 source: "Keep it on this device"
 platforms:
+  - linux
   - apple
   - android
 localizations:

@@ -1,6 +1,7 @@
 description: "The one local notification of an unsaved Bittensor key: the body. Tapping it opens the Key screen."
 source: "Back up your Bittensor recovery phrase now. If you lose this device before saving it, your SN25α can't be reached."
 platforms:
+  - linux
   - apple
   - android
 localizations:

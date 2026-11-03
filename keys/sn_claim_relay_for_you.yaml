@@ -1,6 +1,7 @@
 description: "Earnings screen, the settlement v2 tile and the claim sheet: a line beside a relay icon. URnetwork sends the claim transaction and pays its gas; the SN25α goes to the user's own address."
 source: "URnetwork claims this for you"
 platforms:
+  - linux
   - apple
   - android
 localizations:
