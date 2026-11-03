@@ -19,6 +19,8 @@ const NAMES_CONTROL = {
 	no_wallets_found_enter_address_manually: "enter_address_manually",
 	// the desktop sheet when the bridge finds no Phantom or Solflare extension
 	solana_wallet_error_extension_not_found: "enter_address_manually",
+	// the extender row when the internet can't reach the device: it can turn the role off
+	extender_activation_unreachable: "extender",
 };
 
 test("the payout wallet's no-wallet messages name Enter address manually in every locale", () => {
