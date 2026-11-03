@@ -5,6 +5,7 @@ platforms:
   - apple
   - android
   - windows
+  - site
 localizations:
   ar: "يطالب URnetwork بهذا نيابةً عنك"
   cs: "URnetwork za vás odešle nárok"

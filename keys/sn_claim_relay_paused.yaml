@@ -5,6 +5,7 @@ platforms:
   - apple
   - android
   - windows
+  - site
 localizations:
   ar: "أوقف URnetwork المطالبات مؤقتًا في الوقت الحالي."
   cs: "URnetwork prozatím pozastavil vyzvedávání."

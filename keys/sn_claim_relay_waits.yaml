@@ -5,6 +5,7 @@ platforms:
   - apple
   - android
   - windows
+  - site
 localizations:
   ar: "ينتظر SN25α الخاص بك في الخزنة، وهذا الرصيد لا تنتهي صلاحيته أبدًا."
   cs: "Vaše SN25α čeká v trezoru a tento kredit nikdy nevyprší."

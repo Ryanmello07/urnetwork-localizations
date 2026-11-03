@@ -5,6 +5,7 @@ platforms:
   - apple
   - android
   - windows
+  - site
 localizations:
   ar: "في قائمة الانتظار"
   cs: "Ve frontě"

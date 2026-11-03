@@ -5,6 +5,7 @@ platforms:
   - apple
   - android
   - windows
+  - site
 localizations:
   ar: "«المطالبة الآن» في قائمة الانتظار. سيرسلها URnetwork أولًا، ضمن ميزانية اليوم."
   cs: "„Vyzvednout hned“ je ve frontě. URnetwork ho odešle jako první, v rámci dnešního rozpočtu."

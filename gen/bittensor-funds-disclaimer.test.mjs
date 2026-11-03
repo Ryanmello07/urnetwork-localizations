@@ -26,9 +26,12 @@ test("the owner's words, as the owner wrote them", () => {
 test("both ship to the apps that show the easy flows, in every locale", () => {
 	for (const id of ["bittensor_funds_disclaimer", "bittensor_funds_disclaimer_funds_only"]) {
 		const k = keys.get(id);
-		// Windows and Linux carry every live key already, and tag a key only once they look it up
+		// Windows and Linux carry every live key already, and tag a key only once they look it up. The
+		// site (ur.io) shows the funds-only text on its claim screens, and never the whole text: it
+		// stores no key, so the first two sentences would be false there.
+		const apps = id === "bittensor_funds_disclaimer_funds_only" ? ["apple", "android", "windows", "linux", "site"] : ["apple", "android", "windows", "linux"];
 		for (const app of ["apple", "android"]) assert.ok(k.platforms.includes(app), `${id} is not ${app}'s`);
-		assert.ok(k.platforms.every((p) => ["apple", "android", "windows", "linux"].includes(p)), `${id}: ${k.platforms}`);
+		assert.ok(k.platforms.every((p) => apps.includes(p)), `${id}: ${k.platforms}`);
 		assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort(), id);
 		for (const [locale, value] of Object.entries(k.localizations)) {
 			assert.ok(value.includes("URnetwork"), `${id}[${locale}]`);
