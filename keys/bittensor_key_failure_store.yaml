@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. An error under the Set up payouts button: the new key could not be written to the device's secure storage."
 source: "Couldn't save the key on this device, so nothing was signed. Try again, or save the recovery phrase first."
 platforms:
+  - linux
   - apple
   - android
   - windows

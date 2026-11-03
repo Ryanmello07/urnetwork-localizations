@@ -1,6 +1,7 @@
 description: "Earnings claim sheet: who claims and where the tokens go. The placeholder is the user's Bittensor address, shortened (5F3s…kQ9v); keep it as it is."
 source: "URnetwork claims this for you. It pays the gas, and your SN25α lands on %@."
 platforms:
+  - linux
   - apple
   - android
   - windows

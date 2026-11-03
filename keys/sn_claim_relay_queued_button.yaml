@@ -1,6 +1,7 @@
 description: "Earnings claim sheet: the Claim now button, disabled, after the claim was asked for. Short: a button."
 source: "Queued"
 platforms:
+  - linux
   - apple
   - android
   - windows

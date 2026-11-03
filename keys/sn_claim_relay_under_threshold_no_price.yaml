@@ -1,6 +1,7 @@
 description: "Earnings, the settlement v2 tile and the claim sheet, under Below the automatic threshold, when today's SN25α price isn't known. The placeholder is the threshold in TAO (0.0125)."
 source: "It's claimed for you once it's worth about %@ TAO. Waiting costs nothing: this credit never expires."
 platforms:
+  - linux
   - apple
   - android
   - windows

@@ -1,6 +1,7 @@
 description: "Earnings, the settlement v2 tile and the claim sheet: Claim now was used for this address, and works again from this date. The placeholder is a date, as Dec 3."
 source: "Claim now is available again on %@."
 platforms:
+  - linux
   - apple
   - android
   - windows

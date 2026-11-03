@@ -1,6 +1,7 @@
 description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. The words are covered, and this is on the cover."
 source: "Tap to reveal"
 platforms:
+  - linux
   - apple
   - android
   - windows

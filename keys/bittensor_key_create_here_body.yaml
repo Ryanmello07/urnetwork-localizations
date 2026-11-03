@@ -1,6 +1,7 @@
 description: "The payout consent sheet (Change wallet), under the button Create a key on this device: what it does."
 source: "URnetwork is not a wallet. One tap creates a Bittensor key on this device; back up its recovery phrase afterwards."
 platforms:
+  - linux
   - apple
   - android
   - windows

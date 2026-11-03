@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. The key was made and stored, but the step that links it to payouts did not finish. The Finish setup button follows."
 source: "Your key is on this device, but payouts aren't set up yet."
 platforms:
+  - linux
   - apple
   - android
   - windows

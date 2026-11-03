@@ -1,6 +1,7 @@
 description: "Key screen, the title of the confirmation before this app deletes its copy of the Bittensor key. The user has said they saved the recovery phrase."
 source: "Delete the key from this device?"
 platforms:
+  - linux
   - apple
   - android
   - windows

@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card, under This key is on another device or in your wallet: this app doesn't hold the key, so it can't show the key's recovery phrase."
 source: "Its recovery phrase can't be shown here."
 platforms:
+  - linux
   - apple
   - android
   - windows

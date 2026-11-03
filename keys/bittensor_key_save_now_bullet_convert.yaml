@@ -1,6 +1,7 @@
 description: "Key screen, the confirmation when the user saved the recovery phrase first: one point of a short list. Convert to TAO is the app's action that swaps SN25α for TAO."
 source: "Convert to TAO needs this key, so it won't be available in this app."
 platforms:
+  - linux
   - apple
   - android
   - windows

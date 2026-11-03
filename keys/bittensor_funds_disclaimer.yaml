@@ -1,6 +1,7 @@
 description: "The owner's disclaimer (2026-11-03), on every screen of the one-tap Bittensor key flows where the key is in this app's secure storage on the device: the payout card, the Key screen with its delete and keep confirmations, the claim card, and later convert and Top 200. Three sentences: the key is kept on the device in the app's own secure storage (use your language's usual words for an app's secure storage), it is never shared with URnetwork, and URnetwork does not touch and is not responsible for any user funds. Keep the meaning exact. The last sentence is also the key bittensor_funds_disclaimer_funds_only and must read exactly the same."
 source: "This key is stored locally in the app secure storage. It is never shared with URnetwork. URnetwork does not touch and is not responsible for any user funds."
 platforms:
+  - linux
   - apple
   - android
   - windows

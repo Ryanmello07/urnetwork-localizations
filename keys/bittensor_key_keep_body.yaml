@@ -1,6 +1,7 @@
 description: "Key screen, the keep sheet: what keeping does. Convert is the app's SN25α to TAO action; one-tap Top 200 is claiming a spot on the subnet's Top 200 leaderboard with one tap. Keep Top 200 as the app writes it."
 source: "You've saved the recovery phrase, so the backup reminder ends. The key stays on this device for convert and one-tap Top 200."
 platforms:
+  - linux
   - apple
   - android
   - windows

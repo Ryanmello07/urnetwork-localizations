@@ -1,6 +1,7 @@
 description: "Earnings, the settlement v2 tile and the claim sheet, when URnetwork isn't claiming: the link below claims with the user's own gas key. Ends with a colon before that link."
 source: "Claim now waits until claims are running again. To claim right away, pay the gas yourself:"
 platforms:
+  - linux
   - apple
   - android
   - windows

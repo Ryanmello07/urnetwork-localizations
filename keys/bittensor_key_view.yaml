@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card: a link that opens the Key screen, where the recovery phrase can be shown after device authentication."
 source: "View key"
 platforms:
+  - linux
   - apple
   - android
   - windows

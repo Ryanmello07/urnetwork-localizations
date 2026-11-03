@@ -1,6 +1,7 @@
 description: "The warning before a new key replaces the network's payout wallet: the button that goes ahead. Short: a button."
 source: "Replace payout wallet"
 platforms:
+  - linux
   - apple
   - android
   - windows

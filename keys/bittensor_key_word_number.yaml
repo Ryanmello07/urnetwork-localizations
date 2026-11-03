@@ -1,6 +1,7 @@
 description: "Key screen, the confirmation before the key leaves the app, where the user enters two of its words. A field label: which word of the phrase to enter, counting from 1, for example Word 3."
 source: "Word %lld"
 platforms:
+  - linux
   - apple
   - android
   - windows

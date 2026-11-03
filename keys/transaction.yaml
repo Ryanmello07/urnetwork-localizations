@@ -1,6 +1,7 @@
 description: "Call to action"
 source: "Transaction"
 platforms:
+  - linux
   - android
   - apple
 localizations:

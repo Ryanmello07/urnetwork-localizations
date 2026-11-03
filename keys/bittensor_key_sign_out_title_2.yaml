@@ -1,6 +1,7 @@
 description: "Sign out, the confirmation while this device holds the network's Bittensor key and its recovery phrase isn't saved: the title."
 source: "Your Bittensor key isn't backed up"
 platforms:
+  - linux
   - apple
   - android
   - windows

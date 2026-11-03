@@ -1,6 +1,7 @@
 description: "The confirmation of Sign out, the message."
 source: "Your Bittensor recovery phrase isn't saved yet. The key stays on this device and comes back when this network signs in again. If you lose this device before saving it, your SN25α can't be reached."
 platforms:
+  - linux
   - apple
   - android
   - windows

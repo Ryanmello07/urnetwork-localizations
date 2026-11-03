@@ -1,6 +1,7 @@
 description: "The last sentence of the owner's disclaimer (bittensor_funds_disclaimer) alone, for the screens of the one-tap Bittensor key flows where the key is not stored in this app: a network paid to an outside wallet or a key on another device, a key this app has deleted, and a recovery phrase being saved before anything is stored. Must read exactly as the last sentence of bittensor_funds_disclaimer."
 source: "URnetwork does not touch and is not responsible for any user funds."
 platforms:
+  - linux
   - apple
   - android
   - windows

@@ -1,6 +1,7 @@
 description: "Earnings, the settlement v2 tile and the claim sheet: why the balance is still pending. URnetwork claims automatically once a balance is worth a set amount."
 source: "Below the automatic threshold."
 platforms:
+  - linux
   - apple
   - android
   - windows

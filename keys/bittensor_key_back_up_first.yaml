@@ -1,6 +1,7 @@
 description: "Sign out and Delete account confirmations: a button that opens the Key screen, so the user can save the recovery phrase before going on. Short: a button."
 source: "Back up first"
 platforms:
+  - linux
   - apple
   - android
   - windows

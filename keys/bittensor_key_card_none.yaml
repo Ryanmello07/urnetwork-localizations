@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. The first line while the network has no payout wallet. Set up payouts is the main button below it."
 source: "No payout wallet yet. Earnings aren't paid until you set one up."
 platforms:
+  - linux
   - apple
   - android
   - windows

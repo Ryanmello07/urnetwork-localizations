@@ -1,6 +1,7 @@
 description: "Key screen, the two-word sheet before deleting the key: what to do. The fields below say which word, as Word 4."
 source: "To confirm you've saved the recovery phrase, enter these two words from it."
 platforms:
+  - linux
   - apple
   - android
   - windows

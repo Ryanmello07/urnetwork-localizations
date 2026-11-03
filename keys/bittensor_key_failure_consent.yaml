@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. A general error under the Set up payouts button."
 source: "Couldn't set up payouts. Try again."
 platforms:
+  - linux
   - apple
   - android
   - windows

@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card when a key was stored but setup stopped before the payout consent was signed, for example after a crash. Finish setup is the button's label below; keep it recognizable as that label."
 source: "Setup stopped before signing, so nothing was paid to this key. Finish setup signs the consent with it."
 platforms:
+  - linux
   - apple
   - android
   - windows

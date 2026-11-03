@@ -1,6 +1,7 @@
 description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. An error after the user asked to delete the key."
 source: "Couldn't delete the key from this device. It's still here."
 platforms:
+  - linux
   - apple
   - android
   - windows

@@ -1,6 +1,7 @@
 description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. After the link to payouts failed, for a key that exists only in memory. A Retry button follows."
 source: "Payouts aren't set up yet. No earnings went to this key, and leaving discards it."
 platforms:
+  - linux
   - apple
   - android
   - windows

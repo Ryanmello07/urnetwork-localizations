@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. A smaller link under Set up payouts: shows the phrase to save before anything else happens."
 source: "Save the recovery phrase first"
 platforms:
+  - linux
   - apple
   - android
   - windows

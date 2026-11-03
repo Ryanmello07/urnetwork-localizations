@@ -1,6 +1,7 @@
 description: "Earnings, the settlement v2 tile and the claim sheet: why Claim now can't be used yet. The placeholder is the smallest amount, in TAO (0.0001)."
 source: "Claim now needs a balance worth at least %@ TAO."
 platforms:
+  - linux
   - apple
   - android
   - windows

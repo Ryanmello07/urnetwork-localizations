@@ -1,6 +1,7 @@
 description: "Key screen: tells apart the two phrases a user may have. The account seedphrase from sign-up (24 words) signs in to URnetwork; this Bittensor recovery phrase (12 words) controls the user's SN25α tokens. Use the app's usual words for each."
 source: "Not the seedphrase from sign-up: that one is 24 words and signs you in to URnetwork. This Bittensor recovery phrase is 12 words and holds your SN25α."
 platforms:
+  - linux
   - apple
   - android
   - windows
