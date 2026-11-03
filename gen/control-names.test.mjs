@@ -9,7 +9,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { loadStore } from "./store.mjs";
+import { isTaggedFor, loadStore } from "./store.mjs";
 
 const keys = new Map(loadStore().map((k) => [k.id, k]));
 
@@ -72,7 +72,40 @@ test("the out-of-balance alert's disconnect-first line names Disconnect in every
 });
 
 test("the disconnect-first line is tagged for the apps whose alert can show it", () => {
+	// Windows and Linux: their Disconnect lifts the kill switch too, so Disconnect
+	// is all a payment needs there
+	const k = keys.get("insufficient_balance_disconnect_first");
+	assert.ok(k, "insufficient_balance_disconnect_first is not in the store");
+	assert.deepEqual(
+		["android", "apple", "linux", "windows"].filter((p) => isTaggedFor(k, p)),
+		["linux", "windows"],
+	);
 	// iOS and the other android flavors never show it, but they share these
 	// catalogs with the builds that do
-	assert.deepEqual(keys.get("insufficient_balance_disconnect_first")?.platforms, ["android", "apple", "linux", "windows"]);
+	assert.deepEqual(keys.get("insufficient_balance_disconnect_first_kill_switch")?.platforms, ["android", "apple"]);
+});
+
+// On apple and android the kill switch outlasts a Disconnect: with it on, the
+// tunnel keeps running with no connection (shouldRun / vpnServiceRequired: a
+// kill switch is route local off) and the sdk drops what it captures, so a
+// checkout that goes through the tunnel still can't get out after the
+// Disconnect the line asks for. Their line says to turn the kill switch off too,
+// naming both controls by their labels (the kill switch's case folded, since a
+// label is capitalized and the middle of a sentence is not).
+test("on apple and android the disconnect-first line also names the kill switch in every locale", () => {
+	const k = keys.get("insufficient_balance_disconnect_first_kill_switch");
+	assert.ok(k, "insufficient_balance_disconnect_first_kill_switch is not in the store");
+	const wrong = [];
+	for (const [controlId, folded] of [["disconnect", false], ["kill_switch", true]]) {
+		for (const [loc, label] of Object.entries(keys.get(controlId).localizations)) {
+			const text = k.localizations[loc];
+			if (text == null) {
+				wrong.push(`[${loc}]: missing`);
+				continue;
+			}
+			const names = folded ? text.toLowerCase().includes(label.toLowerCase()) : text.includes(label);
+			if (!names) wrong.push(`${controlId}[${loc}]: does not name ${JSON.stringify(label)}: ${text}`);
+		}
+	}
+	assert.deepEqual(wrong, []);
 });
