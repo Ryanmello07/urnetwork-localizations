@@ -2,6 +2,7 @@ description: "Delete account, the confirmation while this device holds the netwo
 source: "Your Bittensor key isn't backed up. Deleting your account also deletes it from this device, and URnetwork can't get it back."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "لم يتم نسخ مفتاح Bittensor الخاص بك احتياطيًا. حذف حسابك يحذفه أيضًا من هذا الجهاز، ولا يستطيع URnetwork استعادته."
   cs: "Váš klíč Bittensor není zálohovaný. Odstraněním účtu se odstraní i z tohoto zařízení a URnetwork ho nedokáže získat zpět."

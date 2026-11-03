@@ -2,6 +2,7 @@ description: "Key screen: the screen that shows the Bittensor recovery phrase, a
 source: "The words stay hidden while your screen is being recorded or mirrored."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "تبقى الكلمات مخفية أثناء تسجيل شاشتك أو عكسها."
   cs: "Slova zůstávají skrytá, dokud se vaše obrazovka nahrává nebo zrcadlí."

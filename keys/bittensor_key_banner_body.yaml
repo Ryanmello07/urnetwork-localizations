@@ -2,6 +2,7 @@ description: "Earnings screen: the warning banner under Back up your key, which 
 source: "If you lose this device before saving your recovery phrase, your SN25α can't be reached."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "إذا فقدت هذا الجهاز قبل حفظ عبارة النسخ الاحتياطي الخاصة بك، فلن يمكن الوصول إلى SN25α الخاص بك."
   cs: "Pokud toto zařízení ztratíte dřív, než si uložíte obnovovací frázi, k vašemu SN25α se nebude možné dostat."

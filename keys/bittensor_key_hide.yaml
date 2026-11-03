@@ -2,6 +2,7 @@ description: "Key screen: the screen that shows the Bittensor recovery phrase, a
 source: "Hide"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "إخفاء"
   cs: "Skrýt"

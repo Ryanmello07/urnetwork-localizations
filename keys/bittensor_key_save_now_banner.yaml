@@ -2,6 +2,7 @@ description: "Key screen, a banner at the top when the user chose to save the re
 source: "This key isn't saved on this device. Write the 12 words down, then choose below. If you leave this screen, the key is discarded and nothing is paid to it."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "هذا المفتاح غير محفوظ على هذا الجهاز. دوّن الكلمات الـ 12، ثم اختر أدناه. إذا غادرت هذه الشاشة، فسيتم التخلص من المفتاح ولن يُدفع إليه أي شيء."
   cs: "Tento klíč není na tomto zařízení uložený. Zapište si těch 12 slov a pak vyberte níže. Pokud tuto obrazovku opustíte, klíč se zahodí a nic se na něj nevyplatí."

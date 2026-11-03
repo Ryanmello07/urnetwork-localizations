@@ -2,6 +2,7 @@ description: "Sign out and Delete account confirmations: a button that opens the
 source: "Back up first"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "النسخ الاحتياطي أولًا"
   cs: "Nejdřív zálohovat"

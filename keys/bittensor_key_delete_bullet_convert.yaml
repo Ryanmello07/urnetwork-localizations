@@ -2,6 +2,7 @@ description: "Key screen, the delete confirmation: one point of a short list. Co
 source: "Convert to TAO stops working in this app."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "يتوقف التحويل إلى TAO عن العمل في هذا التطبيق."
   cs: "Převod na TAO v této aplikaci přestane fungovat."

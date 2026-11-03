@@ -39,10 +39,15 @@ test("the plan's sentences are in the store as it words them", () => {
 	}
 });
 
-test("every key is the apple app's for now, in every locale, with its English as its source", () => {
+// Apple's first; each port tags the keys it looks up, Windows and Linux only once their code does
+const APPS = ["apple", "android", "windows", "linux"];
+
+test("every key is the apple app's and the ports' that look it up, in every locale, with its English as its source", () => {
 	assert.ok(50 <= ours.length, `${ours.length} keys`);
 	for (const k of ours) {
-		assert.deepEqual(k.platforms, ["apple"], k.id);
+		assert.ok(k.platforms.includes("apple"), k.id);
+		assert.ok(k.platforms.every((p) => APPS.includes(p)), `${k.id}: ${k.platforms}`);
+		assert.equal(new Set(k.platforms).size, k.platforms.length, `${k.id} is tagged twice`);
 		assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort(), k.id);
 		if (!k.placeholders?.length) assert.equal(k.localizations.en, k.source, k.id);
 	}

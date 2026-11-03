@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card for the network's payouts. Button
 source: "Finish setup"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "إنهاء الإعداد"
   cs: "Dokončit nastavení"

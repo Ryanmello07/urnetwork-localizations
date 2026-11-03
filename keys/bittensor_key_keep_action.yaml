@@ -2,6 +2,7 @@ description: "Key screen: the screen that shows the Bittensor recovery phrase, a
 source: "I've saved it. Keep it on this device."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "لقد حفظته. أبقِه على هذا الجهاز."
   cs: "Mám ho uložený. Ponechat ho na tomto zařízení."

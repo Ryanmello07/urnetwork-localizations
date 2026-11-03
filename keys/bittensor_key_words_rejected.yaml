@@ -2,6 +2,7 @@ description: "Key screen, the confirmation before the key leaves the app, where 
 source: "Those words don't match. Check your saved recovery phrase."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "هاتان الكلمتان غير متطابقتين. تحقق من عبارة النسخ الاحتياطي التي حفظتها."
   cs: "Tato slova nesouhlasí. Zkontrolujte svou uloženou obnovovací frázi."

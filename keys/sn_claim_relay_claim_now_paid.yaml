@@ -2,6 +2,7 @@ description: "Earnings, the settlement v2 tile, under the Claim now button: URne
 source: "Claim now is paid by URnetwork, once every %lld days."
 platforms:
   - apple
+  - windows
 placeholders:
   - name: days
     type: int

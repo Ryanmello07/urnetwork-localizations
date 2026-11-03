@@ -2,6 +2,7 @@ description: "Earnings screen: the title of a warning banner, and a button on th
 source: "Back up your key"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "انسخ مفتاحك احتياطيًا"
   cs: "Zálohujte svůj klíč"

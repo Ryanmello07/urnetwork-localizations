@@ -2,6 +2,7 @@ description: "Sign out, the confirmation while this device holds the network's B
 source: "Your Bittensor key isn't backed up"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "لم يتم نسخ مفتاح Bittensor الخاص بك احتياطيًا"
   cs: "Váš klíč Bittensor není zálohovaný"

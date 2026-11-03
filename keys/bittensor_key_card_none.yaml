@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card for the network's payouts. The fi
 source: "No payout wallet yet. Earnings aren't paid until you set one up."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "لا توجد محفظة دفع بعد. لا تُدفع الأرباح إلا بعد أن تُعدّ محفظة."
   cs: "Zatím žádná výplatní peněženka. Výdělky se nevyplácejí, dokud ji nenastavíte."

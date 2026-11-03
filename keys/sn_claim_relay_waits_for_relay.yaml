@@ -2,6 +2,7 @@ description: "Earnings, the settlement v2 tile and the claim sheet, when URnetwo
 source: "Claim now waits until claims are running again. To claim right away, pay the gas yourself:"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "تنتظر «المطالبة الآن» حتى تعود المطالبات إلى العمل. للمطالبة فورًا، ادفع رسوم الغاز بنفسك:"
   cs: "„Vyzvednout hned“ počká, dokud vyzvedávání znovu nepoběží. Pokud chcete vyzvednout ihned, zaplaťte gas sami:"

@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card for the network's payouts. Payout
 source: "The key on this device isn't receiving payouts."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "المفتاح الموجود على هذا الجهاز لا يتلقى المدفوعات."
   cs: "Klíč na tomto zařízení nedostává výplaty."

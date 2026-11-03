@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card for the network's payouts. The ke
 source: "Your key is on this device, but payouts aren't set up yet."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "مفتاحك موجود على هذا الجهاز، لكن لم يتم إعداد المدفوعات بعد."
   cs: "Váš klíč je na tomto zařízení, ale výplaty ještě nejsou nastavené."

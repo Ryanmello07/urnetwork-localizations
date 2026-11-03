@@ -2,6 +2,7 @@ description: "Earnings claim sheet: who claims and where the tokens go. The plac
 source: "URnetwork claims this for you. It pays the gas, and your SN25α lands on %@."
 platforms:
   - apple
+  - windows
 placeholders:
   - name: address
     type: string

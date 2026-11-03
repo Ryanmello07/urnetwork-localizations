@@ -2,6 +2,7 @@ description: "Key screen, the title of the sheet for keeping the Bittensor key o
 source: "Keep the key on this device?"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "هل تريد إبقاء المفتاح على هذا الجهاز؟"
   cs: "Ponechat klíč na tomto zařízení?"

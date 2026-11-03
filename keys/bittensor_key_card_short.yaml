@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card before setup, under its title and
 source: "URnetwork is not a wallet. Set up payouts creates a Bittensor key on this device, and your whole network's SN25α is paid to it. Back up its recovery phrase: if you lose this device before saving it, your SN25α can't be reached."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "URnetwork ليس محفظة. يُنشئ «إعداد المدفوعات» مفتاح Bittensor على هذا الجهاز، ويُدفع إليه SN25α الخاص بشبكتك بأكملها. احفظ عبارة النسخ الاحتياطي الخاصة بالمفتاح: إذا فقدت هذا الجهاز قبل حفظها، فلن يمكن الوصول إلى SN25α الخاص بك."
   cs: "URnetwork není peněženka. „Nastavit výplaty“ vytvoří na tomto zařízení klíč Bittensor a na něj se bude vyplácet SN25α celé vaší sítě. Zálohujte obnovovací frázi klíče: pokud toto zařízení ztratíte dřív, než ji uložíte, k vašemu SN25α se nebude možné dostat."

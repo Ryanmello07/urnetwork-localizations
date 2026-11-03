@@ -2,6 +2,7 @@ description: "Earnings, the settlement v2 tile and the claim sheet: a link to cl
 source: "Claim it yourself with your gas key"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "طالِب به بنفسك باستخدام مفتاح الغاز الخاص بك"
   cs: "Vyzvedněte si to sami pomocí svého klíče pro gas"

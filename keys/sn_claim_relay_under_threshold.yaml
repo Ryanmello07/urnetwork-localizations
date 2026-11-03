@@ -2,6 +2,7 @@ description: "Earnings, the settlement v2 tile and the claim sheet: why the bala
 source: "Below the automatic threshold."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "أقل من حد المطالبة التلقائية."
   cs: "Pod prahem pro automatické vyzvednutí."

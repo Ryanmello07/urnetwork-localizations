@@ -46,11 +46,12 @@ test("they say this device, never the mocks' iPhone", () => {
 	}
 });
 
-test("the claim relay's strings are Apple's for now, in every locale, and translated", () => {
+test("the claim relay's strings are Apple's and the ports' that look them up, in every locale, and translated", () => {
 	const relay = [...keys.values()].filter((k) => k.id.startsWith("sn_claim_relay_"));
 	assert.ok(20 <= relay.length, `${relay.length} relay keys`);
 	for (const k of relay) {
-		assert.deepEqual(k.platforms, ["apple"], k.id);
+		assert.ok(k.platforms.includes("apple"), k.id);
+		assert.ok(k.platforms.every((p) => ["apple", "android", "windows", "linux"].includes(p)), `${k.id}: ${k.platforms}`);
 		assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort(), k.id);
 		for (const locale of LOCALES) {
 			if (locale !== "en") assert.notEqual(k.localizations[locale], k.localizations.en, `${k.id}[${locale}] is English`);

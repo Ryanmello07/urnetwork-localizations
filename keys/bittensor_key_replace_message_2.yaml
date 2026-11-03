@@ -2,6 +2,7 @@ description: "The warning before a new key on this device replaces the network's
 source: "From the next epoch, your network's earnings go to a new key on this device. Earlier earnings stay on %@. The network admin gets an email about this change."
 platforms:
   - apple
+  - windows
 placeholders:
   - name: address
     type: string

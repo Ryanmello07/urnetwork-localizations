@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card, under the Bittensor address the 
 source: "Every device on your network is paid to this address."
 platforms:
   - apple
+  - windows
 localizations:
   ar: "تُدفع أرباح كل جهاز في شبكتك إلى هذا العنوان."
   cs: "Na tuto adresu se vyplácí každé zařízení ve vaší síti."

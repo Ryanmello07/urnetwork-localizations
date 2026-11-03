@@ -2,6 +2,7 @@ description: "Key screen, the title of the confirmation before this app deletes 
 source: "Delete the key from this device?"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "هل تريد حذف المفتاح من هذا الجهاز؟"
   cs: "Odstranit klíč z tohoto zařízení?"
