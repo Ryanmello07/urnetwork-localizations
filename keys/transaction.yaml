@@ -5,6 +5,7 @@ platforms:
   - android
   - apple
   - windows
+  - site
 localizations:
   ar: "المعاملة"
   cs: "Transakce"

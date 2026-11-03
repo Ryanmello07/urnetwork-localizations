@@ -5,6 +5,7 @@ platforms:
   - apple
   - android
   - windows
+  - site
 placeholders:
   - name: address
     type: string

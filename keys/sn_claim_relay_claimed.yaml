@@ -5,6 +5,7 @@ platforms:
   - android
   - linux
   - windows
+  - site
 placeholders:
   - name: amount
     type: string

@@ -5,6 +5,7 @@ platforms:
   - apple
   - android
   - windows
+  - site
 localizations:
   ar: "المطالبة الآن"
   cs: "Vyzvednout hned"

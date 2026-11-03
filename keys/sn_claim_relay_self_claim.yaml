@@ -5,6 +5,7 @@ platforms:
   - apple
   - android
   - windows
+  - site
 localizations:
   ar: "طالِب به بنفسك باستخدام مفتاح الغاز الخاص بك"
   cs: "Vyzvedněte si to sami pomocí svého klíče pro gas"

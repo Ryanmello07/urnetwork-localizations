@@ -5,6 +5,7 @@ platforms:
   - apple
   - android
   - windows
+  - site
 localizations:
   ar: "لم تنجح المطالبة الأخيرة. سيحاول URnetwork مرة أخرى لاحقًا."
   cs: "Poslední nárok neprošel. URnetwork to zkusí znovu později."

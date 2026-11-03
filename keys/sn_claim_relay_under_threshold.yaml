@@ -5,6 +5,7 @@ platforms:
   - apple
   - android
   - windows
+  - site
 localizations:
   ar: "أقل من حد المطالبة التلقائية."
   cs: "Pod prahem pro automatické vyzvednutí."
