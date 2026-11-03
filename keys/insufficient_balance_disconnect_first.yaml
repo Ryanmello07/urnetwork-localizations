@@ -1,10 +1,11 @@
-description: "Out-of-balance alert, on the builds whose checkout has to go through the tunnel (Windows, Linux, the Android Play flavor, the macOS direct download), while the tunnel holds or blocks traffic. Payment cannot reach the store until the user disconnects, and nothing disconnects for them; Disconnect is the button beside this line. Each translation names that button by its own label (the disconnect key)."
+description: "Out-of-balance alert, on the desktop builds whose checkout has to go through the tunnel (Windows, Linux), while the tunnel holds or blocks traffic. Their Disconnect lifts the kill switch too; apple and android say more (insufficient_balance_disconnect_first_kill_switch). Payment cannot reach the store until the user disconnects, and nothing disconnects for them; Disconnect is the button beside this line. Each translation names that button by its own label (the disconnect key)."
 source: "To upgrade, press Disconnect first. Payment can't get through until you do."
 platforms:
-  - android
   - apple
   - linux
   - windows
+deprecated:
+  - apple
 localizations:
   ar: "للترقية، اختر «قطع الاتصال» أولًا. لا يمكن إتمام الدفع قبل ذلك."
   cs: "Pro přechod na vyšší tarif nejprve zvolte „Odpojení“. Do té doby platba neprojde."
