@@ -89,3 +89,29 @@ test("the word's number stays in the field's label in every locale", () => {
 		assert.equal(value.split("{position}").length, 2, `${locale}: ${value}`);
 	}
 });
+
+// Every app shows these words, so none names one platform's secure store: the Keychain is Apple's, and
+// Android, Windows and Linux keep the key elsewhere. The store that can't answer is the device's secure
+// storage, as the funds disclaimer calls it. The words below are each locale's old name for the Keychain.
+const STORE_NAMES = [
+	/keychain/i, /keystore/i, /secret service/i, /credential manager/i,
+	/سلسلة المفاتيح/, /klíčenk/i, /schlüsselbund/i, /μπρελόκ/i, /llavero/i, /trousseau/i, /צרור המפתחות/,
+	/कीचेन/, /rantai kunci/i, /portachiavi/i, /キーチェーン/, /키체인/, /sleutelhanger/i, /pęk[au]? kluczy/i,
+	/porta-chaves/i, /chaveiro/i, /связк[аиу] ключей/i, /nyckelring/i, /พวงกุญแจ/, /в'язк[аиу] ключів/i,
+	/chuỗi khóa/i, /钥匙串/, /鑰匙圈/,
+];
+
+test("the key's strings name no platform's secure store, in any locale", () => {
+	const failure = keys.get("bittensor_key_failure_keychain");
+	assert.equal(failure.source, "Couldn't read this device's secure storage. Unlock your device and try again.");
+	assert.equal(failure.localizations.en, failure.source);
+	const shared = [...keys.values()].filter((k) => k.id.startsWith("bittensor_key_") || k.id.startsWith("bittensor_funds_"));
+	assert.ok(50 <= shared.length, `${shared.length} keys`);
+	for (const k of shared) {
+		for (const [locale, value] of Object.entries(k.localizations)) {
+			for (const text of typeof value === "string" ? [value] : Object.values(value)) {
+				for (const name of STORE_NAMES) assert.ok(!name.test(text), `${k.id}[${locale}] names a platform's store (${name}): ${text}`);
+			}
+		}
+	}
+});
