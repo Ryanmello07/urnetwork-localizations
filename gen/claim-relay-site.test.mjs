@@ -11,6 +11,9 @@ import { SITE_LOCALES, isTaggedFor, loadStore } from "./store.mjs";
 
 const keys = new Map(loadStore().map((k) => [k.id, k]));
 
+// a localization's text, or each of its plural forms (Claim now's period is a count)
+const forms = (value) => (typeof value === "string" ? [value] : Object.values(value ?? {}));
+
 const SITE = [
 	"sn_claim_relay_for_you", "pending_data_key", "sn_claim_relay_under_threshold", "sn_claim_relay_under_threshold_body",
 	"sn_claim_relay_under_threshold_no_price", "sn_claim_relay_queued", "sn_claim_relay_cap", "sn_claim_relay_refused",
@@ -27,9 +30,13 @@ test("the claim relay's strings the site looks up are the site's too, translated
 		assert.ok(k, `${id} is in the store`);
 		assert.ok(isTaggedFor(k, "site"), `${id} is tagged site`);
 		for (const app of ["apple", "android"]) assert.ok(isTaggedFor(k, app), `${id} is still ${app}'s`);
+		const english = forms(k.localizations.en);
 		for (const locale of SITE_LOCALES) {
-			assert.equal(typeof k.localizations[locale], "string", `${id}[${locale}]`);
-			if (locale !== "en") assert.notEqual(k.localizations[locale], k.localizations.en, `${id}[${locale}] is English`);
+			const value = k.localizations[locale];
+			assert.ok(typeof value === "string" || (k.plurals && value && typeof value === "object"), `${id}[${locale}]`);
+			const texts = forms(value);
+			assert.ok(texts.length && texts.every((text) => typeof text === "string" && text !== ""), `${id}[${locale}]`);
+			if (locale !== "en") for (const text of texts) assert.ok(!english.includes(text), `${id}[${locale}] is English: ${text}`);
 		}
 	}
 });

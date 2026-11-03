@@ -37,11 +37,14 @@ test("the labels as drawn are in the store as the mocks word them", () => {
 	}
 });
 
+// a localization's text, or each of its plural forms
+const forms = (value) => (typeof value === "string" ? [value] : Object.values(value));
+
 test("they say this device, never the mocks' iPhone", () => {
 	assert.ok(100 <= ours.length, `${ours.length} keys`);
 	for (const k of ours) {
 		for (const [locale, value] of Object.entries(k.localizations)) {
-			assert.ok(!/iPhone/.test(value), `${k.id}[${locale}] names the iPhone`);
+			for (const text of forms(value)) assert.ok(!/iPhone/.test(text), `${k.id}[${locale}] names the iPhone`);
 		}
 	}
 });
@@ -52,10 +55,13 @@ test("the claim relay's strings are the apps', in every locale, and translated",
 	for (const k of relay) {
 		assert.ok(k.platforms.includes("apple"), k.id);
 		assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort(), k.id);
+		const english = forms(k.localizations.en);
 		for (const locale of LOCALES) {
-			if (locale !== "en") assert.notEqual(k.localizations[locale], k.localizations.en, `${k.id}[${locale}] is English`);
-			for (const word of ["URnetwork", "TAO", "SN25α"]) {
-				if (k.localizations.en.includes(word)) assert.ok(k.localizations[locale].includes(word), `${k.id}[${locale}] lost ${word}`);
+			for (const text of forms(k.localizations[locale])) {
+				if (locale !== "en") assert.ok(!english.includes(text), `${k.id}[${locale}] is English: ${text}`);
+				for (const word of ["URnetwork", "TAO", "SN25α"]) {
+					if (english.some((en) => en.includes(word))) assert.ok(text.includes(word), `${k.id}[${locale}] lost ${word}: ${text}`);
+				}
 			}
 		}
 	}
@@ -65,11 +71,38 @@ test("every sentence that names Claim now names the button as it reads", () => {
 	const button = keys.get("sn_claim_relay_claim_now").localizations;
 	for (const id of ["sn_claim_relay_claim_now_paid", "sn_claim_relay_under_floor", "sn_claim_relay_requested", "sn_claim_relay_again_on", "sn_claim_relay_waits_for_relay"]) {
 		const k = keys.get(id);
-		assert.ok(k.localizations.en.includes("Claim now"), `CONTROL FAILED: ${id} doesn't name Claim now`);
+		assert.ok(forms(k.localizations.en).every((en) => en.includes("Claim now")), `CONTROL FAILED: ${id} doesn't name Claim now`);
 		for (const locale of LOCALES) {
-			assert.ok(k.localizations[locale].includes(button[locale]), `${id}[${locale}] doesn't name the button "${button[locale]}": ${k.localizations[locale]}`);
+			for (const text of forms(k.localizations[locale])) {
+				assert.ok(text.includes(button[locale]), `${id}[${locale}] doesn't name the button "${button[locale]}": ${text}`);
+			}
 		}
 	}
+});
+
+// Claim now's period is a count: each language reads it in the count's own plural form, whatever period
+// the relay sets, not only its 30 days. Each form prints the count, but where a language spells out one or
+// two ("once a day").
+test("the Claim now period takes the count's plural form in every language", () => {
+	for (const id of ["sn_claim_relay_claim_now_paid", "sn_claim_relay_claim_now_paid_each"]) {
+		const k = keys.get(id);
+		assert.deepEqual(k.plurals, { select: "days" }, `${id} has no plural forms`);
+		for (const locale of LOCALES) {
+			const value = k.localizations[locale];
+			assert.equal(typeof value, "object", `${id}[${locale}] is one sentence for every count`);
+			const rules = new Intl.PluralRules(locale);
+			for (const days of [1, 2, 3, 5, 7, 11, 14, 21, 22, 25, 30, 90, 100, 101]) {
+				const category = rules.select(days);
+				const text = value[category];
+				assert.ok(text, `${id}[${locale}] has no ${category} form, for ${days}`);
+				if (2 < days || category === "other") assert.ok(text.includes("{days}"), `${id}[${locale}] drops the count ${days} (${category}): ${text}`);
+			}
+		}
+	}
+	// the relay's 30 days read as they did, but in Russian and Ukrainian, which wrote "дн." for want of the forms
+	assert.equal(keys.get("sn_claim_relay_claim_now_paid").localizations.en.other, "Claim now is paid by URnetwork, once every {days} days.");
+	assert.equal(keys.get("sn_claim_relay_claim_now_paid_each").localizations.en.other, "Paid by URnetwork, once every {days} days for each coldkey.");
+	assert.equal(keys.get("sn_claim_relay_claim_now_paid").localizations.ru.many, "«Получить сейчас» оплачивается URnetwork, раз в {days} дней.");
 });
 
 // The claimed state (mock 4d): who claimed, what it paid and where it is, as the mock words it, one sentence
