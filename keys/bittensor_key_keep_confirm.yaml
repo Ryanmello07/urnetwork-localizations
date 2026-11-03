@@ -1,5 +1,7 @@
 description: "Key screen, the button that finishes the check and keeps the key on the device."
 source: "Keep key"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

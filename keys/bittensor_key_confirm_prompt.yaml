@@ -1,5 +1,7 @@
 description: "Key screen, the confirmation before the key leaves the app, where the user enters two of its words. Two fields follow, labeled Word 3, Word 9 and so on."
 source: "To show you saved it, enter these two words from your recovery phrase."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

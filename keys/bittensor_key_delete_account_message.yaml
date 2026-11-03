@@ -1,5 +1,7 @@
 description: "The confirmation of Delete account, shown only while the Bittensor key's recovery phrase is not saved."
 source: "Your Bittensor recovery phrase isn't saved yet. Deleting your account also deletes this key from this device, and without the phrase your SN25α can't be reached."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

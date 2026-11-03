@@ -1,5 +1,7 @@
 description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. The app also has a sign-in seed phrase of 24 words, a different secret, and people mix them up. Keep the two terms clearly different: use the same word for 'seed phrase' as the sign-up screen's 'Your Seedphrase' does in your language where it fits, and the word for 'recovery phrase' everywhere else in these strings."
 source: "This is not your account seed phrase from sign-up. It only controls this Bittensor key."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

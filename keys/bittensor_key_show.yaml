@@ -1,5 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. A small link that opens the Key screen."
 source: "Show key"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

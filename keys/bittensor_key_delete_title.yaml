@@ -1,5 +1,7 @@
 description: "Key screen, the confirmation before the key leaves the app, where the user enters two of its words. The title."
 source: "Delete this key from this app?"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

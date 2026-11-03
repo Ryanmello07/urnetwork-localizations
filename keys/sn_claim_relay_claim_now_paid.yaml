@@ -1,0 +1,36 @@
+description: "Earnings, the settlement v2 tile, under the Claim now button: URnetwork pays the gas, and the button can be used once in this many days (30). Claim now is the button's label; keep it recognizable as that label."
+source: "Claim now is paid by URnetwork, once every %lld days."
+platforms:
+  - apple
+placeholders:
+  - name: days
+    type: int
+localizations:
+  ar: "«المطالبة الآن» على حساب URnetwork، مرة كل {days} يومًا."
+  cs: "„Vyzvednout hned“ hradí URnetwork, jednou za {days} dní."
+  de: "„Jetzt einlösen“ wird von URnetwork bezahlt, einmal alle {days} Tage."
+  el: "Το «Διεκδίκηση τώρα» πληρώνεται από το URnetwork, μία φορά κάθε {days} ημέρες."
+  en: "Claim now is paid by URnetwork, once every {days} days."
+  es: "«Reclamar ahora» lo paga URnetwork, una vez cada {days} días."
+  es-419: "“Reclamar ahora” lo paga URnetwork, una vez cada {days} días."
+  es-MX: "“Reclamar ahora” lo paga URnetwork, una vez cada {days} días."
+  fr: "« Réclamer maintenant » est payé par URnetwork, une fois tous les {days} jours."
+  he: "«מימוש עכשיו» משולם על ידי URnetwork, פעם ב-{days} ימים."
+  hi: "“अभी दावा करें” का भुगतान URnetwork करता है, हर {days} दिन में एक बार।"
+  id: "“Klaim sekarang” dibayar oleh URnetwork, sekali setiap {days} hari."
+  it: "«Riscatta ora» è pagato da URnetwork, una volta ogni {days} giorni."
+  ja: "「今すぐ受け取る」は URnetwork の負担で、{days} 日に 1 回利用できます。"
+  ko: "“지금 받기”는 URnetwork가 비용을 부담하며, {days}일에 한 번 사용할 수 있습니다."
+  nl: "‘Nu opeisen’ wordt betaald door URnetwork, één keer per {days} dagen."
+  pl: "Za „Odbierz teraz” płaci URnetwork, raz na {days} dni."
+  pt: "«Reivindicar agora» é pago pelo URnetwork, uma vez a cada {days} dias."
+  pt-BR: "“Resgatar agora” é pago pelo URnetwork, uma vez a cada {days} dias."
+  pt-PT: "«Reivindicar agora» é pago pelo URnetwork, uma vez a cada {days} dias."
+  ru: "«Получить сейчас» оплачивается URnetwork, раз в {days} дн."
+  sv: "”Hämta ut nu” betalas av URnetwork, en gång per {days} dagar."
+  sw: "“Dai sasa” linalipiwa na URnetwork, mara moja kila siku {days}."
+  th: "“รับตอนนี้” ออกค่าใช้จ่ายโดย URnetwork ใช้ได้ {days} วันต่อครั้ง"
+  uk: "«Отримати зараз» оплачується URnetwork, раз на {days} дн."
+  vi: "“Nhận ngay” do URnetwork chi trả, {days} ngày một lần."
+  zh: "“立即领取”由 URnetwork 支付费用，每 {days} 天一次。"
+  zh-HK: "「立即領取」由 URnetwork 支付費用，每 {days} 日一次。"

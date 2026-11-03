@@ -1,5 +1,7 @@
 description: "Key screen, the confirmation before the key leaves the app, where the user enters two of its words. "
 source: "This app also can't convert your SN25α to TAO after this. A Bittensor wallet or btcli can, with this recovery phrase."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

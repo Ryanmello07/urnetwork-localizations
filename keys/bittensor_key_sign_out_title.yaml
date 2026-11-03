@@ -1,5 +1,7 @@
 description: "The confirmation of Sign out, shown only while the Bittensor key's recovery phrase is not saved. The buttons are Sign out and Cancel."
 source: "Sign out without saving your key?"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

@@ -1,5 +1,7 @@
 description: "Key screen, the confirmation before the key leaves the app, where the user enters two of its words. "
 source: "URnetwork can't get this key back. Earnings keep going to this address, and only the recovery phrase can move them."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:
