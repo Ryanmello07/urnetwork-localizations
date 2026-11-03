@@ -1,6 +1,7 @@
 description: "Key screen, a banner at the top when the user chose to save the recovery phrase first: the key exists only in memory. The 12 words are the recovery phrase. Below are two choices: keep the key on this device, or set up payouts and delete it."
 source: "This key isn't saved on this device. Write the 12 words down, then choose below. If you leave this screen, the key is discarded and nothing is paid to it."
 platforms:
+  - linux
   - apple
   - android
 localizations:

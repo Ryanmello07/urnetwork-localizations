@@ -1,6 +1,7 @@
 description: "Earnings screen, the title of a warning before a new key on this device replaces the network's payout wallet."
 source: "Replace your payout wallet?"
 platforms:
+  - linux
   - apple
   - android
 localizations:

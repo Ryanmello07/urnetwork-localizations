@@ -1,6 +1,7 @@
 description: "Key screen, the confirmation before the key leaves the app, where the user enters two of its words. The destructive button."
 source: "Delete key"
 platforms:
+  - linux
   - apple
   - android
 localizations:

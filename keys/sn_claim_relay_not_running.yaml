@@ -1,6 +1,7 @@
 description: "Earnings, the settlement v2 tile and the claim sheet: URnetwork isn't sending claims at the moment."
 source: "Automatic claims aren't running right now."
 platforms:
+  - linux
   - apple
   - android
 localizations:

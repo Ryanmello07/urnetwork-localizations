@@ -1,6 +1,7 @@
 description: "Delete account, the confirmation while this device holds the network's Bittensor key and its recovery phrase isn't saved. It is the key."
 source: "Your Bittensor key isn't backed up. Deleting your account also deletes it from this device, and URnetwork can't get it back."
 platforms:
+  - linux
   - apple
   - android
 localizations:

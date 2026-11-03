@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. A status line after setup. An epoch is the network's settlement period."
 source: "Payouts start next epoch"
 platforms:
+  - linux
   - apple
   - android
 localizations:

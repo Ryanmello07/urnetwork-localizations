@@ -1,6 +1,7 @@
 description: "Key screen, the title of the confirmation when the user saved the recovery phrase first: payouts get set up with the key, and then the app drops it."
 source: "Set up payouts and delete the key?"
 platforms:
+  - linux
   - apple
   - android
 localizations:
