@@ -2,6 +2,7 @@ description: "Earnings, the settlement v2 tile and the claim sheet: a button tha
 source: "Claim now"
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "المطالبة الآن"

@@ -2,6 +2,7 @@ description: "Key screen: the screen that shows the Bittensor recovery phrase, a
 source: "I have saved the key, it's OK to delete it now."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "لقد حفظت المفتاح، ويمكن حذفه الآن."

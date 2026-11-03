@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card for the network's payouts. A smal
 source: "Create a key on this device"
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "إنشاء مفتاح على هذا الجهاز"

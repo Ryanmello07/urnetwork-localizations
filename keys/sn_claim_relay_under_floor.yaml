@@ -2,6 +2,7 @@ description: "Earnings, the settlement v2 tile and the claim sheet: why Claim no
 source: "Claim now needs a balance worth at least %@ TAO."
 platforms:
   - apple
+  - android
   - windows
 placeholders:
   - name: tao

@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card, under This key is on another dev
 source: "Its recovery phrase can't be shown here."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "لا يمكن عرض عبارة النسخ الاحتياطي الخاصة به هنا."

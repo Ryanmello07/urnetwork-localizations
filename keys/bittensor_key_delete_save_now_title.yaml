@@ -2,6 +2,7 @@ description: "Key screen, the title of the confirmation when the user saved the 
 source: "Set up payouts and delete the key?"
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "هل تريد إعداد المدفوعات وحذف المفتاح؟"

@@ -2,6 +2,7 @@ description: "Key screen, the button that sets up payouts with the key and then 
 source: "Set up payouts and delete key"
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "إعداد المدفوعات وحذف المفتاح"

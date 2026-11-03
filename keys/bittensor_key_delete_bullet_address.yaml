@@ -2,6 +2,7 @@ description: "Key screen, the delete confirmation: one point of a short list. Th
 source: "Earnings keep going to this address, %@."
 platforms:
   - apple
+  - android
   - windows
 placeholders:
   - name: address

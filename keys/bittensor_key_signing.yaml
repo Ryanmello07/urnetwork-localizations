@@ -2,6 +2,7 @@ description: "Key screen, a banner with a spinner while the app signs the networ
 source: "Setting up payouts: signing your network's payout consent with this key."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "جارٍ إعداد المدفوعات: توقيع موافقة الدفع الخاصة بشبكتك باستخدام هذا المفتاح."

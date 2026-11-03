@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card for the network's payouts. A gene
 source: "Couldn't set up payouts. Try again."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "تعذّر إعداد المدفوعات. حاول مرة أخرى."

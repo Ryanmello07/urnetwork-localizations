@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card after this app deleted its copy o
 source: "Claims keep working. To transfer or convert your SN25α, or to claim a Top 200 spot, use a Bittensor wallet holding your recovery phrase."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "تستمر المطالبات في العمل. لنقل SN25α الخاص بك أو تحويله، أو لحجز مكان في أفضل 200، استخدم محفظة Bittensor تحتوي على عبارة النسخ الاحتياطي الخاصة بك."

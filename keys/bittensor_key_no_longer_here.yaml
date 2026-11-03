@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card for the network's payouts. A stat
 source: "This app no longer has the key"
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "لم يعد المفتاح موجودًا في هذا التطبيق"

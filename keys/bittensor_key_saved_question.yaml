@@ -2,6 +2,7 @@ description: "Key screen, a small heading above the two choices for after the us
 source: "Saved the recovery phrase?"
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "هل حفظت عبارة النسخ الاحتياطي؟"

@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card for the network's payouts. A smal
 source: "Use a wallet I already have"
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "استخدام محفظة لديّ بالفعل"

@@ -2,6 +2,7 @@ description: "Earnings, the settlement v2 tile and the claim sheet: the last cla
 source: "The last claim didn't go through. URnetwork tries again later."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "لم تنجح المطالبة الأخيرة. سيحاول URnetwork مرة أخرى لاحقًا."

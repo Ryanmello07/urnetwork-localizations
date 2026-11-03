@@ -2,6 +2,7 @@ description: "Key screen, the delete confirmation: one point of a short list."
 source: "URnetwork can't get this key back."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "لا يستطيع URnetwork استعادة هذا المفتاح."

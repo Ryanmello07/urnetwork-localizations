@@ -2,6 +2,7 @@ description: "Key screen, while the recovery phrase's words show: a countdown un
 source: "Hides again in %@"
 platforms:
   - apple
+  - android
   - windows
 placeholders:
   - name: time

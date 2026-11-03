@@ -2,6 +2,7 @@ description: "Earnings screen, the title of a warning before a new key on this d
 source: "Replace your payout wallet?"
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "هل تريد استبدال محفظة الدفع الخاصة بك؟"

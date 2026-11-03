@@ -2,6 +2,7 @@ description: "Key screen, the two-word sheet before deleting the key: what to do
 source: "To confirm you've saved the recovery phrase, enter these two words from it."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "لتأكيد أنك حفظت عبارة النسخ الاحتياطي، أدخل هاتين الكلمتين منها."

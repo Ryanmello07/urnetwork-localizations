@@ -2,6 +2,7 @@ description: "Key screen, the delete confirmation: one point of a short list, af
 source: "Only the recovery phrase can move them."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "لا يمكن نقلها إلا بعبارة النسخ الاحتياطي."

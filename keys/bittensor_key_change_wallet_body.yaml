@@ -2,6 +2,7 @@ description: "The payout consent sheet when the network already pays a wallet (C
 source: "Choose where this network's earnings are paid from the next epoch. Earlier earnings stay where they were paid."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "اختر أين تُدفع أرباح هذه الشبكة بدءًا من الفترة التالية. تبقى الأرباح السابقة حيث دُفعت."

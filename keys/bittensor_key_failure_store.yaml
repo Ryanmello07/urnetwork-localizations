@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card for the network's payouts. An err
 source: "Couldn't save the key on this device, so nothing was signed. Try again, or save the recovery phrase first."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "تعذّر حفظ المفتاح على هذا الجهاز، لذا لم يُوقَّع أي شيء. حاول مرة أخرى، أو احفظ عبارة النسخ الاحتياطي أولًا."

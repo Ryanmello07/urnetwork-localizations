@@ -2,6 +2,7 @@ description: "The payout consent sheet (Change wallet), a heading above the list
 source: "Or choose your Bittensor wallet"
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "أو اختر محفظة Bittensor"

@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card for the network's payouts. Payout
 source: "This key is on another device or in your wallet."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "هذا المفتاح موجود على جهاز آخر أو في محفظتك."

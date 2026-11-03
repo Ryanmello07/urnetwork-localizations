@@ -2,6 +2,7 @@ description: "Earnings, the settlement v2 tile and the claim sheet, under Below 
 source: "It's claimed for you once it's worth about %@ TAO, about %@ SN25α at today's price. Waiting costs nothing: this credit never expires."
 platforms:
   - apple
+  - android
   - windows
 placeholders:
   - name: tao

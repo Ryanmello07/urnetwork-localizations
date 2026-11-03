@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card's title once the network's earnin
 source: "Payouts are on"
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "المدفوعات مفعّلة"

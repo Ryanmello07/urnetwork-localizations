@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card: under the Set up payouts button 
 source: "Saving the key on this device and reading it back, then signing."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "جارٍ حفظ المفتاح على هذا الجهاز وإعادة قراءته، ثم التوقيع."

@@ -2,6 +2,7 @@ description: "Key screen, the title of the sheet where the user types two words 
 source: "Enter two of the words"
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "أدخل اثنتين من الكلمات"

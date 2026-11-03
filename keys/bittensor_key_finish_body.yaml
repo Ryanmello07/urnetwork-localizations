@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card when a key was stored but setup s
 source: "Setup stopped before signing, so nothing was paid to this key. Finish setup signs the consent with it."
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "توقّف الإعداد قبل التوقيع، لذا لم يُدفع أي شيء إلى هذا المفتاح. يوقّع «إنهاء الإعداد» الموافقة باستخدام هذا المفتاح."

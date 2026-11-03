@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card for the network's payouts. A stat
 source: "Payouts start next epoch"
 platforms:
   - apple
+  - android
   - windows
 localizations:
   ar: "تبدأ المدفوعات في الفترة التالية"
