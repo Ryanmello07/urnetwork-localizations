@@ -2,6 +2,7 @@ description: "Key screen, the keep sheet: what to do. The fields below say which
 source: "To confirm, enter these two words from the phrase."
 platforms:
   - apple
+  - android
 localizations:
   ar: "للتأكيد، أدخل هاتين الكلمتين من العبارة."
   cs: "Pro potvrzení zadejte tato dvě slova z fráze."

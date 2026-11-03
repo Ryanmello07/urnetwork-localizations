@@ -2,6 +2,7 @@ description: "The warning before a new key replaces the network's payout wallet:
 source: "Replace payout wallet"
 platforms:
   - apple
+  - android
 localizations:
   ar: "استبدال محفظة الدفع"
   cs: "Nahradit výplatní peněženku"

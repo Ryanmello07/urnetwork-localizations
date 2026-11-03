@@ -39,10 +39,11 @@ test("the plan's sentences are in the store as it words them", () => {
 	}
 });
 
-test("every key is the apple app's for now, in every locale, with its English as its source", () => {
+test("every key is the apple app's, and the other apps' that look it up, in every locale, with its English as its source", () => {
 	assert.ok(50 <= ours.length, `${ours.length} keys`);
 	for (const k of ours) {
-		assert.deepEqual(k.platforms, ["apple"], k.id);
+		// Android shows the flows too (android/test-bittensor-local-key_test.go reads its lookups)
+		assert.ok(k.platforms.includes("apple"), k.id);
 		assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort(), k.id);
 		if (!k.placeholders?.length) assert.equal(k.localizations.en, k.source, k.id);
 	}

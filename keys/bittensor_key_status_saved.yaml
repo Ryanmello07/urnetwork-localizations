@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card: a status line beside a green dot
 source: "Key on this device, recovery phrase saved"
 platforms:
   - apple
+  - android
 localizations:
   ar: "المفتاح على هذا الجهاز، وتم حفظ عبارة النسخ الاحتياطي"
   cs: "Klíč je na tomto zařízení, obnovovací fráze je uložená"

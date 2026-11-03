@@ -2,6 +2,7 @@ description: "Key screen, the confirmation when the user saved the recovery phra
 source: "Only the recovery phrase can move your SN25α."
 platforms:
   - apple
+  - android
 localizations:
   ar: "لا يمكن نقل SN25α الخاص بك إلا بعبارة النسخ الاحتياطي."
   cs: "Přesunout vaše SN25α může jen obnovovací fráze."

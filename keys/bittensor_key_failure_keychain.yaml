@@ -2,6 +2,7 @@ description: "Earnings screen, the payout card for the network's payouts. The de
 source: "Couldn't read this device's keychain. Unlock your device and try again."
 platforms:
   - apple
+  - android
 localizations:
   ar: "تعذّرت قراءة سلسلة المفاتيح على هذا الجهاز. افتح قفل جهازك وحاول مرة أخرى."
   cs: "Klíčenku tohoto zařízení se nepodařilo přečíst. Odemkněte zařízení a zkuste to znovu."

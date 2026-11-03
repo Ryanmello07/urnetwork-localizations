@@ -2,6 +2,7 @@ description: "Earnings screen, a warning before a new key on this device replace
 source: "This key replaces your payout wallet from the next epoch. Earlier earnings stay on the old wallet."
 platforms:
   - apple
+  - android
 localizations:
   ar: "يحلّ هذا المفتاح محل محفظة الدفع الخاصة بك بدءًا من الفترة التالية. تبقى الأرباح السابقة في المحفظة القديمة."
   cs: "Tento klíč od příští epochy nahradí vaši výplatní peněženku. Dřívější výdělky zůstanou na staré peněžence."

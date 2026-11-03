@@ -5,7 +5,7 @@ import { LOCALES, loadStore } from "./store.mjs";
 
 // The one-tap Bittensor key and its claims as the owner approved them in the mocks (2026-11-03): the
 // labels as drawn, on every device rather than the mocks' iPhone, and the claim relay's words, which say
-// what URnetwork does with a user's claim. These are Apple's for now, like the key's other strings.
+// what URnetwork does with a user's claim. Apple's, and Android's since its port, like the key's other strings.
 
 const keys = new Map(loadStore().map((k) => [k.id, k]));
 
@@ -46,11 +46,11 @@ test("they say this device, never the mocks' iPhone", () => {
 	}
 });
 
-test("the claim relay's strings are Apple's for now, in every locale, and translated", () => {
+test("the claim relay's strings are the apps', in every locale, and translated", () => {
 	const relay = [...keys.values()].filter((k) => k.id.startsWith("sn_claim_relay_"));
 	assert.ok(20 <= relay.length, `${relay.length} relay keys`);
 	for (const k of relay) {
-		assert.deepEqual(k.platforms, ["apple"], k.id);
+		assert.ok(k.platforms.includes("apple"), k.id);
 		assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort(), k.id);
 		for (const locale of LOCALES) {
 			if (locale !== "en") assert.notEqual(k.localizations[locale], k.localizations.en, `${k.id}[${locale}] is English`);

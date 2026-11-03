@@ -2,6 +2,7 @@ description: "Key screen, the confirmation when the user saved the recovery phra
 source: "Payouts go to this address, %@, from the next epoch."
 platforms:
   - apple
+  - android
 placeholders:
   - name: address
     type: string
