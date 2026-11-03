@@ -1,6 +1,7 @@
 description: "Earnings screen: the warning banner under Back up your key, which stays until the phrase is saved."
 source: "If you lose this device before saving your recovery phrase, your SN25α can't be reached."
 platforms:
+  - linux
   - apple
   - android
 localizations:

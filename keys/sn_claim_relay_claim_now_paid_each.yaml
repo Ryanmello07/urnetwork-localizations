@@ -1,6 +1,7 @@
 description: "Earnings claim sheet, under the Claim now button: URnetwork pays the gas, once in this many days (30) for each Bittensor address (coldkey). Keep coldkey as the app writes it elsewhere."
 source: "Paid by URnetwork, once every %lld days for each coldkey."
 platforms:
+  - linux
   - apple
   - android
 placeholders:

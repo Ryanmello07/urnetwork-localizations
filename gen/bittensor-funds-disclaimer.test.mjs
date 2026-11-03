@@ -27,7 +27,8 @@ test("both ship to the apps that show the easy flows, in every locale", () => {
 	for (const id of ["bittensor_funds_disclaimer", "bittensor_funds_disclaimer_funds_only"]) {
 		const k = keys.get(id);
 		// Windows and Linux carry every live key already, and tag a key only once they look it up
-		assert.deepEqual(k.platforms, ["apple", "android"], id);
+		for (const app of ["apple", "android"]) assert.ok(k.platforms.includes(app), `${id} is not ${app}'s`);
+		assert.ok(k.platforms.every((p) => ["apple", "android", "windows", "linux"].includes(p)), `${id}: ${k.platforms}`);
 		assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort(), id);
 		for (const [locale, value] of Object.entries(k.localizations)) {
 			assert.ok(value.includes("URnetwork"), `${id}[${locale}]`);

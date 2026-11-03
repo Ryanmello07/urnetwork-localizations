@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card: a status line beside a green dot. The Bittensor key is stored on this device and the user confirmed saving its recovery phrase."
 source: "Key on this device, recovery phrase saved"
 platforms:
+  - linux
   - apple
   - android
 localizations:

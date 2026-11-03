@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card for the network's payouts. An error under the Set up payouts button."
 source: "Couldn't make a key on this device. Try again."
 platforms:
+  - linux
   - apple
   - android
 localizations:

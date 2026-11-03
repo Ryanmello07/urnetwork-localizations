@@ -1,6 +1,7 @@
 description: "Earnings screen, the payout card: a status line beside an amber dot. The Bittensor key is stored on this device and the user hasn't confirmed saving its recovery phrase."
 source: "Key on this device, not backed up yet"
 platforms:
+  - linux
   - apple
   - android
 localizations:

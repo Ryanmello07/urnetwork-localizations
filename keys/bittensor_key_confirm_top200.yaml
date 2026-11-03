@@ -1,6 +1,7 @@
 description: "Key screen, the confirmation before the key leaves the app, where the user enters two of its words. Top 200 is a ranking the network's miners can claim a place on."
 source: "Deleting this key also gives up claiming a Top 200 spot with one tap. You could still claim from a Bittensor wallet holding this recovery phrase."
 platforms:
+  - linux
   - apple
   - android
 localizations:

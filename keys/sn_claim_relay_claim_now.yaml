@@ -1,6 +1,7 @@
 description: "Earnings, the settlement v2 tile and the claim sheet: a button that asks URnetwork to claim the balance now, without waiting for the automatic threshold. Short: a button."
 source: "Claim now"
 platforms:
+  - linux
   - apple
   - android
 localizations:
