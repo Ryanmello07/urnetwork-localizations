@@ -1,8 +1,10 @@
 description: "Earnings screen, the payout card for the network's payouts. Payouts go to another wallet, and a key made earlier is still on this device."
 source: "The key on this device isn't receiving payouts."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "المفتاح الموجود على هذا الجهاز لا يتلقى المدفوعات."
   cs: "Klíč na tomto zařízení nedostává výplaty."

@@ -1,8 +1,10 @@
 description: "Earnings screen: the title of a warning banner, and a button on the payout card. Both open the Key screen, where the user saves the recovery phrase."
 source: "Back up your key"
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "انسخ مفتاحك احتياطيًا"
   cs: "Zálohujte svůj klíč"

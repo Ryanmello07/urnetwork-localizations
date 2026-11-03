@@ -1,8 +1,10 @@
 description: "Key screen, the confirmation when the user saved the recovery phrase first: one point of a short list. The placeholder is the key's Bittensor address, shortened (5F3s…kQ9v); keep it as it is. An epoch is the subnet's payout period."
 source: "Payouts go to this address, %@, from the next epoch."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 placeholders:
   - name: address
     type: string

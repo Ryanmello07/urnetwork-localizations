@@ -1,8 +1,10 @@
 description: "Earnings screen, the payout card for the network's payouts. Payouts go to an address whose key is not in this app. The phrase cannot be shown here."
 source: "This key is on another device or in your wallet."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "هذا المفتاح موجود على جهاز آخر أو في محفظتك."
   cs: "Tento klíč je na jiném zařízení nebo ve vaší peněžence."

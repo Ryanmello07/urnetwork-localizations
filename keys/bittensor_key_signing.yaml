@@ -1,8 +1,10 @@
 description: "Key screen, a banner with a spinner while the app signs the network's payout consent with the new key, after the user confirmed two words of the recovery phrase."
 source: "Setting up payouts: signing your network's payout consent with this key."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "جارٍ إعداد المدفوعات: توقيع موافقة الدفع الخاصة بشبكتك باستخدام هذا المفتاح."
   cs: "Nastavování výplat: podepisování souhlasu s výplatami vaší sítě tímto klíčem."

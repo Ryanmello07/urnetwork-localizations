@@ -1,8 +1,10 @@
 description: "Key screen, the two-word sheet: an error under a field whose word is wrong. The placeholder is the word's position in the phrase, counting from 1."
 source: "That isn't word %lld of this recovery phrase."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 placeholders:
   - name: position
     type: int

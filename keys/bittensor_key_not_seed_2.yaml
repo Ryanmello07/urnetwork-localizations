@@ -1,8 +1,10 @@
 description: "Key screen: tells apart the two phrases a user may have. The account seedphrase from sign-up (24 words) signs in to URnetwork; this Bittensor recovery phrase (12 words) controls the user's SN25α tokens. Use the app's usual words for each."
 source: "Not the seedphrase from sign-up: that one is 24 words and signs you in to URnetwork. This Bittensor recovery phrase is 12 words and holds your SN25α."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "هذه ليست عبارة الاسترداد من التسجيل: تلك مكوّنة من 24 كلمة وتُسجّل دخولك إلى URnetwork. أما عبارة النسخ الاحتياطي هذه لـ Bittensor فمكوّنة من 12 كلمة وتحتفظ بـ SN25α الخاص بك."
   cs: "Nejde o seed frázi z registrace: ta má 24 slov a přihlašuje vás do URnetwork. Tato obnovovací fráze Bittensor má 12 slov a drží vaše SN25α."

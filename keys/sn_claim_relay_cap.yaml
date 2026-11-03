@@ -1,8 +1,11 @@
 description: "Earnings, the settlement v2 tile and the claim sheet: URnetwork's daily budget for paying claim gas is spent, so the claim waits for the next day (UTC)."
 source: "Today's claim budget is used up, so this waits for the next day. Nothing is lost: this credit never expires."
 platforms:
+  - linux
   - apple
   - android
+  - windows
+  - site
 localizations:
   ar: "نفدت ميزانية المطالبات لهذا اليوم، لذا سينتظر هذا حتى اليوم التالي. لا يضيع شيء: هذا الرصيد لا تنتهي صلاحيته أبدًا."
   cs: "Dnešní rozpočet na vyzvedávání je vyčerpaný, takže to počká do dalšího dne. Nic se neztratí: tento kredit nikdy nevyprší."

@@ -1,8 +1,10 @@
 description: "Key screen, the confirmation before the key leaves the app, where the user enters two of its words. Top 200 is a ranking the network's miners can claim a place on."
 source: "Deleting this key also gives up claiming a Top 200 spot with one tap. You could still claim from a Bittensor wallet holding this recovery phrase."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "يعني حذف هذا المفتاح أيضًا التخلي عن حجز مكان في أفضل 200 بنقرة واحدة. سيظل بإمكانك الحجز من محفظة Bittensor تحتوي على عبارة النسخ الاحتياطي هذه."
   cs: "Odstraněním tohoto klíče se také vzdáte možnosti zajistit si místo v Top 200 jedním klepnutím. Místo si můžete i nadále zajistit z peněženky Bittensor s touto obnovovací frází."

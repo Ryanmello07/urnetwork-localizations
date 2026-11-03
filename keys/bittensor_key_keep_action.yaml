@@ -1,8 +1,10 @@
 description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. A smaller link: the user says the phrase is saved, and the key stays on the device, so the reminders stop."
 source: "I've saved it. Keep it on this device."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لقد حفظته. أبقِه على هذا الجهاز."
   cs: "Mám ho uložený. Ponechat ho na tomto zařízení."

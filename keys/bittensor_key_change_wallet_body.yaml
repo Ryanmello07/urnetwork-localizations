@@ -1,8 +1,10 @@
 description: "The payout consent sheet when the network already pays a wallet (Change wallet): what changing does. An epoch is the subnet's payout period."
 source: "Choose where this network's earnings are paid from the next epoch. Earlier earnings stay where they were paid."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "اختر أين تُدفع أرباح هذه الشبكة بدءًا من الفترة التالية. تبقى الأرباح السابقة حيث دُفعت."
   cs: "Vyberte, kam se budou od příští epochy vyplácet výdělky této sítě. Dřívější výdělky zůstanou tam, kam byly vyplaceny."

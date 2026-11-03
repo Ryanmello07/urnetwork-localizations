@@ -1,8 +1,10 @@
 description: "The confirmation of Sign out, the message."
 source: "Your Bittensor recovery phrase isn't saved yet. The key stays on this device and comes back when this network signs in again. If you lose this device before saving it, your SN25α can't be reached."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لم يتم حفظ عبارة النسخ الاحتياطي الخاصة بك لـ Bittensor بعد. يبقى المفتاح على هذا الجهاز ويعود عندما تسجّل هذه الشبكة الدخول مرة أخرى. إذا فقدت هذا الجهاز قبل حفظها، فلن يمكن الوصول إلى SN25α الخاص بك."
   cs: "Vaše obnovovací fráze Bittensor ještě není uložená. Klíč zůstane na tomto zařízení a vrátí se, až se tato síť znovu přihlásí. Pokud toto zařízení ztratíte dřív, než ji uložíte, k vašemu SN25α se nebude možné dostat."

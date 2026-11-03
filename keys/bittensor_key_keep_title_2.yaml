@@ -1,8 +1,10 @@
 description: "Key screen, the title of the sheet for keeping the Bittensor key on this device after the user saved its recovery phrase."
 source: "Keep the key on this device?"
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "هل تريد إبقاء المفتاح على هذا الجهاز؟"
   cs: "Ponechat klíč na tomto zařízení?"

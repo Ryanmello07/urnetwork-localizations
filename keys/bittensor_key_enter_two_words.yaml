@@ -1,8 +1,10 @@
 description: "Key screen, the title of the sheet where the user types two words of the recovery phrase, to show it was saved."
 source: "Enter two of the words"
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "أدخل اثنتين من الكلمات"
   cs: "Zadejte dvě slova z fráze"

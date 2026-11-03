@@ -1,8 +1,10 @@
 description: "Earnings screen, the payout card, under the Bittensor address the network's earnings go to. Every device (miner) the user runs on this network earns to it."
 source: "Every device on your network is paid to this address."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "تُدفع أرباح كل جهاز في شبكتك إلى هذا العنوان."
   cs: "Na tuto adresu se vyplácí každé zařízení ve vaší síti."

@@ -1,8 +1,11 @@
 description: "Earnings, the settlement v2 tile and the claim sheet: URnetwork paused claims for everyone for a while."
 source: "URnetwork has paused claims for now."
 platforms:
+  - linux
   - apple
   - android
+  - windows
+  - site
 localizations:
   ar: "أوقف URnetwork المطالبات مؤقتًا في الوقت الحالي."
   cs: "URnetwork prozatím pozastavil vyzvedávání."

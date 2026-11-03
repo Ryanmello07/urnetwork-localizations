@@ -1,8 +1,11 @@
 description: "Earnings, the settlement v2 tile and the claim sheet: why the balance is still pending, it is in line to be claimed."
 source: "URnetwork claims this soon."
 platforms:
+  - linux
   - apple
   - android
+  - windows
+  - site
 localizations:
   ar: "سيطالب URnetwork بهذا قريبًا."
   cs: "URnetwork brzy odešle nárok."

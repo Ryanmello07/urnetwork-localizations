@@ -1,8 +1,10 @@
 description: "Key screen, the keep sheet: what to do. The fields below say which word, as Word 4."
 source: "To confirm, enter these two words from the phrase."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "للتأكيد، أدخل هاتين الكلمتين من العبارة."
   cs: "Pro potvrzení zadejte tato dvě slova z fráze."

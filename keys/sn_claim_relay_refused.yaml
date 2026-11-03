@@ -1,8 +1,11 @@
 description: "Earnings, the settlement v2 tile and the claim sheet: the last claim transaction failed, and URnetwork will try again by itself."
 source: "The last claim didn't go through. URnetwork tries again later."
 platforms:
+  - linux
   - apple
   - android
+  - windows
+  - site
 localizations:
   ar: "لم تنجح المطالبة الأخيرة. سيحاول URnetwork مرة أخرى لاحقًا."
   cs: "Poslední nárok neprošel. URnetwork to zkusí znovu později."

@@ -1,8 +1,10 @@
 description: "Key screen, the keep sheet when the user saved the recovery phrase first: the key gets stored on this device, and then the app sets up payouts with it. Convert is the SN25α to TAO action; keep Top 200 as the app writes it."
 source: "You've saved the recovery phrase. The key is stored on this device for convert and one-tap Top 200, and then payouts are set up."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لقد حفظت عبارة النسخ الاحتياطي. يُخزَّن المفتاح على هذا الجهاز من أجل التحويل إلى TAO وحجز مكان في أفضل 200 بنقرة واحدة، ثم يتم إعداد المدفوعات."
   cs: "Obnovovací frázi jste si uložili. Klíč se uloží na tomto zařízení pro převod na TAO a pro zajištění místa v Top 200 jedním klepnutím a potom se nastaví výplaty."

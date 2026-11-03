@@ -1,8 +1,10 @@
 description: "Key screen, the delete confirmation: one point of a short list. The placeholder is the key's Bittensor address, shortened to its first and last characters around an ellipsis (5F3s…kQ9v); keep it as it is."
 source: "Earnings keep going to this address, %@."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 placeholders:
   - name: address
     type: string

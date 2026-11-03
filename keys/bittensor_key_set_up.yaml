@@ -1,8 +1,10 @@
 description: "Earnings screen, the payout card for the network's payouts. The main button: one tap makes the key, stores it on the device and links it to payouts."
 source: "Set up payouts"
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "إعداد المدفوعات"
   cs: "Nastavit výplaty"

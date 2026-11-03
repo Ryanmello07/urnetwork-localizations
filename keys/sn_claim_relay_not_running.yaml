@@ -1,8 +1,11 @@
 description: "Earnings, the settlement v2 tile and the claim sheet: URnetwork isn't sending claims at the moment."
 source: "Automatic claims aren't running right now."
 platforms:
+  - linux
   - apple
   - android
+  - windows
+  - site
 localizations:
   ar: "المطالبات التلقائية لا تعمل حاليًا."
   cs: "Automatické vyzvedávání teď neprobíhá."

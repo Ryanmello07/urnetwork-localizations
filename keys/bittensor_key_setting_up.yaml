@@ -1,8 +1,10 @@
 description: "Earnings screen, the payout card: under the Set up payouts button while it works, which takes a few seconds. The app writes the new key to the device's secure storage, reads it back to check it, and then signs the payout consent with it."
 source: "Saving the key on this device and reading it back, then signing."
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "جارٍ حفظ المفتاح على هذا الجهاز وإعادة قراءته، ثم التوقيع."
   cs: "Ukládání klíče na tomto zařízení a jeho zpětné načtení, potom podepsání."

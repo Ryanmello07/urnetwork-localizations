@@ -1,8 +1,11 @@
 description: "Earnings, the settlement v2 tile, under the Claim now button: URnetwork pays the gas, and the button can be used once in this many days (30 today; the count selects the plural form). Claim now is the button's label; keep it recognizable as that label."
 source: "Claim now is paid by URnetwork, once every %lld days."
 platforms:
+  - linux
   - apple
   - android
+  - windows
+  - site
 placeholders:
   - name: days
     type: int

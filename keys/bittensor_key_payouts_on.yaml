@@ -1,8 +1,10 @@
 description: "Earnings screen, the payout card's title once the network's earnings are being paid to its Bittensor key (from the first epoch after setup). Before that the title is Payouts start next epoch."
 source: "Payouts are on"
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "المدفوعات مفعّلة"
   cs: "Výplaty jsou zapnuté"

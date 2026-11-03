@@ -1,8 +1,10 @@
 description: "Earnings screen, the payout card for the network's payouts. A smaller link under Set up payouts: for someone who already has a Bittensor wallet."
 source: "Use a wallet I already have"
 platforms:
+  - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "استخدام محفظة لديّ بالفعل"
   cs: "Použít peněženku, kterou už mám"
