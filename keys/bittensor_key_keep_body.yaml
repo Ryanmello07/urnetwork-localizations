@@ -2,6 +2,7 @@ description: "Key screen, the keep sheet: what keeping does. Convert is the app'
 source: "You've saved the recovery phrase, so the backup reminder ends. The key stays on this device for convert and one-tap Top 200."
 platforms:
   - apple
+  - android
 localizations:
   ar: "لقد حفظت عبارة النسخ الاحتياطي، لذا ينتهي تذكير النسخ الاحتياطي. يبقى المفتاح على هذا الجهاز من أجل التحويل إلى TAO وحجز مكان في أفضل 200 بنقرة واحدة."
   cs: "Obnovovací frázi jste si uložili, takže připomínka zálohování končí. Klíč zůstává na tomto zařízení pro převod na TAO a pro zajištění místa v Top 200 jedním klepnutím."

@@ -2,6 +2,7 @@ description: "The one local notification, sent when the network's first earnings
 source: "Your first SN25α is claimable"
 platforms:
   - apple
+  - android
 localizations:
   ar: "أول SN25α لك قابل للمطالبة"
   cs: "Vaše první SN25α je k vyzvednutí"

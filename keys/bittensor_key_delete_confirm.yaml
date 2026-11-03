@@ -2,6 +2,7 @@ description: "Key screen, the confirmation before the key leaves the app, where 
 source: "Delete key"
 platforms:
   - apple
+  - android
 localizations:
   ar: "حذف المفتاح"
   cs: "Odstranit klíč"

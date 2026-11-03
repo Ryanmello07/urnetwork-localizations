@@ -2,6 +2,7 @@ description: "Key screen: the screen that shows the Bittensor recovery phrase, a
 source: "Tap to reveal"
 platforms:
   - apple
+  - android
 localizations:
   ar: "انقر للإظهار"
   cs: "Klepnutím zobrazíte"

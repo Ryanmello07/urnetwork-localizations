@@ -2,6 +2,7 @@ description: "Key screen, the keep sheet's button, enabled once the two words ar
 source: "Keep it on this device"
 platforms:
   - apple
+  - android
 localizations:
   ar: "إبقاؤه على هذا الجهاز"
   cs: "Ponechat ho na tomto zařízení"

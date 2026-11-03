@@ -2,6 +2,7 @@ description: "Key screen, the two-word sheet: an error under a field whose word 
 source: "That isn't word %lld of this recovery phrase."
 platforms:
   - apple
+  - android
 placeholders:
   - name: position
     type: int

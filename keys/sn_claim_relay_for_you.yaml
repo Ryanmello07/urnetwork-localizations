@@ -2,6 +2,7 @@ description: "Earnings screen, the settlement v2 tile and the claim sheet: a lin
 source: "URnetwork claims this for you"
 platforms:
   - apple
+  - android
 localizations:
   ar: "يطالب URnetwork بهذا نيابةً عنك"
   cs: "URnetwork za vás odešle nárok"

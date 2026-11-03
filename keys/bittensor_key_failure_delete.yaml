@@ -2,6 +2,7 @@ description: "Key screen: the screen that shows the Bittensor recovery phrase, a
 source: "Couldn't delete the key from this device. It's still here."
 platforms:
   - apple
+  - android
 localizations:
   ar: "تعذّر حذف المفتاح من هذا الجهاز. لا يزال موجودًا هنا."
   cs: "Klíč se z tohoto zařízení nepodařilo odstranit. Stále je tady."
