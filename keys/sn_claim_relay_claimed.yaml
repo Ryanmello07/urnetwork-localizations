@@ -3,6 +3,7 @@ source: "Claimed by URnetwork. %@ SN25α is on your key, %@."
 platforms:
   - apple
   - android
+  - linux
 placeholders:
   - name: amount
     type: string
