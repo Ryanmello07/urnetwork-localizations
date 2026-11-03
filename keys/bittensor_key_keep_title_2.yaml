@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "هل تريد إبقاء المفتاح على هذا الجهاز؟"
   cs: "Ponechat klíč na tomto zařízení?"

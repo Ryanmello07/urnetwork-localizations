@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "هل تريد استبدال محفظة الدفع الخاصة بك؟"
   cs: "Nahradit výplatní peněženku?"

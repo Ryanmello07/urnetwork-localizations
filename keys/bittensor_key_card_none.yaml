@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لا توجد محفظة دفع بعد. لا تُدفع الأرباح إلا بعد أن تُعدّ محفظة."
   cs: "Zatím žádná výplatní peněženka. Výdělky se nevyplácejí, dokud ji nenastavíte."

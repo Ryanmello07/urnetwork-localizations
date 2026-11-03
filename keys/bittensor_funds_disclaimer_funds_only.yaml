@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لا يلمس URnetwork أي أموال للمستخدمين ولا يتحمّل أي مسؤولية عنها."
   cs: "URnetwork se nedotýká žádných prostředků uživatelů a nenese za ně odpovědnost."

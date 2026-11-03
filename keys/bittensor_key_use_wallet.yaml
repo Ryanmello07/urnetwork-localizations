@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "استخدام محفظة لديّ بالفعل"
   cs: "Použít peněženku, kterou už mám"

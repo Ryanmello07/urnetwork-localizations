@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "تعذّر حفظ المفتاح على هذا الجهاز، لذا لم يُوقَّع أي شيء. حاول مرة أخرى، أو احفظ عبارة النسخ الاحتياطي أولًا."
   cs: "Klíč se na tomto zařízení nepodařilo uložit, takže nebylo nic podepsáno. Zkuste to znovu, nebo si nejdřív uložte obnovovací frázi."

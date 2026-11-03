@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "انسخ مفتاحك احتياطيًا"
   cs: "Zálohujte svůj klíč"

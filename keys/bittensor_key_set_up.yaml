@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "إعداد المدفوعات"
   cs: "Nastavit výplaty"

@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "تعذّر إنشاء مفتاح على هذا الجهاز. حاول مرة أخرى."
   cs: "Na tomto zařízení se nepodařilo vytvořit klíč. Zkuste to znovu."

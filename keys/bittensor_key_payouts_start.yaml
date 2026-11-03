@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "تبدأ المدفوعات في الفترة التالية"
   cs: "Výplaty začnou od příští epochy"

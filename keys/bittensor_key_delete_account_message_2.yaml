@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لم يتم نسخ مفتاح Bittensor الخاص بك احتياطيًا. حذف حسابك يحذفه أيضًا من هذا الجهاز، ولا يستطيع URnetwork استعادته."
   cs: "Váš klíč Bittensor není zálohovaný. Odstraněním účtu se odstraní i z tohoto zařízení a URnetwork ho nedokáže získat zpět."

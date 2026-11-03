@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "احفظ عبارة النسخ الاحتياطي أولًا"
   cs: "Nejdřív uložit obnovovací frázi"

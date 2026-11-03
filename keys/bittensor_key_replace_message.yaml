@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "يحلّ هذا المفتاح محل محفظة الدفع الخاصة بك بدءًا من الفترة التالية. تبقى الأرباح السابقة في المحفظة القديمة."
   cs: "Tento klíč od příští epochy nahradí vaši výplatní peněženku. Dřívější výdělky zůstanou na staré peněžence."

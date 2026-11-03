@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لم يعد المفتاح موجودًا في هذا التطبيق"
   cs: "Tato aplikace už klíč nemá"

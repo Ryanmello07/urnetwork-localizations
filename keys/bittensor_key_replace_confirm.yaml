@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "استبدال محفظة الدفع"
   cs: "Nahradit výplatní peněženku"

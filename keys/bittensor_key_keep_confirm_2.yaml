@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "إبقاؤه على هذا الجهاز"
   cs: "Ponechat ho na tomto zařízení"

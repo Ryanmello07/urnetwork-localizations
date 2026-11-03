@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "توقّف الإعداد قبل التوقيع، لذا لم يُدفع أي شيء إلى هذا المفتاح. يوقّع «إنهاء الإعداد» الموافقة باستخدام هذا المفتاح."
   cs: "Nastavení se zastavilo před podepsáním, takže na tento klíč nebylo nic vyplaceno. „Dokončit nastavení“ jím podepíše souhlas."

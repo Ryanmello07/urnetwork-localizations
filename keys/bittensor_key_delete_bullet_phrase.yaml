@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لا يمكن نقلها إلا بعبارة النسخ الاحتياطي."
   cs: "Přesunout je může jen obnovovací fráze."

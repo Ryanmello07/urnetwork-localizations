@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "أول SN25α لك قابل للمطالبة"
   cs: "Vaše první SN25α je k vyzvednutí"

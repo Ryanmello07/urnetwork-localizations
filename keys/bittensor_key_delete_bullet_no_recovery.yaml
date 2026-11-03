@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لا يستطيع URnetwork استعادة هذا المفتاح."
   cs: "URnetwork tento klíč nedokáže získat zpět."

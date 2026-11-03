@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "المفتاح على هذا الجهاز، وتم حفظ عبارة النسخ الاحتياطي"
   cs: "Klíč je na tomto zařízení, obnovovací fráze je uložená"

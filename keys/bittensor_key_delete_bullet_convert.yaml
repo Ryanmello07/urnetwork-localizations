@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "يتوقف التحويل إلى TAO عن العمل في هذا التطبيق."
   cs: "Převod na TAO v této aplikaci přestane fungovat."

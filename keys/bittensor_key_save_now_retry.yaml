@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لم يتم إعداد المدفوعات بعد. لم تصل أي أرباح إلى هذا المفتاح، وستؤدي المغادرة إلى التخلص منه."
   cs: "Výplaty ještě nejsou nastavené. Na tento klíč nepřišly žádné výdělky a odchodem ho zahodíte."

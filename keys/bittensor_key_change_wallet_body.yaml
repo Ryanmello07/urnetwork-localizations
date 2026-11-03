@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "اختر أين تُدفع أرباح هذه الشبكة بدءًا من الفترة التالية. تبقى الأرباح السابقة حيث دُفعت."
   cs: "Vyberte, kam se budou od příští epochy vyplácet výdělky této sítě. Dřívější výdělky zůstanou tam, kam byly vyplaceny."

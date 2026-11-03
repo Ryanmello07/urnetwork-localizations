@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "أي شخص لديه هذه العبارة يتحكم في SN25α الخاص بك. لن يطلبها منك URnetwork أبدًا، ولا يمكنه استعادتها. إذا فقدت هذا الجهاز قبل حفظها، فلن يمكن الوصول إلى SN25α الخاص بك."
   cs: "Kdokoli má tuto frázi, ovládá vaše SN25α. URnetwork o ni nikdy nepožádá a nedokáže ji obnovit. Pokud toto zařízení ztratíte dřív, než ji uložíte, k vašemu SN25α se nebude možné dostat."

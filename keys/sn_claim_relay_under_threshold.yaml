@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "أقل من حد المطالبة التلقائية."
   cs: "Pod prahem pro automatické vyzvednutí."

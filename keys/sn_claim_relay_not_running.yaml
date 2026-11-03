@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "المطالبات التلقائية لا تعمل حاليًا."
   cs: "Automatické vyzvedávání teď neprobíhá."

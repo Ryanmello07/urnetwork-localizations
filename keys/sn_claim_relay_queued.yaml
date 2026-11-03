@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "سيطالب URnetwork بهذا قريبًا."
   cs: "URnetwork brzy odešle nárok."

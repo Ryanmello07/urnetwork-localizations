@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "النسخ الاحتياطي أولًا"
   cs: "Nejdřív zálohovat"

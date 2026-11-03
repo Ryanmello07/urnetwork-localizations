@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "يبقى المفتاح على هذا الجهاز ويعود عندما تسجّل الدخول إلى هذه الشبكة مرة أخرى. إذا فقدت هذا الجهاز قبل حفظه، فلن يمكن الوصول إلى SN25α الخاص بك."
   cs: "Zůstane na tomto zařízení a vrátí se, až se k této síti znovu přihlásíte. Pokud toto zařízení ztratíte dřív, než ho uložíte, k vašemu SN25α se nebude možné dostat."

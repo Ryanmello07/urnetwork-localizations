@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "جارٍ حفظ المفتاح على هذا الجهاز وإعادة قراءته، ثم التوقيع."
   cs: "Ukládání klíče na tomto zařízení a jeho zpětné načtení, potom podepsání."

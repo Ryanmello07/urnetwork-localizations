@@ -2,6 +2,7 @@ description: "The reason in the system's device authentication prompt (Face ID, 
 source: "use your Bittensor recovery phrase"
 platforms:
   - apple
+  - windows
 localizations:
   ar: "استخدام عبارة النسخ الاحتياطي الخاصة بك لـ Bittensor"
   cs: "použít vaši obnovovací frázi Bittensor"

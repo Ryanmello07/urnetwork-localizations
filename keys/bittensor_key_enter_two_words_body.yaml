@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لتأكيد أنك حفظت عبارة النسخ الاحتياطي، أدخل هاتين الكلمتين منها."
   cs: "Abyste potvrdili, že jste si obnovovací frázi uložili, zadejte z ní tato dvě slova."

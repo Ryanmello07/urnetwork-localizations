@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "جارٍ إعداد المدفوعات: توقيع موافقة الدفع الخاصة بشبكتك باستخدام هذا المفتاح."
   cs: "Nastavování výplat: podepisování souhlasu s výplatami vaší sítě tímto klíčem."

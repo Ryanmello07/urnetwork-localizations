@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "URnetwork ليس محفظة. تنشئ نقرة واحدة مفتاح Bittensor على هذا الجهاز؛ احفظ عبارة النسخ الاحتياطي الخاصة به بعد ذلك."
   cs: "URnetwork není peněženka. Jedním klepnutím se na tomto zařízení vytvoří klíč Bittensor; potom zálohujte jeho obnovovací frázi."

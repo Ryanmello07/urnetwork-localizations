@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "هل تريد حذف المفتاح من هذا الجهاز؟"
   cs: "Odstranit klíč z tohoto zařízení?"

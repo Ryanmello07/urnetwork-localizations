@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "هاتان الكلمتان غير متطابقتين. تحقق من عبارة النسخ الاحتياطي التي حفظتها."
   cs: "Tato slova nesouhlasí. Zkontrolujte svou uloženou obnovovací frázi."

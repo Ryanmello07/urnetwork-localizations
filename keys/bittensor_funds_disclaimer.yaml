@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "يُخزَّن هذا المفتاح محليًا في التخزين الآمن للتطبيق. لا تتم مشاركته مع URnetwork أبدًا. لا يلمس URnetwork أي أموال للمستخدمين ولا يتحمّل أي مسؤولية عنها."
   cs: "Tento klíč je uložen místně v zabezpečeném úložišti aplikace. Nikdy se nesdílí s URnetwork. URnetwork se nedotýká žádných prostředků uživatelů a nenese za ně odpovědnost."

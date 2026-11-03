@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "تُدفع أرباح كل جهاز في شبكتك إلى هذا العنوان."
   cs: "Na tuto adresu se vyplácí každé zařízení ve vaší síti."

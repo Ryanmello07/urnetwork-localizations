@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "هل تريد إعداد المدفوعات وحذف المفتاح؟"
   cs: "Nastavit výplaty a odstranit klíč?"

@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "URnetwork ليس محفظة. لقد أنشأ هذا المفتاح لتتمكن من استلام SN25α. لتحويل SN25α الخاص بك أو استخدامه، أدخل عبارة النسخ الاحتياطي هذه في محفظة Bittensor مثل Talisman أو Nova، أو في btcli."
   cs: "URnetwork není peněženka. Tento klíč vytvořil, abyste mohli přijímat SN25α. Chcete-li své SN25α převést nebo použít, zadejte tuto obnovovací frázi do peněženky Bittensor, například Talisman nebo Nova, nebo do btcli."

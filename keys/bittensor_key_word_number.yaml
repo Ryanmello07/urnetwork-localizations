@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 placeholders:
   - name: position
     type: int

@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "تعذّر حذف المفتاح من هذا الجهاز. لا يزال موجودًا هنا."
   cs: "Klíč se z tohoto zařízení nepodařilo odstranit. Stále je tady."

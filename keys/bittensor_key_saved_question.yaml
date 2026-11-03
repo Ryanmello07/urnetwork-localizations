@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "هل حفظت عبارة النسخ الاحتياطي؟"
   cs: "Uložili jste obnovovací frázi?"

@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "هذا المفتاح غير محفوظ على هذا الجهاز. دوّن الكلمات الـ 12، ثم اختر أدناه. إذا غادرت هذه الشاشة، فسيتم التخلص من المفتاح ولن يُدفع إليه أي شيء."
   cs: "Tento klíč není na tomto zařízení uložený. Zapište si těch 12 slov a pak vyberte níže. Pokud tuto obrazovku opustíte, klíč se zahodí a nic se na něj nevyplatí."

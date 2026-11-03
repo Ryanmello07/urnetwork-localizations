@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "تعذّر إعداد المدفوعات. حاول مرة أخرى."
   cs: "Výplaty se nepodařilo nastavit. Zkuste to znovu."

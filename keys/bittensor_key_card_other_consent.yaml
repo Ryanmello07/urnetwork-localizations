@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "المفتاح الموجود على هذا الجهاز لا يتلقى المدفوعات."
   cs: "Klíč na tomto zařízení nedostává výplaty."

@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "قد تتمكن تطبيقات أخرى من قراءة الحافظة. تبقى النسخة على هذا الجهاز وتُمسح بعد 60 ث."
   cs: "Jiné aplikace možná dokážou schránku přečíst. Kopie zůstává na tomto zařízení a po 60 s se vymaže."

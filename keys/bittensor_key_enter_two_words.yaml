@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "أدخل اثنتين من الكلمات"
   cs: "Zadejte dvě slova z fráze"

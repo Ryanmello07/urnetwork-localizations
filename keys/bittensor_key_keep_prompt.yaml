@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "للتأكيد، أدخل هاتين الكلمتين من العبارة."
   cs: "Pro potvrzení zadejte tato dvě slova z fráze."

@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "تستمر المطالبات في العمل. لنقل SN25α الخاص بك أو تحويله، أو لحجز مكان في أفضل 200، استخدم محفظة Bittensor تحتوي على عبارة النسخ الاحتياطي الخاصة بك."
   cs: "Vyzvedávání funguje dál. Chcete-li své SN25α převést nebo konvertovat, nebo si zajistit místo v Top 200, použijte peněženku Bittensor s vaší obnovovací frází."

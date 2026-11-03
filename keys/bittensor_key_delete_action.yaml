@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لقد حفظت المفتاح، ويمكن حذفه الآن."
   cs: "Klíč mám uložený, teď ho lze odstranit."

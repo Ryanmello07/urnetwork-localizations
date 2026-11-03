@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لقد حفظت عبارة النسخ الاحتياطي. يُخزَّن المفتاح على هذا الجهاز من أجل التحويل إلى TAO وحجز مكان في أفضل 200 بنقرة واحدة، ثم يتم إعداد المدفوعات."
   cs: "Obnovovací frázi jste si uložili. Klíč se uloží na tomto zařízení pro převod na TAO a pro zajištění místa v Top 200 jedním klepnutím a potom se nastaví výplaty."

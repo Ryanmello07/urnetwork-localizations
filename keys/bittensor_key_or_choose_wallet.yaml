@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "أو اختر محفظة Bittensor"
   cs: "Nebo vyberte svou peněženku Bittensor"

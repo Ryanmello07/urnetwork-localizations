@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "تنتظر «المطالبة الآن» حتى تعود المطالبات إلى العمل. للمطالبة فورًا، ادفع رسوم الغاز بنفسك:"
   cs: "„Vyzvednout hned“ počká, dokud vyzvedávání znovu nepoběží. Pokud chcete vyzvednout ihned, zaplaťte gas sami:"

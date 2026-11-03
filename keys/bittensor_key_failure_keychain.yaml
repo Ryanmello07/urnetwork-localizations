@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "تعذّرت قراءة التخزين الآمن على هذا الجهاز. افتح قفل جهازك وحاول مرة أخرى."
   cs: "Zabezpečené úložiště tohoto zařízení se nepodařilo přečíst. Odemkněte zařízení a zkuste to znovu."

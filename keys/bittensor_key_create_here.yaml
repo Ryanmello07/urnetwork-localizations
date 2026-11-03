@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "إنشاء مفتاح على هذا الجهاز"
   cs: "Vytvořit klíč na tomto zařízení"

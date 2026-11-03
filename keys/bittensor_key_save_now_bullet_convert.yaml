@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "يحتاج التحويل إلى TAO إلى هذا المفتاح، لذا لن يكون متاحًا في هذا التطبيق."
   cs: "Převod na TAO potřebuje tento klíč, takže v této aplikaci nebude k dispozici."

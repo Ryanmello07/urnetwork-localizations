@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "عبارة النسخ الاحتياطي لـ Bittensor"
   cs: "Obnovovací fráze Bittensor"

@@ -4,6 +4,7 @@ platforms:
   - linux
   - apple
   - android
+  - windows
 localizations:
   ar: "لقد حفظته. أبقِه على هذا الجهاز."
   cs: "Mám ho uložený. Ponechat ho na tomto zařízení."
