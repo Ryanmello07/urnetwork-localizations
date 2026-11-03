@@ -71,3 +71,24 @@ test("every sentence that names Claim now names the button as it reads", () => {
 		}
 	}
 });
+
+// The claimed state (mock 4d): who claimed, what it paid and where it is, as the mock words it, with the
+// transaction, the date Claim now works again and Done from keys the claim screens already have. Every
+// app that draws it reads these; Windows and Linux tag them when their code looks them up.
+test("the claimed state names who claimed, what it paid and where, in every locale", () => {
+	const claimed = keys.get("sn_claim_relay_claimed");
+	assert.ok(claimed, "sn_claim_relay_claimed is in the store");
+	assert.equal(claimed.source, "Claimed by URnetwork. %@ SN25α is on your key, %@.");
+	assert.equal(claimed.localizations.en, "Claimed by URnetwork. {amount} SN25α is on your key, {address}.");
+	assert.deepEqual(claimed.placeholders.map((p) => [p.name, p.type]), [["amount", "string"], ["address", "string"]]);
+	for (const platform of ["apple", "android"]) assert.ok(claimed.platforms.includes(platform), `not tagged ${platform}`);
+	for (const locale of LOCALES) {
+		const text = claimed.localizations[locale];
+		for (const part of ["{amount}", "{address}", "URnetwork", "SN25α"]) assert.ok(text.includes(part), `sn_claim_relay_claimed[${locale}] lost ${part}: ${text}`);
+	}
+	for (const id of ["claim_confirmed", "transaction", "done", "sn_claim_relay_again_on"]) {
+		const k = keys.get(id);
+		assert.ok(k && k.platforms.includes("apple") && k.platforms.includes("android"), `${id} is not on Apple and Android`);
+		assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort(), id);
+	}
+});
