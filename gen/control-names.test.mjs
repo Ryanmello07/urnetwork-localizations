@@ -109,3 +109,46 @@ test("on apple and android the disconnect-first line also names the kill switch 
 	}
 	assert.deepEqual(wrong, []);
 });
+
+// The Mac App Store build disconnects for a purchase, since its store client goes
+// through the tunnel. A kill switch that is on keeps the tunnel up after that
+// disconnect and the sdk drops what it captures with no connection, so the store
+// still can't be reached, and the disconnect notice's "won't go through the VPN"
+// is wrong: the traffic is blocked. With the kill switch on, the purchase shows
+// this alert instead, which tells the reader to turn the kill switch off, naming
+// it by its setting's label (its case folded, as above), and buys nothing.
+const PURCHASE_KILL_SWITCH = ["purchase_kill_switch_notice_title", "purchase_kill_switch_notice_message"];
+
+test("the Mac App Store's purchase alert names the kill switch in every locale", () => {
+	const wrong = [];
+	for (const id of PURCHASE_KILL_SWITCH) {
+		const k = keys.get(id);
+		if (!k) {
+			wrong.push(`${id} is not in the store`);
+			continue;
+		}
+		for (const [loc, label] of Object.entries(keys.get("kill_switch").localizations)) {
+			const text = k.localizations[loc];
+			if (text == null) wrong.push(`${id}[${loc}]: missing`);
+			else if (!text.toLowerCase().includes(label.toLowerCase()))
+				wrong.push(`${id}[${loc}]: does not name ${JSON.stringify(label)}: ${text}`);
+		}
+	}
+	assert.deepEqual(wrong, []);
+});
+
+// what the alert explains: the App Store purchase needs the VPN disconnected, by
+// their own names in every language
+test("the purchase alert's kill switch message names the App Store and the VPN in every locale", () => {
+	const k = keys.get("purchase_kill_switch_notice_message");
+	assert.ok(k, "purchase_kill_switch_notice_message is not in the store");
+	const wrong = [];
+	for (const [loc, text] of Object.entries(k.localizations))
+		for (const name of ["App Store", "VPN"]) if (!text.includes(name)) wrong.push(`[${loc}]: does not name ${name}: ${text}`);
+	assert.deepEqual(wrong, []);
+});
+
+test("the purchase alerts are the Mac App Store's alone", () => {
+	for (const id of [...PURCHASE_KILL_SWITCH, "purchase_disconnect_notice_title", "purchase_disconnect_notice_message"])
+		assert.deepEqual(keys.get(id)?.platforms, ["apple"], id);
+});
