@@ -1,4 +1,4 @@
-description: "macOS alert title, shown when the user starts a purchase while a VPN connection is requested, before the app disconnects the VPN for the purchase. The alert's buttons are Disconnect and Cancel."
+description: "Mac App Store build's alert title, shown when the user starts a purchase while a VPN connection is requested and the kill switch is off, before the app disconnects the VPN for the purchase. The alert's buttons are Disconnect and Cancel. With the kill switch on, purchase_kill_switch_notice_title shows instead."
 source: "Disconnect the VPN for this purchase?"
 platforms:
   - apple
